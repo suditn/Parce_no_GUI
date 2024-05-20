@@ -1,7 +1,11 @@
 import os
+from pathlib import Path
 from openpyxl import load_workbook
 from openpyxl.styles import Alignment, NamedStyle, Font
 from openpyxl.utils import get_column_letter
+# ["tvs-protection.xlsx", "esd-protection.xlsx", "inductors.xlsx"]
+sl_use = ["esd-protection.xlsx"]
+save_path = str(Path(__file__).parent.resolve())
 
 def set_column_width(ws):
     for column in ws.columns:
@@ -16,11 +20,26 @@ def set_column_width(ws):
         adjusted_width = (max_length + 2) * 1.2
         ws.column_dimensions[column_letter].width = adjusted_width
 
+def is_number(value):
+    try:
+        float(value)
+        return True
+    except ValueError:
+        return False
+
+def convert_to_number(value):
+    try:
+        return float(value)
+    except ValueError:
+        return value
+
 def update_excel_with_file_paths(folder_path, excel_file, excel_sheet):
     # Загружаем существующий файл Excel
     wb = load_workbook(excel_file)
     ws = wb[excel_sheet]
 
+    # Определяем последний столбец
+    last_column = ws.max_column
 
     # Создаем словарь для хранения путей к файлам по сериям
     series_paths = {}
@@ -45,7 +64,7 @@ def update_excel_with_file_paths(folder_path, excel_file, excel_sheet):
     for row in ws.iter_rows(min_row=2, max_col=1, max_row=ws.max_row):
         series_name = row[0].value  # Получаем название серии
         if series_name in series_paths:
-            cell = ws.cell(row=row[0].row, column=13)  # Столбец "Путь к файлу"
+            cell = ws.cell(row=row[0].row, column=last_column + 1)  # Столбец "Путь к файлу"
             # Объединяем пути к файлам в одну строку и записываем в ячейку
             cell.value = "\n".join(series_paths[series_name])
 
@@ -66,9 +85,16 @@ def update_excel_with_file_paths(folder_path, excel_file, excel_sheet):
 
         # Объединяем ячейки в столбце "Путь к файлу" для текущей серии
         if start_row is not None and end_row is not None:
-            ws.cell(1, 13).value = "The path to the file"
-            ws.merge_cells(start_row=start_row, start_column=13, end_row=end_row, end_column=13)
-            ws.merge_cells(start_row=start_row, start_column=12, end_row=end_row, end_column=12)
+            ws.cell(1, last_column + 1).value = "The path to the file"
+            ws.merge_cells(start_row=start_row, start_column=last_column + 1, end_row=end_row, end_column=last_column + 1)
+
+    # Преобразование значений ячеек
+    for row in ws.iter_rows(min_row=2, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
+        for cell in row:
+            if cell.value is not None:
+                if isinstance(cell.value, str) and is_number(cell.value):
+                    # Преобразуем строку в число
+                    cell.value = convert_to_number(cell.value)
 
     # Создаем объект шрифта с помощью свойств из первой ячейки столбца "Series"
     first_cell_font = Font(
@@ -106,4 +132,6 @@ def update_excel_with_file_paths(folder_path, excel_file, excel_sheet):
     wb.save(excel_file)
 
 # Пример использования функции
-update_excel_with_file_paths("C:\\Users\\stud\\Desktop\\Parceprob2-master\\", "inductors.xlsx", "Inductors")
+for sl in sl_use:
+    print(sl.split('.')[-2])
+    update_excel_with_file_paths(save_path, sl, sl.split('.')[-2])

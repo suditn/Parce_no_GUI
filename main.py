@@ -22,32 +22,38 @@ pattern = re.compile(r'\w+')
 options = Options()
 options.headless = True
 driver = webdriver.Edge(options=options)
-url = 'https://www.vishay.com/en/inductors/'
+url = 'https://www.vishay.com/en'
 save_path = str(Path(__file__).parent.resolve())
-img_small_save_path = os.path.join(save_path, "image", "small_inductors")
+print(save_path)
+img_small_save_path = os.path.join(save_path, "image")
+print(img_small_save_path)
 datasheet_save_path = os.path.join(save_path, "Datasheet")
 headers = {'User-Agent': "scrapping_script/1.0"}
+# "/diodes/tvs-protection/", "/diodes/esd-protection/",
+sl_use = [ "/diodes/emi-filter/", "/diodes/zener-stabilizers/", "/diodes/switching/" , "/diodes/ss-schottky/","/diodes/standard-recovery/", "/diodes/ultrafast-recovery/","/diodes/silicon-carbide/" "/diodes/schottky/", "/diodes/bridge/", "/diodes/med-high-diodes/"]
+ #                                                                       "/inductors/" ]
 
 # Создание папок
-def create_directories():
-    Path(img_small_save_path).mkdir(parents=True, exist_ok=True)
-    Path(datasheet_save_path).mkdir(parents=True, exist_ok=True)
+def create_directories(sl):
+    Path(img_small_save_path, sl).mkdir(parents=True, exist_ok=True)
+    Path(datasheet_save_path, sl).mkdir(parents=True, exist_ok=True)
 
 # Выгрузка полной таблицы на страницу
-def get_web(u):
+def get_web(u, sl):
     driver.get(u)
+    print (u)
     logging.info(f'Открыта страница: {u}')
-    create_directories()
+    create_directories(sl)
     wait = WebDriverWait(driver, 10)
     option = driver.find_element('xpath', '//label/select/option[1]')
     option_max = driver.find_element('xpath', '//label/select/option[3]')
     try:
         max_entries = driver.find_element('xpath', '/html/body/div[1]/div/div[2]/div[2]/div[2]/div/div/div/div/div[3]/div[1]/div').text
+        driver.execute_script('arguments[0].value = arguments[1]', option, pattern.findall(max_entries)[5])
+        option.click()
     except UnboundLocalError:
         option_max.click()
     finally:
-        driver.execute_script('arguments[0].value = arguments[1]', option, pattern.findall(max_entries)[5])
-        option.click()
         return driver.page_source
 
 # Функция для скачивания файлов с повторными попытками
@@ -107,7 +113,7 @@ def download_3d_model_with_retry(img_alt, file_3d_path):
                     file_3d_cont.append(a['href'])
 
                 for b in file_3d_cont:
-                    if b.endswith('_3dmodel.zip'):
+                    if b.endswith('.zip') or b.endswith('.txt'):
                         return download_file_with_retry('https://www.vishay.com/' + b, file_3d_path, headers)
             return False  # Не удалось найти 3D модель
     except requests.exceptions.RequestException as e:
@@ -116,14 +122,14 @@ def download_3d_model_with_retry(img_alt, file_3d_path):
     return False  # Не удалось получить 3D модель
 
 # Функция для обработки HTML и запуска параллельной загрузки.
-def process_html(html_source):
+def process_html(html_source, sl):
     soup = BeautifulSoup(html_source, "lxml")
     table = soup.find('table', {'id': 'poc'})
     images = table.findAll('img')
     columns = [i.get_text(strip=True) for i in table.find_all("th")]
     data = [[td.get_text(strip=True) for td in tr.find_all("td")] for tr in table.find("tbody").find_all("tr")]
-
-    df = pd.DataFrame(data, columns=["Series", "Product Image", "Type", "SMD Size Class", "Height", "Inductance", "DC", "Saturation Current", "Impedance", "DCR MAX.", "Operating temperature"])
+    df = pd.DataFrame(data, columns=columns)
+    print(columns)
     img_src = []
     datasheet_src = []
     file_3d_src = []
@@ -134,18 +140,26 @@ def process_html(html_source):
     imgpr = ''
 
     for img in images:
-        series = df['Series'][i]
+        try:
+            series = df['Series▲▼'][i]
+        except KeyError:
+            try:
+                series = df['Part Number▲▼'][i]
+            except KeyError:
+                series = df['Part Number▲▼(all)VEMI45AA-HNHVEMI45AB-HNHVEMI45AC-HNHVEMI65AA-HCIVEMI65AB-HCIVEMI65AC-HCIVEMI85AA-HGKVEMI85AB-HGKVEMI85AC-HGK'][i]
         if img['src'].split('/')[-2] == 'pt-small':
             img_filename = img['alt'] + '.png'
-            img_src.append("image\\small_inductors\\"+img_filename)
+            img_src.append("image"+sl+img_filename)
+            img_path = os.path.join(img_small_save_path+sl, img_filename)
+
             if previous_img_src != img['src'] and img['alt'] != "Datasheet":
                 download_image_with_retry('https://www.vishay.com/' + img['src'], img_path, headers)
                 previous_img_src = img['src']
 
             datasheet_filename = series + '.pdf'
             file_3d_name = series+'.zip'
-            datasheet_path = os.path.join(datasheet_save_path, series, datasheet_filename)
-            file_3d_path = os.path.join(datasheet_save_path,series,file_3d_name)
+            datasheet_path = os.path.join(datasheet_save_path + sl, series, datasheet_filename)
+            file_3d_path = os.path.join(datasheet_save_path + sl, series, file_3d_name)
 #            datasheet_src.append(datasheet_path)
 
             if previous_datasheet_src != series and img['alt'] != "Datasheet":
@@ -167,21 +181,23 @@ def process_html(html_source):
 # Функция для сохранения данных в Excel.
 def save_to_excel(df, img_src, save_path, url):
     excel_path = os.path.join(save_path, url.split('/')[-2] + '.xlsx')
+    print(excel_path)
     with pd.ExcelWriter(excel_path, engine='xlsxwriter') as writer:
         df_img = pd.DataFrame(img_src, columns=['Image path'])
 #        df_datasheet = pd.DataFrame(datasheet_src, columns=['Datasheet'])
 #        df_file_3d = pd.DataFrame(file_3d_src, columns=['3D Models'])
         df_final = df.join(df_img, rsuffix='_datasheet')
-        df_final.to_excel(writer, index=False, sheet_name='Inductors')
-        worksheet = writer.sheets['Inductors']
+        df_final.to_excel(writer, index=False, sheet_name=url.split('/')[-2])
+        worksheet = writer.sheets[url.split('/')[-2]]
         worksheet.autofit()
 
 # Остальной код остается неизменным
 
 try:
-    web_source = get_web(url)
-    df, img_src = process_html(web_source)
-    save_to_excel(df, img_src, save_path, url)
-    logging.info('Данные успешно сохранены.')
+    for sl in sl_use:
+        web_source = get_web(url+sl, sl)
+        df, img_src = process_html(web_source, sl)
+        save_to_excel(df, img_src, save_path, url+sl)
+        logging.info('Данные успешно сохранены.')
 finally:
-    driver.quit()
+    print("Всё")
