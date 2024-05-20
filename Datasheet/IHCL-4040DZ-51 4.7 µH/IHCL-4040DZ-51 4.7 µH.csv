@@ -1,0 +1,65 @@
+File Name,Description,PART NUMBER,,"L
+0
+INDUCTANCE
+± 20 % AT
+100 kHz,
+0.25 V, 0 A
+(μH)","DCR
+NOM.
+25 °C
+(m)","DCR
+MAX.
+25 °C
+(m)","HEAT
+RATING
+CURRENT
+DC TYP.
+(A) (1)","SATURATION
+CURRENT
+DC TYP.
+(A) (2)"
+IHCL-4040DZ-51 4.7 µH,"www.vishay.com Vishay Dale
+Low Profile, High Current Coupled Inductor
+FEATURES
+• High temperature, up to 155 °C
+• Shielded construction",IHCL4040DZER4R7M51 4.7 µH,"L
+1-2",4.7,30.5,33.0,6.1,7.2
+IHCL-4040DZ-51 4.7 µH,"www.vishay.com Vishay Dale
+Low Profile, High Current Coupled Inductor
+FEATURES
+• High temperature, up to 155 °C
+• Shielded construction",IHCL4040DZER4R7M51 4.7 µH,"L
+3-4",4.7,30.5,33.0,6.1,9.2
+IHCL-4040DZ-51 4.7 µH,"www.vishay.com Vishay Dale
+Low Profile, High Current Coupled Inductor
+FEATURES
+• High temperature, up to 155 °C
+• Shielded construction",IHCL4040DZER190M51 4.7 µH,"L
+1-4
+(L shorted)
+2-3",19.0,61.0,65.0,4.0,3.0
+IHCL-4040DZ-51 4.7 µH,"www.vishay.com Vishay Dale
+Low Profile, High Current Coupled Inductor
+FEATURES
+• High temperature, up to 155 °C
+• Shielded construction",IHCL4040DZERR6M51 4.7 µH,"L
+1-3
+(L shorted)
+2-4",0.6,61.0,65.0,4.0,See note (3)
+IHCL-4040DZ-51 4.7 µH,"www.vishay.com Vishay Dale
+Low Profile, High Current Coupled Inductor
+FEATURES
+• High temperature, up to 155 °C
+• Shielded construction",IHCL4040DZER4R7M51 4.7 µH,"L
+Common Mode
+(1-3 and
+2-4 shorted)",4.7,15.25,16.2,10.0,8.0
+IHCL-4040DZ-51 4.7 µH,"www.vishay.com Vishay Dale
+Low Profile, High Current Coupled Inductor
+FEATURES
+• High temperature, up to 155 °C
+• Shielded construction",IHCL4040DZERR0M51 4.7 µH,"L
+Differential
+Mode
+(1-4 and
+2-3 shorted)",0.0,15.25,16.2,10.0,See note (3)
