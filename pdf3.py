@@ -36,23 +36,8 @@ def there_is_pdf(folder_path, excel_file, excel_sheet):
                 if relative_path not in series_paths[series_name]:
                     series_paths[series_name].append(relative_path)
 
-# Функция для установки ширины столбцов
-def set_column_width(ws):
-    for column in ws.columns:
-        max_length = 0
-        column_letter = get_column_letter(column[0].column)
-        for cell in column:
-            try:
-                if len(str(cell.value)) > max_length:
-                    max_length = len(cell.value)
-            except:
-                pass
-        adjusted_width = (max_length + 2) * 1.2
-        ws.column_dimensions[column_letter].width = adjusted_width
-
-# Функция для создания PART NUMBER
+# Функция для создания и записи DataFrame в Excel
 def create_part_number(file_name, impedance, tolerance):
-    # Разделяем file_name на части
     parts = file_name.split('-')
     if len(parts) < 2:
         return None
@@ -61,13 +46,23 @@ def create_part_number(file_name, impedance, tolerance):
     size = parts[1]
 
     # Формируем IMPEDANCE из значения
-    if impedance:
-        impedance_str = str(impedance).replace('.', ',')
-        if ',' in impedance_str:
-            first_part, second_part = impedance_str.split(',')
-            impedance_value = f"{first_part}R{second_part}"
-        else:
-            impedance_value = impedance_str.ljust(3, '0')[:3]
+    if impedance is not None:
+        try:
+            impedance_float = float(str(impedance).replace(',', '.'))
+            if impedance_float < 1:
+                impedance_value = str(impedance_float).replace('0.', 'R')
+            elif impedance_float < 10:
+                impedance_value = str(impedance_float).replace('.', 'R')
+            else:
+                impedance_value = str(int(impedance_float))
+                if len(impedance_value) == 2:
+                    impedance_value += '0'
+                elif len(impedance_value) == 3:
+                    impedance_value = impedance_value[:-1] + '1'
+                elif len(impedance_value) == 4:
+                    impedance_value = impedance_value[:-2] + '2'
+        except ValueError:
+            impedance_value = "000"
     else:
         impedance_value = "000"
 
@@ -79,8 +74,13 @@ def create_part_number(file_name, impedance, tolerance):
     else:
         tol = ""
 
-    # Составляем PART NUMBER
+    # Составляем базовый PART NUMBER
     part_number = f"{product_family}{size}ER{impedance_value}{tol}"
+
+    # Добавляем часть после третьего тире, если она существует
+    if len(parts) > 2:
+        part_number += parts[2]
+
     return part_number
 
 # Функция для установки ширины столбцов
@@ -110,28 +110,25 @@ def create_excel_with_file_description(save_path, pdf_path):
         for page in pdf.pages:
             tables = page.extract_tables()
             for table in tables:
-                # Проверяем, начинается ли таблица с нужной строки
                 if table and len(table) > 1 and table[0][0] == "STANDARD ELECTRICAL SPECIFICATIONS":
-                    # Если названия столбцов еще не определены, берем их из таблицы
                     if not column_names:
-                        column_names = table[1]  # Предполагаем, что названия столбцов во второй строке
-                    table_data.extend(table[2:])  # Добавляем остальные строки таблицы в данные
+                        column_names = table[1]
+                    table_data.extend(table[2:])
 
-    if not column_names:  # Если не удалось определить заголовки столбцов
+    if not column_names:
         max_columns = max(len(row) for row in table_data)
         column_names = [f"Column {i+1}" for i in range(max_columns)]
 
     # Преобразование данных таблицы в числовые значения с заменой точки на запятую
     for row_index, row in enumerate(table_data):
         for col_index, value in enumerate(row):
-            try:
-                # Преобразуем значение в float и заменяем точку на запятую
-                if isinstance(value, str):
-                    value = value.replace('.', ',')
-                table_data[row_index][col_index] = float(value.replace(',', '.'))
-            except (ValueError, TypeError):
-                # Если преобразование невозможно, оставляем значение как есть или задаем значение по умолчанию
-                table_data[row_index][col_index] = value
+            if value is not None:
+                try:
+                    if isinstance(value, str):
+                        value = value.replace('.', ',')
+                    table_data[row_index][col_index] = float(value.replace(',', '.'))
+                except (ValueError, TypeError):
+                    table_data[row_index][col_index] = value
 
     # Открытие PDF-файла и извлечение текста
     with pdfplumber.open(pdf_path) as pdf:
@@ -139,21 +136,18 @@ def create_excel_with_file_description(save_path, pdf_path):
         for page in pdf.pages:
             full_text += page.extract_text()
 
-    # Разделение текста на строки и фильтрация пустых строк
     lines = [line for line in full_text.splitlines() if line.strip()]
 
     # Создание DataFrame из таблиц и добавление столбцов
     df = pd.DataFrame(table_data, columns=column_names)
 
-    # Добавление столбцов с описанием и названием файла
     df["File Name"] = file_name
-    # Оставляем только первые 5 непустых строк для описания
     df["Description"] = "\n".join(lines[1:6]) if len(lines) > 1 else ""
 
     # Поиск столбца с "IMPEDAN" или "INDUCTAN" в названии
     impedance_column = None
     for col in df.columns:
-        if "IMPEDAN" in col.upper() or "INDUCTAN" in col.upper():
+        if col and ("IMPEDAN" in col.upper() or "INDUCTAN" in col.upper()):
             impedance_column = col
             break
 
@@ -162,26 +156,30 @@ def create_excel_with_file_description(save_path, pdf_path):
         df["PART NUMBER"] = df.apply(lambda row: create_part_number(
             file_name,
             row[impedance_column],
-            20  # Устанавливаем TOLERANCE по умолчанию, можно изменить по необходимости
+            20  # Замените это значение на актуальное значение tolerance, если оно имеется в таблице
         ), axis=1)
 
     # Перемещение столбцов "File Name", "Description" и "PART NUMBER" в начало DataFrame
-    columns = ["File Name", "Description", "PART NUMBER"] + [col for col in df.columns if col not in ["File Name", "Description", "PART NUMBER"]]
+    columns = ["File Name", "Description"]
+    if "PART NUMBER" in df.columns:
+        columns.append("PART NUMBER")
+    columns += [col for col in df.columns if col not in columns]
+
     df = df[columns]
 
     # Запись DataFrame в Excel
-    output_excel_path = os.path.join(save_path, f"{file_name}.xlsx")
+    output_excel_path = os.path.join(save_path,"Datasheet",file_name, f"{file_name}.xlsx")
+    output_csv_path = os.path.join(save_path,"Datasheet",file_name, f"{file_name}.csv")
     df.to_excel(output_excel_path, index=False)
+    df.to_csv(output_csv_path, index=False)
 
     return output_excel_path
 
 # Функция для обновления и форматирования файла Excel
 def update_excel_with_file_paths(excel_file, excel_sheet):
-    # Загружаем существующий файл Excel
     wb = load_workbook(excel_file)
     ws = wb[excel_sheet]
 
-    # Создаем именованный стиль для объединенных ячеек
     first_cell_font = Font(
         name=ws.cell(row=2, column=1).font.name,
         size=ws.cell(row=2, column=1).font.sz,
@@ -198,11 +196,9 @@ def update_excel_with_file_paths(excel_file, excel_sheet):
         merged_cell_style.alignment = Alignment(wrapText=True, vertical='top', horizontal='left', shrinkToFit=True)
         wb.add_named_style(merged_cell_style)
 
-    # Получение списка всех уникальных значений "File Name"
     file_names = ws['A']
     unique_file_names = list(set([cell.value for cell in file_names if cell.value is not None]))
 
-    # Объединяем ячейки для "File Name" и "Description"
     for file_name in unique_file_names:
         start_row = None
         end_row = None
@@ -220,14 +216,9 @@ def update_excel_with_file_paths(excel_file, excel_sheet):
             first_file_name_cell.style = merged_cell_style_name
             first_description_cell.style = merged_cell_style_name
 
-    # Устанавливаем ширину столбцов
     set_column_width(ws)
 
-    # Сохраняем изменения в файл Excel
     wb.save(excel_file)
-
-
-
 
 # Основная часть кода
 if __name__ == "__main__":
