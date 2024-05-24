@@ -1,0 +1,1318 @@
+{
+    "ICM-0805.csv": {
+        "pdf": "/Datasheet/ICM-0805/ICM-0805.pdf",
+        "img": "/image/small_inductors/34159.png"
+    },
+    "ICM-1206.csv": {
+        "pdf": "/Datasheet/ICM-1206/ICM-1206.pdf",
+        "img": "/image/small_inductors/34158.png"
+    },
+    "IDC-2512.csv": {
+        "pdf": "/Datasheet/IDC-2512/IDC-2512.pdf",
+        "img": "/image/small_inductors/34006.png"
+    },
+    "IDC-5020.csv": {
+        "pdf": "/Datasheet/IDC-5020/IDC-5020.pdf",
+        "img": "/image/small_inductors/34007.png"
+    },
+    "IDC-7328.csv": {
+        "pdf": "/Datasheet/IDC-7328/IDC-7328.pdf",
+        "img": "/image/small_inductors/34008.png"
+    },
+    "IDCP-1813.csv": {
+        "pdf": "/Datasheet/IDCP-1813/IDCP-1813.pdf",
+        "img": "/image/small_inductors/34094.png"
+    },
+    "IDCP-2218.csv": {
+        "pdf": "/Datasheet/IDCP-2218/IDCP-2218.pdf",
+        "img": "/image/small_inductors/34096.png"
+    },
+    "IDCP-3020.csv": {
+        "pdf": "/Datasheet/IDCP-3020/IDCP-3020.pdf",
+        "img": "/image/small_inductors/34092.png"
+    },
+    "IDCP-3114.csv": {
+        "pdf": "/Datasheet/IDCP-3114/IDCP-3114.pdf",
+        "img": "/image/small_inductors/34091.png"
+    },
+    "IDCP-3722.csv": {
+        "pdf": "/Datasheet/IDCP-3722/IDCP-3722.pdf",
+        "img": "/image/small_inductors/34090.png"
+    },
+    "IDCP-3916.csv": {
+        "pdf": "/Datasheet/IDCP-3916/IDCP-3916.pdf",
+        "img": "/image/small_inductors/34131.png"
+    },
+    "IDCS-2512.csv": {
+        "pdf": "/Datasheet/IDCS-2512/IDCS-2512.pdf",
+        "img": "/image/small_inductors/34009.png"
+    },
+    "IDCS-7328.csv": {
+        "pdf": "/Datasheet/IDCS-7328/IDCS-7328.pdf",
+        "img": "/image/small_inductors/34011.png"
+    },
+    "IFCB-0402.csv": {
+        "pdf": "/Datasheet/IFCB-0402/IFCB-0402.pdf",
+        "img": "/image/small_inductors/34174.png"
+    },
+    "IFDC-5050HZ.csv": {
+        "pdf": "/Datasheet/IFDC-5050HZ/IFDC-5050HZ.pdf",
+        "img": "/image/small_inductors/34612.png"
+    },
+    "IFLN-1812CZ.csv": {
+        "pdf": "/Datasheet/IFLN-1812CZ/IFLN-1812CZ.pdf",
+        "img": "/image/small_inductors/34608.png"
+    },
+    "IFLR-2727EZ-01.csv": {
+        "pdf": "/Datasheet/IFLR-2727EZ-01/IFLR-2727EZ-01.pdf",
+        "img": "/image/small_inductors/34420.png"
+    },
+    "IFLR-4027EZ-01.csv": {
+        "pdf": "/Datasheet/IFLR-4027EZ-01/IFLR-4027EZ-01.pdf",
+        "img": "/image/small_inductors/34421.png"
+    },
+    "IFLR-4031GC-01.csv": {
+        "pdf": "/Datasheet/IFLR-4031GC-01/IFLR-4031GC-01.pdf",
+        "img": "/image/small_inductors/34422.png"
+    },
+    "IFLR-5151HZ-01.csv": {
+        "pdf": "/Datasheet/IFLR-5151HZ-01/IFLR-5151HZ-01.pdf",
+        "img": "/image/small_inductors/34423.png"
+    },
+    "IFSC-0806AZ-01.csv": {
+        "pdf": "/Datasheet/IFSC-0806AZ-01/IFSC-0806AZ-01.pdf",
+        "img": "/image/small_inductors/34291.png"
+    },
+    "IFSC-1008AB-01.csv": {
+        "pdf": "/Datasheet/IFSC-1008AB-01/IFSC-1008AB-01.pdf",
+        "img": "/image/small_inductors/34294.png"
+    },
+    "IFSC-1111AB-01.csv": {
+        "pdf": "/Datasheet/IFSC-1111AB-01/IFSC-1111AB-01.pdf",
+        "img": "/image/small_inductors/34292.png"
+    },
+    "IFSC-1111AZ-01.csv": {
+        "pdf": "/Datasheet/IFSC-1111AZ-01/IFSC-1111AZ-01.pdf",
+        "img": "/image/small_inductors/34293.png"
+    },
+    "IFSC-1515AH-01.csv": {
+        "pdf": "/Datasheet/IFSC-1515AH-01/IFSC-1515AH-01.pdf",
+        "img": "/image/small_inductors/34295.png"
+    },
+    "IFSC-2020DE-01.csv": {
+        "pdf": "/Datasheet/IFSC-2020DE-01/IFSC-2020DE-01.pdf",
+        "img": "/image/small_inductors/34083.png"
+    },
+    "IFSC-3232DB-01.csv": {
+        "pdf": "/Datasheet/IFSC-3232DB-01/IFSC-3232DB-01.pdf",
+        "img": "/image/small_inductors/34607.png"
+    },
+    "IH.csv": {
+        "pdf": "/Datasheet/IH/IH.pdf",
+        "img": "/image/small_inductors/34013.png"
+    },
+    "IHA.csv": {
+        "pdf": "/Datasheet/IHA/IHA.pdf",
+        "img": "/image/small_inductors/34014.png"
+    },
+    "IHB.csv": {
+        "pdf": "/Datasheet/IHB/IHB.pdf",
+        "img": "/image/small_inductors/34015.png"
+    },
+    "IHCL-4040DZ-51 10 \u00b5H.csv": {
+        "pdf": "/Datasheet/IHCL-4040DZ-51 10 \u00b5H/IHCL-4040DZ-51 10 \u00b5H.pdf",
+        "img": "/image/small_inductors/34416.png"
+    },
+    "IHCL-4040DZ-51 15 \u00b5H.csv": {
+        "pdf": "/Datasheet/IHCL-4040DZ-51 15 \u00b5H/IHCL-4040DZ-51 15 \u00b5H.pdf",
+        "img": "/image/small_inductors/34417.png"
+    },
+    "IHCL-4040DZ-51 2.2 \u00b5H.csv": {
+        "pdf": "/Datasheet/IHCL-4040DZ-51 2.2 \u00b5H/IHCL-4040DZ-51 2.2 \u00b5H.pdf",
+        "img": "/image/small_inductors/34414.png"
+    },
+    "IHCL-4040DZ-51 2.7 \u00b5H.csv": {
+        "pdf": "/Datasheet/IHCL-4040DZ-51 2.7 \u00b5H/IHCL-4040DZ-51 2.7 \u00b5H.pdf",
+        "img": "/image/small_inductors/34419.png"
+    },
+    "IHCL-4040DZ-51 22 \u00b5H.csv": {
+        "pdf": "/Datasheet/IHCL-4040DZ-51 22 \u00b5H/IHCL-4040DZ-51 22 \u00b5H.pdf",
+        "img": "/image/small_inductors/34418.png"
+    },
+    "IHCL-4040DZ-51 4.7 \u00b5H.csv": {
+        "pdf": "/Datasheet/IHCL-4040DZ-51 4.7 \u00b5H/IHCL-4040DZ-51 4.7 \u00b5H.pdf",
+        "img": "/image/small_inductors/34415.png"
+    },
+    "IHCL-4040DZ-5A 10 \u00b5H.csv": {
+        "pdf": "/Datasheet/IHCL-4040DZ-5A 10 \u00b5H/IHCL-4040DZ-5A 10 \u00b5H.pdf",
+        "img": "/image/small_inductors/34357.png"
+    },
+    "IHCL-4040DZ-5A 15 \u00b5H.csv": {
+        "pdf": "/Datasheet/IHCL-4040DZ-5A 15 \u00b5H/IHCL-4040DZ-5A 15 \u00b5H.pdf",
+        "img": "/image/small_inductors/34358.png"
+    },
+    "IHCL-4040DZ-5A 2.2 \u00b5H.csv": {
+        "pdf": "/Datasheet/IHCL-4040DZ-5A 2.2 \u00b5H/IHCL-4040DZ-5A 2.2 \u00b5H.pdf",
+        "img": "/image/small_inductors/34355.png"
+    },
+    "IHCL-4040DZ-5A 2.7 \u00b5H.csv": {
+        "pdf": "/Datasheet/IHCL-4040DZ-5A 2.7 \u00b5H/IHCL-4040DZ-5A 2.7 \u00b5H.pdf",
+        "img": "/image/small_inductors/34334.png"
+    },
+    "IHCL-4040DZ-5A 22 \u00b5H.csv": {
+        "pdf": "/Datasheet/IHCL-4040DZ-5A 22 \u00b5H/IHCL-4040DZ-5A 22 \u00b5H.pdf",
+        "img": "/image/small_inductors/34359.png"
+    },
+    "IHCL-4040DZ-5A 4.7 \u00b5H.csv": {
+        "pdf": "/Datasheet/IHCL-4040DZ-5A 4.7 \u00b5H/IHCL-4040DZ-5A 4.7 \u00b5H.pdf",
+        "img": "/image/small_inductors/34356.png"
+    },
+    "IHCM-2321AA-10.csv": {
+        "pdf": "/Datasheet/IHCM-2321AA-10/IHCM-2321AA-10.pdf",
+        "img": "/image/small_inductors/34560.png"
+    },
+    "IHD.csv": {
+        "pdf": "/Datasheet/IHD/IHD.pdf",
+        "img": "/image/small_inductors/34016.png"
+    },
+    "IHD-2.csv": {
+        "pdf": "/Datasheet/IHD-2/IHD-2.pdf",
+        "img": "/image/small_inductors/34181.png"
+    },
+    "IHD-4.csv": {
+        "pdf": "/Datasheet/IHD-4/IHD-4.pdf",
+        "img": "/image/small_inductors/34182.png"
+    },
+    "IHDF-1300AE-10.csv": {
+        "pdf": "/Datasheet/IHDF-1300AE-10/IHDF-1300AE-10.pdf",
+        "img": "/image/small_inductors/34538.png"
+    },
+    "IHDF-1300AE-1A.csv": {
+        "pdf": "/Datasheet/IHDF-1300AE-1A/IHDF-1300AE-1A.pdf",
+        "img": "/image/small_inductors/34557.png"
+    },
+    "IHDM-1008BC-3A.csv": {
+        "pdf": "/Datasheet/IHDM-1008BC-3A/IHDM-1008BC-3A.pdf",
+        "img": "/image/small_inductors/34501.png"
+    },
+    "IHDM-1008BC-x0.csv": {
+        "pdf": "/Datasheet/IHDM-1008BC-x0/IHDM-1008BC-x0.pdf",
+        "img": "/image/small_inductors/34522.png"
+    },
+    "IHDM-1107BB-x0.csv": {
+        "pdf": "/Datasheet/IHDM-1107BB-x0/IHDM-1107BB-x0.pdf",
+        "img": "/image/small_inductors/34574.png"
+    },
+    "IHHP-0603ZH-01.csv": {
+        "pdf": "/Datasheet/IHHP-0603ZH-01/IHHP-0603ZH-01.pdf",
+        "img": "/image/small_inductors/34589.png"
+    },
+    "IHHP-0805ZH-01.csv": {
+        "pdf": "/Datasheet/IHHP-0805ZH-01/IHHP-0805ZH-01.pdf",
+        "img": "/image/small_inductors/34590.png"
+    },
+    "IHHP-0806AB-01.csv": {
+        "pdf": "/Datasheet/IHHP-0806AB-01/IHHP-0806AB-01.pdf",
+        "img": "/image/small_inductors/34389.png"
+    },
+    "IHHP-0806AZ-01.csv": {
+        "pdf": "/Datasheet/IHHP-0806AZ-01/IHHP-0806AZ-01.pdf",
+        "img": "/image/small_inductors/34382.png"
+    },
+    "IHHP-0806ZH-01.csv": {
+        "pdf": "/Datasheet/IHHP-0806ZH-01/IHHP-0806ZH-01.pdf",
+        "img": "/image/small_inductors/34591.png"
+    },
+    "IHHP-1008AB-01.csv": {
+        "pdf": "/Datasheet/IHHP-1008AB-01/IHHP-1008AB-01.pdf",
+        "img": "/image/small_inductors/34391.png"
+    },
+    "IHHP-1008AZ-01.csv": {
+        "pdf": "/Datasheet/IHHP-1008AZ-01/IHHP-1008AZ-01.pdf",
+        "img": "/image/small_inductors/34390.png"
+    },
+    "IHLD-2525GG-5A.csv": {
+        "pdf": "/Datasheet/IHLD-2525GG-5A/IHLD-2525GG-5A.pdf",
+        "img": "/image/small_inductors/34556.png"
+    },
+    "IHLD-3232HB-5A.csv": {
+        "pdf": "/Datasheet/IHLD-3232HB-5A/IHLD-3232HB-5A.pdf",
+        "img": "/image/small_inductors/34383.png"
+    },
+    "IHLD-4032KB-5A.csv": {
+        "pdf": "/Datasheet/IHLD-4032KB-5A/IHLD-4032KB-5A.pdf",
+        "img": "/image/small_inductors/34381.png"
+    },
+    "IHLE-2020CD-51.csv": {
+        "pdf": "/Datasheet/IHLE-2020CD-51/IHLE-2020CD-51.pdf",
+        "img": "/image/small_inductors/34576.png"
+    },
+    "IHLE-2020CD-5A.csv": {
+        "pdf": "/Datasheet/IHLE-2020CD-5A/IHLE-2020CD-5A.pdf",
+        "img": "/image/small_inductors/34577.png"
+    },
+    "IHLE-2525CD-51.csv": {
+        "pdf": "/Datasheet/IHLE-2525CD-51/IHLE-2525CD-51.pdf",
+        "img": "/image/small_inductors/34426.png"
+    },
+    "IHLE-2525CD-5A.csv": {
+        "pdf": "/Datasheet/IHLE-2525CD-5A/IHLE-2525CD-5A.pdf",
+        "img": "/image/small_inductors/34388.png"
+    },
+    "IHLE-3232DD-51.csv": {
+        "pdf": "/Datasheet/IHLE-3232DD-51/IHLE-3232DD-51.pdf",
+        "img": "/image/small_inductors/34427.png"
+    },
+    "IHLE-3232DD-5A.csv": {
+        "pdf": "/Datasheet/IHLE-3232DD-5A/IHLE-3232DD-5A.pdf",
+        "img": "/image/small_inductors/34378.png"
+    },
+    "IHLE-4040DD-51.csv": {
+        "pdf": "/Datasheet/IHLE-4040DD-51/IHLE-4040DD-51.pdf",
+        "img": "/image/small_inductors/34428.png"
+    },
+    "IHLE-4040DD-5A.csv": {
+        "pdf": "/Datasheet/IHLE-4040DD-5A/IHLE-4040DD-5A.pdf",
+        "img": "/image/small_inductors/34380.png"
+    },
+    "IHLE-4040DDEW-5A.csv": {
+        "pdf": "/Datasheet/IHLE-4040DDEW-5A/IHLE-4040DDEW-5A.pdf",
+        "img": "/image/small_inductors/34587.png"
+    },
+    "IHLE-5050FH-51.csv": {
+        "pdf": "/Datasheet/IHLE-5050FH-51/IHLE-5050FH-51.pdf",
+        "img": "/image/small_inductors/34546.png"
+    },
+    "IHLE-5050FH-5A.csv": {
+        "pdf": "/Datasheet/IHLE-5050FH-5A/IHLE-5050FH-5A.pdf",
+        "img": "/image/small_inductors/34459.png"
+    },
+    "IHLL-1008AB-1Z.csv": {
+        "pdf": "/Datasheet/IHLL-1008AB-1Z/IHLL-1008AB-1Z.pdf",
+        "img": "/image/small_inductors/34610.png"
+    },
+    "IHLM-2525CZ-01.csv": {
+        "pdf": "/Datasheet/IHLM-2525CZ-01/IHLM-2525CZ-01.pdf",
+        "img": "/image/small_inductors/34172.png"
+    },
+    "IHLM-2525CZ-06.csv": {
+        "pdf": "/Datasheet/IHLM-2525CZ-06/IHLM-2525CZ-06.pdf",
+        "img": "/image/small_inductors/34185.png"
+    },
+    "IHLM-2525CZ-07.csv": {
+        "pdf": "/Datasheet/IHLM-2525CZ-07/IHLM-2525CZ-07.pdf",
+        "img": "/image/small_inductors/34186.png"
+    },
+    "IHLM-2525CZ-A1.csv": {
+        "pdf": "/Datasheet/IHLM-2525CZ-A1/IHLM-2525CZ-A1.pdf",
+        "img": "/image/small_inductors/34243.png"
+    },
+    "IHLM-2525CZ-L1.csv": {
+        "pdf": "/Datasheet/IHLM-2525CZ-L1/IHLM-2525CZ-L1.pdf",
+        "img": "/image/small_inductors/34198.png"
+    },
+    "IHLM-2525CZ-L6.csv": {
+        "pdf": "/Datasheet/IHLM-2525CZ-L6/IHLM-2525CZ-L6.pdf",
+        "img": "/image/small_inductors/34214.png"
+    },
+    "IHLM-2525CZ-L7.csv": {
+        "pdf": "/Datasheet/IHLM-2525CZ-L7/IHLM-2525CZ-L7.pdf",
+        "img": "/image/small_inductors/34215.png"
+    },
+    "IHLP-0806AB-5A.csv": {
+        "pdf": "/Datasheet/IHLP-0806AB-5A/IHLP-0806AB-5A.pdf",
+        "img": "/image/small_inductors/34618.png"
+    },
+    "IHLP-1008ABEZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-1008ABEZ-5A/IHLP-1008ABEZ-5A.pdf",
+        "img": "/image/small_inductors/34609.png"
+    },
+    "IHLP-1212AB-01.csv": {
+        "pdf": "/Datasheet/IHLP-1212AB-01/IHLP-1212AB-01.pdf",
+        "img": "/image/small_inductors/34539.png"
+    },
+    "IHLP-1212AB-11.csv": {
+        "pdf": "/Datasheet/IHLP-1212AB-11/IHLP-1212AB-11.pdf",
+        "img": "/image/small_inductors/34299.png"
+    },
+    "IHLP-1212AB-51.csv": {
+        "pdf": "/Datasheet/IHLP-1212AB-51/IHLP-1212AB-51.pdf",
+        "img": "/image/small_inductors/34540.png"
+    },
+    "IHLP-1212AB-5A.csv": {
+        "pdf": "/Datasheet/IHLP-1212AB-5A/IHLP-1212AB-5A.pdf",
+        "img": "/image/small_inductors/34527.png"
+    },
+    "IHLP-1212AB-A1.csv": {
+        "pdf": "/Datasheet/IHLP-1212AB-A1/IHLP-1212AB-A1.pdf",
+        "img": "/image/small_inductors/34528.png"
+    },
+    "IHLP-1212AE-11.csv": {
+        "pdf": "/Datasheet/IHLP-1212AE-11/IHLP-1212AE-11.pdf",
+        "img": "/image/small_inductors/34300.png"
+    },
+    "IHLP-1212AZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-1212AZ-01/IHLP-1212AZ-01.pdf",
+        "img": "/image/small_inductors/34541.png"
+    },
+    "IHLP-1212AZ-51.csv": {
+        "pdf": "/Datasheet/IHLP-1212AZ-51/IHLP-1212AZ-51.pdf",
+        "img": "/image/small_inductors/34542.png"
+    },
+    "IHLP-1212AZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-1212AZ-5A/IHLP-1212AZ-5A.pdf",
+        "img": "/image/small_inductors/34531.png"
+    },
+    "IHLP-1212AZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-1212AZ-A1/IHLP-1212AZ-A1.pdf",
+        "img": "/image/small_inductors/34532.png"
+    },
+    "IHLP-1212BZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-1212BZ-01/IHLP-1212BZ-01.pdf",
+        "img": "/image/small_inductors/34543.png"
+    },
+    "IHLP-1212BZ-11.csv": {
+        "pdf": "/Datasheet/IHLP-1212BZ-11/IHLP-1212BZ-11.pdf",
+        "img": "/image/small_inductors/34289.png"
+    },
+    "IHLP-1212BZ-1L.csv": {
+        "pdf": "/Datasheet/IHLP-1212BZ-1L/IHLP-1212BZ-1L.pdf",
+        "img": "/image/small_inductors/34628.png"
+    },
+    "IHLP-1212BZ-51.csv": {
+        "pdf": "/Datasheet/IHLP-1212BZ-51/IHLP-1212BZ-51.pdf",
+        "img": "/image/small_inductors/34544.png"
+    },
+    "IHLP-1212BZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-1212BZ-5A/IHLP-1212BZ-5A.pdf",
+        "img": "/image/small_inductors/34535.png"
+    },
+    "IHLP-1212BZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-1212BZ-A1/IHLP-1212BZ-A1.pdf",
+        "img": "/image/small_inductors/34536.png"
+    },
+    "IHLP-1616AB-01.csv": {
+        "pdf": "/Datasheet/IHLP-1616AB-01/IHLP-1616AB-01.pdf",
+        "img": "/image/small_inductors/34197.png"
+    },
+    "IHLP-1616AB-11.csv": {
+        "pdf": "/Datasheet/IHLP-1616AB-11/IHLP-1616AB-11.pdf",
+        "img": "/image/small_inductors/34194.png"
+    },
+    "IHLP-1616AB-1A.csv": {
+        "pdf": "/Datasheet/IHLP-1616AB-1A/IHLP-1616AB-1A.pdf",
+        "img": "/image/small_inductors/34236.png"
+    },
+    "IHLP-1616AB-1L.csv": {
+        "pdf": "/Datasheet/IHLP-1616AB-1L/IHLP-1616AB-1L.pdf",
+        "img": "/image/small_inductors/34233.png"
+    },
+    "IHLP-1616AB-A1.csv": {
+        "pdf": "/Datasheet/IHLP-1616AB-A1/IHLP-1616AB-A1.pdf",
+        "img": "/image/small_inductors/34235.png"
+    },
+    "IHLP-1616AB-L1.csv": {
+        "pdf": "/Datasheet/IHLP-1616AB-L1/IHLP-1616AB-L1.pdf",
+        "img": "/image/small_inductors/34205.png"
+    },
+    "IHLP-1616BZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-1616BZ-01/IHLP-1616BZ-01.pdf",
+        "img": "/image/small_inductors/34195.png"
+    },
+    "IHLP-1616BZ-0H.csv": {
+        "pdf": "/Datasheet/IHLP-1616BZ-0H/IHLP-1616BZ-0H.pdf",
+        "img": "/image/small_inductors/34452.png"
+    },
+    "IHLP-1616BZ-11.csv": {
+        "pdf": "/Datasheet/IHLP-1616BZ-11/IHLP-1616BZ-11.pdf",
+        "img": "/image/small_inductors/34196.png"
+    },
+    "IHLP-1616BZ-1A.csv": {
+        "pdf": "/Datasheet/IHLP-1616BZ-1A/IHLP-1616BZ-1A.pdf",
+        "img": "/image/small_inductors/34238.png"
+    },
+    "IHLP-1616BZ-1L.csv": {
+        "pdf": "/Datasheet/IHLP-1616BZ-1L/IHLP-1616BZ-1L.pdf",
+        "img": "/image/small_inductors/34290.png"
+    },
+    "IHLP-1616BZ-51.csv": {
+        "pdf": "/Datasheet/IHLP-1616BZ-51/IHLP-1616BZ-51.pdf",
+        "img": "/image/small_inductors/34438.png"
+    },
+    "IHLP-1616BZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-1616BZ-5A/IHLP-1616BZ-5A.pdf",
+        "img": "/image/small_inductors/34436.png"
+    },
+    "IHLP-1616BZ-5L.csv": {
+        "pdf": "/Datasheet/IHLP-1616BZ-5L/IHLP-1616BZ-5L.pdf",
+        "img": "/image/small_inductors/34437.png"
+    },
+    "IHLP-1616BZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-1616BZ-A1/IHLP-1616BZ-A1.pdf",
+        "img": "/image/small_inductors/34237.png"
+    },
+    "IHLP-1616BZ-L1.csv": {
+        "pdf": "/Datasheet/IHLP-1616BZ-L1/IHLP-1616BZ-L1.pdf",
+        "img": "/image/small_inductors/34206.png"
+    },
+    "IHLP-2020AB-01.csv": {
+        "pdf": "/Datasheet/IHLP-2020AB-01/IHLP-2020AB-01.pdf",
+        "img": "/image/small_inductors/34283.png"
+    },
+    "IHLP-2020BZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-2020BZ-01/IHLP-2020BZ-01.pdf",
+        "img": "/image/small_inductors/34253.png"
+    },
+    "IHLP-2020BZ-11.csv": {
+        "pdf": "/Datasheet/IHLP-2020BZ-11/IHLP-2020BZ-11.pdf",
+        "img": "/image/small_inductors/34261.png"
+    },
+    "IHLP-2020BZ-1A.csv": {
+        "pdf": "/Datasheet/IHLP-2020BZ-1A/IHLP-2020BZ-1A.pdf",
+        "img": "/image/small_inductors/34303.png"
+    },
+    "IHLP-2020BZ-1L.csv": {
+        "pdf": "/Datasheet/IHLP-2020BZ-1L/IHLP-2020BZ-1L.pdf",
+        "img": "/image/small_inductors/34089.png"
+    },
+    "IHLP-2020BZ-51.csv": {
+        "pdf": "/Datasheet/IHLP-2020BZ-51/IHLP-2020BZ-51.pdf",
+        "img": "/image/small_inductors/34524.png"
+    },
+    "IHLP-2020BZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-2020BZ-5A/IHLP-2020BZ-5A.pdf",
+        "img": "/image/small_inductors/34500.png"
+    },
+    "IHLP-2020BZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-2020BZ-A1/IHLP-2020BZ-A1.pdf",
+        "img": "/image/small_inductors/34302.png"
+    },
+    "IHLP-2020BZ-L1.csv": {
+        "pdf": "/Datasheet/IHLP-2020BZ-L1/IHLP-2020BZ-L1.pdf",
+        "img": "/image/small_inductors/34088.png"
+    },
+    "IHLP-2020CZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-2020CZ-01/IHLP-2020CZ-01.pdf",
+        "img": "/image/small_inductors/34280.png"
+    },
+    "IHLP-2020CZ-11.csv": {
+        "pdf": "/Datasheet/IHLP-2020CZ-11/IHLP-2020CZ-11.pdf",
+        "img": "/image/small_inductors/34260.png"
+    },
+    "IHLP-2020CZ-1A.csv": {
+        "pdf": "/Datasheet/IHLP-2020CZ-1A/IHLP-2020CZ-1A.pdf",
+        "img": "/image/small_inductors/34305.png"
+    },
+    "IHLP-2020CZ-1L.csv": {
+        "pdf": "/Datasheet/IHLP-2020CZ-1L/IHLP-2020CZ-1L.pdf",
+        "img": "/image/small_inductors/34323.png"
+    },
+    "IHLP-2020CZ-51.csv": {
+        "pdf": "/Datasheet/IHLP-2020CZ-51/IHLP-2020CZ-51.pdf",
+        "img": "/image/small_inductors/34385.png"
+    },
+    "IHLP-2020CZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-2020CZ-5A/IHLP-2020CZ-5A.pdf",
+        "img": "/image/small_inductors/34384.png"
+    },
+    "IHLP-2020CZ-5L.csv": {
+        "pdf": "/Datasheet/IHLP-2020CZ-5L/IHLP-2020CZ-5L.pdf",
+        "img": "/image/small_inductors/34495.png"
+    },
+    "IHLP-2020CZ-8A.csv": {
+        "pdf": "/Datasheet/IHLP-2020CZ-8A/IHLP-2020CZ-8A.pdf",
+        "img": "/image/small_inductors/34563.png"
+    },
+    "IHLP-2020CZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-2020CZ-A1/IHLP-2020CZ-A1.pdf",
+        "img": "/image/small_inductors/34304.png"
+    },
+    "IHLP-2020CZ-L1.csv": {
+        "pdf": "/Datasheet/IHLP-2020CZ-L1/IHLP-2020CZ-L1.pdf",
+        "img": "/image/small_inductors/34322.png"
+    },
+    "IHLP-2525AH-01.csv": {
+        "pdf": "/Datasheet/IHLP-2525AH-01/IHLP-2525AH-01.pdf",
+        "img": "/image/small_inductors/34125.png"
+    },
+    "IHLP-2525AH-A1.csv": {
+        "pdf": "/Datasheet/IHLP-2525AH-A1/IHLP-2525AH-A1.pdf",
+        "img": "/image/small_inductors/34239.png"
+    },
+    "IHLP-2525AH-L1.csv": {
+        "pdf": "/Datasheet/IHLP-2525AH-L1/IHLP-2525AH-L1.pdf",
+        "img": "/image/small_inductors/34184.png"
+    },
+    "IHLP-2525BD-01.csv": {
+        "pdf": "/Datasheet/IHLP-2525BD-01/IHLP-2525BD-01.pdf",
+        "img": "/image/small_inductors/34154.png"
+    },
+    "IHLP-2525BD-A1.csv": {
+        "pdf": "/Datasheet/IHLP-2525BD-A1/IHLP-2525BD-A1.pdf",
+        "img": "/image/small_inductors/34240.png"
+    },
+    "IHLP-2525BD-L1.csv": {
+        "pdf": "/Datasheet/IHLP-2525BD-L1/IHLP-2525BD-L1.pdf",
+        "img": "/image/small_inductors/34257.png"
+    },
+    "IHLP-2525CZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-01/IHLP-2525CZ-01.pdf",
+        "img": "/image/small_inductors/34104.png"
+    },
+    "IHLP-2525CZ-06.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-06/IHLP-2525CZ-06.pdf",
+        "img": "/image/small_inductors/34167.png"
+    },
+    "IHLP-2525CZ-07.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-07/IHLP-2525CZ-07.pdf",
+        "img": "/image/small_inductors/34168.png"
+    },
+    "IHLP-2525CZ-11.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-11/IHLP-2525CZ-11.pdf",
+        "img": "/image/small_inductors/34190.png"
+    },
+    "IHLP-2525CZ-1A.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-1A/IHLP-2525CZ-1A.pdf",
+        "img": "/image/small_inductors/34242.png"
+    },
+    "IHLP-2525CZ-1L.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-1L/IHLP-2525CZ-1L.pdf",
+        "img": "/image/small_inductors/34281.png"
+    },
+    "IHLP-2525CZ-51.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-51/IHLP-2525CZ-51.pdf",
+        "img": "/image/small_inductors/34344.png"
+    },
+    "IHLP-2525CZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-5A/IHLP-2525CZ-5A.pdf",
+        "img": "/image/small_inductors/34335.png"
+    },
+    "IHLP-2525CZ-5L.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-5L/IHLP-2525CZ-5L.pdf",
+        "img": "/image/small_inductors/34468.png"
+    },
+    "IHLP-2525CZ-8A.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-8A/IHLP-2525CZ-8A.pdf",
+        "img": "/image/small_inductors/34362.png"
+    },
+    "IHLP-2525CZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-A1/IHLP-2525CZ-A1.pdf",
+        "img": "/image/small_inductors/34241.png"
+    },
+    "IHLP-2525CZ-L1.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-L1/IHLP-2525CZ-L1.pdf",
+        "img": "/image/small_inductors/34176.png"
+    },
+    "IHLP-2525CZ-L6.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-L6/IHLP-2525CZ-L6.pdf",
+        "img": "/image/small_inductors/34255.png"
+    },
+    "IHLP-2525CZ-L7.csv": {
+        "pdf": "/Datasheet/IHLP-2525CZ-L7/IHLP-2525CZ-L7.pdf",
+        "img": "/image/small_inductors/34254.png"
+    },
+    "IHLP-2525EZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-2525EZ-01/IHLP-2525EZ-01.pdf",
+        "img": "/image/small_inductors/34177.png"
+    },
+    "IHLP-2525EZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-2525EZ-A1/IHLP-2525EZ-A1.pdf",
+        "img": "/image/small_inductors/34244.png"
+    },
+    "IHLP-3232CZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-3232CZ-01/IHLP-3232CZ-01.pdf",
+        "img": "/image/small_inductors/34320.png"
+    },
+    "IHLP-3232CZ-11.csv": {
+        "pdf": "/Datasheet/IHLP-3232CZ-11/IHLP-3232CZ-11.pdf",
+        "img": "/image/small_inductors/34321.png"
+    },
+    "IHLP-3232CZ-1A.csv": {
+        "pdf": "/Datasheet/IHLP-3232CZ-1A/IHLP-3232CZ-1A.pdf",
+        "img": "/image/small_inductors/34333.png"
+    },
+    "IHLP-3232CZ-1L.csv": {
+        "pdf": "/Datasheet/IHLP-3232CZ-1L/IHLP-3232CZ-1L.pdf",
+        "img": "/image/small_inductors/34341.png"
+    },
+    "IHLP-3232CZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-3232CZ-A1/IHLP-3232CZ-A1.pdf",
+        "img": "/image/small_inductors/34332.png"
+    },
+    "IHLP-3232CZ-L1.csv": {
+        "pdf": "/Datasheet/IHLP-3232CZ-L1/IHLP-3232CZ-L1.pdf",
+        "img": "/image/small_inductors/34340.png"
+    },
+    "IHLP-3232DZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-3232DZ-01/IHLP-3232DZ-01.pdf",
+        "img": "/image/small_inductors/34316.png"
+    },
+    "IHLP-3232DZ-11.csv": {
+        "pdf": "/Datasheet/IHLP-3232DZ-11/IHLP-3232DZ-11.pdf",
+        "img": "/image/small_inductors/34313.png"
+    },
+    "IHLP-3232DZ-1A.csv": {
+        "pdf": "/Datasheet/IHLP-3232DZ-1A/IHLP-3232DZ-1A.pdf",
+        "img": "/image/small_inductors/34317.png"
+    },
+    "IHLP-3232DZ-1L.csv": {
+        "pdf": "/Datasheet/IHLP-3232DZ-1L/IHLP-3232DZ-1L.pdf",
+        "img": "/image/small_inductors/34343.png"
+    },
+    "IHLP-3232DZ-51.csv": {
+        "pdf": "/Datasheet/IHLP-3232DZ-51/IHLP-3232DZ-51.pdf",
+        "img": "/image/small_inductors/34345.png"
+    },
+    "IHLP-3232DZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-3232DZ-5A/IHLP-3232DZ-5A.pdf",
+        "img": "/image/small_inductors/34336.png"
+    },
+    "IHLP-3232DZ-5L.csv": {
+        "pdf": "/Datasheet/IHLP-3232DZ-5L/IHLP-3232DZ-5L.pdf",
+        "img": "/image/small_inductors/34494.png"
+    },
+    "IHLP-3232DZ-8A.csv": {
+        "pdf": "/Datasheet/IHLP-3232DZ-8A/IHLP-3232DZ-8A.pdf",
+        "img": "/image/small_inductors/34403.png"
+    },
+    "IHLP-3232DZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-3232DZ-A1/IHLP-3232DZ-A1.pdf",
+        "img": "/image/small_inductors/34318.png"
+    },
+    "IHLP-3232DZ-L1.csv": {
+        "pdf": "/Datasheet/IHLP-3232DZ-L1/IHLP-3232DZ-L1.pdf",
+        "img": "/image/small_inductors/34342.png"
+    },
+    "IHLP-4040DZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-4040DZ-01/IHLP-4040DZ-01.pdf",
+        "img": "/image/small_inductors/34193.png"
+    },
+    "IHLP-4040DZ-11.csv": {
+        "pdf": "/Datasheet/IHLP-4040DZ-11/IHLP-4040DZ-11.pdf",
+        "img": "/image/small_inductors/34192.png"
+    },
+    "IHLP-4040DZ-1A.csv": {
+        "pdf": "/Datasheet/IHLP-4040DZ-1A/IHLP-4040DZ-1A.pdf",
+        "img": "/image/small_inductors/34246.png"
+    },
+    "IHLP-4040DZ-1L.csv": {
+        "pdf": "/Datasheet/IHLP-4040DZ-1L/IHLP-4040DZ-1L.pdf",
+        "img": "/image/small_inductors/34210.png"
+    },
+    "IHLP-4040DZ-51.csv": {
+        "pdf": "/Datasheet/IHLP-4040DZ-51/IHLP-4040DZ-51.pdf",
+        "img": "/image/small_inductors/34346.png"
+    },
+    "IHLP-4040DZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-4040DZ-5A/IHLP-4040DZ-5A.pdf",
+        "img": "/image/small_inductors/34315.png"
+    },
+    "IHLP-4040DZ-5L.csv": {
+        "pdf": "/Datasheet/IHLP-4040DZ-5L/IHLP-4040DZ-5L.pdf",
+        "img": "/image/small_inductors/34397.png"
+    },
+    "IHLP-4040DZ-8A.csv": {
+        "pdf": "/Datasheet/IHLP-4040DZ-8A/IHLP-4040DZ-8A.pdf",
+        "img": "/image/small_inductors/34363.png"
+    },
+    "IHLP-4040DZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-4040DZ-A1/IHLP-4040DZ-A1.pdf",
+        "img": "/image/small_inductors/34245.png"
+    },
+    "IHLP-4040DZ-L1.csv": {
+        "pdf": "/Datasheet/IHLP-4040DZ-L1/IHLP-4040DZ-L1.pdf",
+        "img": "/image/small_inductors/34207.png"
+    },
+    "IHLP-4040ED-5A.csv": {
+        "pdf": "/Datasheet/IHLP-4040ED-5A/IHLP-4040ED-5A.pdf",
+        "img": "/image/small_inductors/34499.png"
+    },
+    "IHLP-4W40DZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-4W40DZ-5A/IHLP-4W40DZ-5A.pdf",
+        "img": "/image/small_inductors/34496.png"
+    },
+    "IHLP-5050CE-01.csv": {
+        "pdf": "/Datasheet/IHLP-5050CE-01/IHLP-5050CE-01.pdf",
+        "img": "/image/small_inductors/34105.png"
+    },
+    "IHLP-5050CE-06.csv": {
+        "pdf": "/Datasheet/IHLP-5050CE-06/IHLP-5050CE-06.pdf",
+        "img": "/image/small_inductors/34165.png"
+    },
+    "IHLP-5050CE-07.csv": {
+        "pdf": "/Datasheet/IHLP-5050CE-07/IHLP-5050CE-07.pdf",
+        "img": "/image/small_inductors/34166.png"
+    },
+    "IHLP-5050CE-A1.csv": {
+        "pdf": "/Datasheet/IHLP-5050CE-A1/IHLP-5050CE-A1.pdf",
+        "img": "/image/small_inductors/34247.png"
+    },
+    "IHLP-5050CE-L1.csv": {
+        "pdf": "/Datasheet/IHLP-5050CE-L1/IHLP-5050CE-L1.pdf",
+        "img": "/image/small_inductors/34183.png"
+    },
+    "IHLP-5050CE-L6.csv": {
+        "pdf": "/Datasheet/IHLP-5050CE-L6/IHLP-5050CE-L6.pdf",
+        "img": "/image/small_inductors/34297.png"
+    },
+    "IHLP-5050CE-L7.csv": {
+        "pdf": "/Datasheet/IHLP-5050CE-L7/IHLP-5050CE-L7.pdf",
+        "img": "/image/small_inductors/34298.png"
+    },
+    "IHLP-5050DC-51.csv": {
+        "pdf": "/Datasheet/IHLP-5050DC-51/IHLP-5050DC-51.pdf",
+        "img": "/image/small_inductors/34595.png"
+    },
+    "IHLP-5050DC-5A.csv": {
+        "pdf": "/Datasheet/IHLP-5050DC-5A/IHLP-5050DC-5A.pdf",
+        "img": "/image/small_inductors/34594.png"
+    },
+    "IHLP-5050EZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-5050EZ-01/IHLP-5050EZ-01.pdf",
+        "img": "/image/small_inductors/34126.png"
+    },
+    "IHLP-5050EZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-5050EZ-5A/IHLP-5050EZ-5A.pdf",
+        "img": "/image/small_inductors/34507.png"
+    },
+    "IHLP-5050EZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-5050EZ-A1/IHLP-5050EZ-A1.pdf",
+        "img": "/image/small_inductors/34248.png"
+    },
+    "IHLP-5050EZ-L1.csv": {
+        "pdf": "/Datasheet/IHLP-5050EZ-L1/IHLP-5050EZ-L1.pdf",
+        "img": "/image/small_inductors/34175.png"
+    },
+    "IHLP-5050FD-01.csv": {
+        "pdf": "/Datasheet/IHLP-5050FD-01/IHLP-5050FD-01.pdf",
+        "img": "/image/small_inductors/34123.png"
+    },
+    "IHLP-5050FD-0P.csv": {
+        "pdf": "/Datasheet/IHLP-5050FD-0P/IHLP-5050FD-0P.pdf",
+        "img": "/image/small_inductors/34615.png"
+    },
+    "IHLP-5050FD-51.csv": {
+        "pdf": "/Datasheet/IHLP-5050FD-51/IHLP-5050FD-51.pdf",
+        "img": "/image/small_inductors/34347.png"
+    },
+    "IHLP-5050FD-5A.csv": {
+        "pdf": "/Datasheet/IHLP-5050FD-5A/IHLP-5050FD-5A.pdf",
+        "img": "/image/small_inductors/34337.png"
+    },
+    "IHLP-5050FD-5L.csv": {
+        "pdf": "/Datasheet/IHLP-5050FD-5L/IHLP-5050FD-5L.pdf",
+        "img": "/image/small_inductors/34351.png"
+    },
+    "IHLP-5050FD-8A.csv": {
+        "pdf": "/Datasheet/IHLP-5050FD-8A/IHLP-5050FD-8A.pdf",
+        "img": "/image/small_inductors/34386.png"
+    },
+    "IHLP-5050FD-A1.csv": {
+        "pdf": "/Datasheet/IHLP-5050FD-A1/IHLP-5050FD-A1.pdf",
+        "img": "/image/small_inductors/34249.png"
+    },
+    "IHLP-5050FD-AP.csv": {
+        "pdf": "/Datasheet/IHLP-5050FD-AP/IHLP-5050FD-AP.pdf",
+        "img": "/image/small_inductors/34569.png"
+    },
+    "IHLP-5050FD-L1.csv": {
+        "pdf": "/Datasheet/IHLP-5050FD-L1/IHLP-5050FD-L1.pdf",
+        "img": "/image/small_inductors/34199.png"
+    },
+    "IHLP-6767DZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-6767DZ-01/IHLP-6767DZ-01.pdf",
+        "img": "/image/small_inductors/34296.png"
+    },
+    "IHLP-6767DZ-11.csv": {
+        "pdf": "/Datasheet/IHLP-6767DZ-11/IHLP-6767DZ-11.pdf",
+        "img": "/image/small_inductors/34306.png"
+    },
+    "IHLP-6767DZ-1A.csv": {
+        "pdf": "/Datasheet/IHLP-6767DZ-1A/IHLP-6767DZ-1A.pdf",
+        "img": "/image/small_inductors/34308.png"
+    },
+    "IHLP-6767DZ-1L.csv": {
+        "pdf": "/Datasheet/IHLP-6767DZ-1L/IHLP-6767DZ-1L.pdf",
+        "img": "/image/small_inductors/34327.png"
+    },
+    "IHLP-6767DZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-6767DZ-A1/IHLP-6767DZ-A1.pdf",
+        "img": "/image/small_inductors/34307.png"
+    },
+    "IHLP-6767DZ-L1.csv": {
+        "pdf": "/Datasheet/IHLP-6767DZ-L1/IHLP-6767DZ-L1.pdf",
+        "img": "/image/small_inductors/34326.png"
+    },
+    "IHLP-6767GZ-01.csv": {
+        "pdf": "/Datasheet/IHLP-6767GZ-01/IHLP-6767GZ-01.pdf",
+        "img": "/image/small_inductors/34000.png"
+    },
+    "IHLP-6767GZ-11.csv": {
+        "pdf": "/Datasheet/IHLP-6767GZ-11/IHLP-6767GZ-11.pdf",
+        "img": "/image/small_inductors/34282.png"
+    },
+    "IHLP-6767GZ-1A.csv": {
+        "pdf": "/Datasheet/IHLP-6767GZ-1A/IHLP-6767GZ-1A.pdf",
+        "img": "/image/small_inductors/34310.png"
+    },
+    "IHLP-6767GZ-1L.csv": {
+        "pdf": "/Datasheet/IHLP-6767GZ-1L/IHLP-6767GZ-1L.pdf",
+        "img": "/image/small_inductors/34288.png"
+    },
+    "IHLP-6767GZ-51.csv": {
+        "pdf": "/Datasheet/IHLP-6767GZ-51/IHLP-6767GZ-51.pdf",
+        "img": "/image/small_inductors/34312.png"
+    },
+    "IHLP-6767GZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-6767GZ-5A/IHLP-6767GZ-5A.pdf",
+        "img": "/image/small_inductors/34319.png"
+    },
+    "IHLP-6767GZ-5L.csv": {
+        "pdf": "/Datasheet/IHLP-6767GZ-5L/IHLP-6767GZ-5L.pdf",
+        "img": "/image/small_inductors/34354.png"
+    },
+    "IHLP-6767GZ-8A.csv": {
+        "pdf": "/Datasheet/IHLP-6767GZ-8A/IHLP-6767GZ-8A.pdf",
+        "img": "/image/small_inductors/34498.png"
+    },
+    "IHLP-6767GZ-A1.csv": {
+        "pdf": "/Datasheet/IHLP-6767GZ-A1/IHLP-6767GZ-A1.pdf",
+        "img": "/image/small_inductors/34309.png"
+    },
+    "IHLP-6767GZ-L1.csv": {
+        "pdf": "/Datasheet/IHLP-6767GZ-L1/IHLP-6767GZ-L1.pdf",
+        "img": "/image/small_inductors/34284.png"
+    },
+    "IHLP-7575GZ-51.csv": {
+        "pdf": "/Datasheet/IHLP-7575GZ-51/IHLP-7575GZ-51.pdf",
+        "img": "/image/small_inductors/34572.png"
+    },
+    "IHLP-7575GZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-7575GZ-5A/IHLP-7575GZ-5A.pdf",
+        "img": "/image/small_inductors/34573.png"
+    },
+    "IHLP-8787MZ-51.csv": {
+        "pdf": "/Datasheet/IHLP-8787MZ-51/IHLP-8787MZ-51.pdf",
+        "img": "/image/small_inductors/34353.png"
+    },
+    "IHLP-8787MZ-5A.csv": {
+        "pdf": "/Datasheet/IHLP-8787MZ-5A/IHLP-8787MZ-5A.pdf",
+        "img": "/image/small_inductors/34350.png"
+    },
+    "IHLP-8787MZ-5L.csv": {
+        "pdf": "/Datasheet/IHLP-8787MZ-5L/IHLP-8787MZ-5L.pdf",
+        "img": "/image/small_inductors/34396.png"
+    },
+    "IHLP-8787MZ-8L.csv": {
+        "pdf": "/Datasheet/IHLP-8787MZ-8L/IHLP-8787MZ-8L.pdf",
+        "img": "/image/small_inductors/34447.png"
+    },
+    "IHLW-4040CF-11.csv": {
+        "pdf": "/Datasheet/IHLW-4040CF-11/IHLW-4040CF-11.pdf",
+        "img": "/image/small_inductors/34001.png"
+    },
+    "IHLW-5050CE-01.csv": {
+        "pdf": "/Datasheet/IHLW-5050CE-01/IHLW-5050CE-01.pdf",
+        "img": "/image/small_inductors/34262.png"
+    },
+    "IHM-2.csv": {
+        "pdf": "/Datasheet/IHM-2/IHM-2.pdf",
+        "img": "/image/small_inductors/34017.png"
+    },
+    "IHPT.csv": {
+        "pdf": "/Datasheet/IHPT/IHPT.pdf",
+        "img": "/image/small_inductors/34508.png"
+    },
+    "IHPT-A.csv": {
+        "pdf": "/Datasheet/IHPT-A/IHPT-A.pdf",
+        "img": "/image/small_inductors/34616.png"
+    },
+    "IHSM-3825.csv": {
+        "pdf": "/Datasheet/IHSM-3825/IHSM-3825.pdf",
+        "img": "/image/small_inductors/34018.png"
+    },
+    "IHSM-4825.csv": {
+        "pdf": "/Datasheet/IHSM-4825/IHSM-4825.pdf",
+        "img": "/image/small_inductors/34019.png"
+    },
+    "IHSM-5832.csv": {
+        "pdf": "/Datasheet/IHSM-5832/IHSM-5832.pdf",
+        "img": "/image/small_inductors/34020.png"
+    },
+    "IHSM-7832.csv": {
+        "pdf": "/Datasheet/IHSM-7832/IHSM-7832.pdf",
+        "img": "/image/small_inductors/34021.png"
+    },
+    "IHSR-1616AB-01.csv": {
+        "pdf": "/Datasheet/IHSR-1616AB-01/IHSR-1616AB-01.pdf",
+        "img": "/image/small_inductors/34502.png"
+    },
+    "IHSR-2525CZ-51.csv": {
+        "pdf": "/Datasheet/IHSR-2525CZ-51/IHSR-2525CZ-51.pdf",
+        "img": "/image/small_inductors/34578.png"
+    },
+    "IHSR-2525CZ-5A.csv": {
+        "pdf": "/Datasheet/IHSR-2525CZ-5A/IHSR-2525CZ-5A.pdf",
+        "img": "/image/small_inductors/34579.png"
+    },
+    "IHSR-4040DZ-51.csv": {
+        "pdf": "/Datasheet/IHSR-4040DZ-51/IHSR-4040DZ-51.pdf",
+        "img": "/image/small_inductors/34477.png"
+    },
+    "IHSR-4040DZ-5A.csv": {
+        "pdf": "/Datasheet/IHSR-4040DZ-5A/IHSR-4040DZ-5A.pdf",
+        "img": "/image/small_inductors/34476.png"
+    },
+    "IHSR-6767GZ-5A.csv": {
+        "pdf": "/Datasheet/IHSR-6767GZ-5A/IHSR-6767GZ-5A.pdf",
+        "img": "/image/small_inductors/34584.png"
+    },
+    "IHTH-0750IZ-51.csv": {
+        "pdf": "/Datasheet/IHTH-0750IZ-51/IHTH-0750IZ-51.pdf",
+        "img": "/image/small_inductors/34394.png"
+    },
+    "IHTH-0750IZ-5A.csv": {
+        "pdf": "/Datasheet/IHTH-0750IZ-5A/IHTH-0750IZ-5A.pdf",
+        "img": "/image/small_inductors/34348.png"
+    },
+    "IHTH-1125KZ-51.csv": {
+        "pdf": "/Datasheet/IHTH-1125KZ-51/IHTH-1125KZ-51.pdf",
+        "img": "/image/small_inductors/34395.png"
+    },
+    "IHTH-1125KZ-5A.csv": {
+        "pdf": "/Datasheet/IHTH-1125KZ-5A/IHTH-1125KZ-5A.pdf",
+        "img": "/image/small_inductors/34349.png"
+    },
+    "IHTH-1500MZ-5A.csv": {
+        "pdf": "/Datasheet/IHTH-1500MZ-5A/IHTH-1500MZ-5A.pdf",
+        "img": "/image/small_inductors/34570.png"
+    },
+    "IHTH-1500TZ-5A.csv": {
+        "pdf": "/Datasheet/IHTH-1500TZ-5A/IHTH-1500TZ-5A.pdf",
+        "img": "/image/small_inductors/34559.png"
+    },
+    "IHV.csv": {
+        "pdf": "/Datasheet/IHV/IHV.pdf",
+        "img": "/image/small_inductors/34022.png"
+    },
+    "IHVR-4025JZ-3Z.csv": {
+        "pdf": "/Datasheet/IHVR-4025JZ-3Z/IHVR-4025JZ-3Z.pdf",
+        "img": "/image/small_inductors/34575.png"
+    },
+    "IHXL-1100OZ-3A.csv": {
+        "pdf": "/Datasheet/IHXL-1100OZ-3A/IHXL-1100OZ-3A.pdf",
+        "img": "/image/small_inductors/34601.png"
+    },
+    "IHXL-1500VZ-51.csv": {
+        "pdf": "/Datasheet/IHXL-1500VZ-51/IHXL-1500VZ-51.pdf",
+        "img": "/image/small_inductors/34561.png"
+    },
+    "IHXL-1500VZ-5A.csv": {
+        "pdf": "/Datasheet/IHXL-1500VZ-5A/IHXL-1500VZ-5A.pdf",
+        "img": "/image/small_inductors/34568.png"
+    },
+    "IHXL-2000VZ-5A.csv": {
+        "pdf": "/Datasheet/IHXL-2000VZ-5A/IHXL-2000VZ-5A.pdf",
+        "img": "/image/small_inductors/34439.png"
+    },
+    "ILAS-1206.csv": {
+        "pdf": "/Datasheet/ILAS-1206/ILAS-1206.pdf",
+        "img": "/image/small_inductors/34103.png"
+    },
+    "ILB-1206.csv": {
+        "pdf": "/Datasheet/ILB-1206/ILB-1206.pdf",
+        "img": "/image/small_inductors/34023.png"
+    },
+    "ILBB-0402.csv": {
+        "pdf": "/Datasheet/ILBB-0402/ILBB-0402.pdf",
+        "img": "/image/small_inductors/34146.png"
+    },
+    "ILBB-0603.csv": {
+        "pdf": "/Datasheet/ILBB-0603/ILBB-0603.pdf",
+        "img": "/image/small_inductors/34024.png"
+    },
+    "ILBB-0805.csv": {
+        "pdf": "/Datasheet/ILBB-0805/ILBB-0805.pdf",
+        "img": "/image/small_inductors/34025.png"
+    },
+    "ILBB-1210, ILBB-1806, ILBB-1812.csv": {
+        "pdf": "/Datasheet/ILBB-1210, ILBB-1806, ILBB-1812/ILBB-1210, ILBB-1806, ILBB-1812.pdf",
+        "img": "/image/small_inductors/34101.png"
+    },
+    "ILC-0402.csv": {
+        "pdf": "/Datasheet/ILC-0402/ILC-0402.pdf",
+        "img": "/image/small_inductors/34120.png"
+    },
+    "ILC-0603.csv": {
+        "pdf": "/Datasheet/ILC-0603/ILC-0603.pdf",
+        "img": "/image/small_inductors/34145.png"
+    },
+    "ILHB.csv": {
+        "pdf": "/Datasheet/ILHB/ILHB.pdf",
+        "img": "/image/small_inductors/34102.png"
+    },
+    "ILSB-0603.csv": {
+        "pdf": "/Datasheet/ILSB-0603/ILSB-0603.pdf",
+        "img": "/image/small_inductors/34027.png"
+    },
+    "ILSB-0805.csv": {
+        "pdf": "/Datasheet/ILSB-0805/ILSB-0805.pdf",
+        "img": "/image/small_inductors/34028.png"
+    },
+    "ILSB-1206.csv": {
+        "pdf": "/Datasheet/ILSB-1206/ILSB-1206.pdf",
+        "img": "/image/small_inductors/34029.png"
+    },
+    "IMC-0402-01.csv": {
+        "pdf": "/Datasheet/IMC-0402-01/IMC-0402-01.pdf",
+        "img": "/image/small_inductors/34163.png"
+    },
+    "IMC-0603-01.csv": {
+        "pdf": "/Datasheet/IMC-0603-01/IMC-0603-01.pdf",
+        "img": "/image/small_inductors/34164.png"
+    },
+    "IMC-0805-01.csv": {
+        "pdf": "/Datasheet/IMC-0805-01/IMC-0805-01.pdf",
+        "img": "/image/small_inductors/34115.png"
+    },
+    "IMC-1008.csv": {
+        "pdf": "/Datasheet/IMC-1008/IMC-1008.pdf",
+        "img": "/image/small_inductors/34041.png"
+    },
+    "IMC-1210.csv": {
+        "pdf": "/Datasheet/IMC-1210/IMC-1210.pdf",
+        "img": "/image/small_inductors/34043.png"
+    },
+    "IMC-1210-100.csv": {
+        "pdf": "/Datasheet/IMC-1210-100/IMC-1210-100.pdf",
+        "img": "/image/small_inductors/34042.png"
+    },
+    "IMC-1812.csv": {
+        "pdf": "/Datasheet/IMC-1812/IMC-1812.pdf",
+        "img": "/image/small_inductors/34044.png"
+    },
+    "IMC-2220.csv": {
+        "pdf": "/Datasheet/IMC-2220/IMC-2220.pdf",
+        "img": "/image/small_inductors/34127.png"
+    },
+    "IMCH-1812.csv": {
+        "pdf": "/Datasheet/IMCH-1812/IMCH-1812.pdf",
+        "img": "/image/small_inductors/34152.png"
+    },
+    "IRF-24.csv": {
+        "pdf": "/Datasheet/IRF-24/IRF-24.pdf",
+        "img": "/image/small_inductors/34056.png"
+    },
+    "IRF-36.csv": {
+        "pdf": "/Datasheet/IRF-36/IRF-36.pdf",
+        "img": "/image/small_inductors/34057.png"
+    },
+    "IRF-46.csv": {
+        "pdf": "/Datasheet/IRF-46/IRF-46.pdf",
+        "img": "/image/small_inductors/34058.png"
+    },
+    "ISC-1210.csv": {
+        "pdf": "/Datasheet/ISC-1210/ISC-1210.pdf",
+        "img": "/image/small_inductors/34060.png"
+    },
+    "ISC-1812.csv": {
+        "pdf": "/Datasheet/ISC-1812/ISC-1812.pdf",
+        "img": "/image/small_inductors/34061.png"
+    },
+    "IWAS3010AZEB130KF1.csv": {
+        "pdf": "/Datasheet/IWAS3010AZEB130KF1/IWAS3010AZEB130KF1.pdf",
+        "img": "/image/small_inductors/34490.png"
+    },
+    "IWAS3222CZEB190JF1.csv": {
+        "pdf": "/Datasheet/IWAS3222CZEB190JF1/IWAS3222CZEB190JF1.pdf",
+        "img": "/image/small_inductors/34547.png"
+    },
+    "IWAS3222CZEB190JR1.csv": {
+        "pdf": "/Datasheet/IWAS3222CZEB190JR1/IWAS3222CZEB190JR1.pdf",
+        "img": "/image/small_inductors/34597.png"
+    },
+    "IWAS3827ABEB100JF1.csv": {
+        "pdf": "/Datasheet/IWAS3827ABEB100JF1/IWAS3827ABEB100JF1.pdf",
+        "img": "/image/small_inductors/34548.png"
+    },
+    "IWAS3827ABEB110JF1.csv": {
+        "pdf": "/Datasheet/IWAS3827ABEB110JF1/IWAS3827ABEB110JF1.pdf",
+        "img": "/image/small_inductors/34549.png"
+    },
+    "IWAS4532AGEB140KF1.csv": {
+        "pdf": "/Datasheet/IWAS4532AGEB140KF1/IWAS4532AGEB140KF1.pdf",
+        "img": "/image/small_inductors/34491.png"
+    },
+    "IWAS4832AAEB220JF1.csv": {
+        "pdf": "/Datasheet/IWAS4832AAEB220JF1/IWAS4832AAEB220JF1.pdf",
+        "img": "/image/small_inductors/34550.png"
+    },
+    "IWAS4832ABEB110JF1.csv": {
+        "pdf": "/Datasheet/IWAS4832ABEB110JF1/IWAS4832ABEB110JF1.pdf",
+        "img": "/image/small_inductors/34551.png"
+    },
+    "IWAS4832ABEB130KF1.csv": {
+        "pdf": "/Datasheet/IWAS4832ABEB130KF1/IWAS4832ABEB130KF1.pdf",
+        "img": "/image/small_inductors/34586.png"
+    },
+    "IWAS4832ADEB150JF1.csv": {
+        "pdf": "/Datasheet/IWAS4832ADEB150JF1/IWAS4832ADEB150JF1.pdf",
+        "img": "/image/small_inductors/34552.png"
+    },
+    "IWAS4832AEEB120KF1.csv": {
+        "pdf": "/Datasheet/IWAS4832AEEB120KF1/IWAS4832AEEB120KF1.pdf",
+        "img": "/image/small_inductors/34492.png"
+    },
+    "IWTX4646DCEB240JF1.csv": {
+        "pdf": "/Datasheet/IWTX4646DCEB240JF1/IWTX4646DCEB240JF1.pdf",
+        "img": "/image/small_inductors/34555.png"
+    },
+    "IWTX4646DCEB240JR1.csv": {
+        "pdf": "/Datasheet/IWTX4646DCEB240JR1/IWTX4646DCEB240JR1.pdf",
+        "img": "/image/small_inductors/34598.png"
+    },
+    "IWTX47R0DAEB6R3JF1.csv": {
+        "pdf": "/Datasheet/IWTX47R0DAEB6R3JF1/IWTX47R0DAEB6R3JF1.pdf",
+        "img": "/image/small_inductors/34553.png"
+    },
+    "IWTX47R0DAEB6R3JR1.csv": {
+        "pdf": "/Datasheet/IWTX47R0DAEB6R3JR1/IWTX47R0DAEB6R3JR1.pdf",
+        "img": "/image/small_inductors/34599.png"
+    },
+    "IWTX47R0EBEB240JF1.csv": {
+        "pdf": "/Datasheet/IWTX47R0EBEB240JF1/IWTX47R0EBEB240JF1.pdf",
+        "img": "/image/small_inductors/34554.png"
+    },
+    "IWTX47R0EBEB240JR1.csv": {
+        "pdf": "/Datasheet/IWTX47R0EBEB240JR1/IWTX47R0EBEB240JR1.pdf",
+        "img": "/image/small_inductors/34600.png"
+    },
+    "IWTX5050CZEB6R3KF1.csv": {
+        "pdf": "/Datasheet/IWTX5050CZEB6R3KF1/IWTX5050CZEB6R3KF1.pdf",
+        "img": "/image/small_inductors/34484.png"
+    },
+    "IWTX5050DEEB100KF1.csv": {
+        "pdf": "/Datasheet/IWTX5050DEEB100KF1/IWTX5050DEEB100KF1.pdf",
+        "img": "/image/small_inductors/34503.png"
+    },
+    "IWTX5050DZEB6R3KF1.csv": {
+        "pdf": "/Datasheet/IWTX5050DZEB6R3KF1/IWTX5050DZEB6R3KF1.pdf",
+        "img": "/image/small_inductors/34485.png"
+    },
+    "IWTX5050FEEB100KF1.csv": {
+        "pdf": "/Datasheet/IWTX5050FEEB100KF1/IWTX5050FEEB100KF1.pdf",
+        "img": "/image/small_inductors/34505.png"
+    },
+    "IWTX50R0CZEB6R3KF1.csv": {
+        "pdf": "/Datasheet/IWTX50R0CZEB6R3KF1/IWTX50R0CZEB6R3KF1.pdf",
+        "img": "/image/small_inductors/34481.png"
+    },
+    "IWTX50R0DZEB6R3KF1.csv": {
+        "pdf": "/Datasheet/IWTX50R0DZEB6R3KF1/IWTX50R0DZEB6R3KF1.pdf",
+        "img": "/image/small_inductors/34482.png"
+    },
+    "IWTX5547EEEB8R5KF1.csv": {
+        "pdf": "/Datasheet/IWTX5547EEEB8R5KF1/IWTX5547EEEB8R5KF1.pdf",
+        "img": "/image/small_inductors/34565.png"
+    },
+    "IWTX5555DEEB100KF1.csv": {
+        "pdf": "/Datasheet/IWTX5555DEEB100KF1/IWTX5555DEEB100KF1.pdf",
+        "img": "/image/small_inductors/34486.png"
+    },
+    "IWTX55R0DZEB8R9KF1.csv": {
+        "pdf": "/Datasheet/IWTX55R0DZEB8R9KF1/IWTX55R0DZEB8R9KF1.pdf",
+        "img": "/image/small_inductors/34483.png"
+    },
+    "IWTX9955DEEB110KF3.csv": {
+        "pdf": "/Datasheet/IWTX9955DEEB110KF3/IWTX9955DEEB110KF3.pdf",
+        "img": "/image/small_inductors/34487.png"
+    },
+    "IWTXA148DGEB9R8KF3.csv": {
+        "pdf": "/Datasheet/IWTXA148DGEB9R8KF3/IWTXA148DGEB9R8KF3.pdf",
+        "img": "/image/small_inductors/34488.png"
+    },
+    "IWTXA653FZEB120KF3.csv": {
+        "pdf": "/Datasheet/IWTXA653FZEB120KF3/IWTXA653FZEB120KF3.pdf",
+        "img": "/image/small_inductors/34489.png"
+    },
+    "LPE-3325.csv": {
+        "pdf": "/Datasheet/LPE-3325/LPE-3325.pdf",
+        "img": "/image/small_inductors/34063.png"
+    },
+    "LPE-3325-CST.csv": {
+        "pdf": "/Datasheet/LPE-3325-CST/LPE-3325-CST.pdf",
+        "img": "/image/small_inductors/34155.png"
+    },
+    "LPE-4841.csv": {
+        "pdf": "/Datasheet/LPE-4841/LPE-4841.pdf",
+        "img": "/image/small_inductors/34064.png"
+    },
+    "LPE-5047.csv": {
+        "pdf": "/Datasheet/LPE-5047/LPE-5047.pdf",
+        "img": "/image/small_inductors/34065.png"
+    },
+    "LPE-6562.csv": {
+        "pdf": "/Datasheet/LPE-6562/LPE-6562.pdf",
+        "img": "/image/small_inductors/34066.png"
+    },
+    "LPE-6855.csv": {
+        "pdf": "/Datasheet/LPE-6855/LPE-6855.pdf",
+        "img": "/image/small_inductors/34067.png"
+    },
+    "LPT-3535.csv": {
+        "pdf": "/Datasheet/LPT-3535/LPT-3535.pdf",
+        "img": "/image/small_inductors/34068.png"
+    },
+    "LPT-4545.csv": {
+        "pdf": "/Datasheet/LPT-4545/LPT-4545.pdf",
+        "img": "/image/small_inductors/34069.png"
+    },
+    "RFLW 3N.csv": {
+        "pdf": "/Datasheet/RFLW 3N/RFLW 3N.pdf",
+        "img": "/image/small_inductors/61057.png"
+    },
+    "RFLW 5N.csv": {
+        "pdf": "/Datasheet/RFLW 5N/RFLW 5N.pdf",
+        "img": "/image/small_inductors/61087.png"
+    },
+    "SGIHLP-24DC-8.csv": {
+        "pdf": "/Datasheet/SGIHLP-24DC-8/SGIHLP-24DC-8.pdf",
+        "img": "/image/small_inductors/34464.png"
+    },
+    "SGIHLP-34EB-8.csv": {
+        "pdf": "/Datasheet/SGIHLP-34EB-8/SGIHLP-34EB-8.pdf",
+        "img": "/image/small_inductors/34478.png"
+    },
+    "SGIHLP-41FA-8.csv": {
+        "pdf": "/Datasheet/SGIHLP-41FA-8/SGIHLP-41FA-8.pdf",
+        "img": "/image/small_inductors/34479.png"
+    },
+    "SGIHLP-48FA-8.csv": {
+        "pdf": "/Datasheet/SGIHLP-48FA-8/SGIHLP-48FA-8.pdf",
+        "img": "/image/small_inductors/34467.png"
+    },
+    "SGIHLP-60HE-8.csv": {
+        "pdf": "/Datasheet/SGIHLP-60HE-8/SGIHLP-60HE-8.pdf",
+        "img": "/image/small_inductors/34466.png"
+    },
+    "SGIHLP-73HF-8.csv": {
+        "pdf": "/Datasheet/SGIHLP-73HF-8/SGIHLP-73HF-8.pdf",
+        "img": "/image/small_inductors/34465.png"
+    },
+    "SGIHLP-97OZ-8.csv": {
+        "pdf": "/Datasheet/SGIHLP-97OZ-8/SGIHLP-97OZ-8.pdf",
+        "img": "/image/small_inductors/34463.png"
+    },
+    "TJ.csv": {
+        "pdf": "/Datasheet/TJ/TJ.pdf",
+        "img": "/image/small_inductors/34079.png"
+    },
+    "TJ3-HT.csv": {
+        "pdf": "/Datasheet/TJ3-HT/TJ3-HT.pdf",
+        "img": "/image/small_inductors/34234.png"
+    },
+    "TJ5-HT.csv": {
+        "pdf": "/Datasheet/TJ5-HT/TJ5-HT.pdf",
+        "img": "/image/small_inductors/34232.png"
+    }
+}

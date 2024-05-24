@@ -137,6 +137,8 @@ def process_html(html_source):
         series = df['Series'][i]
         if img['src'].split('/')[-2] == 'pt-small':
             img_filename = img['alt'] + '.png'
+            img_path = os.path.join(img_small_save_path,img_filename)
+            print(img_path)
             img_src.append("image\\small_inductors\\"+img_filename)
             if previous_img_src != img['src'] and img['alt'] != "Datasheet":
                 download_image_with_retry('https://www.vishay.com/' + img['src'], img_path, headers)
@@ -152,15 +154,9 @@ def process_html(html_source):
                 download_file_with_retry('https://www.vishay.com/doc?' + img['alt'], datasheet_path, headers)
                 download_3d_model_with_retry(img['alt'], file_3d_path)
 
-
-
-
-
             imgpr = img['alt']
-
             previous_datasheet_src = series
             i += 1
-
 
     return df, img_src
 
@@ -169,19 +165,24 @@ def save_to_excel(df, img_src, save_path, url):
     excel_path = os.path.join(save_path, url.split('/')[-2] + '.xlsx')
     with pd.ExcelWriter(excel_path, engine='xlsxwriter') as writer:
         df_img = pd.DataFrame(img_src, columns=['Image path'])
-#        df_datasheet = pd.DataFrame(datasheet_src, columns=['Datasheet'])
-#        df_file_3d = pd.DataFrame(file_3d_src, columns=['3D Models'])
         df_final = df.join(df_img, rsuffix='_datasheet')
         df_final.to_excel(writer, index=False, sheet_name='Inductors')
         worksheet = writer.sheets['Inductors']
         worksheet.autofit()
 
-# Остальной код остается неизменным
+# Функция для сохранения данных в CSV.
+def save_to_csv(df, img_src, save_path, url):
+    csv_path = os.path.join(save_path, url.split('/')[-2] + '.csv')
+    df_img = pd.DataFrame(img_src, columns=['Image path'])
+    df_final = df.join(df_img, rsuffix='_datasheet')
+    df_final.to_csv(csv_path, index=False)
 
+# Основной блок выполнения
 try:
     web_source = get_web(url)
     df, img_src = process_html(web_source)
     save_to_excel(df, img_src, save_path, url)
+    save_to_csv(df, img_src, save_path, url)
     logging.info('Данные успешно сохранены.')
 finally:
     driver.quit()
