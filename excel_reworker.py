@@ -1,11 +1,9 @@
 import os
-from pathlib import Path
+import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.styles import Alignment, NamedStyle, Font
 from openpyxl.utils import get_column_letter
-# ["tvs-protection.xlsx", "esd-protection.xlsx", "inductors.xlsx"]
-sl_use = ["esd-protection.xlsx"]
-save_path = str(Path(__file__).parent.resolve())
+from pathlib import Path
 
 def set_column_width(ws):
     for column in ws.columns:
@@ -20,110 +18,51 @@ def set_column_width(ws):
         adjusted_width = (max_length + 2) * 1.2
         ws.column_dimensions[column_letter].width = adjusted_width
 
-def is_number(value):
-    try:
-        float(value)
-        return True
-    except ValueError:
-        return False
-
-def convert_to_number(value):
-    try:
-        return float(value)
-    except ValueError:
-        return value
-
 def update_excel_with_file_paths(folder_path, excel_file, excel_sheet):
     # Загружаем существующий файл Excel
     wb = load_workbook(excel_file)
     ws = wb[excel_sheet]
 
-    # Определяем последний столбец
-    last_column = ws.max_column
-
-    # Создаем словарь для хранения путей к файлам по сериям
-    series_paths = {}
+    # Создаем словари для хранения путей к файлам по сериям
+    series_pdf_paths = {}
+    series_zip_paths = {}
 
     # Рекурсивно сканируем папки и обновляем данные в Excel
     for root, dirs, files in os.walk(folder_path):
         for file in files:
-            if file.endswith((".pdf", ".zip")):
-                file_path = os.path.join(root, file)
-                # Вычисляем относительный путь
-                relative_path = os.path.relpath(file_path, folder_path)
-                # Получаем название серии из пути к файлу
-                series_name = os.path.dirname(relative_path)
-                series_name = series_name.split(os.sep)[-1]  # Удаляем "Datasheet\" из имени серии
-                # Добавляем путь к файлу в словарь для соответствующей серии
-                if series_name not in series_paths:
-                    series_paths[series_name] = []
-                if relative_path not in series_paths[series_name]:
-                    series_paths[series_name].append(relative_path)
+            file_path = os.path.join(root, file)
+            # Вычисляем относительный путь
+            relative_path = os.path.relpath(file_path, folder_path)
+            # Получаем название серии из пути к файлу
+            series_name = os.path.dirname(relative_path)
+            series_name = series_name.split(os.sep)[-1]
 
-    # Обновляем столбец "Путь к файлу" в файле Excel
-    for row in ws.iter_rows(min_row=2, max_col=1, max_row=ws.max_row):
-        series_name = row[0].value  # Получаем название серии
-        if series_name in series_paths:
-            cell = ws.cell(row=row[0].row, column=last_column + 1)  # Столбец "Путь к файлу"
-            # Объединяем пути к файлам в одну строку и записываем в ячейку
-            cell.value = "\n".join(series_paths[series_name])
+            # Добавляем путь к файлу в соответствующий словарь для каждой серии
+            if file.endswith(".pdf"):
+                if series_name not in series_pdf_paths:
+                    series_pdf_paths[series_name] = []
+                if relative_path not in series_pdf_paths[series_name]:
+                    series_pdf_paths[series_name].append(relative_path)
+            elif file.endswith(".zip"):
+                if series_name not in series_zip_paths:
+                    series_zip_paths[series_name] = []
+                if relative_path not in series_zip_paths[series_name]:
+                    series_zip_paths[series_name].append(relative_path)
 
-    # Объединяем ячейки в столбце "Series" и "Путь к файлу" для каждой серии
-    for series_name, file_paths in series_paths.items():
-        # Находим начальную и конечную ячейки для текущей серии в столбце "Series"
-        start_row = None
-        end_row = None
-        for row in ws.iter_rows(min_row=2, max_col=1, max_row=ws.max_row):
-            if row[0].value == series_name:
-                if start_row is None:
-                    start_row = row[0].row
-                end_row = row[0].row
+    # Обновляем столбцы "Путь к PDF" и "Путь к ZIP" в файле Excel
+    if "Path to the PDF" not in [cell.value for cell in ws[1]]:
+        ws.cell(row=1, column=13, value="Path to the PDF")
+    if "Path to the ZIP" not in [cell.value for cell in ws[1]]:
+        ws.cell(row=1, column=14, value="Path to the ZIP")
 
-        # Объединяем ячейки в столбце "Series" для текущей серии
-        if start_row is not None and end_row is not None:
-            ws.merge_cells(start_row=start_row, start_column=1, end_row=end_row, end_column=1)
+    for row in ws.iter_rows(min_row=2, max_row=ws.max_row, max_col=1):
+        series_name = row[0].value
+        pdf_paths = series_pdf_paths.get(series_name, [])
+        zip_paths = series_zip_paths.get(series_name, ["None"])
 
-        # Объединяем ячейки в столбце "Путь к файлу" для текущей серии
-        if start_row is not None and end_row is not None:
-            ws.cell(1, last_column + 1).value = "The path to the file"
-            ws.merge_cells(start_row=start_row, start_column=last_column + 1, end_row=end_row, end_column=last_column + 1)
-
-    # Преобразование значений ячеек
-    for row in ws.iter_rows(min_row=2, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
-        for cell in row:
-            if cell.value is not None:
-                if isinstance(cell.value, str) and is_number(cell.value):
-                    # Преобразуем строку в число
-                    cell.value = convert_to_number(cell.value)
-
-    # Создаем объект шрифта с помощью свойств из первой ячейки столбца "Series"
-    first_cell_font = Font(
-        name=ws.cell(row=2, column=1).font.name,  # Имя шрифта
-        size=ws.cell(row=2, column=1).font.sz,  # Размер шрифта
-        bold=ws.cell(row=2, column=1).font.b,  # Жирный стиль
-        italic=ws.cell(row=2, column=1).font.i,  # Курсив
-        color=ws.cell(row=2, column=1).font.color,  # Цвет шрифта
-        underline=ws.cell(row=2, column=1).font.underline,  # Подчеркивание
-        strike=ws.cell(row=2, column=1).font.strike,  # Зачеркивание
-    )
-
-    # Создаем именованный стиль с уменьшенной высотой строки
-    merged_cell_style_name = "merged_cell_style"
-    if merged_cell_style_name not in wb.named_styles:
-        merged_cell_style = NamedStyle(name=merged_cell_style_name, font=first_cell_font)
-        merged_cell_style.alignment = Alignment(wrapText=True, vertical='top', horizontal='left', shrinkToFit=True)
-        wb.add_named_style(merged_cell_style)
-
-    # Применяем стиль к объединенным ячейкам
-    for merged_cell_range in ws.merged_cells.ranges:
-        for row in ws.iter_rows(
-            min_row=merged_cell_range.min_row,
-            max_row=merged_cell_range.max_row,
-            min_col=merged_cell_range.min_col,
-            max_col=merged_cell_range.max_col
-        ):
-            for cell in row:
-                cell.style = merged_cell_style_name
+        # Объединяем пути к файлам в одну строку для каждой серии
+        ws.cell(row=row[0].row, column=13, value="; ".join(pdf_paths))
+        ws.cell(row=row[0].row, column=14, value="; ".join(zip_paths))
 
     # Устанавливаем ширину столбцов на основе содержимого
     set_column_width(ws)
@@ -131,7 +70,55 @@ def update_excel_with_file_paths(folder_path, excel_file, excel_sheet):
     # Сохраняем обновленный файл Excel
     wb.save(excel_file)
 
-# Пример использования функции
-for sl in sl_use:
-    print(sl.split('.')[-2])
-    update_excel_with_file_paths(save_path, sl, sl.split('.')[-2])
+def update_csv_with_file_paths(folder_path, csv_file):
+    # Загружаем существующий файл CSV
+    df = pd.read_csv(csv_file)
+
+    # Создаем словари для хранения путей к файлам по сериям
+    series_pdf_paths = {}
+    series_zip_paths = {}
+
+    # Рекурсивно сканируем папки и обновляем данные в CSV
+    for root, dirs, files in os.walk(folder_path):
+        for file in files:
+            file_path = os.path.join(root, file)
+            # Вычисляем относительный путь
+            relative_path = os.path.relpath(file_path, folder_path)
+            # Получаем название серии из пути к файлу
+            series_name = os.path.dirname(relative_path)
+            series_name = series_name.split(os.sep)[-1]
+
+            # Добавляем путь к файлу в соответствующий словарь для каждой серии
+            if file.endswith(".pdf"):
+                if series_name not in series_pdf_paths:
+                    series_pdf_paths[series_name] = []
+                if relative_path not in series_pdf_paths[series_name]:
+                    series_pdf_paths[series_name].append(relative_path)
+            elif file.endswith(".zip"):
+                if series_name not in series_zip_paths:
+                    series_zip_paths[series_name] = []
+                if relative_path not in series_zip_paths[series_name]:
+                    series_zip_paths[series_name].append(relative_path)
+
+    # Обновляем столбцы "Путь к PDF" и "Путь к ZIP" в файле CSV
+    if "Path to the PDF" not in df.columns:
+        df["Path to the PDF"] = ""
+    if "Path to the ZIP" not in df.columns:
+        df["Path to the ZIP"] = ""
+
+    for index, row in df.iterrows():
+        series_name = row['Series']
+        pdf_paths = series_pdf_paths.get(series_name, [])
+        zip_paths = series_zip_paths.get(series_name, ["None"])
+
+        # Объединяем пути к файлам в одну строку для каждой серии
+        df.at[index, "Path to the PDF"] = "; ".join(pdf_paths)
+        df.at[index, "Path to the ZIP"] = "; ".join(zip_paths)
+
+    # Сохраняем обновленный файл CSV
+    df.to_csv("inductors-table.csv", index=False, sep=';')
+
+# Пример использования функций
+folder_path = str(Path(__file__).parent.resolve())
+update_excel_with_file_paths(folder_path, "inductors.xlsx", "Inductors")
+update_csv_with_file_paths(folder_path, "inductors.csv")

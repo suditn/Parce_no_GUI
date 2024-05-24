@@ -1,0 +1,389 @@
+D:\Parce_no_GUI-main\.venv\Scripts\python.exe D:\Parce_no_GUI-main\pdf5.py 
+Processed: Datasheet\ICM-0805\ICM-0805.pdf
+Processed: Datasheet\ICM-1206\ICM-1206.pdf
+Processed: Datasheet\IDC-2512\IDC-2512.pdf
+Processed: Datasheet\IDC-5020\IDC-5020.pdf
+Processed: Datasheet\IDC-7328\IDC-7328.pdf
+Processed: Datasheet\IDCP-1813\IDCP-1813.pdf
+Processed: Datasheet\IDCP-2218\IDCP-2218.pdf
+Processed: Datasheet\IDCP-3020\IDCP-3020.pdf
+Processed: Datasheet\IDCP-3114\IDCP-3114.pdf
+Processed: Datasheet\IDCP-3722\IDCP-3722.pdf
+Processed: Datasheet\IDCP-3916\IDCP-3916.pdf
+Processed: Datasheet\IDCS-2512\IDCS-2512.pdf
+Processed: Datasheet\IDCS-7328\IDCS-7328.pdf
+Processed: Datasheet\IFCB-0402\IFCB-0402.pdf
+Processed: Datasheet\IFDC-5050HZ\IFDC-5050HZ.pdf
+Processed: Datasheet\IFLN-1812CZ\IFLN-1812CZ.pdf
+Processed: Datasheet\IFLR-2727EZ-01\IFLR-2727EZ-01.pdf
+Processed: Datasheet\IFLR-4027EZ-01\IFLR-4027EZ-01.pdf
+Processed: Datasheet\IFLR-4031GC-01\IFLR-4031GC-01.pdf
+Processed: Datasheet\IFLR-5151HZ-01\IFLR-5151HZ-01.pdf
+Processed: Datasheet\IFSC-0806AZ-01\IFSC-0806AZ-01.pdf
+Processed: Datasheet\IFSC-1008AB-01\IFSC-1008AB-01.pdf
+Processed: Datasheet\IFSC-1111AB-01\IFSC-1111AB-01.pdf
+Processed: Datasheet\IFSC-1111AZ-01\IFSC-1111AZ-01.pdf
+Processed: Datasheet\IFSC-1515AH-01\IFSC-1515AH-01.pdf
+Processed: Datasheet\IFSC-2020DE-01\IFSC-2020DE-01.pdf
+Processed: Datasheet\IFSC-3232DB-01\IFSC-3232DB-01.pdf
+Processed: Datasheet\IH\IH.pdf
+Processed: Datasheet\IHA\IHA.pdf
+Processed: Datasheet\IHB\IHB.pdf
+Processed: Datasheet\IHCL-4040DZ-51 10 µH\IHCL-4040DZ-51 10 µH.pdf
+Processed: Datasheet\IHCL-4040DZ-51 15 µH\IHCL-4040DZ-51 15 µH.pdf
+Processed: Datasheet\IHCL-4040DZ-51 2.2 µH\IHCL-4040DZ-51 2.2 µH.pdf
+Processed: Datasheet\IHCL-4040DZ-51 2.7 µH\IHCL-4040DZ-51 2.7 µH.pdf
+Processed: Datasheet\IHCL-4040DZ-51 22 µH\IHCL-4040DZ-51 22 µH.pdf
+Processed: Datasheet\IHCL-4040DZ-51 4.7 µH\IHCL-4040DZ-51 4.7 µH.pdf
+Processed: Datasheet\IHCL-4040DZ-5A 10 µH\IHCL-4040DZ-5A 10 µH.pdf
+Processed: Datasheet\IHCL-4040DZ-5A 15 µH\IHCL-4040DZ-5A 15 µH.pdf
+Processed: Datasheet\IHCL-4040DZ-5A 2.2 µH\IHCL-4040DZ-5A 2.2 µH.pdf
+Processed: Datasheet\IHCL-4040DZ-5A 2.7 µH\IHCL-4040DZ-5A 2.7 µH.pdf
+Processed: Datasheet\IHCL-4040DZ-5A 22 µH\IHCL-4040DZ-5A 22 µH.pdf
+Processed: Datasheet\IHCL-4040DZ-5A 4.7 µH\IHCL-4040DZ-5A 4.7 µH.pdf
+Processed: Datasheet\IHCM-2321AA-10\IHCM-2321AA-10.pdf
+Processed: Datasheet\IHD\IHD.pdf
+Processed: Datasheet\IHD-2\IHD-2.pdf
+Processed: Datasheet\IHD-4\IHD-4.pdf
+Processed: Datasheet\IHDF-1300AE-10\IHDF-1300AE-10.pdf
+Processed: Datasheet\IHDF-1300AE-1A\IHDF-1300AE-1A.pdf
+Processed: Datasheet\IHDM-1008BC-3A\IHDM-1008BC-3A.pdf
+Processed: Datasheet\IHDM-1008BC-x0\IHDM-1008BC-x0.pdf
+Processed: Datasheet\IHDM-1107BB-x0\IHDM-1107BB-x0.pdf
+Processed: Datasheet\IHHP-0603ZH-01\IHHP-0603ZH-01.pdf
+Processed: Datasheet\IHHP-0805ZH-01\IHHP-0805ZH-01.pdf
+Processed: Datasheet\IHHP-0806AB-01\IHHP-0806AB-01.pdf
+Processed: Datasheet\IHHP-0806AZ-01\IHHP-0806AZ-01.pdf
+Processed: Datasheet\IHHP-0806ZH-01\IHHP-0806ZH-01.pdf
+Processed: Datasheet\IHHP-1008AB-01\IHHP-1008AB-01.pdf
+Processed: Datasheet\IHHP-1008AZ-01\IHHP-1008AZ-01.pdf
+Processed: Datasheet\IHLD-2525GG-5A\IHLD-2525GG-5A.pdf
+Processed: Datasheet\IHLD-3232HB-5A\IHLD-3232HB-5A.pdf
+Processed: Datasheet\IHLD-4032KB-5A\IHLD-4032KB-5A.pdf
+Processed: Datasheet\IHLE-2020CD-51\IHLE-2020CD-51.pdf
+Processed: Datasheet\IHLE-2020CD-5A\IHLE-2020CD-5A.pdf
+Processed: Datasheet\IHLE-2525CD-51\IHLE-2525CD-51.pdf
+Processed: Datasheet\IHLE-2525CD-5A\IHLE-2525CD-5A.pdf
+Processed: Datasheet\IHLE-3232DD-51\IHLE-3232DD-51.pdf
+Processed: Datasheet\IHLE-3232DD-5A\IHLE-3232DD-5A.pdf
+Processed: Datasheet\IHLE-4040DD-51\IHLE-4040DD-51.pdf
+Processed: Datasheet\IHLE-4040DD-5A\IHLE-4040DD-5A.pdf
+Processed: Datasheet\IHLE-4040DDEW-5A\IHLE-4040DDEW-5A.pdf
+Processed: Datasheet\IHLE-5050FH-51\IHLE-5050FH-51.pdf
+Processed: Datasheet\IHLE-5050FH-5A\IHLE-5050FH-5A.pdf
+Processed: Datasheet\IHLL-1008AB-1Z\IHLL-1008AB-1Z.pdf
+Processed: Datasheet\IHLM-2525CZ-01\IHLM-2525CZ-01.pdf
+Processed: Datasheet\IHLM-2525CZ-06\IHLM-2525CZ-06.pdf
+Processed: Datasheet\IHLM-2525CZ-07\IHLM-2525CZ-07.pdf
+Processed: Datasheet\IHLM-2525CZ-A1\IHLM-2525CZ-A1.pdf
+Processed: Datasheet\IHLM-2525CZ-L1\IHLM-2525CZ-L1.pdf
+Processed: Datasheet\IHLM-2525CZ-L6\IHLM-2525CZ-L6.pdf
+Processed: Datasheet\IHLM-2525CZ-L7\IHLM-2525CZ-L7.pdf
+Processed: Datasheet\IHLP-0806AB-5A\IHLP-0806AB-5A.pdf
+Processed: Datasheet\IHLP-1008ABEZ-5A\IHLP-1008ABEZ-5A.pdf
+Processed: Datasheet\IHLP-1212AB-01\IHLP-1212AB-01.pdf
+Processed: Datasheet\IHLP-1212AB-11\IHLP-1212AB-11.pdf
+Processed: Datasheet\IHLP-1212AB-51\IHLP-1212AB-51.pdf
+Processed: Datasheet\IHLP-1212AB-5A\IHLP-1212AB-5A.pdf
+Processed: Datasheet\IHLP-1212AB-A1\IHLP-1212AB-A1.pdf
+Processed: Datasheet\IHLP-1212AE-11\IHLP-1212AE-11.pdf
+Processed: Datasheet\IHLP-1212AZ-01\IHLP-1212AZ-01.pdf
+Processed: Datasheet\IHLP-1212AZ-51\IHLP-1212AZ-51.pdf
+Processed: Datasheet\IHLP-1212AZ-5A\IHLP-1212AZ-5A.pdf
+Processed: Datasheet\IHLP-1212AZ-A1\IHLP-1212AZ-A1.pdf
+Processed: Datasheet\IHLP-1212BZ-01\IHLP-1212BZ-01.pdf
+Processed: Datasheet\IHLP-1212BZ-11\IHLP-1212BZ-11.pdf
+Processed: Datasheet\IHLP-1212BZ-1L\IHLP-1212BZ-1L.pdf
+Processed: Datasheet\IHLP-1212BZ-51\IHLP-1212BZ-51.pdf
+Processed: Datasheet\IHLP-1212BZ-5A\IHLP-1212BZ-5A.pdf
+Processed: Datasheet\IHLP-1212BZ-A1\IHLP-1212BZ-A1.pdf
+Processed: Datasheet\IHLP-1616AB-01\IHLP-1616AB-01.pdf
+Processed: Datasheet\IHLP-1616AB-11\IHLP-1616AB-11.pdf
+Processed: Datasheet\IHLP-1616AB-1A\IHLP-1616AB-1A.pdf
+Processed: Datasheet\IHLP-1616AB-1L\IHLP-1616AB-1L.pdf
+Processed: Datasheet\IHLP-1616AB-A1\IHLP-1616AB-A1.pdf
+Processed: Datasheet\IHLP-1616AB-L1\IHLP-1616AB-L1.pdf
+Processed: Datasheet\IHLP-1616BZ-01\IHLP-1616BZ-01.pdf
+Processed: Datasheet\IHLP-1616BZ-0H\IHLP-1616BZ-0H.pdf
+Processed: Datasheet\IHLP-1616BZ-11\IHLP-1616BZ-11.pdf
+Processed: Datasheet\IHLP-1616BZ-1A\IHLP-1616BZ-1A.pdf
+Processed: Datasheet\IHLP-1616BZ-1L\IHLP-1616BZ-1L.pdf
+Processed: Datasheet\IHLP-1616BZ-51\IHLP-1616BZ-51.pdf
+Processed: Datasheet\IHLP-1616BZ-5A\IHLP-1616BZ-5A.pdf
+Processed: Datasheet\IHLP-1616BZ-5L\IHLP-1616BZ-5L.pdf
+Processed: Datasheet\IHLP-1616BZ-A1\IHLP-1616BZ-A1.pdf
+Processed: Datasheet\IHLP-1616BZ-L1\IHLP-1616BZ-L1.pdf
+Processed: Datasheet\IHLP-2020AB-01\IHLP-2020AB-01.pdf
+Processed: Datasheet\IHLP-2020BZ-01\IHLP-2020BZ-01.pdf
+Processed: Datasheet\IHLP-2020BZ-11\IHLP-2020BZ-11.pdf
+Processed: Datasheet\IHLP-2020BZ-1A\IHLP-2020BZ-1A.pdf
+Processed: Datasheet\IHLP-2020BZ-1L\IHLP-2020BZ-1L.pdf
+Processed: Datasheet\IHLP-2020BZ-51\IHLP-2020BZ-51.pdf
+Processed: Datasheet\IHLP-2020BZ-5A\IHLP-2020BZ-5A.pdf
+Processed: Datasheet\IHLP-2020BZ-A1\IHLP-2020BZ-A1.pdf
+Processed: Datasheet\IHLP-2020BZ-L1\IHLP-2020BZ-L1.pdf
+Processed: Datasheet\IHLP-2020CZ-01\IHLP-2020CZ-01.pdf
+Processed: Datasheet\IHLP-2020CZ-11\IHLP-2020CZ-11.pdf
+Processed: Datasheet\IHLP-2020CZ-1A\IHLP-2020CZ-1A.pdf
+Processed: Datasheet\IHLP-2020CZ-1L\IHLP-2020CZ-1L.pdf
+Processed: Datasheet\IHLP-2020CZ-51\IHLP-2020CZ-51.pdf
+Processed: Datasheet\IHLP-2020CZ-5A\IHLP-2020CZ-5A.pdf
+Processed: Datasheet\IHLP-2020CZ-5L\IHLP-2020CZ-5L.pdf
+Processed: Datasheet\IHLP-2020CZ-8A\IHLP-2020CZ-8A.pdf
+Processed: Datasheet\IHLP-2020CZ-A1\IHLP-2020CZ-A1.pdf
+Processed: Datasheet\IHLP-2020CZ-L1\IHLP-2020CZ-L1.pdf
+Processed: Datasheet\IHLP-2525AH-01\IHLP-2525AH-01.pdf
+Processed: Datasheet\IHLP-2525AH-A1\IHLP-2525AH-A1.pdf
+Processed: Datasheet\IHLP-2525AH-L1\IHLP-2525AH-L1.pdf
+Processed: Datasheet\IHLP-2525BD-01\IHLP-2525BD-01.pdf
+Processed: Datasheet\IHLP-2525BD-A1\IHLP-2525BD-A1.pdf
+Processed: Datasheet\IHLP-2525BD-L1\IHLP-2525BD-L1.pdf
+Processed: Datasheet\IHLP-2525CZ-01\IHLP-2525CZ-01.pdf
+Processed: Datasheet\IHLP-2525CZ-06\IHLP-2525CZ-06.pdf
+Processed: Datasheet\IHLP-2525CZ-07\IHLP-2525CZ-07.pdf
+Processed: Datasheet\IHLP-2525CZ-11\IHLP-2525CZ-11.pdf
+Processed: Datasheet\IHLP-2525CZ-1A\IHLP-2525CZ-1A.pdf
+Processed: Datasheet\IHLP-2525CZ-1L\IHLP-2525CZ-1L.pdf
+Processed: Datasheet\IHLP-2525CZ-51\IHLP-2525CZ-51.pdf
+Processed: Datasheet\IHLP-2525CZ-5A\IHLP-2525CZ-5A.pdf
+Processed: Datasheet\IHLP-2525CZ-5L\IHLP-2525CZ-5L.pdf
+Processed: Datasheet\IHLP-2525CZ-8A\IHLP-2525CZ-8A.pdf
+Processed: Datasheet\IHLP-2525CZ-A1\IHLP-2525CZ-A1.pdf
+Processed: Datasheet\IHLP-2525CZ-L1\IHLP-2525CZ-L1.pdf
+Processed: Datasheet\IHLP-2525CZ-L6\IHLP-2525CZ-L6.pdf
+Processed: Datasheet\IHLP-2525CZ-L7\IHLP-2525CZ-L7.pdf
+Processed: Datasheet\IHLP-2525EZ-01\IHLP-2525EZ-01.pdf
+Processed: Datasheet\IHLP-2525EZ-A1\IHLP-2525EZ-A1.pdf
+Processed: Datasheet\IHLP-3232CZ-01\IHLP-3232CZ-01.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IHLP-3232CZ-11\IHLP-3232CZ-11.pdf
+Processed: Datasheet\IHLP-3232CZ-11\IHLP-3232CZ-11.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IHLP-3232CZ-1A\IHLP-3232CZ-1A.pdf
+Processed: Datasheet\IHLP-3232CZ-1A\IHLP-3232CZ-1A.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IHLP-3232CZ-1L\IHLP-3232CZ-1L.pdf
+Processed: Datasheet\IHLP-3232CZ-1L\IHLP-3232CZ-1L.pdf
+Processed: Datasheet\IHLP-3232CZ-A1\IHLP-3232CZ-A1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IHLP-3232CZ-L1\IHLP-3232CZ-L1.pdf
+Processed: Datasheet\IHLP-3232CZ-L1\IHLP-3232CZ-L1.pdf
+Processed: Datasheet\IHLP-3232DZ-01\IHLP-3232DZ-01.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IHLP-3232DZ-11\IHLP-3232DZ-11.pdf
+Processed: Datasheet\IHLP-3232DZ-11\IHLP-3232DZ-11.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IHLP-3232DZ-1A\IHLP-3232DZ-1A.pdf
+Processed: Datasheet\IHLP-3232DZ-1A\IHLP-3232DZ-1A.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IHLP-3232DZ-1L\IHLP-3232DZ-1L.pdf
+Processed: Datasheet\IHLP-3232DZ-1L\IHLP-3232DZ-1L.pdf
+Processed: Datasheet\IHLP-3232DZ-51\IHLP-3232DZ-51.pdf
+Processed: Datasheet\IHLP-3232DZ-5A\IHLP-3232DZ-5A.pdf
+Processed: Datasheet\IHLP-3232DZ-5L\IHLP-3232DZ-5L.pdf
+Processed: Datasheet\IHLP-3232DZ-8A\IHLP-3232DZ-8A.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IHLP-3232DZ-A1\IHLP-3232DZ-A1.pdf
+Processed: Datasheet\IHLP-3232DZ-A1\IHLP-3232DZ-A1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IHLP-3232DZ-L1\IHLP-3232DZ-L1.pdf
+Processed: Datasheet\IHLP-3232DZ-L1\IHLP-3232DZ-L1.pdf
+Processed: Datasheet\IHLP-4040DZ-01\IHLP-4040DZ-01.pdf
+Processed: Datasheet\IHLP-4040DZ-11\IHLP-4040DZ-11.pdf
+Processed: Datasheet\IHLP-4040DZ-1A\IHLP-4040DZ-1A.pdf
+Processed: Datasheet\IHLP-4040DZ-1L\IHLP-4040DZ-1L.pdf
+Processed: Datasheet\IHLP-4040DZ-51\IHLP-4040DZ-51.pdf
+Processed: Datasheet\IHLP-4040DZ-5A\IHLP-4040DZ-5A.pdf
+Processed: Datasheet\IHLP-4040DZ-5L\IHLP-4040DZ-5L.pdf
+Processed: Datasheet\IHLP-4040DZ-8A\IHLP-4040DZ-8A.pdf
+Processed: Datasheet\IHLP-4040DZ-A1\IHLP-4040DZ-A1.pdf
+Processed: Datasheet\IHLP-4040DZ-L1\IHLP-4040DZ-L1.pdf
+Processed: Datasheet\IHLP-4040ED-5A\IHLP-4040ED-5A.pdf
+Processed: Datasheet\IHLP-4W40DZ-5A\IHLP-4W40DZ-5A.pdf
+Processed: Datasheet\IHLP-5050CE-01\IHLP-5050CE-01.pdf
+Processed: Datasheet\IHLP-5050CE-06\IHLP-5050CE-06.pdf
+Processed: Datasheet\IHLP-5050CE-07\IHLP-5050CE-07.pdf
+Processed: Datasheet\IHLP-5050CE-A1\IHLP-5050CE-A1.pdf
+Processed: Datasheet\IHLP-5050CE-L1\IHLP-5050CE-L1.pdf
+Processed: Datasheet\IHLP-5050CE-L6\IHLP-5050CE-L6.pdf
+Processed: Datasheet\IHLP-5050CE-L7\IHLP-5050CE-L7.pdf
+Processed: Datasheet\IHLP-5050DC-51\IHLP-5050DC-51.pdf
+Processed: Datasheet\IHLP-5050DC-5A\IHLP-5050DC-5A.pdf
+Processed: Datasheet\IHLP-5050EZ-01\IHLP-5050EZ-01.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IHLP-5050EZ-5A\IHLP-5050EZ-5A.pdf
+Processed: Datasheet\IHLP-5050EZ-5A\IHLP-5050EZ-5A.pdf
+Processed: Datasheet\IHLP-5050EZ-A1\IHLP-5050EZ-A1.pdf
+Processed: Datasheet\IHLP-5050EZ-L1\IHLP-5050EZ-L1.pdf
+Processed: Datasheet\IHLP-5050FD-01\IHLP-5050FD-01.pdf
+Processed: Datasheet\IHLP-5050FD-0P\IHLP-5050FD-0P.pdf
+Processed: Datasheet\IHLP-5050FD-51\IHLP-5050FD-51.pdf
+Processed: Datasheet\IHLP-5050FD-5A\IHLP-5050FD-5A.pdf
+Processed: Datasheet\IHLP-5050FD-5L\IHLP-5050FD-5L.pdf
+Processed: Datasheet\IHLP-5050FD-8A\IHLP-5050FD-8A.pdf
+Processed: Datasheet\IHLP-5050FD-A1\IHLP-5050FD-A1.pdf
+Processed: Datasheet\IHLP-5050FD-AP\IHLP-5050FD-AP.pdf
+Processed: Datasheet\IHLP-5050FD-L1\IHLP-5050FD-L1.pdf
+Processed: Datasheet\IHLP-6767DZ-01\IHLP-6767DZ-01.pdf
+Processed: Datasheet\IHLP-6767DZ-11\IHLP-6767DZ-11.pdf
+Processed: Datasheet\IHLP-6767DZ-1A\IHLP-6767DZ-1A.pdf
+Processed: Datasheet\IHLP-6767DZ-1L\IHLP-6767DZ-1L.pdf
+Processed: Datasheet\IHLP-6767DZ-A1\IHLP-6767DZ-A1.pdf
+Processed: Datasheet\IHLP-6767DZ-L1\IHLP-6767DZ-L1.pdf
+Processed: Datasheet\IHLP-6767GZ-01\IHLP-6767GZ-01.pdf
+Processed: Datasheet\IHLP-6767GZ-11\IHLP-6767GZ-11.pdf
+Processed: Datasheet\IHLP-6767GZ-1A\IHLP-6767GZ-1A.pdf
+Processed: Datasheet\IHLP-6767GZ-1L\IHLP-6767GZ-1L.pdf
+Processed: Datasheet\IHLP-6767GZ-51\IHLP-6767GZ-51.pdf
+Processed: Datasheet\IHLP-6767GZ-5A\IHLP-6767GZ-5A.pdf
+Processed: Datasheet\IHLP-6767GZ-5L\IHLP-6767GZ-5L.pdf
+Processed: Datasheet\IHLP-6767GZ-8A\IHLP-6767GZ-8A.pdf
+Processed: Datasheet\IHLP-6767GZ-A1\IHLP-6767GZ-A1.pdf
+Processed: Datasheet\IHLP-6767GZ-L1\IHLP-6767GZ-L1.pdf
+Processed: Datasheet\IHLP-7575GZ-51\IHLP-7575GZ-51.pdf
+Processed: Datasheet\IHLP-7575GZ-5A\IHLP-7575GZ-5A.pdf
+Processed: Datasheet\IHLP-8787MZ-51\IHLP-8787MZ-51.pdf
+Processed: Datasheet\IHLP-8787MZ-5A\IHLP-8787MZ-5A.pdf
+Processed: Datasheet\IHLP-8787MZ-5L\IHLP-8787MZ-5L.pdf
+Processed: Datasheet\IHLP-8787MZ-8L\IHLP-8787MZ-8L.pdf
+Processed: Datasheet\IHLW-4040CF-11\IHLW-4040CF-11.pdf
+Processed: Datasheet\IHLW-5050CE-01\IHLW-5050CE-01.pdf
+Processed: Datasheet\IHM-2\IHM-2.pdf
+Processed: Datasheet\IHPT\IHPT.pdf
+Processed: Datasheet\IHPT-A\IHPT-A.pdf
+Processed: Datasheet\IHSM-3825\IHSM-3825.pdf
+Processed: Datasheet\IHSM-4825\IHSM-4825.pdf
+Processed: Datasheet\IHSM-5832\IHSM-5832.pdf
+Processed: Datasheet\IHSM-7832\IHSM-7832.pdf
+Processed: Datasheet\IHSR-1616AB-01\IHSR-1616AB-01.pdf
+Processed: Datasheet\IHSR-2525CZ-51\IHSR-2525CZ-51.pdf
+Processed: Datasheet\IHSR-2525CZ-5A\IHSR-2525CZ-5A.pdf
+Processed: Datasheet\IHSR-4040DZ-51\IHSR-4040DZ-51.pdf
+Processed: Datasheet\IHSR-4040DZ-5A\IHSR-4040DZ-5A.pdf
+Processed: Datasheet\IHSR-6767GZ-5A\IHSR-6767GZ-5A.pdf
+Processed: Datasheet\IHTH-0750IZ-51\IHTH-0750IZ-51.pdf
+Processed: Datasheet\IHTH-0750IZ-5A\IHTH-0750IZ-5A.pdf
+Processed: Datasheet\IHTH-1125KZ-51\IHTH-1125KZ-51.pdf
+Processed: Datasheet\IHTH-1125KZ-5A\IHTH-1125KZ-5A.pdf
+Processed: Datasheet\IHTH-1500MZ-5A\IHTH-1500MZ-5A.pdf
+Processed: Datasheet\IHTH-1500TZ-5A\IHTH-1500TZ-5A.pdf
+Processed: Datasheet\IHV\IHV.pdf
+Processed: Datasheet\IHVR-4025JZ-3Z\IHVR-4025JZ-3Z.pdf
+Processed: Datasheet\IHXL-1100OZ-3A\IHXL-1100OZ-3A.pdf
+Processed: Datasheet\IHXL-1500VZ-51\IHXL-1500VZ-51.pdf
+Processed: Datasheet\IHXL-1500VZ-5A\IHXL-1500VZ-5A.pdf
+Processed: Datasheet\IHXL-2000VZ-5A\IHXL-2000VZ-5A.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\ILAS-1206\ILAS-1206.pdf
+Processed: Datasheet\ILAS-1206\ILAS-1206.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\ILB-1206\ILB-1206.pdf
+Processed: Datasheet\ILB-1206\ILB-1206.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\ILBB-0402\ILBB-0402.pdf
+Processed: Datasheet\ILBB-0402\ILBB-0402.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\ILBB-0603\ILBB-0603.pdf
+Processed: Datasheet\ILBB-0603\ILBB-0603.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\ILBB-0805\ILBB-0805.pdf
+Processed: Datasheet\ILBB-0805\ILBB-0805.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\ILBB-1210, ILBB-1806, ILBB-1812\ILBB-1210, ILBB-1806, ILBB-1812.pdf
+Processed: Datasheet\ILBB-1210, ILBB-1806, ILBB-1812\ILBB-1210, ILBB-1806, ILBB-1812.pdf
+Processed: Datasheet\ILC-0402\ILC-0402.pdf
+Processed: Datasheet\ILC-0603\ILC-0603.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\ILHB\ILHB.pdf
+Processed: Datasheet\ILHB\ILHB.pdf
+Processed: Datasheet\ILSB-0603\ILSB-0603.pdf
+Processed: Datasheet\ILSB-0805\ILSB-0805.pdf
+Processed: Datasheet\ILSB-1206\ILSB-1206.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IMC-0402-01\IMC-0402-01.pdf
+Processed: Datasheet\IMC-0402-01\IMC-0402-01.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IMC-0603-01\IMC-0603-01.pdf
+Processed: Datasheet\IMC-0603-01\IMC-0603-01.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IMC-0805-01\IMC-0805-01.pdf
+Processed: Datasheet\IMC-0805-01\IMC-0805-01.pdf
+Processed: Datasheet\IMC-1008\IMC-1008.pdf
+Processed: Datasheet\IMC-1210\IMC-1210.pdf
+Processed: Datasheet\IMC-1210-100\IMC-1210-100.pdf
+Processed: Datasheet\IMC-1812\IMC-1812.pdf
+Processed: Datasheet\IMC-2220\IMC-2220.pdf
+Processed: Datasheet\IMCH-1812\IMCH-1812.pdf
+Processed: Datasheet\IRF-24\IRF-24.pdf
+Processed: Datasheet\IRF-36\IRF-36.pdf
+Processed: Datasheet\IRF-46\IRF-46.pdf
+Processed: Datasheet\ISC-1210\ISC-1210.pdf
+Processed: Datasheet\ISC-1812\ISC-1812.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWAS3010AZEB130KF1\IWAS3010AZEB130KF1.pdf
+Processed: Datasheet\IWAS3010AZEB130KF1\IWAS3010AZEB130KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWAS3222CZEB190JF1\IWAS3222CZEB190JF1.pdf
+Processed: Datasheet\IWAS3222CZEB190JF1\IWAS3222CZEB190JF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWAS3222CZEB190JR1\IWAS3222CZEB190JR1.pdf
+Processed: Datasheet\IWAS3222CZEB190JR1\IWAS3222CZEB190JR1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWAS3827ABEB100JF1\IWAS3827ABEB100JF1.pdf
+Processed: Datasheet\IWAS3827ABEB100JF1\IWAS3827ABEB100JF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWAS3827ABEB110JF1\IWAS3827ABEB110JF1.pdf
+Processed: Datasheet\IWAS3827ABEB110JF1\IWAS3827ABEB110JF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWAS4532AGEB140KF1\IWAS4532AGEB140KF1.pdf
+Processed: Datasheet\IWAS4532AGEB140KF1\IWAS4532AGEB140KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWAS4832AAEB220JF1\IWAS4832AAEB220JF1.pdf
+Processed: Datasheet\IWAS4832AAEB220JF1\IWAS4832AAEB220JF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWAS4832ABEB110JF1\IWAS4832ABEB110JF1.pdf
+Processed: Datasheet\IWAS4832ABEB110JF1\IWAS4832ABEB110JF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWAS4832ABEB130KF1\IWAS4832ABEB130KF1.pdf
+Processed: Datasheet\IWAS4832ABEB130KF1\IWAS4832ABEB130KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWAS4832ADEB150JF1\IWAS4832ADEB150JF1.pdf
+Processed: Datasheet\IWAS4832ADEB150JF1\IWAS4832ADEB150JF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWAS4832AEEB120KF1\IWAS4832AEEB120KF1.pdf
+Processed: Datasheet\IWAS4832AEEB120KF1\IWAS4832AEEB120KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX4646DCEB240JF1\IWTX4646DCEB240JF1.pdf
+Processed: Datasheet\IWTX4646DCEB240JF1\IWTX4646DCEB240JF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX4646DCEB240JR1\IWTX4646DCEB240JR1.pdf
+Processed: Datasheet\IWTX4646DCEB240JR1\IWTX4646DCEB240JR1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX47R0DAEB6R3JF1\IWTX47R0DAEB6R3JF1.pdf
+Processed: Datasheet\IWTX47R0DAEB6R3JF1\IWTX47R0DAEB6R3JF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX47R0DAEB6R3JR1\IWTX47R0DAEB6R3JR1.pdf
+Processed: Datasheet\IWTX47R0DAEB6R3JR1\IWTX47R0DAEB6R3JR1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX47R0EBEB240JF1\IWTX47R0EBEB240JF1.pdf
+Processed: Datasheet\IWTX47R0EBEB240JF1\IWTX47R0EBEB240JF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX47R0EBEB240JR1\IWTX47R0EBEB240JR1.pdf
+Processed: Datasheet\IWTX47R0EBEB240JR1\IWTX47R0EBEB240JR1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX5050CZEB6R3KF1\IWTX5050CZEB6R3KF1.pdf
+Processed: Datasheet\IWTX5050CZEB6R3KF1\IWTX5050CZEB6R3KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX5050DEEB100KF1\IWTX5050DEEB100KF1.pdf
+Processed: Datasheet\IWTX5050DEEB100KF1\IWTX5050DEEB100KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX5050DZEB6R3KF1\IWTX5050DZEB6R3KF1.pdf
+Processed: Datasheet\IWTX5050DZEB6R3KF1\IWTX5050DZEB6R3KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX5050FEEB100KF1\IWTX5050FEEB100KF1.pdf
+Processed: Datasheet\IWTX5050FEEB100KF1\IWTX5050FEEB100KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX50R0CZEB6R3KF1\IWTX50R0CZEB6R3KF1.pdf
+Processed: Datasheet\IWTX50R0CZEB6R3KF1\IWTX50R0CZEB6R3KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX50R0DZEB6R3KF1\IWTX50R0DZEB6R3KF1.pdf
+Processed: Datasheet\IWTX50R0DZEB6R3KF1\IWTX50R0DZEB6R3KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX5547EEEB8R5KF1\IWTX5547EEEB8R5KF1.pdf
+Processed: Datasheet\IWTX5547EEEB8R5KF1\IWTX5547EEEB8R5KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX5555DEEB100KF1\IWTX5555DEEB100KF1.pdf
+Processed: Datasheet\IWTX5555DEEB100KF1\IWTX5555DEEB100KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX55R0DZEB8R9KF1\IWTX55R0DZEB8R9KF1.pdf
+Processed: Datasheet\IWTX55R0DZEB8R9KF1\IWTX55R0DZEB8R9KF1.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTX9955DEEB110KF3\IWTX9955DEEB110KF3.pdf
+Processed: Datasheet\IWTX9955DEEB110KF3\IWTX9955DEEB110KF3.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTXA148DGEB9R8KF3\IWTXA148DGEB9R8KF3.pdf
+Processed: Datasheet\IWTXA148DGEB9R8KF3\IWTXA148DGEB9R8KF3.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\IWTXA653FZEB120KF3\IWTXA653FZEB120KF3.pdf
+Processed: Datasheet\IWTXA653FZEB120KF3\IWTXA653FZEB120KF3.pdf
+Processed: Datasheet\LPE-3325\LPE-3325.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\LPE-3325-CST\LPE-3325-CST.pdf
+Processed: Datasheet\LPE-3325-CST\LPE-3325-CST.pdf
+Processed: Datasheet\LPE-4841\LPE-4841.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\LPE-5047\LPE-5047.pdf
+Processed: Datasheet\LPE-5047\LPE-5047.pdf
+Processed: Datasheet\LPE-6562\LPE-6562.pdf
+Processed: Datasheet\LPE-6855\LPE-6855.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\LPT-3535\LPT-3535.pdf
+Processed: Datasheet\LPT-3535\LPT-3535.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\LPT-4545\LPT-4545.pdf
+Processed: Datasheet\LPT-4545\LPT-4545.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\RFLW 3N\RFLW 3N.pdf
+Processed: Datasheet\RFLW 3N\RFLW 3N.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\RFLW 5N\RFLW 5N.pdf
+Processed: Datasheet\RFLW 5N\RFLW 5N.pdf
+Processed: Datasheet\SGIHLP-24DC-8\SGIHLP-24DC-8.pdf
+Processed: Datasheet\SGIHLP-34EB-8\SGIHLP-34EB-8.pdf
+Processed: Datasheet\SGIHLP-41FA-8\SGIHLP-41FA-8.pdf
+Processed: Datasheet\SGIHLP-48FA-8\SGIHLP-48FA-8.pdf
+Processed: Datasheet\SGIHLP-60HE-8\SGIHLP-60HE-8.pdf
+Processed: Datasheet\SGIHLP-73HF-8\SGIHLP-73HF-8.pdf
+Processed: Datasheet\SGIHLP-97OZ-8\SGIHLP-97OZ-8.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\TJ\TJ.pdf
+Processed: Datasheet\TJ\TJ.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\TJ3-HT\TJ3-HT.pdf
+Processed: Datasheet\TJ3-HT\TJ3-HT.pdf
+PART NUMBER column not found in DataFrame for file: Datasheet\TJ5-HT\TJ5-HT.pdf
+Processed: Datasheet\TJ5-HT\TJ5-HT.pdf
+Master JSON created.
