@@ -1,0 +1,8 @@
+PARAMETER;VALUE;UNIT;File Name;Image Path;Description
+Inductance Range (1);0.018 to 0.150;μH;RFLW 5N;image/small_inductors/61087.png;"High Frequency Wire Bondable RF Spiral Inductor, 0.050"" x 0.050"""
+Tolerance (2);± 20;%;RFLW 5N;image/small_inductors/61087.png;"High Frequency Wire Bondable RF Spiral Inductor, 0.050"" x 0.050"""
+Max. Power Handling (3);125;mW;RFLW 5N;image/small_inductors/61087.png;"High Frequency Wire Bondable RF Spiral Inductor, 0.050"" x 0.050"""
+Operating Temperature;-55 to +125;°C;RFLW 5N;image/small_inductors/61087.png;"High Frequency Wire Bondable RF Spiral Inductor, 0.050"" x 0.050"""
+Storage Temperature;-55 to +125;°C;RFLW 5N;image/small_inductors/61087.png;"High Frequency Wire Bondable RF Spiral Inductor, 0.050"" x 0.050"""
+Stability, 1000 h, +125 °C, 125 mW;2.0 % max. R/R;%;RFLW 5N;image/small_inductors/61087.png;"High Frequency Wire Bondable RF Spiral Inductor, 0.050"" x 0.050"""
+ESD: AEC-Q200-002, component classification 5B (up to 16 kV);5.0 % max. R/R;%;RFLW 5N;image/small_inductors/61087.png;"High Frequency Wire Bondable RF Spiral Inductor, 0.050"" x 0.050"""

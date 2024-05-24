@@ -1,43 +1,6 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 % AT 100 kHz,
-1 V, 0 A
-(μH)","DCR
-TYP.
-25 °C
-(m)","DCR
-MAX.
-25 °C
-(m)","HEAT RATING
-CURRENT
-DC TYP.
-(A) (3)","SATURATION
-CURRENT
-DC TYP.
-(A) (4)"
-IFLR-4027EZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 2 MHz",IFLR4027EZER85NM01,0.085,0.38,0.42,50.0,70.0
-IFLR-4027EZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 2 MHz",IFLR4027EZERR10M01,0.1,0.38,0.42,50.0,70.0
-IFLR-4027EZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 2 MHz",IFLR4027EZERR12M01,0.12,0.38,0.42,50.0,52.0
-IFLR-4027EZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 2 MHz",IFLR4027EZERR15M01,0.155,0.38,0.42,50.0,40.0
-IFLR-4027EZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 2 MHz",IFLR4027EZERR22M01,0.22,0.38,0.42,50.0,33.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 1 V, 0 A (μH);DCR TYP. 25 °C (m);DCR MAX. 25 °C (m);HEAT RATING CURRENT DC TYP. (A) (3);SATURATION CURRENT DC TYP. (A) (4)
+IFLR-4027EZ-01;image/small_inductors/34421.png;Low Profile, High Current Inductors;IFLR4027EZER0R085M01;0.085;0.38;0.42;50;70
+IFLR-4027EZ-01;image/small_inductors/34421.png;Low Profile, High Current Inductors;IFLR4027EZER0R1M01;0.100;0.38;0.42;50;70
+IFLR-4027EZ-01;image/small_inductors/34421.png;Low Profile, High Current Inductors;IFLR4027EZER0R12M01;0.120;0.38;0.42;50;52
+IFLR-4027EZ-01;image/small_inductors/34421.png;Low Profile, High Current Inductors;IFLR4027EZER0R155M01;0.155;0.38;0.42;50;40
+IFLR-4027EZ-01;image/small_inductors/34421.png;Low Profile, High Current Inductors;IFLR4027EZER0R22M01;0.220;0.38;0.42;50;33

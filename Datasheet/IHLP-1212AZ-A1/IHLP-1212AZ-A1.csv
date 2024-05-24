@@ -1,43 +1,5 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANC
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","E
-DCR
-TYP.
-25 °C
-(m)","DCR
-MAX.
-25 °C
-(m)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLP-1212AZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1212AZERR1MA1,0.1,8.6,9.2,10.5,19.21,475.0
-IHLP-1212AZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1212AZERR22MA1,0.22,13.34,14.42,8.14,9.84,270.0
-IHLP-1212AZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1212AZERR47MA1,0.47,35.9,37.97,4.81,7.25,140.0
-IHLP-1212AZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1212AZER1R0MA1,1.0,63.61,66.38,3.47,5.23,95.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANC ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);E DCR TYP. 25 °C (m);DCR MAX. 25 °C (m);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLP-1212AZ-A1;image/small_inductors/34532.png;IHLP® Automotive Inductors, High Saturation Series;IHLP1212AZER0R1MA1;0.10;8.60;9.20;10.50;19.21;475
+IHLP-1212AZ-A1;image/small_inductors/34532.png;IHLP® Automotive Inductors, High Saturation Series;IHLP1212AZER0R22MA1;0.22;13.34;14.42;8.14;9.84;270
+IHLP-1212AZ-A1;image/small_inductors/34532.png;IHLP® Automotive Inductors, High Saturation Series;IHLP1212AZER0R47MA1;0.47;35.90;37.97;4.81;7.25;140
+IHLP-1212AZ-A1;image/small_inductors/34532.png;IHLP® Automotive Inductors, High Saturation Series;IHLP1212AZER1R0MA1;1.0;63.61;66.38;3.47;5.23;95

@@ -1,38 +1,5 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 % AT 100 kHz,
-1 V, 0 A
-(μH)","DCR
-TYP.
-25 °C
-(m)","DCR
-MAX.
-25 °C
-(m)","HEAT RATING
-CURRENT
-DC TYP.
-(A) (3)","SATURATION
-CURRENT
-DC TYP.
-(A) (4)"
-IFLR-5151HZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 2 MHz",IFLR5151HZERR21M01,0.21,0.32,0.35,50.0,71.0
-IFLR-5151HZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 2 MHz",IFLR5151HZERR26M01,0.26,0.32,0.35,50.0,60.0
-IFLR-5151HZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 2 MHz",IFLR5151HZERR32M01,0.32,0.32,0.35,50.0,50.0
-IFLR-5151HZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 2 MHz",IFLR5151HZERR44M01,0.44,0.32,0.35,50.0,35.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 1 V, 0 A (μH);DCR TYP. 25 °C (m);DCR MAX. 25 °C (m);HEAT RATING CURRENT DC TYP. (A) (3);SATURATION CURRENT DC TYP. (A) (4)
+IFLR-5151HZ-01;image/small_inductors/34423.png;Low Profile, High Current Inductors;IFLR5151HZER0R21M01;0.21;0.32;0.35;50;71
+IFLR-5151HZ-01;image/small_inductors/34423.png;Low Profile, High Current Inductors;IFLR5151HZER0R26M01;0.26;0.32;0.35;50;60
+IFLR-5151HZ-01;image/small_inductors/34423.png;Low Profile, High Current Inductors;IFLR5151HZER0R32M01;0.32;0.32;0.35;50;50
+IFLR-5151HZ-01;image/small_inductors/34423.png;Low Profile, High Current Inductors;IFLR5151HZER0R44M01;0.44;0.32;0.35;50;35

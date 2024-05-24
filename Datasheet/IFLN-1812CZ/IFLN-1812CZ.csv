@@ -1,31 +1,5 @@
-File Name,Description,PART NUMBER,"COMMON MODE
-IMPEDANCE AT 10 MHz,
-TYP.
-(Ω)","INDUCTANCE
-+50 % / - 30 %,
-0.1 V, 100 kHz
-(μH)","DCR MAX.
-25 °C
-(Ω)","HEAT RATING
-CURRENT DC TYP.
-(mA) (1)"
-IFLN-1812CZ,"www.vishay.com Vishay Dale
-Surface-Mount Common Mode Choke Filter
-FEATURES
-• High impedance ferrite with precision winding
-• 4.5 mm x 3.2 mm x 3.0 mm SMD package",IFLN1812CZER601N,600.0,11.0,0.6,360.0
-IFLN-1812CZ,"www.vishay.com Vishay Dale
-Surface-Mount Common Mode Choke Filter
-FEATURES
-• High impedance ferrite with precision winding
-• 4.5 mm x 3.2 mm x 3.0 mm SMD package",IFLN1812CZER122N,1200.0,22.0,1.0,310.0
-IFLN-1812CZ,"www.vishay.com Vishay Dale
-Surface-Mount Common Mode Choke Filter
-FEATURES
-• High impedance ferrite with precision winding
-• 4.5 mm x 3.2 mm x 3.0 mm SMD package",IFLN1812CZER282N,2800.0,51.0,1.0,230.0
-IFLN-1812CZ,"www.vishay.com Vishay Dale
-Surface-Mount Common Mode Choke Filter
-FEATURES
-• High impedance ferrite with precision winding
-• 4.5 mm x 3.2 mm x 3.0 mm SMD package",IFLN1812CZER582N,5800.0,100.0,2.0,200.0
+File Name;Image Path;Description;PART NUMBER;COMMON MODE IMPEDANCE AT 10 MHz, TYP. (Ω);INDUCTANCE +50 % / - 30 %, 0.1 V, 100 kHz (μH);DCR MAX. 25 °C (Ω);HEAT RATING CURRENT DC TYP. (mA) (1)
+IFLN-1812CZ;image/small_inductors/34608.png;Surface-Mount Common Mode Choke Filter;IFLN1812CZER601M;600;11;0.6;360
+IFLN-1812CZ;image/small_inductors/34608.png;Surface-Mount Common Mode Choke Filter;IFLN1812CZER122M;1200;22;1;310
+IFLN-1812CZ;image/small_inductors/34608.png;Surface-Mount Common Mode Choke Filter;IFLN1812CZER282M;2800;51;1;230
+IFLN-1812CZ;image/small_inductors/34608.png;Surface-Mount Common Mode Choke Filter;IFLN1812CZER582M;5800;100;2;200

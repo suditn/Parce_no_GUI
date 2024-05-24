@@ -1,36 +1,6 @@
-File Name,Description,PART NUMBER,"L INDUCTANCE
-0
-± 20 % AT 0 A
-(μH)","DCR TYP.
-25 °C
-(mΩ)","DCR MAX.
-25 °C
-(mΩ)","HEAT RATING
-CURRENT DC TYP.
-(A) (1)","SATURATION CURRENT DC TY
-(A)",
-IHLP-1008ABEZ-5A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Temperature (165 °C) Series
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes withou t",,,,,,20 % DROP (2),30 % DROP (
-IHLP-1008ABEZ-5A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Temperature (165 °C) Series
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes withou t",IHLP1008ABEZR15M5A,0.15,12.0,15.0,6.5,8.5,10.2
-IHLP-1008ABEZ-5A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Temperature (165 °C) Series
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes withou t",IHLP1008ABEZR47M5A,0.47,21.0,26.0,4.7,5.3,6.5
-IHLP-1008ABEZ-5A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Temperature (165 °C) Series
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes withou t",IHLP1008ABEZ1R0M5A,1.0,35.0,42.0,3.8,3.9,4.8
-IHLP-1008ABEZ-5A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Temperature (165 °C) Series
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes withou t",IHLP1008ABEZ2R2M5A,2.2,70.0,84.0,2.6,2.8,3.5
+File Name;Image Path;Description;PART NUMBER;L INDUCTANCE 0 ± 20 % AT 0 A (μH);DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TY (A);30 % DROP (
+IHLP-1008ABEZ-5A;image/small_inductors/34609.png;IHLP® Automotive Inductors, High Temperature (165 °C) Series;IHLP1008ABEZER000M5A;;;;;20 % DROP (2);30 % DROP (
+IHLP-1008ABEZ-5A;image/small_inductors/34609.png;IHLP® Automotive Inductors, High Temperature (165 °C) Series;IHLP1008ABEZER0R15M5A;0.15;12.0;15.0;6.5;8.5;10.2
+IHLP-1008ABEZ-5A;image/small_inductors/34609.png;IHLP® Automotive Inductors, High Temperature (165 °C) Series;IHLP1008ABEZER0R47M5A;0.47;21.0;26.0;4.7;5.3;6.5
+IHLP-1008ABEZ-5A;image/small_inductors/34609.png;IHLP® Automotive Inductors, High Temperature (165 °C) Series;IHLP1008ABEZER1R0M5A;1.0;35.0;42.0;3.8;3.9;4.8
+IHLP-1008ABEZ-5A;image/small_inductors/34609.png;IHLP® Automotive Inductors, High Temperature (165 °C) Series;IHLP1008ABEZER2R2M5A;2.2;70.0;84.0;2.6;2.8;3.5

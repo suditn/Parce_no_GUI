@@ -1,84 +1,14 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-± 10 %
-AT 25 °C
-(mΩ)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZERR1M06,0.1,1.37,32.5,60.0,400.0
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZERR2M06,0.2,2.34,24.0,41.0,150.0
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZERR33M06,0.33,3.2,20.0,30.0,100.0
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZERR47M06,0.47,3.86,17.5,26.0,75.0
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZERR68M06,0.68,5.2,15.5,25.0,62.0
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZERR82M06,0.82,7.41,13.0,24.0,60.0
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZER1R0M06,1.0,8.84,11.0,22.0,55.0
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZER1R5M06,1.5,14.5,9.0,18.0,40.0
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZER2R2M06,2.2,17.73,8.0,14.0,38.0
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZER3R3M06,3.3,28.21,6.0,13.5,30.0
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZER4R7M06,4.7,37.11,5.5,10.0,25.0
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZER8R2M06,8.2,61.47,4.0,7.5,17.0
-IHLM-2525CZ-06,"www.vishay.com Vishay Dale
-Low Profile, Power Inductors - DC Resistance Tolerance 10 % -
-Special Molding
-FEATURES
-• Lowest molded height (3.0 mm) in this package",IHLM2525CZER100M06,10.0,97.71,3.0,7.0,16.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR ± 10 % AT 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER0R1M06;0.10;1.37;32.5;60;400
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER0R2M06;0.20;2.34;24;41;150
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER0R33M06;0.33;3.20;20;30;100
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER0R47M06;0.47;3.86;17.5;26;75
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER0R68M06;0.68;5.20;15.5;25;62
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER0R82M06;0.82;7.41;13;24;60
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER1R0M06;1.0;8.84;11;22;55
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER1R5M06;1.5;14.50;9;18;40
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER2R2M06;2.2;17.73;8;14;38
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER3R3M06;3.3;28.21;6;13.5;30
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER4R7M06;4.7;37.11;5.5;10;25
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER8R2M06;8.2;61.47;4;7.5;17
+IHLM-2525CZ-06;image/small_inductors/34185.png;Low Profile, Power Inductors - DC Resistance Tolerance 10 % -;IHLM2525CZER100M06;10;97.71;3;7.0;16

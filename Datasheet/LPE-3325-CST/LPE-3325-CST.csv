@@ -1,0 +1,7 @@
+MODEL;TURNS RATIO;SECONDARY;DCR MAX. ();PRIMARY AMPERES;File Name;Image Path;Description
+;;IND. AT 100 kHz, 0.1 V MIN. (μH);DCR MAX. ();;LPE-3325-CST;image/small_inductors/34155.png;Surface Mount Current Sense Transformers
+LPE-3325-CST030;30;180;1.00;6;LPE-3325-CST;image/small_inductors/34155.png;Surface Mount Current Sense Transformers
+LPE-3325-CST040;40;320;1.35;6;LPE-3325-CST;image/small_inductors/34155.png;Surface Mount Current Sense Transformers
+LPE-3325-CST050;50;500;2.50;6;LPE-3325-CST;image/small_inductors/34155.png;Surface Mount Current Sense Transformers
+LPE-3325-CST070;70;980;4.71;6;LPE-3325-CST;image/small_inductors/34155.png;Surface Mount Current Sense Transformers
+LPE-3325-CST125;125;3000;7.70;6;LPE-3325-CST;image/small_inductors/34155.png;Surface Mount Current Sense Transformers

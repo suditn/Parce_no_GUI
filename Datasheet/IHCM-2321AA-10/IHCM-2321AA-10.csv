@@ -1,46 +1,6 @@
-File Name,Description,PART NUMBER,"L INDUCTANCE
-O
-± 30 % AT 100 kHz,
-0.25 V, 0 A
-(μH)","COMMON MODE
-IMPEDANCE
-AT 10 MHz, TYP.
-(Ω)","DC
-RESISTANCE
-MAX.
-(Ω)","HEAT RATING
-CURRENT
-TYPICAL (EST.)
-(A ) (1)
-DC","SATURATION
-CURRENT
-AT 25 °C TYP.
-(A ) (2)
-DC","LEAKAG
-MAX.
-(μH)"
-IHCM-2321AA-10,"www.vishay.com Vishay Custom Magnetics
-Surface-Mount, Common Mode Choke
-FEATURES
-• Low SMD profile design compatible with
-automated pick and place assembly",IHCM2321AAEG900N10,90.0,380.0,0.0015,31.0,35.0,2.5
-IHCM-2321AA-10,"www.vishay.com Vishay Custom Magnetics
-Surface-Mount, Common Mode Choke
-FEATURES
-• Low SMD profile design compatible with
-automated pick and place assembly",IHCM2321AAEG121N10,120.0,480.0,0.0018,25.0,28.0,3.5
-IHCM-2321AA-10,"www.vishay.com Vishay Custom Magnetics
-Surface-Mount, Common Mode Choke
-FEATURES
-• Low SMD profile design compatible with
-automated pick and place assembly",IHCM2321AAEG251N10,250.0,850.0,0.005,14.0,19.0,7.5
-IHCM-2321AA-10,"www.vishay.com Vishay Custom Magnetics
-Surface-Mount, Common Mode Choke
-FEATURES
-• Low SMD profile design compatible with
-automated pick and place assembly",IHCM2321AAEG301N10,300.0,900.0,0.007,10.0,17.0,8.0
-IHCM-2321AA-10,"www.vishay.com Vishay Custom Magnetics
-Surface-Mount, Common Mode Choke
-FEATURES
-• Low SMD profile design compatible with
-automated pick and place assembly",IHCM2321AAEG481N10,480.0,1200.0,0.0125,8.0,13.0,14.0
+File Name;Image Path;Description;PART NUMBER;L INDUCTANCE O ± 30 % AT 100 kHz, 0.25 V, 0 A (μH);COMMON MODE IMPEDANCE AT 10 MHz, TYP. (Ω);DC RESISTANCE MAX. (Ω);HEAT RATING CURRENT TYPICAL (EST.) (A ) (1) DC;SATURATION CURRENT AT 25 °C TYP. (A ) (2) DC;LEAKAG MAX. (μH)
+IHCM-2321AA-10;image/small_inductors/34560.png;Common Mode Choke;IHCM2321AAER900M10;90;380;0.0015;31;35;2.5
+IHCM-2321AA-10;image/small_inductors/34560.png;Common Mode Choke;IHCM2321AAER121M10;120;480;0.0018;25;28;3.5
+IHCM-2321AA-10;image/small_inductors/34560.png;Common Mode Choke;IHCM2321AAER251M10;250;850;0.0050;14;19;7.5
+IHCM-2321AA-10;image/small_inductors/34560.png;Common Mode Choke;IHCM2321AAER301M10;300;900;0.0070;10;17;8.0
+IHCM-2321AA-10;image/small_inductors/34560.png;Common Mode Choke;IHCM2321AAER481M10;480;1200;0.0125;8;13;14.0

@@ -1,51 +1,6 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 10 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-MAX.
-25 °C
-(mΩ)","HEAT
-RATING
-CURRENT
-DC TYP. (1)
-(A)","SATURATION
-CURRENT
-DC TYP.
-AT 100 °C (2)
-(A)","SRF
-TYP.
-(MHz)","HIPOT
-CORE
-TO WIRE,
-500 V ,
-DC
-2 s
-(mA)"
-IHDF-1300AE-1A,"www.vishay.com Vishay Custom Magnetics
-Low Profile, Through-Hole, High Current Inductors,
-Edge-Wound Series
-FEATURES
-• Low loss ferrite core for high performance",IHDF1300AEER1R0M1A,1.0,0.79,72.0,230.0,39.0,< 2
-IHDF-1300AE-1A,"www.vishay.com Vishay Custom Magnetics
-Low Profile, Through-Hole, High Current Inductors,
-Edge-Wound Series
-FEATURES
-• Low loss ferrite core for high performance",IHDF1300AEER2R2M1A,2.2,1.11,59.0,149.0,23.0,< 2
-IHDF-1300AE-1A,"www.vishay.com Vishay Custom Magnetics
-Low Profile, Through-Hole, High Current Inductors,
-Edge-Wound Series
-FEATURES
-• Low loss ferrite core for high performance",IHDF1300AEER3R3M1A,3.3,1.11,59.0,112.0,18.0,< 2
-IHDF-1300AE-1A,"www.vishay.com Vishay Custom Magnetics
-Low Profile, Through-Hole, High Current Inductors,
-Edge-Wound Series
-FEATURES
-• Low loss ferrite core for high performance",IHDF1300AEER4R7M1A,4.7,1.11,59.0,92.0,16.0,< 2
-IHDF-1300AE-1A,"www.vishay.com Vishay Custom Magnetics
-Low Profile, Through-Hole, High Current Inductors,
-Edge-Wound Series
-FEATURES
-• Low loss ferrite core for high performance",IHDF1300AEER5R0M1A,5.0,1.11,59.0,78.0,15.0,< 2
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 10 % AT 100 kHz, 0.25 V, 0 A (μH);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (1) (A);SATURATION CURRENT DC TYP. AT 100 °C (2) (A);SRF TYP. (MHz);HIPOT CORE TO WIRE, 500 V , DC 2 s (mA)
+IHDF-1300AE-1A;image/small_inductors/34557.png;Low Profile, Through-Hole, High Current Inductors,;IHDF1300AEER1R0M1A;1.0;0.79;72.0;230;39;< 2
+IHDF-1300AE-1A;image/small_inductors/34557.png;Low Profile, Through-Hole, High Current Inductors,;IHDF1300AEER2R2M1A;2.2;1.11;59.0;149;23;< 2
+IHDF-1300AE-1A;image/small_inductors/34557.png;Low Profile, Through-Hole, High Current Inductors,;IHDF1300AEER3R3M1A;3.3;1.11;59.0;112;18;< 2
+IHDF-1300AE-1A;image/small_inductors/34557.png;Low Profile, Through-Hole, High Current Inductors,;IHDF1300AEER4R7M1A;4.7;1.11;59.0;92;16;< 2
+IHDF-1300AE-1A;image/small_inductors/34557.png;Low Profile, Through-Hole, High Current Inductors,;IHDF1300AEER5R0M1A;5.0;1.11;59.0;78;15;< 2

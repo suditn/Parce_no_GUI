@@ -1,70 +1,11 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-25 °C
-(mΩ)",,,,"HEAT
-RATING
-CURRENT
-DC
-I
-DC
-(A) (3)",,,,"SATURATION
-CURRENT
-DC
-I
-SAT
-(A) (4)",,,
-IFSC-1008AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1008ABER000M01,,"TYP,","MAX,","MAX,","MAX,","TYP,","MAX,","MAX,","MAX,","TYP,","MAX,","MAX,","MAX,"
-IFSC-1008AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1008ABERR47M01,0.47,24.0,28.5,3.35,3.5,3.7,28.5,3.35,3.5,3.9,28.5,3.35,3.5
-IFSC-1008AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1008ABER1R0M01,1.0,37.0,43.0,2.4,2.5,2.65,43.0,2.4,2.5,2.75,43.0,2.4,2.5
-IFSC-1008AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1008ABER1R5M01,1.5,63.0,72.0,2.07,2.12,2.3,72.0,2.07,2.12,2.35,72.0,2.07,2.12
-IFSC-1008AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1008ABER2R2M01,2.2,80.0,90.0,1.8,1.95,1.9,90.0,1.8,1.95,2.15,90.0,1.8,1.95
-IFSC-1008AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1008ABER3R3M01,3.3,140.0,155.0,1.35,1.6,1.5,155.0,1.35,1.6,1.7,155.0,1.35,1.6
-IFSC-1008AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1008ABER4R7M01,4.7,185.0,210.0,1.25,1.4,1.4,210.0,1.25,1.4,1.5,210.0,1.25,1.4
-IFSC-1008AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1008ABER6R8M01,6.8,325.0,370.0,0.9,1.04,1.0,370.0,0.9,1.04,1.15,370.0,0.9,1.04
-IFSC-1008AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1008ABER100M01,10.0,359.0,409.0,0.81,0.8,0.9,409.0,0.81,0.8,0.87,409.0,0.81,0.8
-IFSC-1008AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1008ABER220M01,22.0,900.0,1050.0,0.46,0.5,0.52,1050.0,0.46,0.5,0.56,1050.0,0.46,0.5
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR 25 °C (mΩ);MAX.;MAX.;MAX.;HEAT RATING CURRENT DC I DC (A) (3);MAX.;MAX.;MAX.;SATURATION CURRENT DC I SAT (A) (4);MAX.;MAX.;MAX.
+IFSC-1008AB-01;image/small_inductors/34294.png;Low Profile, High Current Inductors;IFSC1008ABER000M01;;TYP.;MAX.;MAX.;MAX.;TYP.;MAX.;MAX.;MAX.;TYP.;MAX.;MAX.;MAX.
+IFSC-1008AB-01;image/small_inductors/34294.png;Low Profile, High Current Inductors;IFSC1008ABER0R47M01;0.47;24;28.5;3.35;3.50;3.70;28.5;3.35;3.50;3.90;28.5;3.35;3.50
+IFSC-1008AB-01;image/small_inductors/34294.png;Low Profile, High Current Inductors;IFSC1008ABER1R0M01;1.0;37;43.0;2.40;2.50;2.65;43.0;2.40;2.50;2.75;43.0;2.40;2.50
+IFSC-1008AB-01;image/small_inductors/34294.png;Low Profile, High Current Inductors;IFSC1008ABER1R5M01;1.5;63;72.0;2.07;2.12;2.30;72.0;2.07;2.12;2.35;72.0;2.07;2.12
+IFSC-1008AB-01;image/small_inductors/34294.png;Low Profile, High Current Inductors;IFSC1008ABER2R2M01;2.2;80;90.0;1.80;1.95;1.90;90.0;1.80;1.95;2.15;90.0;1.80;1.95
+IFSC-1008AB-01;image/small_inductors/34294.png;Low Profile, High Current Inductors;IFSC1008ABER3R3M01;3.3;140;155;1.35;1.60;1.50;155;1.35;1.60;1.70;155;1.35;1.60
+IFSC-1008AB-01;image/small_inductors/34294.png;Low Profile, High Current Inductors;IFSC1008ABER4R7M01;4.7;185;210;1.25;1.40;1.40;210;1.25;1.40;1.50;210;1.25;1.40
+IFSC-1008AB-01;image/small_inductors/34294.png;Low Profile, High Current Inductors;IFSC1008ABER6R8M01;6.8;325;370;0.90;1.04;1.00;370;0.90;1.04;1.15;370;0.90;1.04
+IFSC-1008AB-01;image/small_inductors/34294.png;Low Profile, High Current Inductors;IFSC1008ABER100M01;10;359;409;0.81;0.80;0.90;409;0.81;0.80;0.87;409;0.81;0.80
+IFSC-1008AB-01;image/small_inductors/34294.png;Low Profile, High Current Inductors;IFSC1008ABER220M01;22;900;1050;0.46;0.50;0.52;1050;0.46;0.50;0.56;1050;0.46;0.50

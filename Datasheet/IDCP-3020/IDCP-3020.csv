@@ -1,112 +1,22 @@
-File Name,Description,PART NUMBER,"INDUCTANCE
-(μH)","TEST
-FREQUENCY
-L","DCR MAX.
-(Ω)","RATED DC
-CURRENT
-(A) (1)"
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER100M,10.0,"2,52 MHz",0.07,2.3
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER120M,12.0,"2,52 MHz",0.08,2.0
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER150M,15.0,"2,52 MHz",0.09,1.8
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER180M,18.0,"2,52 MHz",0.1,1.6
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER220M,22.0,"2,52 MHz",0.11,1.5
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER270M,27.0,"2,52 MHz",0.12,1.3
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER330M,33.0,"2,52 MHz",0.13,1.2
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER390M,39.0,"2,52 MHz",0.16,1.1
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER470M,47.0,"2,52 MHz",0.18,1.1
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER560M,56.0,"2,52 MHz",0.24,0.94
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER680M,68.0,"2,52 MHz",0.28,0.85
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER820M,82.0,"2,52 MHz",0.37,0.78
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER101M,100.0,1 kHz,0.43,0.72
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER121M,120.0,1 kHz,0.47,0.66
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER151M,150.0,1 kHz,0.64,0.58
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER181M,180.0,1 kHz,0.71,0.51
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER221M,220.0,1 kHz,0.96,0.49
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER271M,270.0,1 kHz,1.11,0.42
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER331M,330.0,1 kHz,1.26,0.4
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER391M,390.0,1 kHz,1.77,0.36
-IDCP-3020,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3020ER471M,470.0,1 kHz,1.96,0.34
+File Name;Image Path;Description;PART NUMBER;INDUCTANCE (μH);TEST FREQUENCY L;DCR MAX. (Ω);RATED DC CURRENT (A) (1)
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER100M;10.0;2.52 MHz;0.07;2.30
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER120M;12.0;2.52 MHz;0.08;2.00
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER150M;15.0;2.52 MHz;0.09;1.80
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER180M;18.0;2.52 MHz;0.10;1.60
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER220M;22.0;2.52 MHz;0.11;1.50
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER270M;27.0;2.52 MHz;0.12;1.30
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER330M;33.0;2.52 MHz;0.13;1.20
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER390M;39.0;2.52 MHz;0.16;1.10
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER470M;47.0;2.52 MHz;0.18;1.10
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER560M;56.0;2.52 MHz;0.24;0.94
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER680M;68.0;2.52 MHz;0.28;0.85
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER820M;82.0;2.52 MHz;0.37;0.78
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER101M;100.0;1 kHz;0.43;0.72
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER121M;120.0;1 kHz;0.47;0.66
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER151M;150.0;1 kHz;0.64;0.58
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER181M;180.0;1 kHz;0.71;0.51
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER221M;220.0;1 kHz;0.96;0.49
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER271M;270.0;1 kHz;1.11;0.42
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER331M;330.0;1 kHz;1.26;0.40
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER391M;390.0;1 kHz;1.77;0.36
+IDCP-3020;image/small_inductors/34092.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3020ER471M;470.0;1 kHz;1.96;0.34

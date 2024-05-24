@@ -1,73 +1,11 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANC
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","E
-DCR
-TYP.
-25 °C
-(m)","DCR
-MAX.
-25 °C
-(m)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLP-2020BZ-1A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020BZERR1M1A,0.1,2.7,2.9,21.0,25.0,266.0
-IHLP-2020BZ-1A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020BZERR22M1A,0.22,4.1,4.5,17.0,13.0,146.0
-IHLP-2020BZ-1A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020BZERR33M1A,0.33,5.5,5.9,13.0,7.5,108.0
-IHLP-2020BZ-1A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020BZERR47M1A,0.47,7.1,7.7,12.5,8.0,83.0
-IHLP-2020BZ-1A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020BZER1R0M1A,1.0,16.8,18.1,7.5,7.0,66.0
-IHLP-2020BZ-1A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020BZER2R2M1A,2.2,34.9,37.7,5.0,5.5,41.0
-IHLP-2020BZ-1A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020BZER3R3M1A,3.3,53.5,57.8,4.1,4.7,29.0
-IHLP-2020BZ-1A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020BZER4R7M1A,4.7,75.3,81.3,3.2,3.0,27.0
-IHLP-2020BZ-1A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020BZER5R6M1A,5.6,85.2,92.0,3.0,2.2,24.0
-IHLP-2020BZ-1A,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020BZER6R8M1A,6.8,114.0,121.0,2.8,2.1,21.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANC ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);E DCR TYP. 25 °C (m);DCR MAX. 25 °C (m);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLP-2020BZ-1A;image/small_inductors/34303.png;IHLP® Automotive Inductors, Low DCR Series;IHLP2020BZER0R1M1A;0.10;2.7;2.9;21.0;25.0;266
+IHLP-2020BZ-1A;image/small_inductors/34303.png;IHLP® Automotive Inductors, Low DCR Series;IHLP2020BZER0R22M1A;0.22;4.1;4.5;17.0;13.0;146
+IHLP-2020BZ-1A;image/small_inductors/34303.png;IHLP® Automotive Inductors, Low DCR Series;IHLP2020BZER0R33M1A;0.33;5.5;5.9;13.0;7.5;108
+IHLP-2020BZ-1A;image/small_inductors/34303.png;IHLP® Automotive Inductors, Low DCR Series;IHLP2020BZER0R47M1A;0.47;7.1;7.7;12.5;8.0;83
+IHLP-2020BZ-1A;image/small_inductors/34303.png;IHLP® Automotive Inductors, Low DCR Series;IHLP2020BZER1R0M1A;1.0;16.8;18.1;7.5;7.0;66
+IHLP-2020BZ-1A;image/small_inductors/34303.png;IHLP® Automotive Inductors, Low DCR Series;IHLP2020BZER2R2M1A;2.2;34.9;37.7;5.0;5.5;41
+IHLP-2020BZ-1A;image/small_inductors/34303.png;IHLP® Automotive Inductors, Low DCR Series;IHLP2020BZER3R3M1A;3.3;53.5;57.8;4.1;4.7;29
+IHLP-2020BZ-1A;image/small_inductors/34303.png;IHLP® Automotive Inductors, Low DCR Series;IHLP2020BZER4R7M1A;4.7;75.3;81.3;3.2;3.0;27
+IHLP-2020BZ-1A;image/small_inductors/34303.png;IHLP® Automotive Inductors, Low DCR Series;IHLP2020BZER5R6M1A;5.6;85.2;92.0;3.0;2.2;24
+IHLP-2020BZ-1A;image/small_inductors/34303.png;IHLP® Automotive Inductors, Low DCR Series;IHLP2020BZER6R8M1A;6.8;114.0;121.0;2.8;2.1;21

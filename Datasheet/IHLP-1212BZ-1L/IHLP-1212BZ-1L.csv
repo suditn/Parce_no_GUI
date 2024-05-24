@@ -1,39 +1,6 @@
-File Name,Description,PART NUMBER,"L INDUCTANCE
-0
-± 20 % AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR TYP.
-25 °C
-(mΩ)","DCR MAX.
-25 °C
-(mΩ)","HEAT RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION CURRENT
-DC TYP. (A)",,"SRF TYP.
-(MHz)"
-IHLP-1212BZ-1L,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, Low DCR Series
-FEATURES
-• 3.56 mm x 3.3 mm x 1.2mm SMD package
-• Magnetically shielded, metal composite construction",,,,,,20 % DROP (2),30 % DROP (3),
-IHLP-1212BZ-1L,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, Low DCR Series
-FEATURES
-• 3.56 mm x 3.3 mm x 1.2mm SMD package
-• Magnetically shielded, metal composite construction",IHLP1212BZRZR22M1L,0.22,10.1,10.9,9.7,5.4,8.1,211.0
-IHLP-1212BZ-1L,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, Low DCR Series
-FEATURES
-• 3.56 mm x 3.3 mm x 1.2mm SMD package
-• Magnetically shielded, metal composite construction",IHLP1212BZRZR56M1L,0.56,17.2,18.4,7.5,3.6,5.3,140.0
-IHLP-1212BZ-1L,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, Low DCR Series
-FEATURES
-• 3.56 mm x 3.3 mm x 1.2mm SMD package
-• Magnetically shielded, metal composite construction",IHLP1212BZRZ1R0M1L,1.0,33.7,36.0,5.3,3.4,5.0,75.0
-IHLP-1212BZ-1L,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, Low DCR Series
-FEATURES
-• 3.56 mm x 3.3 mm x 1.2mm SMD package
-• Magnetically shielded, metal composite construction",IHLP1212BZRZ2R2M1L,2.2,56.0,59.9,4.6,2.3,3.4,54.0
+File Name;Image Path;Description;PART NUMBER;L INDUCTANCE 0 ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A);30 % DROP (3);SRF TYP. (MHz)
+IHLP-1212BZ-1L;image/small_inductors/34628.png;IHLP® Tin / Lead Inductors, Low DCR Series;IHLP1212BZER000M1L;;;;;20 % DROP (2);30 % DROP (3);
+IHLP-1212BZ-1L;image/small_inductors/34628.png;IHLP® Tin / Lead Inductors, Low DCR Series;IHLP1212BZER0R22M1L;0.22;10.1;10.9;9.7;5.4;8.1;211
+IHLP-1212BZ-1L;image/small_inductors/34628.png;IHLP® Tin / Lead Inductors, Low DCR Series;IHLP1212BZER0R56M1L;0.56;17.2;18.4;7.5;3.6;5.3;140
+IHLP-1212BZ-1L;image/small_inductors/34628.png;IHLP® Tin / Lead Inductors, Low DCR Series;IHLP1212BZER1R0M1L;1.0;33.7;36.0;5.3;3.4;5.0;75
+IHLP-1212BZ-1L;image/small_inductors/34628.png;IHLP® Tin / Lead Inductors, Low DCR Series;IHLP1212BZER2R2M1L;2.2;56;59.9;4.6;2.3;3.4;54

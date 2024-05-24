@@ -1,87 +1,14 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-TYP.
-25 °C
-(mΩ)","DCR
-MAX.
-25 °C
-(mΩ)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZERR1MA1,0.1,3.0,3.16,23.0,27.0,255.0
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZERR22MA1,0.22,4.3,4.52,15.5,21.0,160.0
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZERR33MA1,0.33,5.7,6.1,13.7,19.0,128.0
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZERR47MA1,0.47,6.7,7.04,12.2,16.0,84.0
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZERR68MA1,0.68,8.53,8.96,10.2,13.5,80.0
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZERR82MA1,0.82,11.3,11.9,9.3,13.0,73.0
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZER1R0MA1,1.0,13.1,13.7,9.2,12.0,59.0
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZER1R5MA1,1.5,19.7,20.7,7.2,11.0,42.0
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZER2R2MA1,2.2,27.8,29.2,5.8,10.0,39.0
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZER3R3MA1,3.3,52.1,54.7,5.0,8.5,31.0
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZER4R7MA1,4.7,73.8,77.5,3.5,8.2,25.0
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZER5R6MA1,5.6,103.0,108.0,3.0,4.1,24.0
-IHLP-2020CZ-A1,"www.vishay.com Vishay Dale
-IHLP® Automotive Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP2020CZER100MA1,10.0,158.0,164.0,2.5,4.0,16.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER0R1MA1;0.10;3.00;3.16;23.0;27.0;255
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER0R22MA1;0.22;4.30;4.52;15.5;21.0;160
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER0R33MA1;0.33;5.70;6.10;13.7;19.0;128
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER0R47MA1;0.47;6.70;7.04;12.2;16.0;84
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER0R68MA1;0.68;8.53;8.96;10.2;13.5;80
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER0R82MA1;0.82;11.3;11.9;9.3;13.0;73
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER1R0MA1;1.0;13.1;13.7;9.2;12.0;59
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER1R5MA1;1.5;19.7;20.7;7.2;11.0;42
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER2R2MA1;2.2;27.8;29.2;5.8;10.0;39
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER3R3MA1;3.3;52.1;54.7;5.0;8.5;31
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER4R7MA1;4.7;73.8;77.5;3.5;8.2;25
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER5R6MA1;5.6;103;108;3.0;4.1;24
+IHLP-2020CZ-A1;image/small_inductors/34304.png;IHLP® Automotive Inductors, High Saturation Series;IHLP2020CZER100MA1;10.0;158;164;2.5;4.0;16

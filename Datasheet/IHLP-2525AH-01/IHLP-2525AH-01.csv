@@ -1,88 +1,14 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANC
-± 20 % AT
-100 kHz,
-0.25 V, 0 A
-(μH)","E
-DCR
-TYP.
-25 °C
-(mΩ)","DCR
-MAX.
-25 °C
-(mΩ)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHERR1M01,0.1,3.0,3.5,18.0,40.0,288.0
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHERR15M01,0.15,4.7,5.2,15.0,38.0,222.0
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHERR22M01,0.22,5.3,5.7,14.0,26.0,183.0
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHERR33M01,0.33,6.6,7.0,12.0,18.0,136.0
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHERR47M01,0.47,8.4,9.3,11.0,18.0,96.0
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHERR68M01,0.68,12.7,13.9,9.0,17.0,84.0
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHERR82M01,0.82,13.8,15.9,8.0,17.0,78.0
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHER1R0M01,1.0,17.5,18.3,7.0,14.0,65.0
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHER1R5M01,1.5,32.6,34.0,4.0,11.5,50.0
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHER2R2M01,2.2,40.3,46.0,3.75,13.0,43.0
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHER2R5M01,2.5,49.9,52.4,3.5,10.4,37.0
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHER3R3M01,3.3,56.2,60.1,3.25,10.0,36.0
-IHLP-2525AH-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Lowest height (1.8 mm) in this package footprint
-• Shielded construction",IHLP2525AHER4R7M01,4.7,76.6,78.0,3.0,8.0,25.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANC ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);E DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER0R1M01;0.1;3.0;3.5;18;40;288
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER0R15M01;0.15;4.7;5.2;15;38;222
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER0R22M01;0.22;5.3;5.7;14;26;183
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER0R33M01;0.33;6.6;7.0;12;18;136
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER0R47M01;0.47;8.4;9.3;11;18;96
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER0R68M01;0.68;12.7;13.9;9;17;84
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER0R82M01;0.82;13.8;15.9;8;17;78
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER1R0M01;1.0;17.5;18.3;7;14;65
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER1R5M01;1.5;32.6;34.0;4;11.5;50
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER2R2M01;2.2;40.3;46.0;3.75;13;43
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER2R5M01;2.5;49.9;52.4;3.5;10.4;37
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER3R3M01;3.3;56.2;60.1;3.25;10;36
+IHLP-2525AH-01;image/small_inductors/34125.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2525AHER4R7M01;4.7;76.6;78.0;3;8;25

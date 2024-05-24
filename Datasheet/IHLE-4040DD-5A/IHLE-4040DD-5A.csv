@@ -1,92 +1,15 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 % AT
-100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-TYP.
-25 °C
-(mΩ)","DCR
-MAX.
-25 °C
-(mΩ)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDERR47M5A,0.47,1.55,1.66,30.0,28.5,72.1
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER1R0M5A,1.0,2.87,3.07,23.5,24.0,37.2
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER1R5M5A,1.5,4.2,4.5,22.0,17.9,32.0
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER2R2M5A,2.2,8.15,8.76,15.0,12.0,30.1
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER3R3M5A,3.3,11.0,11.81,11.0,12.0,25.5
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER4R7M5A,4.7,14.3,15.32,9.8,9.2,20.1
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER5R6M5A,5.6,16.5,17.6,9.3,9.0,16.3
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER6R8M5A,6.8,20.9,22.36,9.1,9.0,16.3
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER100M5A,10.0,30.9,33.06,6.5,8.5,11.5
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER150M5A,15.0,47.0,50.29,5.1,7.7,10.4
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER220M5A,22.0,70.5,75.44,4.1,6.4,8.3
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER330M5A,33.0,110.0,117.7,3.7,4.2,5.79
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER470M5A,47.0,167.0,178.0,3.1,4.1,5.22
-IHLE-4040DD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE4040DDER680M5A,68.0,240.0,252.0,2.4,3.5,4.02
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER0R47M5A;0.47;1.55;1.66;30.0;28.5;72.1
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER1R0M5A;1.0;2.87;3.07;23.5;24.0;37.2
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER1R5M5A;1.5;4.2;4.5;22.0;17.9;32
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER2R2M5A;2.2;8.15;8.76;15.0;12.0;30.1
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER3R3M5A;3.3;11.0;11.81;11.0;12.0;25.5
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER4R7M5A;4.7;14.3;15.32;9.8;9.2;20.1
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER5R6M5A;5.6;16.5;17.60;9.3;9.0;16.3
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER6R8M5A;6.8;20.9;22.36;9.1;9.0;16.3
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER100M5A;10;30.9;33.06;6.5;8.5;11.5
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER150M5A;15;47.0;50.29;5.1;7.7;10.4
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER220M5A;22;70.5;75.44;4.1;6.4;8.30
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER330M5A;33;110;117.70;3.7;4.2;5.79
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER470M5A;47;167;178;3.1;4.1;5.22
+IHLE-4040DD-5A;image/small_inductors/34380.png;IHLE® High Current Inductors With E-Field Shield;IHLE4040DDER680M5A;68;240;252;2.4;3.5;4.02

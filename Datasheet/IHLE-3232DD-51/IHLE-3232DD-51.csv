@@ -1,82 +1,13 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 % AT
-100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-TYP.
-25 °C
-(mΩ)","DCR
-MAX.
-25 °C
-(mΩ)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLE-3232DD-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE3232DDERR22M51,0.22,1.68,1.86,36.0,32.0,117.0
-IHLE-3232DD-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE3232DDERR47M51,0.47,2.38,2.55,27.0,19.0,77.0
-IHLE-3232DD-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE3232DDERR68M51,0.68,3.3,3.53,21.5,16.2,51.0
-IHLE-3232DD-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE3232DDER1R0M51,1.0,4.58,4.9,19.0,16.2,45.0
-IHLE-3232DD-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE3232DDER2R2M51,2.2,11.7,12.5,11.5,14.0,32.0
-IHLE-3232DD-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE3232DDER3R3M51,3.3,15.4,16.48,10.6,11.8,23.0
-IHLE-3232DD-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE3232DDER4R7M51,4.7,29.6,28.46,7.2,9.1,18.0
-IHLE-3232DD-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE3232DDER5R6M51,5.6,29.6,31.67,6.9,9.0,18.0
-IHLE-3232DD-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE3232DDER100M51,10.0,50.0,53.5,5.1,5.2,13.0
-IHLE-3232DD-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE3232DDER150M51,15.0,62.0,66.34,4.8,3.6,10.0
-IHLE-3232DD-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE3232DDER220M51,22.0,103.0,110.21,3.7,3.8,9.0
-IHLE-3232DD-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EM I",IHLE3232DDER330M51,33.0,149.0,159.43,3.1,3.2,6.1
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLE-3232DD-51;image/small_inductors/34427.png;IHLE® High Current Inductors With E-Field Shield;IHLE3232DDER0R22M51;0.22;1.68;1.86;36.0;32.0;117
+IHLE-3232DD-51;image/small_inductors/34427.png;IHLE® High Current Inductors With E-Field Shield;IHLE3232DDER0R47M51;0.47;2.38;2.55;27.0;19.0;77
+IHLE-3232DD-51;image/small_inductors/34427.png;IHLE® High Current Inductors With E-Field Shield;IHLE3232DDER0R68M51;0.68;3.30;3.53;21.5;16.2;51
+IHLE-3232DD-51;image/small_inductors/34427.png;IHLE® High Current Inductors With E-Field Shield;IHLE3232DDER1R0M51;1.0;4.58;4.90;19.0;16.2;45
+IHLE-3232DD-51;image/small_inductors/34427.png;IHLE® High Current Inductors With E-Field Shield;IHLE3232DDER2R2M51;2.2;11.70;12.50;11.5;14.0;32
+IHLE-3232DD-51;image/small_inductors/34427.png;IHLE® High Current Inductors With E-Field Shield;IHLE3232DDER3R3M51;3.3;15.40;16.48;10.6;11.8;23
+IHLE-3232DD-51;image/small_inductors/34427.png;IHLE® High Current Inductors With E-Field Shield;IHLE3232DDER4R7M51;4.7;29.60;28.46;7.2;9.1;18
+IHLE-3232DD-51;image/small_inductors/34427.png;IHLE® High Current Inductors With E-Field Shield;IHLE3232DDER5R6M51;5.6;29.60;31.67;6.9;9.0;18
+IHLE-3232DD-51;image/small_inductors/34427.png;IHLE® High Current Inductors With E-Field Shield;IHLE3232DDER100M51;10;50.00;53.50;5.1;5.2;13
+IHLE-3232DD-51;image/small_inductors/34427.png;IHLE® High Current Inductors With E-Field Shield;IHLE3232DDER150M51;15;62.00;66.34;4.8;3.6;10
+IHLE-3232DD-51;image/small_inductors/34427.png;IHLE® High Current Inductors With E-Field Shield;IHLE3232DDER220M51;22;103.00;110.21;3.7;3.8;9
+IHLE-3232DD-51;image/small_inductors/34427.png;IHLE® High Current Inductors With E-Field Shield;IHLE3232DDER330M51;33;149.00;159.43;3.1;3.2;6.1

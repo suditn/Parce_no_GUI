@@ -1,47 +1,6 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-TYP.
-25 °C
-(m)","DCR
-MAX.
-25 °C
-(m)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLD-3232HB-5A,"www.vishay.com Vishay Dale
-Low Profile, High Current Dual Inductors
-FEATURES
-• Two inductors in one package
-• High temperature, up to 155 °C",IHLD3232HBER5R0M5A,5.0,27.3,29.2,6.0,8.5,18.0
-IHLD-3232HB-5A,"www.vishay.com Vishay Dale
-Low Profile, High Current Dual Inductors
-FEATURES
-• Two inductors in one package
-• High temperature, up to 155 °C",IHLD3232HBER100M5A,10.0,50.0,53.5,5.0,5.2,13.0
-IHLD-3232HB-5A,"www.vishay.com Vishay Dale
-Low Profile, High Current Dual Inductors
-FEATURES
-• Two inductors in one package
-• High temperature, up to 155 °C",IHLD3232HBER150M5A,15.0,62.0,66.34,4.2,3.5,10.0
-IHLD-3232HB-5A,"www.vishay.com Vishay Dale
-Low Profile, High Current Dual Inductors
-FEATURES
-• Two inductors in one package
-• High temperature, up to 155 °C",IHLD3232HBER220M5A,22.0,103.0,110.21,3.3,2.9,9.0
-IHLD-3232HB-5A,"www.vishay.com Vishay Dale
-Low Profile, High Current Dual Inductors
-FEATURES
-• Two inductors in one package
-• High temperature, up to 155 °C",IHLD3232HBER330M5A,33.0,149.0,159.43,2.4,2.9,6.1
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR TYP. 25 °C (m);DCR MAX. 25 °C (m);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLD-3232HB-5A;image/small_inductors/34383.png;Low Profile, High Current Dual Inductors;IHLD3232HBER5R0M5A;5;27.3;29.2;6.0;8.5;18.0
+IHLD-3232HB-5A;image/small_inductors/34383.png;Low Profile, High Current Dual Inductors;IHLD3232HBER100M5A;10;50.0;53.50;5.0;5.2;13.0
+IHLD-3232HB-5A;image/small_inductors/34383.png;Low Profile, High Current Dual Inductors;IHLD3232HBER150M5A;15;62.0;66.34;4.2;3.5;10.0
+IHLD-3232HB-5A;image/small_inductors/34383.png;Low Profile, High Current Dual Inductors;IHLD3232HBER220M5A;22;103.0;110.21;3.3;2.9;9.0
+IHLD-3232HB-5A;image/small_inductors/34383.png;Low Profile, High Current Dual Inductors;IHLD3232HBER330M5A;33;149.0;159.43;2.4;2.9;6.1

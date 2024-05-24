@@ -1,46 +1,5 @@
-File Name,Description,PART NUMBER,"L INDUCTANCE
-0
-± 20 % AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-AT 25 °C
-TYP.
-(mΩ)","DCR
-AT 25 °C
-MAX.
-(mΩ)","HEAT RATING
-CURRENT DC
-TYP. (1)
-(A)","SATURATION
-CURRENT DC
-TYP. (2)
-(A)","SATURATION
-CURRENT DC
-TYP. (3)
-(A)","SRF
-TYP.
-(MHz)","DIMENSION A
-± 0.016 [0.4]
-(inch [mm])","DIMENSION
-± 0.020 [0.5
-(inch [mm]"
-IHDM-1008BC-3A,"www.vishay.com Vishay Custom Magnetics
-High Current, Through-Hole Inductor
-Edge-Wound Series
-FEATURES
-• High temperature continuous operation, up to",IHDM1008BCER1R2M3A,1.2,0.25,0.3,80.0,110.0,150.0,90.0,"0,126 [3,2]","0,543 [13,8"
-IHDM-1008BC-3A,"www.vishay.com Vishay Custom Magnetics
-High Current, Through-Hole Inductor
-Edge-Wound Series
-FEATURES
-• High temperature continuous operation, up to",IHDM1008BCER2R2M3A,2.2,0.35,0.4,70.0,75.0,110.0,45.0,"0,098 [2,5]","0,571 [14,5"
-IHDM-1008BC-3A,"www.vishay.com Vishay Custom Magnetics
-High Current, Through-Hole Inductor
-Edge-Wound Series
-FEATURES
-• High temperature continuous operation, up to",IHDM1008BCER3R3M3A,3.3,0.63,0.7,50.0,60.0,90.0,25.0,"0,079 [2,0]","0,591 [15,0"
-IHDM-1008BC-3A,"www.vishay.com Vishay Custom Magnetics
-High Current, Through-Hole Inductor
-Edge-Wound Series
-FEATURES
-• High temperature continuous operation, up to",IHDM1008BCER4R7M3A,4.7,0.86,0.95,45.0,50.0,70.0,15.0,"0,071 [1,8]","0,598 [15,2"
+File Name;Image Path;Description;PART NUMBER;L INDUCTANCE 0 ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR AT 25 °C TYP. (mΩ);DCR AT 25 °C MAX. (mΩ);HEAT RATING CURRENT DC TYP. (1) (A);SATURATION CURRENT DC TYP. (2) (A);SATURATION CURRENT DC TYP. (3) (A);SRF TYP. (MHz);DIMENSION A ± 0.016 [0.4] (inch [mm]);DIMENSION ± 0.020 [0.5 (inch [mm]
+IHDM-1008BC-3A;image/small_inductors/34501.png;High Current, Through-Hole Inductor;IHDM1008BCER1R2M3A;1.2;0.25;0.30;80;110;150;90;0.126 [3.2];0.543 [13.8
+IHDM-1008BC-3A;image/small_inductors/34501.png;High Current, Through-Hole Inductor;IHDM1008BCER2R2M3A;2.2;0.35;0.40;70;75;110;45;0.098 [2.5];0.571 [14.5
+IHDM-1008BC-3A;image/small_inductors/34501.png;High Current, Through-Hole Inductor;IHDM1008BCER3R3M3A;3.3;0.63;0.70;50;60;90;25;0.079 [2.0];0.591 [15.0
+IHDM-1008BC-3A;image/small_inductors/34501.png;High Current, Through-Hole Inductor;IHDM1008BCER4R7M3A;4.7;0.86;0.95;45;50;70;15;0.071 [1.8];0.598 [15.2

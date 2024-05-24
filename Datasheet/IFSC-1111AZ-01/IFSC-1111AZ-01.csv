@@ -1,80 +1,13 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-25 °C
-(m)",,,,"HEAT
-RATING
-CURRENT
-DC
-I
-DC
-(A) (3)",,,,"SATURATION
-CURRENT
-DC
-I
-SAT
-(A) (4)",,,
-IFSC-1111AZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111AZER000M01,,"TYP,","MAX,","MAX,","MAX,","TYP,","MAX,","MAX,","MAX,","TYP,","MAX,","MAX,","MAX,"
-IFSC-1111AZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111AZER1R0M01,1.0,63.0,76.0,2.34,2.6,2.6,76.0,2.34,2.6,2.9,76.0,2.34,2.6
-IFSC-1111AZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111AZER1R5M01,1.5,65.0,78.0,1.71,1.62,1.9,78.0,1.71,1.62,1.8,78.0,1.71,1.62
-IFSC-1111AZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111AZER2R2M01,2.2,89.0,107.0,1.53,1.44,1.7,107.0,1.53,1.44,1.6,107.0,1.53,1.44
-IFSC-1111AZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111AZER3R3M01,3.3,109.0,131.0,1.4,1.13,1.55,131.0,1.4,1.13,1.25,131.0,1.4,1.13
-IFSC-1111AZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111AZER4R7M01,4.7,166.0,199.0,1.17,0.9,1.3,199.0,1.17,0.9,1.0,199.0,1.17,0.9
-IFSC-1111AZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111AZER6R8M01,6.8,249.0,299.0,0.95,0.75,1.05,299.0,0.95,0.75,0.85,299.0,0.95,0.75
-IFSC-1111AZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111AZER100M01,10.0,365.0,438.0,0.77,0.68,0.85,438.0,0.77,0.68,0.75,438.0,0.77,0.68
-IFSC-1111AZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111AZER150M01,15.0,672.0,807.0,0.64,0.52,0.72,807.0,0.64,0.52,0.58,807.0,0.64,0.52
-IFSC-1111AZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111AZER220M01,22.0,708.0,850.0,0.55,0.43,0.6,850.0,0.55,0.43,0.47,850.0,0.55,0.43
-IFSC-1111AZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111AZER330M01,33.0,1360.0,1632.0,0.45,0.34,0.5,1632.0,0.45,0.34,0.38,1632.0,0.45,0.34
-IFSC-1111AZ-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111AZER470M01,47.0,1750.0,2275.0,0.27,0.3,0.3,2275.0,0.27,0.3,0.33,2275.0,0.27,0.3
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR 25 °C (m);MAX.;MAX.;MAX.;HEAT RATING CURRENT DC I DC (A) (3);MAX.;MAX.;MAX.;SATURATION CURRENT DC I SAT (A) (4);MAX.;MAX.;MAX.
+IFSC-1111AZ-01;image/small_inductors/34293.png;Low Profile, High Current Inductors;IFSC1111AZER000M01;;TYP.;MAX.;MAX.;MAX.;TYP.;MAX.;MAX.;MAX.;TYP.;MAX.;MAX.;MAX.
+IFSC-1111AZ-01;image/small_inductors/34293.png;Low Profile, High Current Inductors;IFSC1111AZER1R0M01;1.0;63;76;2.34;2.60;2.60;76;2.34;2.60;2.90;76;2.34;2.60
+IFSC-1111AZ-01;image/small_inductors/34293.png;Low Profile, High Current Inductors;IFSC1111AZER1R5M01;1.5;65;78;1.71;1.62;1.90;78;1.71;1.62;1.80;78;1.71;1.62
+IFSC-1111AZ-01;image/small_inductors/34293.png;Low Profile, High Current Inductors;IFSC1111AZER2R2M01;2.2;89;107;1.53;1.44;1.70;107;1.53;1.44;1.60;107;1.53;1.44
+IFSC-1111AZ-01;image/small_inductors/34293.png;Low Profile, High Current Inductors;IFSC1111AZER3R3M01;3.3;109;131;1.40;1.13;1.55;131;1.40;1.13;1.25;131;1.40;1.13
+IFSC-1111AZ-01;image/small_inductors/34293.png;Low Profile, High Current Inductors;IFSC1111AZER4R7M01;4.7;166;199;1.17;0.90;1.30;199;1.17;0.90;1.00;199;1.17;0.90
+IFSC-1111AZ-01;image/small_inductors/34293.png;Low Profile, High Current Inductors;IFSC1111AZER6R8M01;6.8;249;299;0.95;0.75;1.05;299;0.95;0.75;0.85;299;0.95;0.75
+IFSC-1111AZ-01;image/small_inductors/34293.png;Low Profile, High Current Inductors;IFSC1111AZER100M01;10.0;365;438;0.77;0.68;0.85;438;0.77;0.68;0.75;438;0.77;0.68
+IFSC-1111AZ-01;image/small_inductors/34293.png;Low Profile, High Current Inductors;IFSC1111AZER150M01;15.0;672;807;0.64;0.52;0.72;807;0.64;0.52;0.58;807;0.64;0.52
+IFSC-1111AZ-01;image/small_inductors/34293.png;Low Profile, High Current Inductors;IFSC1111AZER220M01;22.0;708;850;0.55;0.43;0.60;850;0.55;0.43;0.47;850;0.55;0.43
+IFSC-1111AZ-01;image/small_inductors/34293.png;Low Profile, High Current Inductors;IFSC1111AZER330M01;33.0;1360;1632;0.45;0.34;0.50;1632;0.45;0.34;0.38;1632;0.45;0.34
+IFSC-1111AZ-01;image/small_inductors/34293.png;Low Profile, High Current Inductors;IFSC1111AZER470M01;47.0;1750;2275;0.27;0.30;0.30;2275;0.27;0.30;0.33;2275;0.27;0.30

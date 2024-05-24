@@ -1,55 +1,9 @@
-File Name,Description,PART NUMBER,"COMMON MODE IMPEDAN
-AT 100 MHz, ± 20 %
-()(1)","CE RATED
-VOLTAGE
-(V )
-DC","WITHSTANDING
-VOLTAGE
-(V )
-DC","RATED CURRENT
-MAX.
-(mA) (2)","DC RESISTANCE
-MAX.
-()","INSULATION
-RESISTANCE MIN
-(M)"
-ICM-0805,"www.vishay.com Vishay Dale
-Surface Mount Common Mode Choke
-FEATURES
-• Operating temperature: -40 °C to +85 °C
-• Excellent solderability and resistance to",ICM0805ER300M,30.0,50.0,125.0,450.0,0.2,10.0
-ICM-0805,"www.vishay.com Vishay Dale
-Surface Mount Common Mode Choke
-FEATURES
-• Operating temperature: -40 °C to +85 °C
-• Excellent solderability and resistance to",ICM0805ER670M,67.0,50.0,125.0,400.0,0.25,10.0
-ICM-0805,"www.vishay.com Vishay Dale
-Surface Mount Common Mode Choke
-FEATURES
-• Operating temperature: -40 °C to +85 °C
-• Excellent solderability and resistance to",ICM0805ER900M,90.0,50.0,125.0,330.0,0.35,10.0
-ICM-0805,"www.vishay.com Vishay Dale
-Surface Mount Common Mode Choke
-FEATURES
-• Operating temperature: -40 °C to +85 °C
-• Excellent solderability and resistance to",ICM0805ER121M,120.0,50.0,125.0,370.0,0.3,10.0
-ICM-0805,"www.vishay.com Vishay Dale
-Surface Mount Common Mode Choke
-FEATURES
-• Operating temperature: -40 °C to +85 °C
-• Excellent solderability and resistance to",ICM0805ER161M,160.0,50.0,125.0,350.0,0.35,10.0
-ICM-0805,"www.vishay.com Vishay Dale
-Surface Mount Common Mode Choke
-FEATURES
-• Operating temperature: -40 °C to +85 °C
-• Excellent solderability and resistance to",ICM0805ER181M,180.0,50.0,125.0,330.0,0.35,10.0
-ICM-0805,"www.vishay.com Vishay Dale
-Surface Mount Common Mode Choke
-FEATURES
-• Operating temperature: -40 °C to +85 °C
-• Excellent solderability and resistance to",ICM0805ER261M,260.0,50.0,125.0,300.0,0.4,10.0
-ICM-0805,"www.vishay.com Vishay Dale
-Surface Mount Common Mode Choke
-FEATURES
-• Operating temperature: -40 °C to +85 °C
-• Excellent solderability and resistance to",ICM0805ER371M,370.0,50.0,125.0,280.0,0.45,10.0
+File Name;Image Path;Description;PART NUMBER;COMMON MODE IMPEDAN AT 100 MHz, ± 20 % ()(1);CE RATED VOLTAGE (V ) DC;WITHSTANDING VOLTAGE (V ) DC;RATED CURRENT MAX. (mA) (2);DC RESISTANCE MAX. ();INSULATION RESISTANCE MIN (M)
+ICM-0805;image/small_inductors/34159.png;Surface Mount Common Mode Choke;ICM0805ER300M;30;50;125;450;0.20;10
+ICM-0805;image/small_inductors/34159.png;Surface Mount Common Mode Choke;ICM0805ER670M;67;50;125;400;0.25;10
+ICM-0805;image/small_inductors/34159.png;Surface Mount Common Mode Choke;ICM0805ER900M;90;50;125;330;0.35;10
+ICM-0805;image/small_inductors/34159.png;Surface Mount Common Mode Choke;ICM0805ER121M;120;50;125;370;0.30;10
+ICM-0805;image/small_inductors/34159.png;Surface Mount Common Mode Choke;ICM0805ER161M;160;50;125;350;0.35;10
+ICM-0805;image/small_inductors/34159.png;Surface Mount Common Mode Choke;ICM0805ER181M;180;50;125;330;0.35;10
+ICM-0805;image/small_inductors/34159.png;Surface Mount Common Mode Choke;ICM0805ER261M;260;50;125;300;0.40;10
+ICM-0805;image/small_inductors/34159.png;Surface Mount Common Mode Choke;ICM0805ER371M;370;50;125;280;0.45;10

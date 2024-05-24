@@ -1,57 +1,10 @@
-File Name,Description,PART NUMBER,"L INDUCTANCE
-0
-± 20 % AT 0 A
-(μH)","DCR TYP.
-25 °C
-(mΩ)","DCR MAX.
-25 °C
-(mΩ)","HEAT RATING
-CURRENT DC TYP.
-(A) (1)","SATURATION CURRENT
-DC TYP.
-(A)",
-IHLL-1008AB-1Z,"www.vishay.com Vishay Dale
-Commercial Power Inductor, Low DCR
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes without",,,,,,20 % DROP (2),30 % DROP
-IHLL-1008AB-1Z,"www.vishay.com Vishay Dale
-Commercial Power Inductor, Low DCR
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes without",IHLL1008ABEZR33M1Z,0.33,14.0,19.0,6.0,7.3,8.5
-IHLL-1008AB-1Z,"www.vishay.com Vishay Dale
-Commercial Power Inductor, Low DCR
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes without",IHLL1008ABEZR47M1Z,0.47,17.0,21.0,6.1,6.0,7.3
-IHLL-1008AB-1Z,"www.vishay.com Vishay Dale
-Commercial Power Inductor, Low DCR
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes without",IHLL1008ABEZR68M1Z,0.68,25.0,30.0,5.5,5.6,6.3
-IHLL-1008AB-1Z,"www.vishay.com Vishay Dale
-Commercial Power Inductor, Low DCR
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes without",IHLL1008ABEZ1R0M1Z,1.0,35.0,42.0,4.2,3.7,5.0
-IHLL-1008AB-1Z,"www.vishay.com Vishay Dale
-Commercial Power Inductor, Low DCR
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes without",IHLL1008ABEZ1R5M1Z,1.5,53.0,61.0,3.6,3.0,3.6
-IHLL-1008AB-1Z,"www.vishay.com Vishay Dale
-Commercial Power Inductor, Low DCR
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes without",IHLL1008ABEZ2R2M1Z,2.2,68.0,82.0,3.0,3.0,3.3
-IHLL-1008AB-1Z,"www.vishay.com Vishay Dale
-Commercial Power Inductor, Low DCR
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes without",IHLL1008ABEZ3R3M1Z,3.3,110.0,135.0,2.1,2.0,2.8
-IHLL-1008AB-1Z,"www.vishay.com Vishay Dale
-Commercial Power Inductor, Low DCR
-FEATURES
-• 2.5 mm x 2.0 mm x 1.2 mm SMD package
-• Handles high transient current spikes without",IHLL1008ABEZ4R7M1Z,4.7,160.0,190.0,1.8,1.8,2.4
+File Name;Image Path;Description;PART NUMBER;L INDUCTANCE 0 ± 20 % AT 0 A (μH);DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A);30 % DROP
+IHLL-1008AB-1Z;image/small_inductors/34610.png;Commercial Power Inductor, Low DCR;IHLL1008ABER000M1Z;;;;;20 % DROP (2);30 % DROP
+IHLL-1008AB-1Z;image/small_inductors/34610.png;Commercial Power Inductor, Low DCR;IHLL1008ABER0R33M1Z;0.33;14.0;19.0;6.0;7.3;8.5
+IHLL-1008AB-1Z;image/small_inductors/34610.png;Commercial Power Inductor, Low DCR;IHLL1008ABER0R47M1Z;0.47;17.0;21.0;6.1;6.0;7.3
+IHLL-1008AB-1Z;image/small_inductors/34610.png;Commercial Power Inductor, Low DCR;IHLL1008ABER0R68M1Z;0.68;25.0;30.0;5.5;5.6;6.3
+IHLL-1008AB-1Z;image/small_inductors/34610.png;Commercial Power Inductor, Low DCR;IHLL1008ABER1R0M1Z;1.0;35.0;42.0;4.2;3.7;5.0
+IHLL-1008AB-1Z;image/small_inductors/34610.png;Commercial Power Inductor, Low DCR;IHLL1008ABER1R5M1Z;1.5;53.0;61.0;3.6;3.0;3.6
+IHLL-1008AB-1Z;image/small_inductors/34610.png;Commercial Power Inductor, Low DCR;IHLL1008ABER2R2M1Z;2.2;68.0;82.0;3.0;3.0;3.3
+IHLL-1008AB-1Z;image/small_inductors/34610.png;Commercial Power Inductor, Low DCR;IHLL1008ABER3R3M1Z;3.3;110.0;135.0;2.1;2.0;2.8
+IHLL-1008AB-1Z;image/small_inductors/34610.png;Commercial Power Inductor, Low DCR;IHLL1008ABER4R7M1Z;4.7;160.0;190.0;1.8;1.8;2.4

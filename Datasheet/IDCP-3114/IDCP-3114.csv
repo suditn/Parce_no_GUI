@@ -1,102 +1,20 @@
-File Name,Description,PART NUMBER,"INDUCTANCE
-(μH)","TEST
-FREQUENCY
-L","DCR MAX.
-(Ω)","RATED DC
-CURRENT
-(A) (1)"
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER100M,10.0,"2,52 MHz",0.08,1.44
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER120M,12.0,"2,52 MHz",0.09,1.39
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER150M,15.0,"2,52 MHz",0.1,1.24
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER180M,18.0,"2,52 MHz",0.11,1.12
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER220M,22.0,"2,52 MHz",0.13,1.07
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER270M,27.0,"2,52 MHz",0.15,0.94
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER330M,33.0,"2,52 MHz",0.17,0.85
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER390M,39.0,"2,52 MHz",0.22,0.74
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER470M,47.0,"2,52 MHz",0.25,0.68
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER560M,56.0,"2,52 MHz",0.28,0.64
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER680M,68.0,"2,52 MHz",0.33,0.59
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER820M,82.0,"2,52 MHz",0.41,0.54
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER101M,100.0,1 kHz,0.48,0.51
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER121M,120.0,1 kHz,0.54,0.49
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER151M,150.0,1 kHz,0.75,0.4
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER181M,180.0,1 kHz,1.02,0.36
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER221M,220.0,1 kHz,1.2,0.31
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER271M,270.0,1 kHz,1.31,0.29
-IDCP-3114,"www.vishay.com Vishay Dale
-High Current, Surface Mount Inductors - Non-Shielded
-FEATURES
-• High energy storage
-• Low resistance",IDCP3114ER331M,330.0,1 kHz,1.5,0.28
+File Name;Image Path;Description;PART NUMBER;INDUCTANCE (μH);TEST FREQUENCY L;DCR MAX. (Ω);RATED DC CURRENT (A) (1)
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER100M;10.0;2.52 MHz;0.08;1.44
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER120M;12.0;2.52 MHz;0.09;1.39
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER150M;15.0;2.52 MHz;0.10;1.24
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER180M;18.0;2.52 MHz;0.11;1.12
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER220M;22.0;2.52 MHz;0.13;1.07
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER270M;27.0;2.52 MHz;0.15;0.94
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER330M;33.0;2.52 MHz;0.17;0.85
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER390M;39.0;2.52 MHz;0.22;0.74
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER470M;47.0;2.52 MHz;0.25;0.68
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER560M;56.0;2.52 MHz;0.28;0.64
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER680M;68.0;2.52 MHz;0.33;0.59
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER820M;82.0;2.52 MHz;0.41;0.54
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER101M;100.0;1 kHz;0.48;0.51
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER121M;120.0;1 kHz;0.54;0.49
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER151M;150.0;1 kHz;0.75;0.40
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER181M;180.0;1 kHz;1.02;0.36
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER221M;220.0;1 kHz;1.20;0.31
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER271M;270.0;1 kHz;1.31;0.29
+IDCP-3114;image/small_inductors/34091.png;High Current, Surface Mount Inductors - Non-Shielded;IDCP3114ER331M;330.0;1 kHz;1.50;0.28

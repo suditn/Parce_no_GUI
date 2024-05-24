@@ -1,57 +1,8 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-TYP.
-25 °C
-(m)","DCR
-MAX.
-25 °C
-(m)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLP-1616AB-1L,"www.vishay.com Vishay Dale
-IHLP® Tin/Lead Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616ABERR1M1L,0.1,5.0,5.5,12.0,12.0,288.0
-IHLP-1616AB-1L,"www.vishay.com Vishay Dale
-IHLP® Tin/Lead Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616ABERR22M1L,0.22,9.5,10.5,9.5,9.5,214.0
-IHLP-1616AB-1L,"www.vishay.com Vishay Dale
-IHLP® Tin/Lead Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616ABERR47M1L,0.47,19.0,21.0,6.0,5.7,117.0
-IHLP-1616AB-1L,"www.vishay.com Vishay Dale
-IHLP® Tin/Lead Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616ABER1R0M1L,1.0,43.0,47.0,4.2,4.5,71.0
-IHLP-1616AB-1L,"www.vishay.com Vishay Dale
-IHLP® Tin/Lead Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616ABER1R2M1L,1.2,55.6,58.5,3.75,3.75,62.0
-IHLP-1616AB-1L,"www.vishay.com Vishay Dale
-IHLP® Tin/Lead Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616ABER1R5M1L,1.5,68.0,75.0,3.25,3.25,53.0
-IHLP-1616AB-1L,"www.vishay.com Vishay Dale
-IHLP® Tin/Lead Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616ABER2R2M1L,2.2,79.4,83.5,2.75,3.0,49.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR TYP. 25 °C (m);DCR MAX. 25 °C (m);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLP-1616AB-1L;image/small_inductors/34233.png;IHLP® Tin/Lead Inductors, Low DCR Series;IHLP1616ABER0R1M1L;0.10;5.0;5.5;12.0;12.0;288
+IHLP-1616AB-1L;image/small_inductors/34233.png;IHLP® Tin/Lead Inductors, Low DCR Series;IHLP1616ABER0R22M1L;0.22;9.5;10.5;9.5;9.5;214
+IHLP-1616AB-1L;image/small_inductors/34233.png;IHLP® Tin/Lead Inductors, Low DCR Series;IHLP1616ABER0R47M1L;0.47;19;21;6.0;5.7;117
+IHLP-1616AB-1L;image/small_inductors/34233.png;IHLP® Tin/Lead Inductors, Low DCR Series;IHLP1616ABER1R0M1L;1.0;43;47;4.2;4.5;71
+IHLP-1616AB-1L;image/small_inductors/34233.png;IHLP® Tin/Lead Inductors, Low DCR Series;IHLP1616ABER1R2M1L;1.2;55.6;58.5;3.75;3.75;62
+IHLP-1616AB-1L;image/small_inductors/34233.png;IHLP® Tin/Lead Inductors, Low DCR Series;IHLP1616ABER1R5M1L;1.5;68;75;3.25;3.25;53
+IHLP-1616AB-1L;image/small_inductors/34233.png;IHLP® Tin/Lead Inductors, Low DCR Series;IHLP1616ABER2R2M1L;2.2;79.4;83.5;2.75;3.00;49

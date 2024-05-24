@@ -1,52 +1,7 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-TYP.
-25 °C
-(mΩ)","DCR
-MAX.
-25 °C
-(mΩ)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLP-2020AB-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020ABERR1M01,0.1,4.32,4.6,13.5,35.0,256.0
-IHLP-2020AB-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020ABERR47M01,0.47,18.2,19.2,6.5,18.0,108.0
-IHLP-2020AB-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020ABER1R0M01,1.0,44.3,46.5,4.4,10.2,64.0
-IHLP-2020AB-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020ABER2R2M01,2.2,73.6,77.3,3.4,6.0,47.0
-IHLP-2020AB-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020ABER3R3M01,3.3,98.4,103.0,2.8,5.0,33.0
-IHLP-2020AB-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP2020ABER4R7M01,4.7,159.0,168.0,2.2,4.4,30.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLP-2020AB-01;image/small_inductors/34283.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2020ABER0R1M01;0.10;4.32;4.60;13.5;35;256
+IHLP-2020AB-01;image/small_inductors/34283.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2020ABER0R47M01;0.47;18.2;19.2;6.5;18;108
+IHLP-2020AB-01;image/small_inductors/34283.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2020ABER1R0M01;1.0;44.3;46.5;4.4;10.2;64
+IHLP-2020AB-01;image/small_inductors/34283.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2020ABER2R2M01;2.2;73.6;77.3;3.4;6;47
+IHLP-2020AB-01;image/small_inductors/34283.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2020ABER3R3M01;3.3;98.4;103;2.8;5;33
+IHLP-2020AB-01;image/small_inductors/34283.png;IHLP® Commercial Inductors, High Saturation Series;IHLP2020ABER4R7M01;4.7;159;168;2.2;4.4;30

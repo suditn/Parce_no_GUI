@@ -1,127 +1,22 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-TYP.
-25 °C
-(mΩ)","DCR
-MAX.
-25 °C
-(mΩ)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHERR33M51,0.33,0.83,0.92,62.0,44.0,79.9
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHERR47M51,0.47,1.05,1.16,54.0,42.0,65.6
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHERR56M51,0.56,1.24,1.33,50.0,32.0,63.1
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHERR68M51,0.68,1.33,1.42,40.0,29.0,48.1
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER1R0M51,1.0,1.65,1.77,40.0,26.0,33.4
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER1R2M51,1.2,1.98,2.12,29.0,24.5,32.0
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER1R5M51,1.5,2.4,2.57,27.5,23.5,29.2
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER2R2M51,2.2,3.43,3.67,25.5,21.5,23.3
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER3R3M51,3.3,5.08,5.44,20.2,16.7,17.8
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER4R7M51,4.7,7.41,7.93,19.7,18.5,15.8
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER5R6M51,5.6,8.51,9.11,16.8,14.2,12.3
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER6R8M51,6.8,11.3,12.09,14.9,14.1,13.4
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER8R2M51,8.2,13.2,14.12,13.2,7.6,10.3
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER100M51,10.0,16.6,17.76,12.1,7.8,10.7
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER120M51,12.0,19.0,20.33,11.4,7.9,9.5
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER150M51,15.0,24.0,25.68,10.1,7.7,8.8
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER220M51,22.0,31.3,33.49,9.0,6.3,6.6
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER330M51,33.0,46.03,49.25,6.9,6.2,5.5
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER470M51,47.0,77.0,79.6,5.6,5.7,4.1
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER820M51,82.0,141.1,150.98,3.7,3.7,3.0
-IHLE-5050FH-51,"www.vishay.com Vishay Dale
-IHLE® High Current Inductors With E-Field Shield
-FEATURES
-• High temperature, up to 155 °C
-• Integrated E-Shield for maximum EMI",IHLE5050FHER101M51,100.0,175.0,205.0,3.1,4.3,2.8
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER0R33M51;0.33;0.83;0.92;62;44;79.9
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER0R47M51;0.47;1.05;1.16;54;42;65.6
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER0R56M51;0.56;1.24;1.33;50;32;63.1
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER0R68M51;0.68;1.33;1.42;40;29;48.1
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER1R0M51;1.0;1.65;1.77;40;26;33.4
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER1R2M51;1.2;1.98;2.12;29;24.5;32.0
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER1R5M51;1.5;2.4;2.57;27.5;23.5;29.2
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER2R2M51;2.2;3.43;3.67;25.5;21.5;23.3
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER3R3M51;3.3;5.08;5.44;20.2;16.7;17.8
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER4R7M51;4.7;7.41;7.93;19.7;18.5;15.8
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER5R6M51;5.6;8.51;9.11;16.8;14.2;12.3
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER6R8M51;6.8;11.3;12.09;14.9;14.1;13.4
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER8R2M51;8.2;13.2;14.12;13.2;7.6;10.3
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER100M51;10;16.60;17.76;12.1;7.8;10.7
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER120M51;12;19.00;20.33;11.4;7.9;9.5
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER150M51;15;24.00;25.68;10.1;7.7;8.8
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER220M51;22;31.30;33.49;9.0;6.3;6.6
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER330M51;33;46.03;49.25;6.9;6.2;5.5
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER470M51;47;77.00;79.60;5.6;5.7;4.1
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER820M51;82;141.10;150.98;3.7;3.7;3.0
+IHLE-5050FH-51;image/small_inductors/34546.png;IHLE® High Current Inductors With E-Field Shield;IHLE5050FHER101M51;100;175.00;205.00;3.1;4.3;2.8

@@ -1,65 +1,7 @@
-File Name,Description,PART NUMBER,,"L
-0
-INDUCTANCE
-± 20 % AT
-100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-NOM.
-25 °C
-(m)","DCR
-MAX.
-25 °C
-(m)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)"
-IHCL-4040DZ-51 10 µH,"www.vishay.com Vishay Dale
-Low Profile, High Current Coupled Inductor
-FEATURES
-• High temperature, up to 155 °C
-• Shielded construction",IHCL4040DZER100M51 10 µH,"L
-1-2",10.0,90.6,97.0,4.3,8.0
-IHCL-4040DZ-51 10 µH,"www.vishay.com Vishay Dale
-Low Profile, High Current Coupled Inductor
-FEATURES
-• High temperature, up to 155 °C
-• Shielded construction",IHCL4040DZER100M51 10 µH,"L
-3-4",10.0,86.0,92.0,4.2,9.0
-IHCL-4040DZ-51 10 µH,"www.vishay.com Vishay Dale
-Low Profile, High Current Coupled Inductor
-FEATURES
-• High temperature, up to 155 °C
-• Shielded construction",IHCL4040DZER360M51 10 µH,"L
-1-4
-(L shorted)
-2-3",36.0,176.0,189.0,2.9,4.0
-IHCL-4040DZ-51 10 µH,"www.vishay.com Vishay Dale
-Low Profile, High Current Coupled Inductor
-FEATURES
-• High temperature, up to 155 °C
-• Shielded construction",IHCL4040DZER1R0M51 10 µH,"L
-1-3
-(L shorted)
-2-4",1.0,176.0,189.0,2.9,See note (3)
-IHCL-4040DZ-51 10 µH,"www.vishay.com Vishay Dale
-Low Profile, High Current Coupled Inductor
-FEATURES
-• High temperature, up to 155 °C
-• Shielded construction",IHCL4040DZER100M51 10 µH,"L
-Common Mode
-(1-3 and
-2-4 shorted)",10.0,33.0,34.6,7.5,7.5
-IHCL-4040DZ-51 10 µH,"www.vishay.com Vishay Dale
-Low Profile, High Current Coupled Inductor
-FEATURES
-• High temperature, up to 155 °C
-• Shielded construction",IHCL4040DZERR0M51 10 µH,"L
-Differential
-Mode
-(1-4 and
-2-3 shorted)",0.0,33.0,34.6,7.5,See note (3)
+File Name;Image Path;Description;PART NUMBER;;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR NOM. 25 °C (m);DCR MAX. 25 °C (m);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2)
+IHCL-4040DZ-51 10 µH;image/small_inductors/34416.png;Low Profile, High Current Coupled Inductor;IHCL4040DZER100M51;L 1-2;10;90.6;97.0;4.3;8.0
+IHCL-4040DZ-51 10 µH;image/small_inductors/34416.png;Low Profile, High Current Coupled Inductor;IHCL4040DZER100M51;L 3-4;10;86.0;92.0;4.2;9.0
+IHCL-4040DZ-51 10 µH;image/small_inductors/34416.png;Low Profile, High Current Coupled Inductor;IHCL4040DZER360M51;L 1-4 (L shorted) 2-3;36;176.0;189.0;2.9;4.0
+IHCL-4040DZ-51 10 µH;image/small_inductors/34416.png;Low Profile, High Current Coupled Inductor;IHCL4040DZER1R0M51;L 1-3 (L shorted) 2-4;1.0;176.0;189.0;2.9;See note (3)
+IHCL-4040DZ-51 10 µH;image/small_inductors/34416.png;Low Profile, High Current Coupled Inductor;IHCL4040DZER100M51;L Common Mode (1-3 and 2-4 shorted);10;33.0;34.6;7.5;7.5
+IHCL-4040DZ-51 10 µH;image/small_inductors/34416.png;Low Profile, High Current Coupled Inductor;IHCL4040DZER0R0M51;L Differential Mode (1-4 and 2-3 shorted);0.0;33.0;34.6;7.5;See note (3)

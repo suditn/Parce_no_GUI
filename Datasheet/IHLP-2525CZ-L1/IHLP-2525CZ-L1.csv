@@ -1,103 +1,17 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANC
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","E
-DCR
-TYP.
-25 °C
-(mΩ)","DCR
-MAX.
-25 °C
-(mΩ)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZERR1ML1,0.1,1.5,1.7,32.5,60.0,400.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZERR15ML1,0.15,1.9,2.5,26.0,52.0,180.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZERR2ML1,0.2,2.4,3.0,24.0,41.0,150.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZERR22ML1,0.22,2.5,2.8,23.0,40.0,126.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZERR33ML1,0.33,3.5,3.9,20.0,30.0,100.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZERR47ML1,0.47,4.0,4.2,17.5,26.0,75.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZERR68ML1,0.68,5.0,5.5,15.5,25.0,62.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZERR82ML1,0.82,6.7,8.0,13.0,24.0,60.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZER1R0ML1,1.0,9.0,10.0,11.0,22.0,55.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZER1R5ML1,1.5,14.0,15.0,9.0,18.0,40.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZER2R2ML1,2.2,18.0,20.0,8.0,14.0,38.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZER3R3ML1,3.3,28.0,30.0,6.0,13.5,30.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZER4R7ML1,4.7,37.0,40.0,5.5,10.0,25.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZER6R8ML1,6.8,54.0,60.0,4.5,8.0,21.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZER8R2ML1,8.2,64.0,68.0,4.0,7.5,17.0
-IHLP-2525CZ-L1,"www.vishay.com Vishay Dale
-IHLP® Tin / Lead Inductors, High Saturation Series
-FEATURES
-• Lowest height (3.0 mm) in this package footprint
-• Shielded construction",IHLP2525CZER100ML1,10.0,102.0,105.0,3.0,7.0,16.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANC ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);E DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER0R1ML1;0.10;1.5;1.7;32.5;60;400
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER0R15ML1;0.15;1.9;2.5;26;52;180
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER0R2ML1;0.20;2.4;3.0;24;41;150
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER0R22ML1;0.22;2.5;2.8;23;40;126
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER0R33ML1;0.33;3.5;3.9;20;30;100
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER0R47ML1;0.47;4;4.2;17.5;26;75
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER0R68ML1;0.68;5;5.5;15.5;25;62
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER0R82ML1;0.82;6.7;8;13;24;60
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER1R0ML1;1.0;9;10;11;22;55
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER1R5ML1;1.5;14;15;9;18;40
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER2R2ML1;2.2;18;20;8;14;38
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER3R3ML1;3.3;28;30;6;13.5;30
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER4R7ML1;4.7;37;40;5.5;10;25
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER6R8ML1;6.8;54;60;4.5;8;21
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER8R2ML1;8.2;64;68;4;7.5;17
+IHLP-2525CZ-L1;image/small_inductors/34176.png;IHLP® Tin / Lead Inductors, High Saturation Series;IHLP2525CZER100ML1;10;102;105;3;7.0;16

@@ -1,64 +1,10 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 % AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-TYP.
-25 °C
-(mΩ)","DCR
-MAX.
-25 °C
-(mΩ)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)"
-IHLP-2525CZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Frequency range up to 1.0 MHz",IHLP2525CZER1R0M11,1.0,7.6,8.0,12.5,9.5
-IHLP-2525CZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Frequency range up to 1.0 MHz",IHLP2525CZER2R2M11,2.2,15.7,16.5,9.0,7.0
-IHLP-2525CZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Frequency range up to 1.0 MHz",IHLP2525CZER3R3M11,3.3,24.8,26.0,7.0,6.5
-IHLP-2525CZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Frequency range up to 1.0 MHz",IHLP2525CZER4R7M11,4.7,31.8,33.4,6.0,4.0
-IHLP-2525CZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Frequency range up to 1.0 MHz",IHLP2525CZER6R8M11,6.8,44.6,46.8,5.5,4.0
-IHLP-2525CZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Frequency range up to 1.0 MHz",IHLP2525CZER8R2M11,8.2,52.3,54.9,5.0,4.0
-IHLP-2525CZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Frequency range up to 1.0 MHz",IHLP2525CZER100M11,10.0,67.8,71.2,4.0,3.5
-IHLP-2525CZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Frequency range up to 1.0 MHz",IHLP2525CZER150M11,15.0,88.4,95.0,3.7,3.2
-IHLP-2525CZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Frequency range up to 1.0 MHz",IHLP2525CZER220M11,22.0,128.9,135.0,2.9,2.5
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2)
+IHLP-2525CZ-11;image/small_inductors/34190.png;IHLP® Commercial Inductors, Low DCR Series;IHLP2525CZER1R0M11;1.0;7.6;8.0;12.5;9.5
+IHLP-2525CZ-11;image/small_inductors/34190.png;IHLP® Commercial Inductors, Low DCR Series;IHLP2525CZER2R2M11;2.2;15.7;16.5;9.0;7.0
+IHLP-2525CZ-11;image/small_inductors/34190.png;IHLP® Commercial Inductors, Low DCR Series;IHLP2525CZER3R3M11;3.3;24.8;26.0;7.0;6.5
+IHLP-2525CZ-11;image/small_inductors/34190.png;IHLP® Commercial Inductors, Low DCR Series;IHLP2525CZER4R7M11;4.7;31.8;33.4;6.0;4.0
+IHLP-2525CZ-11;image/small_inductors/34190.png;IHLP® Commercial Inductors, Low DCR Series;IHLP2525CZER6R8M11;6.8;44.6;46.8;5.5;4.0
+IHLP-2525CZ-11;image/small_inductors/34190.png;IHLP® Commercial Inductors, Low DCR Series;IHLP2525CZER8R2M11;8.2;52.3;54.9;5.0;4.0
+IHLP-2525CZ-11;image/small_inductors/34190.png;IHLP® Commercial Inductors, Low DCR Series;IHLP2525CZER100M11;10;67.8;71.2;4.0;3.5
+IHLP-2525CZ-11;image/small_inductors/34190.png;IHLP® Commercial Inductors, Low DCR Series;IHLP2525CZER150M11;15;88.4;95.0;3.7;3.2
+IHLP-2525CZ-11;image/small_inductors/34190.png;IHLP® Commercial Inductors, Low DCR Series;IHLP2525CZER220M11;22;128.9;135.0;2.9;2.5

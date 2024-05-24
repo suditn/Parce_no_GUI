@@ -1,62 +1,10 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-25 °C
-(m)",,,,"HEAT RATING
-CURRENT DC
-I
-DC
-(A) (3)",,,,"SATURATION
-CURRENT DC
-I
-SAT
-(A) (4)",,,
-IFSC-1111AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111ABER000M01,,"TYP,","MAX,","MAX,","MAX,","TYP,","MAX,","MAX,","MAX,","TYP,","MAX,","MAX,","MAX,"
-IFSC-1111AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111ABER1R0M01,1.0,52.0,63.0,2.25,3.0,2.5,63.0,2.25,3.0,3.35,63.0,2.25,3.0
-IFSC-1111AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111ABER1R5M01,1.5,60.0,72.0,1.98,2.6,2.2,72.0,1.98,2.6,3.1,72.0,1.98,2.6
-IFSC-1111AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111ABER2R2M01,2.2,84.0,101.0,2.0,2.4,2.25,101.0,2.0,2.4,2.9,101.0,2.0,2.4
-IFSC-1111AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111ABER3R3M01,3.3,134.0,161.0,1.53,1.72,1.71,161.0,1.53,1.72,1.92,161.0,1.53,1.72
-IFSC-1111AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111ABER4R7M01,4.7,184.0,221.0,1.08,1.53,1.43,221.0,1.08,1.53,1.71,221.0,1.08,1.53
-IFSC-1111AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111ABER6R8M01,6.8,256.0,307.0,1.13,1.24,1.25,307.0,1.13,1.24,1.49,307.0,1.13,1.24
-IFSC-1111AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111ABER100M01,10.0,397.0,496.0,0.9,1.05,1.0,496.0,0.9,1.05,1.26,496.0,0.9,1.05
-IFSC-1111AB-01,"www.vishay.com Vishay Dale
-Low Profile, High Current Inductors
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IFSC1111ABER220M01,22.0,854.0,1025.0,0.54,0.72,0.6,1025.0,0.54,0.72,0.86,1025.0,0.54,0.72
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR 25 °C (m);MAX.;MAX.;MAX.;HEAT RATING CURRENT DC I DC (A) (3);MAX.;MAX.;MAX.;SATURATION CURRENT DC I SAT (A) (4);MAX.;MAX.;MAX.
+IFSC-1111AB-01;image/small_inductors/34292.png;Low Profile, High Current Inductors;IFSC1111ABER000M01;;TYP.;MAX.;MAX.;MAX.;TYP.;MAX.;MAX.;MAX.;TYP.;MAX.;MAX.;MAX.
+IFSC-1111AB-01;image/small_inductors/34292.png;Low Profile, High Current Inductors;IFSC1111ABER1R0M01;1.0;52;63;2.25;3.00;2.50;63;2.25;3.00;3.35;63;2.25;3.00
+IFSC-1111AB-01;image/small_inductors/34292.png;Low Profile, High Current Inductors;IFSC1111ABER1R5M01;1.5;60;72;1.98;2.60;2.20;72;1.98;2.60;3.10;72;1.98;2.60
+IFSC-1111AB-01;image/small_inductors/34292.png;Low Profile, High Current Inductors;IFSC1111ABER2R2M01;2.2;84;101;2.00;2.40;2.25;101;2.00;2.40;2.90;101;2.00;2.40
+IFSC-1111AB-01;image/small_inductors/34292.png;Low Profile, High Current Inductors;IFSC1111ABER3R3M01;3.3;134;161;1.53;1.72;1.71;161;1.53;1.72;1.92;161;1.53;1.72
+IFSC-1111AB-01;image/small_inductors/34292.png;Low Profile, High Current Inductors;IFSC1111ABER4R7M01;4.7;184;221;1.08;1.53;1.43;221;1.08;1.53;1.71;221;1.08;1.53
+IFSC-1111AB-01;image/small_inductors/34292.png;Low Profile, High Current Inductors;IFSC1111ABER6R8M01;6.8;256;307;1.13;1.24;1.25;307;1.13;1.24;1.49;307;1.13;1.24
+IFSC-1111AB-01;image/small_inductors/34292.png;Low Profile, High Current Inductors;IFSC1111ABER100M01;10.0;397;496;0.90;1.05;1.00;496;0.90;1.05;1.26;496;0.90;1.05
+IFSC-1111AB-01;image/small_inductors/34292.png;Low Profile, High Current Inductors;IFSC1111ABER220M01;22.0;854;1025;0.54;0.72;0.60;1025;0.54;0.72;0.86;1025;0.54;0.72

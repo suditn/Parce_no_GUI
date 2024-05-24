@@ -1,83 +1,13 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANC
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","E
-DCR
-TYP.
-25 °C
-(m)","DCR
-MAX.
-25 °C
-(m)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLP-3232CZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Excellent DC/DC energy storage up to 5 MHz.",IHLP3232CZERR22M01,0.22,1.6,1.71,32.0,43.0,104.0
-IHLP-3232CZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Excellent DC/DC energy storage up to 5 MHz.",IHLP3232CZERR33M01,0.33,2.4,2.57,25.0,32.0,101.0
-IHLP-3232CZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Excellent DC/DC energy storage up to 5 MHz.",IHLP3232CZERR47M01,0.47,3.11,3.33,21.5,35.0,77.0
-IHLP-3232CZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Excellent DC/DC energy storage up to 5 MHz.",IHLP3232CZER1R0M01,1.0,7.8,8.35,13.7,29.0,51.0
-IHLP-3232CZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Excellent DC/DC energy storage up to 5 MHz.",IHLP3232CZER1R5M01,1.5,12.4,13.3,11.0,24.0,42.0
-IHLP-3232CZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Excellent DC/DC energy storage up to 5 MHz.",IHLP3232CZER2R2M01,2.2,19.0,20.3,9.0,21.0,30.0
-IHLP-3232CZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Excellent DC/DC energy storage up to 5 MHz.",IHLP3232CZER3R3M01,3.3,25.6,27.4,7.2,12.0,27.0
-IHLP-3232CZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Excellent DC/DC energy storage up to 5 MHz.",IHLP3232CZER4R7M01,4.7,32.0,34.2,6.6,10.5,25.0
-IHLP-3232CZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Excellent DC/DC energy storage up to 5 MHz.",IHLP3232CZER5R6M01,5.6,34.7,37.2,6.3,10.0,21.0
-IHLP-3232CZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Excellent DC/DC energy storage up to 5 MHz.",IHLP3232CZER6R8M01,6.8,46.1,49.3,5.3,9.5,19.0
-IHLP-3232CZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Excellent DC/DC energy storage up to 5 MHz.",IHLP3232CZER8R2M01,8.2,55.4,59.3,4.8,9.5,16.0
-IHLP-3232CZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Excellent DC/DC energy storage up to 5 MHz.",IHLP3232CZER100M01,10.0,66.5,71.2,4.7,8.2,15.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANC ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);E DCR TYP. 25 °C (m);DCR MAX. 25 °C (m);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLP-3232CZ-01;image/small_inductors/34320.png;IHLP® Commercial Inductors, High Saturation Series;IHLP3232CZER0R22M01;0.22;1.60;1.71;32.0;43.0;104
+IHLP-3232CZ-01;image/small_inductors/34320.png;IHLP® Commercial Inductors, High Saturation Series;IHLP3232CZER0R33M01;0.33;2.40;2.57;25.0;32.0;101
+IHLP-3232CZ-01;image/small_inductors/34320.png;IHLP® Commercial Inductors, High Saturation Series;IHLP3232CZER0R47M01;0.47;3.11;3.33;21.5;35.0;77
+IHLP-3232CZ-01;image/small_inductors/34320.png;IHLP® Commercial Inductors, High Saturation Series;IHLP3232CZER1R0M01;1.0;7.80;8.35;13.7;29.0;51
+IHLP-3232CZ-01;image/small_inductors/34320.png;IHLP® Commercial Inductors, High Saturation Series;IHLP3232CZER1R5M01;1.5;12.40;13.30;11.0;24.0;42
+IHLP-3232CZ-01;image/small_inductors/34320.png;IHLP® Commercial Inductors, High Saturation Series;IHLP3232CZER2R2M01;2.2;19.00;20.30;9.0;21.0;30
+IHLP-3232CZ-01;image/small_inductors/34320.png;IHLP® Commercial Inductors, High Saturation Series;IHLP3232CZER3R3M01;3.3;25.60;27.40;7.2;12.0;27
+IHLP-3232CZ-01;image/small_inductors/34320.png;IHLP® Commercial Inductors, High Saturation Series;IHLP3232CZER4R7M01;4.7;32.00;34.20;6.6;10.5;25
+IHLP-3232CZ-01;image/small_inductors/34320.png;IHLP® Commercial Inductors, High Saturation Series;IHLP3232CZER5R6M01;5.6;34.70;37.20;6.3;10.0;21
+IHLP-3232CZ-01;image/small_inductors/34320.png;IHLP® Commercial Inductors, High Saturation Series;IHLP3232CZER6R8M01;6.8;46.10;49.30;5.3;9.5;19
+IHLP-3232CZ-01;image/small_inductors/34320.png;IHLP® Commercial Inductors, High Saturation Series;IHLP3232CZER8R2M01;8.2;55.40;59.30;4.8;9.5;16
+IHLP-3232CZ-01;image/small_inductors/34320.png;IHLP® Commercial Inductors, High Saturation Series;IHLP3232CZER100M01;10.0;66.50;71.20;4.7;8.2;15

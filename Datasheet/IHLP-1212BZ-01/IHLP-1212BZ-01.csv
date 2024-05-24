@@ -1,57 +1,8 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANCE
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR
-TYP.
-25 °C
-(mΩ)","DCR
-MAX.
-25 °C
-(mΩ)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLP-1212BZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP1212BZERR1M01,0.1,8.06,8.76,11.02,20.58,385.0
-IHLP-1212BZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP1212BZERR22M01,0.22,13.35,14.68,8.14,9.82,225.0
-IHLP-1212BZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP1212BZERR47M01,0.47,23.5,25.08,6.29,9.28,148.0
-IHLP-1212BZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP1212BZER1R0M01,1.0,37.95,42.93,4.99,6.92,87.0
-IHLP-1212BZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP1212BZER1R5M01,1.5,57.75,62.81,4.08,5.96,63.0
-IHLP-1212BZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP1212BZER2R2M01,2.2,73.1,80.37,3.55,4.93,50.0
-IHLP-1212BZ-01,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Saturation Series
-FEATURES
-• Shielded construction
-• Frequency range up to 5.0 MHz",IHLP1212BZER3R3M01,3.3,90.05,98.48,3.3,4.5,41.6
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANCE ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLP-1212BZ-01;image/small_inductors/34543.png;IHLP® Commercial Inductors, High Saturation Series;IHLP1212BZER0R1M01;0.10;8.06;8.76;11.02;20.58;385
+IHLP-1212BZ-01;image/small_inductors/34543.png;IHLP® Commercial Inductors, High Saturation Series;IHLP1212BZER0R22M01;0.22;13.35;14.68;8.14;9.82;225
+IHLP-1212BZ-01;image/small_inductors/34543.png;IHLP® Commercial Inductors, High Saturation Series;IHLP1212BZER0R47M01;0.47;23.50;25.08;6.29;9.28;148
+IHLP-1212BZ-01;image/small_inductors/34543.png;IHLP® Commercial Inductors, High Saturation Series;IHLP1212BZER1R0M01;1.0;37.95;42.93;4.99;6.92;87
+IHLP-1212BZ-01;image/small_inductors/34543.png;IHLP® Commercial Inductors, High Saturation Series;IHLP1212BZER1R5M01;1.5;57.75;62.81;4.08;5.96;63
+IHLP-1212BZ-01;image/small_inductors/34543.png;IHLP® Commercial Inductors, High Saturation Series;IHLP1212BZER2R2M01;2.2;73.10;80.37;3.55;4.93;50
+IHLP-1212BZ-01;image/small_inductors/34543.png;IHLP® Commercial Inductors, High Saturation Series;IHLP1212BZER3R3M01;3.3;90.05;98.48;3.30;4.50;41.6

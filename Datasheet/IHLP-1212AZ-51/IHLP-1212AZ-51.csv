@@ -1,48 +1,6 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANC
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","E
-DCR
-TYP.
-25 °C
-(m)","DCR
-MAX.
-25 °C
-(m)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLP-1212AZ-51,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Temperature (155 °C) Series
-FEATURES
-• Shielded construction
-• High temperature, up to 155 °C",IHLP1212AZERR1M51,0.1,7.31,8.81,11.13,7.38,440.0
-IHLP-1212AZ-51,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Temperature (155 °C) Series
-FEATURES
-• Shielded construction
-• High temperature, up to 155 °C",IHLP1212AZERR22M51,0.22,13.89,14.87,7.72,5.88,225.0
-IHLP-1212AZ-51,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Temperature (155 °C) Series
-FEATURES
-• Shielded construction
-• High temperature, up to 155 °C",IHLP1212AZERR33M51,0.33,21.07,23.3,5.85,5.05,187.0
-IHLP-1212AZ-51,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Temperature (155 °C) Series
-FEATURES
-• Shielded construction
-• High temperature, up to 155 °C",IHLP1212AZERR47M51,0.47,26.66,27.92,5.35,4.43,152.0
-IHLP-1212AZ-51,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, High Temperature (155 °C) Series
-FEATURES
-• Shielded construction
-• High temperature, up to 155 °C",IHLP1212AZER1R0M51,1.0,56.71,58.99,3.59,3.62,91.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANC ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);E DCR TYP. 25 °C (m);DCR MAX. 25 °C (m);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLP-1212AZ-51;image/small_inductors/34542.png;IHLP® Commercial Inductors, High Temperature (155 °C) Series;IHLP1212AZER0R1M51;0.10;7.31;8.81;11.13;7.38;440
+IHLP-1212AZ-51;image/small_inductors/34542.png;IHLP® Commercial Inductors, High Temperature (155 °C) Series;IHLP1212AZER0R22M51;0.22;13.89;14.87;7.72;5.88;225
+IHLP-1212AZ-51;image/small_inductors/34542.png;IHLP® Commercial Inductors, High Temperature (155 °C) Series;IHLP1212AZER0R33M51;0.33;21.07;23.30;5.85;5.05;187
+IHLP-1212AZ-51;image/small_inductors/34542.png;IHLP® Commercial Inductors, High Temperature (155 °C) Series;IHLP1212AZER0R47M51;0.47;26.66;27.92;5.35;4.43;152
+IHLP-1212AZ-51;image/small_inductors/34542.png;IHLP® Commercial Inductors, High Temperature (155 °C) Series;IHLP1212AZER1R0M51;1.0;56.71;58.99;3.59;3.62;91

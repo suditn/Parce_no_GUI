@@ -1,58 +1,8 @@
-File Name,Description,PART NUMBER,"L
-0
-INDUCTANC
-± 20 %
-AT 100 kHz,
-0.25 V, 0 A
-(μH)","E
-DCR
-TYP.
-25 °C
-(m)","DCR
-MAX.
-25 °C
-(m)","HEAT
-RATING
-CURRENT
-DC TYP.
-(A) (1)","SATURATION
-CURRENT
-DC TYP.
-(A) (2)","SRF
-TYP.
-(MHz)"
-IHLP-1616BZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616BZERR1M11,0.1,4.1,4.5,12.0,12.0,299.0
-IHLP-1616BZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616BZERR22M11,0.22,6.5,7.0,9.0,9.0,158.0
-IHLP-1616BZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616BZERR47M11,0.47,14.5,16.0,7.0,7.0,97.0
-IHLP-1616BZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616BZER1R0M11,1.0,24.0,27.0,4.5,5.0,64.0
-IHLP-1616BZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616BZER2R2M11,2.2,61.0,68.0,3.25,3.25,40.0
-IHLP-1616BZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616BZER3R3M11,3.3,89.3,94.3,2.7,2.2,35.0
-IHLP-1616BZ-11,"www.vishay.com Vishay Dale
-IHLP® Commercial Inductors, Low DCR Series
-FEATURES
-• Shielded construction
-• Lowest DCR/μH, in this package size",IHLP1616BZER4R7M11,4.7,95.0,105.0,1.7,1.75,29.0
+File Name;Image Path;Description;PART NUMBER;L 0 INDUCTANC ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);E DCR TYP. 25 °C (m);DCR MAX. 25 °C (m);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);SRF TYP. (MHz)
+IHLP-1616BZ-11;image/small_inductors/34196.png;IHLP® Commercial Inductors, Low DCR Series;IHLP1616BZER0R1M11;0.10;4.1;4.5;12.0;12.0;299
+IHLP-1616BZ-11;image/small_inductors/34196.png;IHLP® Commercial Inductors, Low DCR Series;IHLP1616BZER0R22M11;0.22;6.5;7.0;9.0;9.0;158
+IHLP-1616BZ-11;image/small_inductors/34196.png;IHLP® Commercial Inductors, Low DCR Series;IHLP1616BZER0R47M11;0.47;14.5;16;7.0;7.0;97
+IHLP-1616BZ-11;image/small_inductors/34196.png;IHLP® Commercial Inductors, Low DCR Series;IHLP1616BZER1R0M11;1.0;24;27;4.5;5.0;64
+IHLP-1616BZ-11;image/small_inductors/34196.png;IHLP® Commercial Inductors, Low DCR Series;IHLP1616BZER2R2M11;2.2;61;68;3.25;3.25;40
+IHLP-1616BZ-11;image/small_inductors/34196.png;IHLP® Commercial Inductors, Low DCR Series;IHLP1616BZER3R3M11;3.3;89.3;94.3;2.7;2.2;35
+IHLP-1616BZ-11;image/small_inductors/34196.png;IHLP® Commercial Inductors, Low DCR Series;IHLP1616BZER4R7M11;4.7;95;105;1.7;1.75;29

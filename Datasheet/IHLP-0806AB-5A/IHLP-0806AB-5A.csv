@@ -1,37 +1,6 @@
-File Name,Description,PART NUMBER,"L INDUCTANCE
-0
-± 20 % AT 0 A
-(μH)","DCR TYP.
-25 °C
-(m)","DCR MAX.
-25 °C
-(m)","HEAT RATING
-CURRENT DC TYP.
-(A) (1)","SATURATION CURRENT
-DC TYP.
-(A) (2)",
-IHLP-0806AB-5A,"www.vishay.com Vishay Dale
-IHLP® High Temperature (165 °C), Automotive Power Inductors
-FEATURES
-• 2.0 mm x 1.6 mm x 1.2 mm SMD package
-• Handles high transient current spikes withou t",,,,,,20 % DROP,30 % DRO
-IHLP-0806AB-5A,"www.vishay.com Vishay Dale
-IHLP® High Temperature (165 °C), Automotive Power Inductors
-FEATURES
-• 2.0 mm x 1.6 mm x 1.2 mm SMD package
-• Handles high transient current spikes withou t",IHLP0806ABEZR22M5A,0.22,15.0,18.0,5.8,5.1,7.5
-IHLP-0806AB-5A,"www.vishay.com Vishay Dale
-IHLP® High Temperature (165 °C), Automotive Power Inductors
-FEATURES
-• 2.0 mm x 1.6 mm x 1.2 mm SMD package
-• Handles high transient current spikes withou t",IHLP0806ABEZR24M5A,0.24,17.0,20.0,5.1,5.0,6.5
-IHLP-0806AB-5A,"www.vishay.com Vishay Dale
-IHLP® High Temperature (165 °C), Automotive Power Inductors
-FEATURES
-• 2.0 mm x 1.6 mm x 1.2 mm SMD package
-• Handles high transient current spikes withou t",IHLP0806ABEZR33M5A,0.33,19.0,23.0,4.7,4.8,5.9
-IHLP-0806AB-5A,"www.vishay.com Vishay Dale
-IHLP® High Temperature (165 °C), Automotive Power Inductors
-FEATURES
-• 2.0 mm x 1.6 mm x 1.2 mm SMD package
-• Handles high transient current spikes withou t",IHLP0806ABEZR47M5A,0.47,21.0,25.0,4.6,4.5,5.4
+File Name;Image Path;Description;PART NUMBER;L INDUCTANCE 0 ± 20 % AT 0 A (μH);DCR TYP. 25 °C (m);DCR MAX. 25 °C (m);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) (2);30 % DRO
+IHLP-0806AB-5A;image/small_inductors/34618.png;IHLP® High Temperature (165 °C), Automotive Power Inductors;IHLP0806ABER000M5A;;;;;20 % DROP;30 % DRO
+IHLP-0806AB-5A;image/small_inductors/34618.png;IHLP® High Temperature (165 °C), Automotive Power Inductors;IHLP0806ABER0R22M5A;0.22;15.0;18.0;5.8;5.1;7.5
+IHLP-0806AB-5A;image/small_inductors/34618.png;IHLP® High Temperature (165 °C), Automotive Power Inductors;IHLP0806ABER0R24M5A;0.24;17.0;20.0;5.1;5.0;6.5
+IHLP-0806AB-5A;image/small_inductors/34618.png;IHLP® High Temperature (165 °C), Automotive Power Inductors;IHLP0806ABER0R33M5A;0.33;19.0;23.0;4.7;4.8;5.9
+IHLP-0806AB-5A;image/small_inductors/34618.png;IHLP® High Temperature (165 °C), Automotive Power Inductors;IHLP0806ABER0R47M5A;0.47;21.0;25.0;4.6;4.5;5.4

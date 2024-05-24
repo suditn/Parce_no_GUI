@@ -1,0 +1,15 @@
+File Name;Image Path;Description;PART NUMBER;IND. (μH);TEST FREQ. (MHz);Q MIN.;SRF MIN. (MHz) (1);DCR MAX. ();RATED DC CURRENT (mA)
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER000M100;;L & Q;;;;
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R01M100;0.010;100;15;2500;0.13;734
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R012M100;0.012;100;17;2300;0.14;707
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R015M100;0.015;100;19;2100;0.16;661
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R018M100;0.018;100;21;1900;0.18;624
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R022M100;0.022;100;23;1700;0.20;592
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R027M100;0.027;100;23;1500;0.22;564
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R033M100;0.033;100;25;1400;0.24;540
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R039M100;0.039;100;25;1300;0.27;530
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R047M100;0.047;100;26;1200;0.30;483
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R056M100;0.056;100;26;1100;0.33;470
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R068M100;0.068;100;27;1000;0.36;450
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R082M100;0.082;100;27;900;0.40;450
+IMC-1210-100;image/small_inductors/34042.png;Wirewound, Surface-Mount Molded Inductors;IMC1210ER0R1M100;0.10;100;28;700;0.44;450

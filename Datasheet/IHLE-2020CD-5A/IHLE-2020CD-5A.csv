@@ -1,81 +1,14 @@
-File Name,Description,PART NUMBER,"L INDUCTANCE
-0
-± 20 % AT 100 kHz,
-0.25 V, 0 A
-(μH)","DCR TYP.
-25 °C
-(mΩ)","DCR
-MAX.
-25 °C
-(mΩ)","HEAT RATING
-CURRENT DC
-TYP.
-(A) (1)","SATURATION CURRENT DC TYP.
-(A) S
-TY
-20 % DROP (2) 30 % DROP (3) (M",
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",,,,,,20 % DROP (2),
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",IHLE2020CDERR22M5A,0.22,3.95,4.23,18.0,8.6,"13,0 16"
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",IHLE2020CDERR33M5A,0.33,4.9,5.34,15.8,8.1,"11,8 12"
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",IHLE2020CDERR47M5A,0.47,6.02,6.44,14.6,6.5,"9,4 88"
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",IHLE2020CDERR68M5A,0.68,9.1,9.74,11.3,6.6,"9,5 78"
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",IHLE2020CDER1R0M5A,1.0,11.5,12.1,9.8,7.2,"10,3 66"
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",IHLE2020CDER1R5M5A,1.5,18.0,19.8,7.9,6.6,"9,4 49"
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",IHLE2020CDER2R2M5A,2.2,24.7,26.0,6.5,5.0,"7,1 39"
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",IHLE2020CDER3R3M5A,3.3,44.0,47.0,5.2,4.3,"6,1 33"
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",IHLE2020CDER4R7M5A,4.7,72.8,78.3,4.1,3.7,"6,0 23"
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",IHLE2020CDER6R8M5A,6.8,104.0,111.0,3.2,2.0,"2,9 18"
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",IHLE2020CDER100M5A,10.0,132.0,138.0,2.8,1.9,"2,7 15"
-IHLE-2020CD-5A,"www.vishay.com Vishay Dale
-IHLE® High Current Inductor With E-Field Shield
-FEATURES
-• High temperature, continuous operation up t o
-155 °C",IHLE2020CDER150M5A,15.0,195.0,208.0,2.4,1.8,"2,6 14"
+File Name;Image Path;Description;PART NUMBER;L INDUCTANCE 0 ± 20 % AT 100 kHz, 0.25 V, 0 A (μH);DCR TYP. 25 °C (mΩ);DCR MAX. 25 °C (mΩ);HEAT RATING CURRENT DC TYP. (A) (1);SATURATION CURRENT DC TYP. (A) S TY 20 % DROP (2) 30 % DROP (3) (M; 
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER000M5A;;;;;20 % DROP (2);
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER0R22M5A;0.22;3.95;4.23;18.0;8.6;13.0 16
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER0R33M5A;0.33;4.90;5.34;15.8;8.1;11.8 12
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER0R47M5A;0.47;6.02;6.44;14.6;6.5;9.4 88
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER0R68M5A;0.68;9.10;9.74;11.3;6.6;9.5 78
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER1R0M5A;1.0;11.50;12.10;9.8;7.2;10.3 66
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER1R5M5A;1.5;18.00;19.80;7.9;6.6;9.4 49
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER2R2M5A;2.2;24.70;26.00;6.5;5.0;7.1 39
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER3R3M5A;3.3;44.00;47.00;5.2;4.3;6.1 33
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER4R7M5A;4.7;72.80;78.30;4.1;3.7;6.0 23
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER6R8M5A;6.8;104.0;111.0;3.2;2.0;2.9 18
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER100M5A;10;132.0;138.0;2.8;1.9;2.7 15
+IHLE-2020CD-5A;image/small_inductors/34577.png;IHLE® High Current Inductor With E-Field Shield;IHLE2020CDER150M5A;15;195.0;208.0;2.4;1.8;2.6 14
