@@ -7,6 +7,7 @@ import json
 ser1 = []
 ser2 = []
 
+
 def there_is_pdf(folder_path, excel_file, excel_sheet):
     wb = pd.read_excel(excel_file, sheet_name=excel_sheet, engine='openpyxl')
 
@@ -25,6 +26,7 @@ def there_is_pdf(folder_path, excel_file, excel_sheet):
                 if relative_path not in series_paths[series_name]:
                     series_paths[series_name].append(relative_path)
 
+
 def create_part_number(file_name, value, tolerance):
     parts = file_name.split('-')
     if len(parts) < 2:
@@ -33,10 +35,13 @@ def create_part_number(file_name, value, tolerance):
     product_family = parts[0]
     size = parts[1]
 
+    value_str = "000"
     if value is not None:
         try:
             value_float = float(str(value).replace(',', '.'))
-            if value_float < 10:
+            if value_float < 1:
+                value_str = str(value_float).replace('0.', '0R').replace('.', 'R')
+            elif value_float < 10:
                 value_str = str(value_float).replace('.', 'R')
             else:
                 value_str = str(int(value_float))
@@ -48,13 +53,13 @@ def create_part_number(file_name, value, tolerance):
                     value_str = value_str[:-2] + '2'
         except ValueError:
             value_str = "000"
-    else:
-        value_str = "000"
 
     if tolerance == 20:
         tol = "M"
     elif tolerance == 30:
         tol = "N"
+    elif tolerance == 10:
+        tol = "K"
     else:
         tol = ""
 
@@ -65,33 +70,115 @@ def create_part_number(file_name, value, tolerance):
 
     return part_number
 
+
+def normalize_table_data(table):
+    normalized_data = []
+    max_len = max(len(row[0].split('\n')) for row in table if row[0] and isinstance(row[0], str))
+
+    for row in table:
+        split_rows = [r.split('\n') if r else [''] for r in row]
+        for i in range(max_len):
+            new_row = []
+            for col in split_rows:
+                if i < len(col):
+                    new_row.append(col[i])
+                else:
+                    new_row.append('')
+           # print(new_row)
+            normalized_data.append(new_row)
+
+    # Удаление пустых строк
+    normalized_data = [row for row in normalized_data if any(cell.strip() for cell in row)]
+    #print(normalized_data)
+
+    return normalized_data
+
+
 def create_csv_with_file_description(save_path, pdf_path, image_path):
     file_name = os.path.basename(pdf_path).replace(".pdf", "")
 
     table_data = []
     column_names = []
-    column_names2 = []
+    column_header_is_two = False
+    module_exist = False
+    col_first = ''
     i = 0
+    b = 0
+
 
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
             tables = page.extract_tables()
             for table in tables:
-                if table and len(table) > 1 and table[0][0] and table[0][0] == "STANDARD ELECTRICAL SPECIFICATIONS":
-                    if not column_names:
-                        column_names = table[1]
-                        column_names2 = table[2]
-                        while(i < len(column_names)):
-                            if column_names[i] == None:
-                                if column_names2[i] != None:
-                                    column_names[i] = column_names2[i]
-                                else:
-                                    column_names[i] = ' '
-                            i += 1
-                    table_data.extend(table[2:])
+                #print(table[0][0])
+                try:
+                    if table and len(table) > 1 and table[0][0] and table[0][0] == "STANDARD ELECTRICAL SPECIFICATIONS" or table[0][0]=="3DD 33D\n3D Models" or table[0][0] == "Design Tools":
+                        if not column_names:
+                            if table[1] == ['']: continue
+                            column_names = table[1]
+                            column_names2 = table[2]
+
+                            while i < len(column_names2):
+                                if column_names[i] is None:
+                                    if column_names2[i] is not None and column_names2[b] is not None:
+                                        b = i - 1
+                                        col_first = column_names[i - 1]
+                                        #print(col_first)
+                                        column_names[b] = col_first + ' ' + column_names2[b]
+                                        break
+                                i += 1
+                            i = 0
+                            while i < len(column_names):
+                                if column_names[i] is None:
+                                    if column_names2[i] is not None:
+                                        column_names[i] = col_first + ' ' + column_names2[i]
+                                        column_header_is_two = True
+                                    else:
+                                        column_names[i] = ' '
+                                        column_header_is_two = True
+                                i += 1
+                        #print(column_names)
+                        #print(table[2:])
+                        if column_header_is_two:
+                            table_data.extend(normalize_table_data(table[3:]))
+                        else:
+                            table_data.extend(normalize_table_data(table[2:]))
+
+                except IndexError:
+                    if table and len(table) > 1 and table[0][0] and table[0][0] == "STANDARD ELECTRICAL SPECIFICATIONS" or table[0][0]=="3DD 33D\n3D Models":
+                        if not column_names:
+                            column_names = table[1]
+                            column_names2 = table[2]
+
+                            while i < len(column_names2):
+                                if column_names[i] is None:
+                                    if column_names2[i] is not None and column_names2[b] is not None:
+                                        b = i - 1
+                                        col_first = column_names[i - 1]
+                                        print(col_first)
+                                        column_names[b] = col_first + ' ' + column_names2[b]
+                                        break
+                                i += 1
+                            i = 0
+                            while i < len(column_names):
+                                if column_names[i] is None:
+                                    if column_names2[i] is not None:
+                                        column_names[i] = col_first + ' ' + column_names2[i]
+                                        column_header_is_two = True
+                                    else:
+                                        column_names[i] = ' '
+                                        column_header_is_two = True
+                                i += 1
+                    #print(table[2:])
+                        if column_header_is_two:
+                            table_data.extend(normalize_table_data(table[3:]))
+                        else:
+                            table_data.extend(normalize_table_data(table[2:]))
+
 
     if table_data:
         max_columns = max(len(row) for row in table_data)
+        #print(column_names)
         if not column_names:
             column_names = [f"Column {i + 1}" for i in range(max_columns)]
         else:
@@ -116,13 +203,22 @@ def create_csv_with_file_description(save_path, pdf_path, image_path):
     df["Description"] = " ".join(lines[2:3]) if len(lines) > 2 else ""
 
     # Ищем столбцы, содержащие ключевые слова
+    model_column = None
     value_column = None
+    #print(df.columns)
     for col in df.columns:
-        if col and any(keyword in col for keyword in ["INDUCTANCE", "(nH)", "(μH)", "IND. AT 1 kHz", "L 0 INDUCTANC ± 20 % AT 100 kHz", "INDUCTANC", "IMPEDAN", "L\n500\nMHz\n(nH)", "COMMON MODE IMPEDAN"]):
-            value_column = col
-            break
+        if col and "MODEL" in col:
 
-    if value_column:
+            model_column = col
+            break
+        if col and any(keyword in col for keyword in
+                       ["INDUCTANCE", "(nH)", "(μH)", "IND. AT 1 kHz", "L 0 INDUCTANC ± 20 % AT 100 kHz", "INDUCTANC",
+                        "IMPEDAN", "L\n500\nMHz\n(nH)", "COMMON MODE IMPEDAN", "L\n0\nINDUCTANCE\n± 20 %\nAT 100 kHz,\n0.25 V, 0 A\n(μH)"]):
+            value_column = col
+
+    if model_column:
+        df["PART NUMBER"] = df[model_column]
+    elif value_column:
         def validate_value(value):
             try:
                 if pd.notna(value):
@@ -138,13 +234,16 @@ def create_csv_with_file_description(save_path, pdf_path, image_path):
 
         part_numbers = df.apply(extract_value, axis=1)
         df["PART NUMBER"] = part_numbers
-
-    if "PART NUMBER" in df.columns:
+    #print(df.columns)
+    if "PART NUMBER" in df.columns or "MODEL" in df.columns:
         columns = ["File Name", "Image Path", "Description", "PART NUMBER"]
-        columns += [col for col in df.columns if col not in columns]
+        columns += [col for col in df.columns if col not in columns and col != "MODEL"]
         df = df[columns]
     else:
         print(f"PART NUMBER column not found in DataFrame for file: {pdf_path}")
+        columns = ["File Name", "Image Path", "Description"]
+        columns += [col for col in df.columns if col not in columns and col != "MODEL"]
+        df = df[columns]
 
     output_csv_path = os.path.join(os.path.dirname(pdf_path), f"{file_name}.csv")
     df.replace(r'\s+|\\n', ' ', regex=True, inplace=True)
@@ -158,6 +257,7 @@ def create_csv_with_file_description(save_path, pdf_path, image_path):
         df.to_csv(f, index=False, header=False, sep=';')
 
     return output_csv_path
+
 
 def create_individual_json(pdf_path, csv_path, image_path):
     file_name = os.path.basename(pdf_path).replace(".pdf", "")
@@ -177,6 +277,7 @@ def create_individual_json(pdf_path, csv_path, image_path):
 
     return json_output_path
 
+
 def create_master_json(json_list, save_path):
     master_json_content = {}
     for json_file in json_list:
@@ -188,6 +289,7 @@ def create_master_json(json_list, save_path):
     with open(master_json_path, 'w', encoding='utf-8') as master_json_file:
         json.dump(master_json_content, master_json_file, indent=4)
 
+
 if __name__ == "__main__":
     save_path = str(Path(__file__).parent.resolve())
     folder_path = save_path
@@ -196,7 +298,8 @@ if __name__ == "__main__":
 
     there_is_pdf(folder_path, excel_file, excel_sheet)
 
-    image_paths = pd.read_excel(excel_file, sheet_name=excel_sheet, engine='openpyxl').set_index('Series')['Image path'].to_dict()
+    image_paths = pd.read_excel(excel_file, sheet_name=excel_sheet, engine='openpyxl').set_index('Series')[
+        'Image path'].to_dict()
 
     json_files = []
 
