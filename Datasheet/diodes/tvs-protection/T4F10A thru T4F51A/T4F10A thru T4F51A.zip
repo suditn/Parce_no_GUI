@@ -1,0 +1,40 @@
+*produced by Vishay General Semiconductor Taiwan
+*Sam Liao, 2023/8/9
+
+
+
+
+.SUBCKT T4F33A a c 
+.PARAM RL       = 2.82e+07
+.PARAM RBD      = 1.423
+.PARAM RBVC     = 33000
+
+DF a 90 DF
+
+* Leakage
+RL a 90 'RL'
+
+
+* Breakdown
+RBD 90 4 'RBD'
+EBD 4 3 10 20 1
+DBD 3 a DBD
+IBVC 0 10 0.001
+RBVC 10 0 RBVC 'RBVC'
+
+RBDX 20 23 'RBD'
+DBVC 23 0 DBD
+IBVD 0 20 0.001
+L1 90 c 3.4E-010
+
+
+.MODEL DF D (
++Trs1     = 0.00397025     T_MEASURED= 25             IS       = 7e-09          
++RS       = 0.0390104      N        = 1.90115        CJO      = 3.82e-10       
++VJ       = 0.52           M       = 0.29           FC       = 0.5            
++TT       = 1e-08          XTI      = 7.31463        EG       = 1.17 )
+.MODEL DBD D (
++T_MEASURED= 25             IS       = 5.68198e-11    N        = 1 )
+.MODEL RBVC R (
++TC1      = 0.00089 )
+.ENDS T4F33A

@@ -1,0 +1,10 @@
+Part Number▲▼(all)SiP32419SiP32429SiP32430SiP32433ASiP32433BSIP32434ASIP32434BSiPQ32433ASiPQ32433B,"Description▲▼(all)3.5 A, 78 mΩ, 2.8 V to 22 V eFuse with accurate current limit, OVP, and active reverse current blocking3.5 A, 78 mΩ, 2.8 V to 23 V, programmable OVP and current limit, active reverse blocking, auto retry on fault3.5 A, 78 mΩ, 2.8 V to 23 V, programmable OVP and current limit, active reverse blocking, latch-off on fault6 A, 33 mΩ, 2.8 V to 23 V, programmable OVP and current limit, latch-off on fault6 A, 33 mΩ, 2.8 V to 23 V,programmable OVP and current limit, auto retry on fault6 V to 28 V, 56 mΩ, programmable current limit and slew rate, auto-retry on fault6 V to 28 V, 56 mΩ, programmable current limit and slew rate, latch-off on fault6 V to 28 V, 99 mΩ, programmable current limit and slew rate, auto retry on fault",VinMin.(V)▲▼(all)2.86,VinMax.(V)▲▼(all)28,Package▲▼(all)DFN33 10L wettable flankDFN33-10L,Image path
+SiP32430,"6 V to 28 V, 99 mΩ, programmable current limit and slew rate, auto retry on fault",6,28,DFN33-10L,
+SiP32419,"6 V to 28 V, 56 mΩ, programmable current limit and slew rate, latch-off on fault",6,28,DFN33-10L,
+SiP32429,"6 V to 28 V, 56 mΩ, programmable current limit and slew rate, auto-retry on fault",6,28,DFN33-10L,
+SIP32434A,"6 A, 33 mΩ, 2.8 V to 23 V, programmable OVP and current limit, latch-off on fault",2.8,28,DFN33-10L,
+SIP32434B,"6 A, 33 mΩ, 2.8 V to 23 V,programmable OVP and current limit, auto retry on fault",2.8,28,DFN33-10L,
+SiP32433A,"3.5 A, 78 mΩ, 2.8 V to 23 V, programmable OVP and current limit, active reverse blocking, latch-off on fault",2.8,28,DFN33-10L,
+SiP32433B,"3.5 A, 78 mΩ, 2.8 V to 23 V, programmable OVP and current limit, active reverse blocking, auto retry on fault",2.8,28,DFN33-10L,
+SiPQ32433A,"3.5 A, 78 mΩ, 2.8 V to 22 V eFuse with accurate current limit, OVP, and active reverse current blocking",2.8,28,DFN33 10L wettable flank,
+SiPQ32433B,"3.5 A, 78 mΩ, 2.8 V to 22 V eFuse with accurate current limit, OVP, and active reverse current blocking",2.8,28,DFN33 10L wettable flank,

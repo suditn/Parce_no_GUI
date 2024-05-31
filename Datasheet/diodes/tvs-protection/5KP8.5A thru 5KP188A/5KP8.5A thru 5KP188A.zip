@@ -1,0 +1,27 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2019/8/6
+*   PSPICE
+*                    anode     cathode
+* Reverse direction: node 9 <- node 2
+.SUBCKT 5kp100a 9 2
+DF 9 90 DFMOD
+.MODEL DFMOD D N = 1.8 IS = 2E-009 RS = 0.0201073
++ EG = 1.11 XTI = 3
++ CJO = 2000p VJ = 0.526776 M = 0.33 FC = 0.5
++ TT = 1E-008 T_MEASURED = 25
+* Leakage
+RL 9 90 RLMOD 50e6
+.MODEL RLMOD RES TC1 = 0 TC2 = 0 T_MEASURED = 25
+* Breakdown
+RBD 90 4 1.456
+EBD 4 3 10 20 1
+DBD 3 9 DBDMOD 
+.MODEL DBDMOD D IS = 1E-015 N = 0.5 T_MEASURED = 25 T_ABS = 25
+IBVC 0 10 0.001
+RBVC 10 0 RBVCMOD 117000
+.MODEL RBVCMOD RES TC1 = 0.00101 T_MEASURED = 25
+RBDX 20 23 1.456
+DBVC 23 0 DBDMOD 
+IBVD 0 20 0.005
+L1 90 2 1E-015
+.ENDS

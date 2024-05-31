@@ -1,0 +1,1724 @@
+Part Number▲▼,Product Image,Rev. Voltage(V)▲▼,IF(AV)(A)▲▼,VFat IF(V at A)▲▼,IFSM(A)▲▼,IRM(mA)▲▼,TJmax.(°C)▲▼,Package (JEDEC®) Code▲▼,Circuit Configuration▲▼,AEC-Q101Qualified▲▼,Image path
+1N5817,Enlarge,20,1,see datasheet,25,,125,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88525.png
+1N5818,Enlarge,30,1,see datasheet,25,,125,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88525.png
+1N5819,Enlarge,40,1,see datasheet,25,,125,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88525.png
+1N5820,Enlarge,20,3,see datasheet,80,,125,DO-201AD,Single,No,image/diodes/schottky/88526.png
+1N5821,Enlarge,30,3,see datasheet,80,,125,DO-201AD,Single,No,image/diodes/schottky/88526.png
+1N5822,Enlarge,40,3,see datasheet,80,,125,DO-201AD,Single,No,image/diodes/schottky/88526.png
+B120-E3,Enlarge,20,1,see datasheet,30,,see datasheet,SMA (DO-214AC),Single,No,image/diodes/schottky/88946.png
+B120-M3,Enlarge,20,1,see datasheet,30,,see datasheet,SMA (DO-214AC),Single,No,image/diodes/schottky/89926.png
+B130-E3,Enlarge,30,1,see datasheet,30,,see datasheet,SMA (DO-214AC),Single,No,image/diodes/schottky/88946.png
+B130-M3,Enlarge,30,1,see datasheet,30,,see datasheet,SMA (DO-214AC),Single,No,image/diodes/schottky/89926.png
+B140-E3,Enlarge,40,1,see datasheet,30,,see datasheet,SMA (DO-214AC),Single,No,image/diodes/schottky/88946.png
+B140-M3,Enlarge,40,1,see datasheet,30,,see datasheet,SMA (DO-214AC),Single,No,image/diodes/schottky/89926.png
+B150-E3,Enlarge,50,1,see datasheet,30,,see datasheet,SMA (DO-214AC),Single,No,image/diodes/schottky/88946.png
+B150-M3,Enlarge,50,1,see datasheet,30,,see datasheet,SMA (DO-214AC),Single,No,image/diodes/schottky/89926.png
+B160-E3,Enlarge,60,1,see datasheet,30,,see datasheet,SMA (DO-214AC),Single,No,image/diodes/schottky/88946.png
+B160-M3,Enlarge,60,1,see datasheet,30,,see datasheet,SMA (DO-214AC),Single,No,image/diodes/schottky/89926.png
+B230LA,Enlarge,30,2,see datasheet,50,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/88894.png
+B230LA-M3,Enlarge,30,2,see datasheet,50,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89413.png
+B240A,Enlarge,40,2,see datasheet,50,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/88894.png
+B240A-M3,Enlarge,40,2,see datasheet,50,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89413.png
+B330LA,Enlarge,30,3,see datasheet,65,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/88896.png
+B330LA-M3,Enlarge,30,3,see datasheet,65,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89415.png
+B340A,Enlarge,40,3,see datasheet,65,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/88896.png
+B340A-M3,Enlarge,40,3,see datasheet,65,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89415.png
+B340LB,Enlarge,40,3,0.34,100,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89039.png
+B350A,Enlarge,50,3,0.55,50,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89071.png
+B350A-M3,Enlarge,50,3,0.55,50,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89414.png
+B350B,Enlarge,50,3,0.51,60,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89122.png
+B350B,Enlarge,50,3,0.51,60,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89446.png
+B360A,Enlarge,60,3,0.55,50,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89071.png
+B360A-M3,Enlarge,60,3,0.55,50,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89414.png
+B360B,Enlarge,60,3,0.51,60,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89122.png
+B360B,Enlarge,60,3,0.51,60,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89446.png
+BYM13-xx,Enlarge,20,1,see datasheet,30,,see datasheet,GL41 (DO-213AB),Single,Yes,image/diodes/schottky/88548.png
+BYM13-xx,Enlarge,30,1,see datasheet,30,,see datasheet,GL41 (DO-213AB),Single,Yes,image/diodes/schottky/88548.png
+BYM13-xx,Enlarge,40,1,see datasheet,30,,see datasheet,GL41 (DO-213AB),Single,Yes,image/diodes/schottky/88548.png
+BYM13-xx,Enlarge,50,1,see datasheet,30,,see datasheet,GL41 (DO-213AB),Single,Yes,image/diodes/schottky/88548.png
+BYM13-xx,Enlarge,60,1,see datasheet,30,,see datasheet,GL41 (DO-213AB),Single,Yes,image/diodes/schottky/88548.png
+BYS10-25,Enlarge,25,1.5,0.50,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/86013.png
+BYS10-35,Enlarge,35,1.5,0.50,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/86013.png
+BYS10-45,Enlarge,45,1.5,0.50,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/86013.png
+BYS11-90,Enlarge,90,1.5,0.75,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/86014.png
+BYS11-90-M3,Enlarge,90,1.5,0.75,40,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89409.png
+BYS12-90,Enlarge,90,1.5,0.75,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88950.png
+BYS12-90-M3,Enlarge,90,1.5,0.75,40,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89412.png
+M6035P,Enlarge,35,2 x 30,see datasheet,350,,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88980.png
+M6045P,Enlarge,45,2 x 30,see datasheet,350,,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88980.png
+M6060P,Enlarge,60,2 x 30,see datasheet,350,,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88980.png
+MB10H100,Enlarge,100,10,0.64,250,,175,ITO-220AC,Single,Yes,image/diodes/schottky/87727.png
+MB10H100CT,Enlarge,100,2 x 5,0.61,150,,175,ITO-220AB,Common cathode,Yes,image/diodes/schottky/87728.png
+MB20H100CT,Enlarge,100,2 x 10,0.64,250,,175,ITO-220AB,Common cathode,Yes,image/diodes/schottky/87736.png
+MB30H100CT,Enlarge,100,2 x 15,0.67,275,,175,ITO-220AB,Common cathode,Yes,image/diodes/schottky/87737.png
+MBR10100-M3,Enlarge,100,10,0.65,150,,150,TO-220AC,Single,No,image/diodes/schottky/89193.png
+MBR10100CT,Enlarge,100,2 x 5.0,0.75,120,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89197.png
+MBR10100CT-E3,Enlarge,100,2 x 5.0,0.75,120,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89125.png
+MBR1090-M3,Enlarge,90,10,0.65,150,,150,TO-220AC,Single,No,image/diodes/schottky/89193.png
+MBR1090CT,Enlarge,90,2 x 5.0,0.75,120,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89197.png
+MBR1090CT-E3,Enlarge,90,2 x 5.0,0.75,120,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89125.png
+MBR10H100,Enlarge,100,10,0.64,250,,175,TO-220AC,Single,No,image/diodes/schottky/88667.png
+MBR10H100CT,Enlarge,100,2 x 5,0.61,150,,175,TO-220AC,Common cathode,No,image/diodes/schottky/88668.png
+MBR10xx,Enlarge,45,10,see datasheet,150,,150,TO-220AC,Single,Yes,image/diodes/schottky/88669.png
+MBR10xx,Enlarge,60,10,see datasheet,150,,150,TO-220AC,Single,Yes,image/diodes/schottky/88669.png
+MBR10xxx-E3,Enlarge,90,10,0.65,150,,150,TO-220AC,Single,No,image/diodes/schottky/89034.png
+MBR10xxx-E3,Enlarge,100,10,0.65,150,,150,TO-220AC,Single,No,image/diodes/schottky/89034.png
+MBR1545CT,Enlarge,45,2 x 7.5,see datasheet,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/87589.png
+MBR1560CT,Enlarge,60,2 x 7.5,see datasheet,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/87589.png
+MBR1635,Enlarge,35,16,see datasheet,150,,150,TO-220AC,Single,No,image/diodes/schottky/87590.png
+MBR1645,Enlarge,45,16,see datasheet,150,,150,TO-220AC,Single,No,image/diodes/schottky/87590.png
+MBR1660,Enlarge,60,16,see datasheet,150,,150,TO-220AC,Single,No,image/diodes/schottky/87590.png
+MBR20100CT-M3,Enlarge,100,2 x 10,0.65,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89192.png
+MBR2090CT-M3,Enlarge,90,2 x 10,0.65,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89192.png
+MBR20H100CT,Enlarge,100,2 x 10,0.64,250,,175,TO-220AB,Common cathode,No,image/diodes/schottky/88673.png
+MBR20H100CTG,Enlarge,100,2 x 10,0.70,150,,175,TO-220AB,Common cathode,No,image/diodes/schottky/88856.png
+MBR20xxxCT-E3,Enlarge,90,2 x 10,0.65,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89033.png
+MBR20xxxCT-E3,Enlarge,100,2 x 10,0.65,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89033.png
+MBR2560CT,Enlarge,60,2 x 12.5,see datasheet,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/87593.png
+MBR25xxCT,Enlarge,35,2 x 12.5,see datasheet,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/88675.png
+MBR25xxCT,Enlarge,45,2 x 12.5,see datasheet,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/88675.png
+MBR3035PT,Enlarge,35,30,see datasheet,200,,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88676.png
+MBR3045PT,Enlarge,45,30,see datasheet,200,,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88676.png
+MBR3050PT,Enlarge,50,30,see datasheet,200,,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88676.png
+MBR3060PT,Enlarge,60,30,see datasheet,200,,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88676.png
+MBR30H100CT,Enlarge,100,2 x 15,0.67,275,,175,TO-220AB,Common cathode,No,image/diodes/schottky/88791.png
+MBR30H100PT,Enlarge,100,2 x 15,0.67,265,,175,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88678.png
+MBR30H35PT,Enlarge,35,30,see datasheet,200,,175,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88792.png
+MBR30H45PT,Enlarge,45,30,see datasheet,200,,175,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88792.png
+MBR30H50PT,Enlarge,50,30,see datasheet,200,,175,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88792.png
+MBR30H60CT,Enlarge,60,2 x 15,0.59,150,,175,TO-220AB,Common cathode,No,image/diodes/schottky/88866.png
+MBR30H60PT,Enlarge,60,30,see datasheet,200,,175,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88792.png
+MBR30H90PT,Enlarge,90,2 x 15,0.67,265,,175,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88678.png
+MBR4035PT,Enlarge,35,40,see datasheet,400,,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88679.png
+MBR4045PT,Enlarge,45,40,see datasheet,400,,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88679.png
+MBR4050PT,Enlarge,50,40,see datasheet,400,,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88679.png
+MBR4060PT,Enlarge,60,40,see datasheet,400,,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88679.png
+MBR40H35PT,Enlarge,35,40,see datasheet,400,,175,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88794.png
+MBR40H45PT,Enlarge,45,40,see datasheet,400,,175,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88794.png
+MBR40H50PT,Enlarge,50,40,see datasheet,400,,175,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88794.png
+MBR40H60PT,Enlarge,60,40,see datasheet,400,,175,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88794.png
+MBR745,Enlarge,45,7.5,see datasheet,150,,150,TO-220AC,Single,No,image/diodes/schottky/88680.png
+MBR760,Enlarge,60,7.5,see datasheet,150,,150,TO-220AC,Single,No,image/diodes/schottky/88680.png
+MBRB10100-M3,Enlarge,100,10,0.65,150,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87981.png
+MBRB1090-M3,Enlarge,90,10,0.65,150,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87981.png
+MBRB10H100,Enlarge,100,10,0.64,250,,175,D2PAK (TO-263AB),Single,No,image/diodes/schottky/88667.png
+MBRB10H100CT,Enlarge,100,2 x 5,0.61,150,,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/88668.png
+MBRB10H60,Enlarge,60,10,0.61,150,,175,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/88780.png
+MBRB10xx,Enlarge,45,10,see datasheet,150,,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/88669.png
+MBRB10xx,Enlarge,60,10,see datasheet,150,,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/88669.png
+MBRB10xxx-E3,Enlarge,100,10,0.65,150,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89034.png
+MBRB10xxx-E3,Enlarge,90,10,0.65,150,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89034.png
+MBRB15H45CT,Enlarge,45,2 x 7.5,0.55,150,,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88782.png
+MBRB15xxCT,Enlarge,45,2 x 7.5,see datasheet,150,,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88670.png
+MBRB15xxCT,Enlarge,60,2 x 7.5,see datasheet,150,,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88670.png
+MBRB16H60,Enlarge,35,16,see datasheet,150,,175,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/88784.png
+MBRB16xx,Enlarge,35 to 60,16,see datasheet,150,,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/88671.png
+MBRB20100CT-M3,Enlarge,100,2 x 10,0.65,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87980.png
+MBRB2090CT-M3,Enlarge,90,2 x 10,0.65,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87980.png
+MBRB20H100CT,Enlarge,100,2 x 10,0.64,250,,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/88673.png
+MBRB20H60CT,Enlarge,60,2 x 10,0.61,150,,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88787.png
+MBRB20xxCT,Enlarge,45,2 x 10,see datasheet,150,,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88674.png
+MBRB20xxCT,Enlarge,60,2 x 10,see datasheet,150,,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88674.png
+MBRB20xxxCT-E3,Enlarge,90,2 x 10,0.65,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89033.png
+MBRB20xxxCT-E3,Enlarge,100,2 x 10,0.65,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89033.png
+MBRB2545CT,Enlarge,45,2 x 12.5,see datasheet,150,,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/87592.png
+MBRB2560CT,Enlarge,60,2 x 12.5,see datasheet,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87593.png
+MBRB25H35CT,Enlarge,35,2 x 15,see datasheet,150,,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88789.png
+MBRB25H45CT,Enlarge,45,2 x 15,see datasheet,150,,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88789.png
+MBRB25H60CT,Enlarge,60,2 x 15,see datasheet,150,,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88789.png
+MBRB3045CT,Enlarge,45,2 x 15,0.60,200,,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88677.png
+MBRB30H100CT,Enlarge,100,2 x 15,0.67,275,,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/88791.png
+MBRB30HxxCT,Enlarge,45,2 x 15,see datasheet,150,,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/87539.png
+MBRB30HxxCT,Enlarge,60,2 x 15,see datasheet,150,,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/87539.png
+MBRB7xx,Enlarge,45,7.5,see datasheet,150,,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/87594.png
+MBRB7xx,Enlarge,60,7.5,see datasheet,150,,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/87594.png
+MBRF10100,Enlarge,100,10,0.65,150,,150,ITO-220AC,Single,No,image/diodes/schottky/89320.png
+MBRF10100CT-M3,Enlarge,100,2 x 5.0,0.75,120,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89126.png
+MBRF1090,Enlarge,90,10,0.65,150,,150,ITO-220AC,Single,No,image/diodes/schottky/89320.png
+MBRF1090CT-M3,Enlarge,90,2 x 5.0,0.75,120,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89126.png
+MBRF10H100,Enlarge,100,10,0.64,250,,175,ITO-220AC,Single,No,image/diodes/schottky/88667.png
+MBRF10H100CT,Enlarge,100,2 x 5,0.61,150,,175,ITO-220AC,Common cathode,No,image/diodes/schottky/88668.png
+MBRF10xx,Enlarge,45,10,see datasheet,150,,150,ITO-220AC,Single,Yes,image/diodes/schottky/88669.png
+MBRF10xx,Enlarge,60,10,see datasheet,150,,150,ITO-220AC,Single,Yes,image/diodes/schottky/88669.png
+MBRF10xxx-E3,Enlarge,90,10,0.65,150,,150,ITO-220AC,Single,No,image/diodes/schottky/89034.png
+MBRF10xxx-E3,Enlarge,100,10,0.65,150,,150,ITO-220AC,Single,No,image/diodes/schottky/89034.png
+MBRF15xxCT,Enlarge,45,2 x 7.5,see datasheet,150,,150,ITO-220AB,Common cathode,Yes,image/diodes/schottky/88670.png
+MBRF15xxCT,Enlarge,60,2 x 7.5,see datasheet,150,,150,ITO-220AB,Common cathode,Yes,image/diodes/schottky/88670.png
+MBRF16xx,Enlarge,35 to 60,16,see datasheet,150,,150,ITO-220AC,Single,Yes,image/diodes/schottky/88671.png
+MBRF20100CT,Enlarge,100,2 x 10,0.65,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89319.png
+MBRF2090CT,Enlarge,90,2 x 10,0.65,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89319.png
+MBRF20H100CT,Enlarge,100,2 x 10,0.64,250,,175,ITO-220AB,Common cathode,No,image/diodes/schottky/88673.png
+MBRF20xxCT,Enlarge,45,2 x 10,see datasheet,150,,150,ITO-220AB,Common cathode,Yes,image/diodes/schottky/88674.png
+MBRF20xxCT,Enlarge,60,2 x 10,see datasheet,150,,150,ITO-220AB,Common cathode,Yes,image/diodes/schottky/88674.png
+MBRF20xxxCT-E3,Enlarge,90,2 x 10,0.65,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89033.png
+MBRF20xxxCT-E3,Enlarge,100,2 x 10,0.65,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89033.png
+MBRF2560CT,Enlarge,60,2 x 12.5,see datasheet,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/87593.png
+MBRF25xxCT,Enlarge,35,2 x 12.5,see datasheet,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/88675.png
+MBRF25xxCT,Enlarge,45,2 x 12.5,see datasheet,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/88675.png
+MBRF30H100CT,Enlarge,100,2 x 15,0.67,275,,175,ITO-220AB,Common cathode,No,image/diodes/schottky/88791.png
+MBRF30H45CT,Enlarge,45,2 x 15,0.56,150,,175,ITO-220AB,Common cathode,Yes,image/diodes/schottky/87634.png
+MBRF745,Enlarge,45,7.5,see datasheet,150,,150,ITO-220AC,Single,No,image/diodes/schottky/88680.png
+MF10H100,Enlarge,100,10,0.64,250,,175,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/87727.png
+MF10H100CT,Enlarge,100,2 x 5,0.61,150,,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/87728.png
+MF20H100CT,Enlarge,100,2 x 10,0.64,250,,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/87736.png
+MF30H100CT,Enlarge,100,2 x 15,0.67,275,,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/87737.png
+MSS1P2L,Enlarge,20,1,0.35,25,,150,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/89020.png
+MSS1P3,Enlarge,30,1,0.41,25,,150,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/89019.png
+MSS1P3L,Enlarge,30,1,0.35,25,,150,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/89020.png
+MSS1P4,Enlarge,40,1,0.41,25,,150,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/89019.png
+MSS1P5,Enlarge,50,1,0.52,25,,150,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/89018.png
+MSS1P6,Enlarge,60,1,0.52,25,,150,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/89018.png
+MSS2P2,Enlarge,20,2,0.47,30,,150,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/89054.png
+MSS2P3,Enlarge,30,2,0.47,30,,150,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/89054.png
+SB110,Enlarge,10,1,see datasheet,50,,see datasheet,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88715.png
+SB120,Enlarge,20,1,see datasheet,50,,see datasheet,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88715.png
+SB130,Enlarge,30,1,see datasheet,50,,see datasheet,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88715.png
+SB140,Enlarge,40,1,see datasheet,50,,see datasheet,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88715.png
+SB150,Enlarge,50,1,see datasheet,50,,see datasheet,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88715.png
+SB160,Enlarge,60,1,see datasheet,50,,see datasheet,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88715.png
+SB1H100,Enlarge,100,1,0.62,50,,175,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88716.png
+SB1H90,Enlarge,90,1,0.62,50,,175,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88716.png
+SB220,Enlarge,20,2,see datasheet,60,,see datasheet,DO-15 (DO-204AC),Single,No,image/diodes/schottky/88717.png
+SB220S,Enlarge,20,2,see datasheet,50,,see datasheet,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88951.png
+SB230,Enlarge,30,2,see datasheet,60,,see datasheet,DO-15 (DO-204AC),Single,No,image/diodes/schottky/88717.png
+SB230S,Enlarge,30,2,see datasheet,50,,see datasheet,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88951.png
+SB240,Enlarge,40,2,see datasheet,60,,see datasheet,DO-15 (DO-204AC),Single,No,image/diodes/schottky/88717.png
+SB240S,Enlarge,40,2,see datasheet,50,,see datasheet,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88951.png
+SB250,Enlarge,50,2,see datasheet,60,,see datasheet,DO-15 (DO-204AC),Single,No,image/diodes/schottky/88717.png
+SB250S,Enlarge,50,2,see datasheet,50,,see datasheet,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88951.png
+SB260,Enlarge,60,2,see datasheet,60,,see datasheet,DO-15 (DO-204AC),Single,No,image/diodes/schottky/88717.png
+SB260S,Enlarge,60,2,see datasheet,50,,see datasheet,DO-41 (DO-204AL),Single,No,image/diodes/schottky/88951.png
+SB2H100,Enlarge,100,2,0.65,75,,175,DO-15 (DO-204AC),Single,No,image/diodes/schottky/88718.png
+SB2H90,Enlarge,90,2,0.65,75,,175,DO-15 (DO-204AC),Single,No,image/diodes/schottky/88718.png
+SB320,Enlarge,20,3,see datasheet,120,,see datasheet,DO-201AD,Single,No,image/diodes/schottky/88719.png
+SB330,Enlarge,30,3,see datasheet,120,,see datasheet,DO-201AD,Single,No,image/diodes/schottky/88719.png
+SB340,Enlarge,40,3,see datasheet,120,,see datasheet,DO-201AD,Single,No,image/diodes/schottky/88719.png
+SB350,Enlarge,50,3,see datasheet,120,,see datasheet,DO-201AD,Single,No,image/diodes/schottky/88719.png
+SB360,Enlarge,60,3,see datasheet,120,,see datasheet,DO-201AD,Single,No,image/diodes/schottky/88719.png
+SB3H100,Enlarge,100,3,0.65,100,,175,DO-201AD,Single,No,image/diodes/schottky/88720.png
+SB3H90,Enlarge,90,3,0.65,100,,175,DO-201AD,Single,No,image/diodes/schottky/88720.png
+SB520,Enlarge,20,5,see datasheet,220,,150,DO-201AD,Single,No,image/diodes/schottky/88721.png
+SB520A,Enlarge,20,5,see datasheet,150,,150,DO-201AD,Single,No,image/diodes/schottky/88903.png
+SB530,Enlarge,30,5,see datasheet,220,,150,DO-201AD,Single,No,image/diodes/schottky/88721.png
+SB530A,Enlarge,30,5,see datasheet,150,,150,DO-201AD,Single,No,image/diodes/schottky/88903.png
+SB540,Enlarge,40,5,see datasheet,220,,150,DO-201AD,Single,No,image/diodes/schottky/88721.png
+SB540A,Enlarge,40,5,see datasheet,150,,150,DO-201AD,Single,No,image/diodes/schottky/88903.png
+SB550,Enlarge,50,5,see datasheet,220,,150,DO-201AD,Single,No,image/diodes/schottky/88721.png
+SB550A,Enlarge,50,5,see datasheet,150,,150,DO-201AD,Single,No,image/diodes/schottky/88903.png
+SB560,Enlarge,60,5,see datasheet,220,,150,DO-201AD,Single,No,image/diodes/schottky/88721.png
+SB560A,Enlarge,60,5,see datasheet,150,,150,DO-201AD,Single,No,image/diodes/schottky/88903.png
+SB5H100,Enlarge,100,5,0.70,200,,175,DO-201AD,Single,No,image/diodes/schottky/88722.png
+SB5H90,Enlarge,90,5,0.70,200,,175,DO-201AD,Single,No,image/diodes/schottky/88722.png
+SBL1040CT,Enlarge,40,2 x 5,0.55,175,,125,TO-220AB,Common cathode,Yes,image/diodes/schottky/88726.png
+SBL10L25,Enlarge,25,10,0.35,240,,150,TO-220AC,Single,Yes,image/diodes/schottky/88723.png
+SBL2030PT,Enlarge,30,20,0.55,250,,125,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88728.png
+SBL2040PT,Enlarge,40,20,0.55,250,,125,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88728.png
+SBL25L30CT,Enlarge,30,2 x 12.5,0.39,180,,150,TO-220AB,Common cathode,Yes,image/diodes/schottky/88731.png
+SBL3030PT,Enlarge,30,30,0.55,275,,125,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88732.png
+SBL3040PT,Enlarge,40,30,0.55,275,,125,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88732.png
+SBL4030PT,Enlarge,30,40,0.50,400,,125,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88733.png
+SBL4040PT,Enlarge,40,40,0.50,400,,125,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88733.png
+SBLB1040CT,Enlarge,40,2 x 5,0.55,175,,125,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88726.png
+SBLB10L25,Enlarge,25,10,0.35,240,,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/88723.png
+SBLB1640CT,Enlarge,40,2 x 8,0.55,250,,125,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88727.png
+SBLB25L30CT,Enlarge,30,2 x 12.5,0.39,180,,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/88731.png
+SBLF10L25,Enlarge,25,10,0.35,240,,150,ITO-220AC,Single,Yes,image/diodes/schottky/88723.png
+SBLF25L30CT,Enlarge,30,2 x 12.5,0.39,180,,150,ITO-220AB,Common cathode,Yes,image/diodes/schottky/88731.png
+SD241P,Enlarge,45,30,0.47,400,,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/schottky/88738.png
+SGL41-xx,Enlarge,20,1,see datasheet,30,,see datasheet,GL41 (DO-213AB),Single,Yes,image/diodes/schottky/88548.png
+SGL41-xx,Enlarge,30,1,see datasheet,30,,see datasheet,GL41 (DO-213AB),Single,Yes,image/diodes/schottky/88548.png
+SGL41-xx,Enlarge,40,1,see datasheet,30,,see datasheet,GL41 (DO-213AB),Single,Yes,image/diodes/schottky/88548.png
+SGL41-xx,Enlarge,50,1,see datasheet,30,,see datasheet,GL41 (DO-213AB),Single,Yes,image/diodes/schottky/88548.png
+SGL41-xx,Enlarge,60,1,see datasheet,30,,see datasheet,GL41 (DO-213AB),Single,Yes,image/diodes/schottky/88548.png
+SL02,Enlarge,20,1.1,0.385,40,,125,SMF (DO-219AB),Single,Yes,image/diodes/schottky/85687.png
+SL02-M,Enlarge,20,1.1,0.385,40,,125,SMF (DO-219AB),Single,Yes,image/diodes/schottky/85190.png
+SL03,Enlarge,30,1.1,0.43,40,,125,SMF (DO-219AB),Single,Yes,image/diodes/schottky/85687.png
+SL03-M,Enlarge,30,1.1,0.43,40,,125,SMF (DO-219AB),Single,Yes,image/diodes/schottky/85190.png
+SL04,Enlarge,40,1.1,0.47,40,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/85942.png
+SL04-M,Enlarge,40,1.1,0.47,40,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/85941.png
+SL12,Enlarge,20,1.5,0.34,50,,125,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88740.png
+SL12-M3,Enlarge,20,1.5,0.34,50,,125,SMA (DO-214AC),Single,No,image/diodes/schottky/89408.png
+SL13,Enlarge,30,1.5,0.34,50,,125,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88740.png
+SL13-M3,Enlarge,30,1.5,0.34,50,,125,SMA (DO-214AC),Single,No,image/diodes/schottky/89408.png
+SL22,Enlarge,20,2,0.32,100,,125,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88741.png
+SL23,Enlarge,30,2,0.32,100,,125,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88741.png
+SL42,Enlarge,20,4,see datasheet,150,,125,SMC (DO-214AB),Single,Yes,image/diodes/schottky/88742.png
+SL43,Enlarge,30,4,see datasheet,150,,125,SMC (DO-214AB),Single,Yes,image/diodes/schottky/88742.png
+SL44,Enlarge,40,4,see datasheet,150,,125,SMC (DO-214AB),Single,Yes,image/diodes/schottky/88742.png
+SS10P2CL,Enlarge,20,2 x 5.0,0.338,200,,150,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/89036.png
+SS10P3,Enlarge,30,10,0.41,280,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88983.png
+SS10P3C,Enlarge,30,2 x 5.0,0.37,200,,150,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/89035.png
+SS10P3CL,Enlarge,30,2 x 5.0,0.338,200,,150,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/89036.png
+SS10P4,Enlarge,40,10,0.41,280,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88983.png
+SS10P4C,Enlarge,40,2 x 5.0,0.37,200,,150,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/89035.png
+SS10P5,Enlarge,50,10,0.55,280,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89043.png
+SS10P6,Enlarge,60,10,0.55,280,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89043.png
+SS10PH10,Enlarge,100,10,0.661,200,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89000.png
+SS10PH45,Enlarge,45,10,0.56,200,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89057.png
+SS10PH9,Enlarge,90,10,0.661,200,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89000.png
+SS12,Enlarge,20,1,see datasheet,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88746.png
+SS12P2L,Enlarge,20,12,0.38,280,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89002.png
+SS12P3L,Enlarge,30,12,0.38,280,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89002.png
+SS12P4C,Enlarge,40,2 x 6.0,0.40,150,,125,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/89141.png
+SS12P4S,Enlarge,40,12,0.43,280,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/89127.png
+SS13,Enlarge,30,1,see datasheet,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88746.png
+SS14,Enlarge,40,1,see datasheet,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88746.png
+SS15,Enlarge,50,1,see datasheet,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88746.png
+SS15P3S,Enlarge,30,15,0.42,280,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/89128.png
+SS16,Enlarge,60,1,see datasheet,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88746.png
+SS1F4,Enlarge,40,1,0.37,40,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87729.png
+SS1FH10,Enlarge,100,1,0.57,40,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87613.png
+SS1FH6,Enlarge,60,1,0.56,40,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87730.png
+SS1FL3,Enlarge,30,1,0.31,40,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87614.png
+SS1FL4,Enlarge,40,1,0.34,40,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87616.png
+SS1FN6,Enlarge,60,1,0.38,40,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87522.png
+SS1H10,Enlarge,100,1,0.62,50,,175,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88747.png
+SS1H9,Enlarge,90,1,0.62,50,,175,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88747.png
+SS1N42,Enlarge,40,1,0.34,30,,150,DFN3820A,Single,Yes,image/diodes/schottky/98545.png
+SS1P3,Enlarge,30,1,see datasheet,30,,150,SMP (DO-220AA),Single,No,image/diodes/schottky/88935.png
+SS1P3L,Enlarge,30,1,see datasheet,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88915.png
+SS1P4,Enlarge,40,1,see datasheet,30,,150,SMP (DO-220AA),Single,No,image/diodes/schottky/88935.png
+SS1P4L,Enlarge,40,1,see datasheet,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88915.png
+SS1P5L,Enlarge,50,1,0.43,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/89063.png
+SS1P6L,Enlarge,60,1,0.43,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/89063.png
+SS210,Enlarge,100,1.5,0.71,75,,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88749.png
+SS210,Enlarge,100,1.5,0.71,75,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89444.png
+SS22,Enlarge,20,2,see datasheet,75,,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88748.png
+SS22S,Enlarge,20,2,0.517,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/89008.png
+SS22S-M3,Enlarge,20,2,0.517,40,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89407.png
+SS23,Enlarge,30,2,see datasheet,75,,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88748.png
+SS23S,Enlarge,30,2,0.517,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/89008.png
+SS23S-M3,Enlarge,30,2,0.517,40,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89407.png
+SS24,Enlarge,40,2,see datasheet,75,,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88748.png
+SS24S,Enlarge,40,2,0.517,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/89008.png
+SS24S-M3,Enlarge,40,2,0.517,40,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89407.png
+SS25,Enlarge,50,2,see datasheet,75,,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88748.png
+SS25S,Enlarge,50,2,0.53,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/89055.png
+SS25S-M3,Enlarge,50,2,0.53,40,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89410.png
+SS26,Enlarge,60,2,see datasheet,75,,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88748.png
+SS26S,Enlarge,60,2,0.53,40,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/89055.png
+SS26S-M3,Enlarge,60,2,0.53,40,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89410.png
+SS29,Enlarge,90,1.5,0.71,75,,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88749.png
+SS29,Enlarge,90,1.5,0.71,75,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89444.png
+SS2FH10,Enlarge,100,2,0.63,50,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87749.png
+SS2FH6,Enlarge,60,2,0.64,40,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87731.png
+SS2FL3,Enlarge,30,2,0.37,50,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87615.png
+SS2FL4,Enlarge,40,2,0.43,50,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87617.png
+SS2FN6,Enlarge,60,2,0.48,50,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87523.png
+SS2H10,Enlarge,100,2,0.65,75,,175,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88750.png
+SS2H9,Enlarge,90,2,0.65,75,,175,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88750.png
+SS2N42,Enlarge,40,2,0.34,50,,150,DFN3820A,Single,Yes,image/diodes/schottky/98546.png
+SS2P2,Enlarge,20,2,0.50,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88910.png
+SS2P2L,Enlarge,20,2,0.45,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88916.png
+SS2P3,Enlarge,30,2,0.50,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88910.png
+SS2P3L,Enlarge,30,2,0.45,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88916.png
+SS2P4,Enlarge,40,2,0.50,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88910.png
+SS2P5,Enlarge,50,2,0.54,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88943.png
+SS2P6,Enlarge,60,2,0.54,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88943.png
+SS2PH10,Enlarge,100,2,0.62,50,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/84682.png
+SS2PH5,Enlarge,50,2,0.59,50,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87741.png
+SS2PH6,Enlarge,60,2,0.59,50,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87741.png
+SS2PH9,Enlarge,90,2,0.62,50,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/84682.png
+SS32,Enlarge,20,3,see datasheet,100,,150,SMC (DO-214AB),Single,Yes,image/diodes/schottky/88751.png
+SS33,Enlarge,30,3,see datasheet,100,,150,SMC (DO-214AB),Single,Yes,image/diodes/schottky/88751.png
+SS34,Enlarge,40,3,see datasheet,100,,150,SMC (DO-214AB),Single,Yes,image/diodes/schottky/88751.png
+SS35,Enlarge,50,3,see datasheet,100,,150,SMC (DO-214AB),Single,Yes,image/diodes/schottky/88751.png
+SS36,Enlarge,60,3,see datasheet,100,,150,SMC (DO-214AB),Single,Yes,image/diodes/schottky/88751.png
+SS3H10,Enlarge,100,3,0.65,100,,175,SMC (DO-214AB),Single,Yes,image/diodes/schottky/88752.png
+SS3H10-M3,Enlarge,100,3,0.65,100,,175,SMC (DO-214AB),Single,No,image/diodes/schottky/89497.png
+SS3H9,Enlarge,90,3,0.65,100,,175,SMC (DO-214AB),Single,Yes,image/diodes/schottky/88752.png
+SS3H9-M3,Enlarge,90,3,0.65,100,,175,SMC (DO-214AB),Single,No,image/diodes/schottky/89497.png
+SS3N42,Enlarge,40,3,0.30,110,,150,DFN3820A,Single,Yes,image/diodes/schottky/98547.png
+SS3P3,Enlarge,30,3,0.43,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88944.png
+SS3P3L,Enlarge,30,3,0.335,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88986.png
+SS3P4,Enlarge,40,3,0.50,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88954.png
+SS3P4L,Enlarge,40,3,0.335,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88986.png
+SS3P5,Enlarge,50,3,0.61,45,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88997.png
+SS3P5L,Enlarge,50,3,0.478,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88987.png
+SS3P6,Enlarge,60,3,0.61,45,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/88997.png
+SS3P6L,Enlarge,60,3,0.478,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88987.png
+SS5N42,Enlarge,40,5,0.33,140,,150,DFN3820A,Single,Yes,image/diodes/schottky/98548.png
+SS5P10,Enlarge,100,5,0.649,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88984.png
+SS5P3,Enlarge,30,5,0.403,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88982.png
+SS5P4,Enlarge,40,5,0.403,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88982.png
+SS5P5,Enlarge,50,5,0.560,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88988.png
+SS5P6,Enlarge,60,5,0.560,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88988.png
+SS5P9,Enlarge,90,5,0.649,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88984.png
+SS6P4C,Enlarge,40,2 x 3.0,0.53,70,,150,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/89114.png
+SS8P2CL,Enlarge,20,2 x 4.0,0.41,120,,150,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/89030.png
+SS8P2L,Enlarge,20,8,0.472,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89001.png
+SS8P3C,Enlarge,30,2 x 4.0,0.42,120,,150,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/89029.png
+SS8P3CL,Enlarge,30,2 x 4.0,0.41,120,,150,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/89030.png
+SS8P3L,Enlarge,30,8,0.472,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89001.png
+SS8P4C,Enlarge,40,2 x 4.0,0.42,120,,150,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/89029.png
+SS8P5C,Enlarge,50,2 x 4.0,0.56,120,,150,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/89028.png
+SS8P6C,Enlarge,60,2 x 4.0,0.56,120,,150,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/89028.png
+SS8PH10,Enlarge,100,8,0.720,150,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88989.png
+SS8PH9,Enlarge,90,8,0.720,150,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88989.png
+SSA23L,Enlarge,30,2,see datasheet,60,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88882.png
+SSA23L,Enlarge,30,2,see datasheet,60,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89280.png
+SSA24,Enlarge,40,2,see datasheet,60,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88882.png
+SSA24,Enlarge,40,2,see datasheet,60,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89280.png
+SSA33L,Enlarge,30,3,see datasheet,75,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89281.png
+SSA33L,Enlarge,30,3,see datasheet,75,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88883.png
+SSA34,Enlarge,40,3,see datasheet,75,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89281.png
+SSA34,Enlarge,40,3,see datasheet,75,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/88883.png
+SSB43L,Enlarge,30,4,see datasheet,100,,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88884.png
+SSB44,Enlarge,40,4,see datasheet,100,,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/88884.png
+SSC53L,Enlarge,30,5,see datasheet,175,,150,SMC (DO-214AB),Single,Yes,image/diodes/schottky/88885.png
+SSC53L-M3,Enlarge,30,5,see datasheet,175,,150,SMC (DO-214AB),Single,No,image/diodes/schottky/89499.png
+SSC54,Enlarge,40,5,see datasheet,175,,150,SMC (DO-214AB),Single,Yes,image/diodes/schottky/88885.png
+SSC54-M3,Enlarge,40,5,see datasheet,175,,150,SMC (DO-214AB),Single,No,image/diodes/schottky/89499.png
+"V10150C, VI10150C",Enlarge,,,,,,,,,,image/diodes/schottky/89154.png
+V10150C-E3,Enlarge,150,2 x 5.0,0.69,60,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89068.png
+V10150S,Enlarge,150,10,0.69,120,,150,TO-220AB,Single,No,image/diodes/schottky/89246.png
+V10150S-E3,Enlarge,150,10,0.69,120,,150,TO-220AB,Single,No,image/diodes/schottky/89058.png
+V10170C-M3,Enlarge,170,2 x 5,0.65,80,,175,TO-220AB,Common cathode,No,image/diodes/schottky/89940.png
+V10D100C,Enlarge,100,2 x 5.0,0.60,100,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/89998.png
+V10D103C,Enlarge,100,2 x 5,0.57,70,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98475.png
+V10D120C,Enlarge,120,2 x 5.0,0.64,100,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/89999.png
+V10D170C,Enlarge,170,2 x 5.0,0.67,100,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87450.png
+V10D202C,Enlarge,200,2 x 5.0,0.67,100,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87746.png
+V10D45C,Enlarge,45,2 x 5.0,0.41,100,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/89992.png
+V10D60C,Enlarge,60,2 x 5.0,0.50,100,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/89993.png
+V10DL63C,Enlarge,60,2 x 5,0.48,100,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98243.png
+V10DM100C,Enlarge,100,2 x 5,0.62,80,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87574.png
+V10DM103C,Enlarge,100,2 x 5,0.58,70,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98477.png
+V10DM150C,Enlarge,150,2 x 5,0.68,80,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87571.png
+V10DM153C,Enlarge,150,2 x 5,0.63,80,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87186.png
+V10DM45C,Enlarge,45,2 x 5,0.46,80,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87584.png
+V10DM60C,Enlarge,60,2 x 5,0.52,80,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87579.png
+V10DM63C,Enlarge,60,2 x 5,0.54,100,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98244.png
+V10K100C,Enlarge,100,2 x 5,0.55,100,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87478.png
+V10K100DU,Enlarge,100,2 x 5,0.59,100,,150,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/schottky/87421.png
+V10K120C,Enlarge,120,2 x 5,0.59,100,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87479.png
+V10K150C,Enlarge,150,2 x 5,0.63,100,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87480.png
+V10K170C,Enlarge,170,2 x 5,0.66,90,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/98152.png
+V10K202C,Enlarge,200,2 x 5,0.66,90,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/98153.png
+V10K202DU,Enlarge,200,2 x 5,0.68,80,,150,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/schottky/98151.png
+V10K60C,Enlarge,60,2 x 5,0.44,100,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87477.png
+V10K60DU,Enlarge,60,2 x 5,0.48,100,,150,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/schottky/87420.png
+V10KL45C,Enlarge,45,2 x 5,0.35,100,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87476.png
+V10KL45DU,Enlarge,45,2 x 5,0.39,100,,150,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/schottky/87422.png
+V10KM100C,Enlarge,100,2 x 5,0.56,100,,175,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87491.png
+V10KM120C,Enlarge,120,2 x 5,0.6,100,,175,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87492.png
+V10KM120DU,Enlarge,120,2 x 5,0.62,100,,175,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/schottky/87537.png
+V10KM150C,Enlarge,150,2 x 5,0.63,100,,175,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87493.png
+V10KM45C,Enlarge,45,2 x 5,0.42,100,,175,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87489.png
+V10KM45DU,Enlarge,45,2 x 5,0.44,100,,175,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/schottky/87423.png
+V10KM60C,Enlarge,60,2 x 5,0.47,100,,175,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87490.png
+V10P10,Enlarge,100,10,0.574,180,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89006.png
+V10P103,Enlarge,100,10,0.53,180,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98455.png
+V10P12,Enlarge,120,10,0.62,160,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89171.png
+V10P15,Enlarge,150,10,0.66,180,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87621.png
+V10P20,Enlarge,200,10,0.67,180,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/89316.png
+V10P22,Enlarge,200,10,0.68,180,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87002.png
+V10P22C,Enlarge,200,2 x 5.0,0.69,90,,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/98170.png
+V10P45,Enlarge,45,10,0.41,180,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89340.png
+V10P45S-M3,Enlarge,45,10,0.41,180,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/89341.png
+V10P6,Enlarge,60,10,0.44,180,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87711.png
+V10P8,Enlarge,80,10,0.56,180,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87712.png
+V10PL45-M3,Enlarge,45,10,0.35,200,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/89479.png
+V10PL63,Enlarge,60,10,0.47,180,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98225.png
+V10PM10,Enlarge,100,10,0.61,180,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87628.png
+V10PM103,Enlarge,100,10,0.54,180,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98451.png
+V10PM12,Enlarge,120,10,0.63,160,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89937.png
+V10PM15,Enlarge,150,10,0.66,180,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87432.png
+V10PM153,Enlarge,150,10,0.61,180,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87204.png
+V10PM45,Enlarge,45,10,0.46,180,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87433.png
+V10PM6,Enlarge,60,10,0.52,180,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87431.png
+V10PM63,Enlarge,60,10,0.52,180,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87026.png
+V10PN50-M3,Enlarge,50,10,0.40,180,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/89965.png
+V10PW10,Enlarge,100,10,0.58,180,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98183.png
+V10PW10C,Enlarge,100,2 x 5,0.6,80,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98206.png
+V10PW12,Enlarge,120,10,0.61,180,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98187.png
+V10PW12C,Enlarge,120,2 x 5,0.62,80,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98207.png
+V10PW60,Enlarge,60,10,0.45,180,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98179.png
+V10PW60C,Enlarge,60,2 x 5,0.48,80,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98208.png
+V10PWL45,Enlarge,45,10,0.38,180,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98175.png
+V10PWL45C,Enlarge,45,2 x 5,0.38,80,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98209.png
+V10PWL63,Enlarge,60,10,0.45,180,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98254.png
+V10PWL63C,Enlarge,60,2 x 5,0.48,80,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98260.png
+V10PWM10,Enlarge,100,10,0.58,180,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98184.png
+V10PWM10C,Enlarge,100,2 x 5,0.6,80,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98210.png
+V10PWM12,Enlarge,120,10,0.62,180,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98188.png
+V10PWM12C,Enlarge,120,2 x 5,0.63,80,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98211.png
+V10PWM153,Enlarge,150,10,0.61,180,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98166.png
+V10PWM153C,Enlarge,150,2 x 5,0.63,80,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98163.png
+V10PWM45,Enlarge,45,10,0.46,180,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98176.png
+V10PWM45C,Enlarge,45,2 x 5,0.45,80,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98212.png
+V10PWM60,Enlarge,60,10,0.49,180,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98180.png
+V10PWM60C,Enlarge,60,2 x 5,0.51,80,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98213.png
+V10PWM63,Enlarge,60,10,0.52,180,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98255.png
+V10PWM63C,Enlarge,60,2 x 5,0.54,80,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98261.png
+V12P10,Enlarge,100,12,0.58,200,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/88981.png
+V12P103,Enlarge,100,12,0.52,200,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98456.png
+V12P12,Enlarge,120,12,0.63,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89094.png
+V12P15,Enlarge,150,12,0.66,200,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87622.png
+V12P22,Enlarge,200,12,0.68,200,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87019.png
+V12P45,Enlarge,45,12,0.41,200,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87715.png
+V12P6,Enlarge,60,12,0.46,200,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87713.png
+V12P8,Enlarge,80,12,0.54,200,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87714.png
+V12PL63,Enlarge,60,12,0.45,200,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98226.png
+V12PM10,Enlarge,100,12,0.61,200,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87629.png
+V12PM103,Enlarge,100,12,0.54,200,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98452.png
+V12PM12,Enlarge,120,12,0.63,160,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89938.png
+V12PM15,Enlarge,150,12,0.66,200,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87438.png
+V12PM153,Enlarge,150,12,0.62,200,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87205.png
+V12PM45,Enlarge,45,12,0.46,200,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87439.png
+V12PM6,Enlarge,60,12,0.52,200,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87437.png
+V12PM63,Enlarge,60,12,0.52,200,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87027.png
+V15K100C,Enlarge,100,2 x 7.5,0.55,140,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87483.png
+V15K120C,Enlarge,120,2 x 7.5,0.6,140,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87484.png
+V15K150C,Enlarge,150,2 x 7.5,0.63,140,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87485.png
+V15K170C,Enlarge,170,2 x 7.5,0.66,130,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/98154.png
+V15K202C,Enlarge,200,2 x 7.5,0.66,130,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/98155.png
+V15K60C,Enlarge,60,2 x 7.5,0.44,140,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87482.png
+V15KL45C,Enlarge,45,2 x 7.5,0.36,140,,150,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87481.png
+V15KM100C,Enlarge,100,2 x 7.5,0.56,140,,175,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87496.png
+V15KM120C,Enlarge,120,2 x 7.5,0.6,140,,175,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87497.png
+V15KM150C,Enlarge,150,2 x 7.5,0.63,140,,175,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87498.png
+V15KM45C,Enlarge,45,2 x 7.5,0.42,140,,175,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87494.png
+V15KM60C,Enlarge,60,2 x 7.5,0.47,140,,175,FlatPAK 5 x 6,Common cathode,Yes,image/diodes/schottky/87495.png
+V15P10,Enlarge,100,15,0.60,220,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87623.png
+V15P103,Enlarge,100,15,0.54,220,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98457.png
+V15P12,Enlarge,120,15,0.63,220,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87625.png
+V15P15,Enlarge,150,15,0.66,220,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87627.png
+V15P22,Enlarge,200,15,0.69,220,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87020.png
+V15P45,Enlarge,45,15,0.42,210,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89342.png
+V15P45S-M3,Enlarge,45,15,0.42,210,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/89343.png
+V15P6,Enlarge,60,15,0.48,220,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87716.png
+V15P8,Enlarge,80,15,0.55,220,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87717.png
+V15PL50,Enlarge,50,15,0.40,200,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/87990.png
+V15PL63,Enlarge,60,15,0.48,220,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98227.png
+V15PM10,Enlarge,100,15,0.61,220,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87624.png
+V15PM103,Enlarge,100,15,0.56,220,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98453.png
+V15PM12,Enlarge,120,15,0.63,220,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87626.png
+V15PM15,Enlarge,150,15,0.66,220,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87435.png
+V15PM153,Enlarge,150,15,0.62,220,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87206.png
+V15PM45,Enlarge,45,15,0.52,220,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87436.png
+V15PM6,Enlarge,60,15,0.52,220,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87434.png
+V15PM63,Enlarge,60,15,0.55,220,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87028.png
+V15PN50-M3,Enlarge,50,15,0.41,200,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/89966.png
+V1F22,Enlarge,200,1,0.64,30,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87474.png
+V1F6,Enlarge,60,1,0.45,30,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87555.png
+V1FL45,Enlarge,45,1,0.36,30,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87556.png
+V1FM10,Enlarge,100,1,0.59,30,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87557.png
+V1FM12,Enlarge,120,1,0.61,30,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87558.png
+V1FM15,Enlarge,150,1,0.64,30,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87559.png
+V1P22,Enlarge,200,1,0.65,25,,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/86535.png
+V1P6,Enlarge,60,1,0.45,25,,150,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/87524.png
+V1PL45,Enlarge,45,1,0.36,25,,150,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/87642.png
+V1PM10,Enlarge,100,1,0.58,25,,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/87664.png
+V1PM12,Enlarge,120,1,0.61,25,,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/87640.png
+V1PM15,Enlarge,150,1,0.64,25,,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/87639.png
+"V20100C, VI20100C",Enlarge,,,,,,,,,,image/diodes/schottky/89161.png
+V20100C-E3,Enlarge,100,2 x 10,0.58,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/88977.png
+V20100S,Enlarge,100,20,0.69,250,,150,TO-220AB,Single,No,image/diodes/schottky/89190.png
+V20100S-E3,Enlarge,100,20,0.69,250,,150,TO-220AB,Single,No,image/diodes/schottky/88975.png
+V20100SG,Enlarge,100,20,0.75,150,,150,TO-220AC,Single,No,image/diodes/schottky/88966.png
+V20100SG,Enlarge,100,20,0.75,150,,150,TO-220AB,Single,No,image/diodes/schottky/89153.png
+"V20120C, VI20120C",Enlarge,,,,,,,,,,image/diodes/schottky/89159.png
+V20120C-E3,Enlarge,120,2 x 10,0.64,120,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89040.png
+V20120S,Enlarge,120,20,0.73,200,,150,TO-220AB,Single,No,image/diodes/schottky/89243.png
+V20120S-E3,Enlarge,120,20,0.73,200,,150,TO-220AB,Single,No,image/diodes/schottky/88993.png
+V20120SG,Enlarge,120,20,0.78,150,,150,TO-220AB,Single,No,image/diodes/schottky/89244.png
+V20120SG-E3,Enlarge,120,20,0.78,150,,150,TO-220AB,Single,No,image/diodes/schottky/88994.png
+"V20150C, VI20150C",Enlarge,,,,,,,,,,image/diodes/schottky/89151.png
+V20150C-E3,Enlarge,150,2 x 10,0.69,120,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89046.png
+V20150S,Enlarge,150,20,0.75,160,,150,TO-220AB,Single,No,image/diodes/schottky/89247.png
+V20150S-E3,Enlarge,150,20,0.75,160,,150,TO-220AB,Single,No,image/diodes/schottky/89059.png
+V20150SG,Enlarge,150,20,0.77,140,,150,TO-220AB,Single,No,image/diodes/schottky/89248.png
+V20150SG-E3,Enlarge,150,20,0.77,140,,150,TO-220AB,Single,No,image/diodes/schottky/89060.png
+V20200C-E3,Enlarge,200,2 x 10,0.68,120,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89072.png
+V20200G-E3,Enlarge,200,2 x 10,0.71,110,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89117.png
+V20202C,Enlarge,200,2 x 10,0.68,150,,175,TO-220AB,Common cathode,No,image/diodes/schottky/87797.png
+V20202G,Enlarge,200,2 x 10,0.71,130,,175,TO-220AB,Common cathode,No,image/diodes/schottky/87798.png
+V20D100C,Enlarge,100,2 x 10,0.63,120,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87550.png
+V20D103C,Enlarge,100,2 x 10,0.59,130,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98476.png
+V20D170C,Enlarge,170,2 x 10.0,0.68,150,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87451.png
+V20D202C,Enlarge,200,2 x 10.0,0.68,150,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87747.png
+V20D45C,Enlarge,45,2 x 10,0.40,120,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87548.png
+V20D60C,Enlarge,60,2 x 10,0.49,120,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87549.png
+V20DL45,Enlarge,45,20,0.50,160,,150,SMPD (TO-263AC),Single,Yes,image/diodes/schottky/87786.png
+V20DL45BP,Enlarge,45,20,0.50,160,,200,SMPD (TO-263AC),Single,No,image/diodes/schottky/87787.png
+V20DL63C,Enlarge,60,2 x 10,0.49,120,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98245.png
+V20DM100C,Enlarge,100,2 x 10,0.64,150,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87575.png
+V20DM103C,Enlarge,100,2 x 10,0.60,130,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98478.png
+V20DM120,Enlarge,120,20,0.71,150,,175,SMPD (TO-263AC),Single,Yes,image/diodes/schottky/87601.png
+V20DM120C,Enlarge,120,2 x 10,0.65,120,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/89989.png
+V20DM150C,Enlarge,150,2 x 10,0.69,120,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87572.png
+V20DM153C,Enlarge,150,2 x 10,0.65,120,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87187.png
+V20DM45C,Enlarge,45,2 x 10,0.46,150,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87585.png
+V20DM60C,Enlarge,60,2 x 10,0.54,150,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87580.png
+V20DM63C,Enlarge,60,2 x 10,0.54,120,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98246.png
+V20K150,Enlarge,150,20,0.69,220,,150,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87152.png
+V20K170,Enlarge,170,20,0.72,220,,165,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87153.png
+V20K202,Enlarge,200,20,0.72,220,,165,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87154.png
+V20K60,Enlarge,60,20,0.45,220,,150,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87155.png
+V20KL45,Enlarge,45,20,0.44,220,,150,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87156.png
+V20KM100,Enlarge,100,20,0.61,220,,165,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87147.png
+V20KM120,Enlarge,120,20,0.64,220,,165,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87148.png
+V20KM45,Enlarge,45,20,0.46,220,,165,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87427.png
+V20KM60,Enlarge,60,20,0.52,220,,165,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87146.png
+V20M100M-E3,Enlarge,100,2 x 10,0.67,110,,175,TO-220AB,Common cathode,No,image/diodes/schottky/89985.png
+V20M120C,Enlarge,120,2 x 10,0.64,120,,175,TO-220AB,Common cathode,No,image/diodes/schottky/89463.png
+V20M120M-E3,Enlarge,120,2 x 10,0.68,110,,175,TO-220AB,Common cathode,No,image/diodes/schottky/89987.png
+V20PL50-M3,Enlarge,50,20,0.46,240,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/87706.png
+V20PL60-M3,Enlarge,60,20,0.46,240,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/87704.png
+V20PL63,Enlarge,60,20,0.53,240,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98228.png
+V20PM63,Enlarge,60,20,0.57,240,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87029.png
+V20PW10,Enlarge,100,20,0.69,200,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87678.png
+V20PW103,Enlarge,100,20,0.61,200,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98465.png
+V20PW103C,Enlarge,100,2 x 10,0.60,150,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98466.png
+V20PW10C,Enlarge,100,2 x 10,0.63,150,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87677.png
+V20PW12,Enlarge,120,20,0.72,200,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87682.png
+V20PW12C,Enlarge,120,2 x 10,0.66,150,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87680.png
+V20PW15,Enlarge,150,20,0.74,200,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87685.png
+V20PW15C,Enlarge,150,2 x 10,0.69,150,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87684.png
+V20PW22,Enlarge,200,20,0.74,200,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87004.png
+V20PW22C,Enlarge,200,2 x 10,0.7,150,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87005.png
+V20PW45,Enlarge,45,20,0.46,200,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87673.png
+V20PW45C,Enlarge,45,2 x 10,0.44,150,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87672.png
+V20PW60,Enlarge,60,20,0.54,200,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87676.png
+V20PW60C,Enlarge,60,2 x 10,0.51,150,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87674.png
+V20PWL63,Enlarge,60,20,0.51,200,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98256.png
+V20PWL63C,Enlarge,60,2 x 10,0.49,150,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98262.png
+V20PWM10,Enlarge,100,20,0.70,200,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87698.png
+V20PWM103,Enlarge,100,20,0.62,200,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98467.png
+V20PWM103C,Enlarge,100,2 x 10,0.59,150,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98468.png
+V20PWM10C,Enlarge,100,2 x 10,0.63,150,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87510.png
+V20PWM12,Enlarge,120,20,0.72,200,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87699.png
+V20PWM12C,Enlarge,120,2 x 10,0.65,150,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87511.png
+V20PWM15,Enlarge,150,20,0.74,200,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87501.png
+V20PWM153,Enlarge,150,20,0.69,200,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98167.png
+V20PWM153C,Enlarge,150,2 x 10,0.65,150,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98164.png
+V20PWM15C,Enlarge,150,2 x 10,0.69,150,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87512.png
+V20PWM45,Enlarge,45,20,0.51,200,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87689.png
+V20PWM45C,Enlarge,45,2 x 10,0.46,150,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87688.png
+V20PWM60,Enlarge,,,,,,,,,,image/diodes/schottky/87692.png
+V20PWM60C,Enlarge,60,2 x 10,0.52,150,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87693.png
+V20PWM63,Enlarge,60,20,0.55,200,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98257.png
+V20PWM63C,Enlarge,60,2 x 10,0.54,150,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98263.png
+V25PL60-M3,Enlarge,60,25,0.5,240,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/87705.png
+V25PN60,Enlarge,60,25,0.45,300,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/87718.png
+V2F22,Enlarge,200,2,0.64,60,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87475.png
+V2F6,Enlarge,60,2,0.45,50,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87560.png
+V2FL45,Enlarge,45,2,0.40,40,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87561.png
+V2FM10,Enlarge,100,2,0.62,40,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87562.png
+V2FM12,Enlarge,120,2,0.65,40,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87563.png
+V2FM15,Enlarge,150,2,0.69,40,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87564.png
+V2N103,Enlarge,100,2,0.45,50,,150,DFN3820A,Single,Yes,image/diodes/schottky/98441.png
+V2N22,Enlarge,200,2,0.60,50,,175,DFN3820A,Single,Yes,image/diodes/schottky/98484.png
+V2NL63,Enlarge,60,2,0.36,50,,150,DFN3820A,Single,Yes,image/diodes/schottky/98433.png
+V2NM103,Enlarge,100,2,0.48,50,,175,DFN3820A,Single,Yes,image/diodes/schottky/98445.png
+V2NM153,Enlarge,150,2,0.56,50,,175,DFN3820A,Single,Yes,image/diodes/schottky/98375.png
+V2NM63,Enlarge,60,2,0.42,50,,175,DFN3820A,Single,Yes,image/diodes/schottky/98437.png
+V2P22,Enlarge,200,2,0.70,30,,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/86536.png
+V2P22L,Enlarge,200,2,0.68,50,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87470.png
+V2P6,Enlarge,60,2,0.51,30,,150,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/87525.png
+V2P6L,Enlarge,60,2,0.45,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87458.png
+V2P6X,Enlarge,60,2,0.51,50,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87457.png
+V2PL45,Enlarge,45,2,0.40,30,,150,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/87526.png
+V2PL45L,Enlarge,45,2,0.36,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87459.png
+V2PL63L,Enlarge,60,2,0.46,50,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/98214.png
+V2PM10,Enlarge,100,2,0.62,30,,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/87527.png
+V2PM10L,Enlarge,100,2,0.58,50,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87463.png
+V2PM12,Enlarge,120,2,0.65,30,,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/87528.png
+V2PM12L,Enlarge,120,2,0.60,50,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87466.png
+V2PM15,Enlarge,150,2,0.68,30,,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/schottky/87529.png
+V2PM15L,Enlarge,150,2,0.64,50,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87467.png
+V2PM63L,Enlarge,60,2,0.52,50,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/98215.png
+V2PM6L,Enlarge,60,2,0.48,50,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87462.png
+V30100C,Enlarge,100,2 x 15,0.63,160,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89158.png
+V30100C-E3,Enlarge,100,2 x 15,0.63,160,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89010.png
+V30100CI,Enlarge,100,2 x 15,0.62,160,,150,TO-220AB,Common cathode,No,image/diodes/schottky/87543.png
+V30100S,Enlarge,100,30,0.69,250,,150,TO-220AB,Single,No,image/diodes/schottky/89175.png
+V30100S-E3,Enlarge,100,30,0.69,250,,150,TO-220AB,Single,No,image/diodes/schottky/88941.png
+V30100SG,Enlarge,100,30,0.76,250,,150,TO-220AB,Single,No,image/diodes/schottky/89191.png
+V30100SG-E3,Enlarge,100,30,0.76,250,,150,TO-220AB,Single,No,image/diodes/schottky/88996.png
+"V30120C, VI30120C",Enlarge,,,,,,,,,,image/diodes/schottky/89160.png
+V30120C-E3,Enlarge,120,2 x 15,0.68,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89041.png
+V30120CI,Enlarge,120,2 x 15,0.66,160,,150,TO-220AB,Common cathode,No,image/diodes/schottky/87544.png
+V30120S,Enlarge,120,30,0.74,300,,150,TO-220AB,Single,No,image/diodes/schottky/89152.png
+V30120S-E3,Enlarge,120,30,0.74,300,,150,TO-220AB,Single,No,image/diodes/schottky/88974.png
+V30120SG,Enlarge,120,30,0.81,220,,150,TO-220AB,Single,No,image/diodes/schottky/89245.png
+V30120SG-E3,Enlarge,120,30,0.81,220,,150,TO-220AB,Single,No,image/diodes/schottky/89011.png
+V30150C,Enlarge,150,2 x 15,0.71,140,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89249.png
+V30150C,Enlarge,150,2 x 15,0.71,140,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89047.png
+V30200C,Enlarge,200,2 x 15,0.648,250,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89014.png
+V30202C,Enlarge,200,2 x 15,0.65,260,,175,TO-220AB,Common cathode,No,image/diodes/schottky/87799.png
+V30D100C,Enlarge,100,2 x 15,0.64,150,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87551.png
+V30D103C,Enlarge,100,2 x 15,0.61,160,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98479.png
+V30D170C,Enlarge,170,2 x 15.0,0.66,260,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87452.png
+V30D202C,Enlarge,200,2 x 15.0,0.66,260,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87748.png
+V30D45C,Enlarge,45,2 x 15,0.40,200,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/89994.png
+V30D60C,Enlarge,60,2 x 15,0.57,170,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/89995.png
+V30D60CL,Enlarge,60,2 x 15,0.49,200,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/89996.png
+V30DL45,Enlarge,45,30,0.51,240,,150,SMPD (TO-263AC),Single,Yes,image/diodes/schottky/87788.png
+V30DL45BP,Enlarge,45,30,0.51,200,,200,SMPD (TO-263AC),Single,No,image/diodes/schottky/87791.png
+V30DL50C,Enlarge,50,2 x 15,0.42,300,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/89963.png
+V30DL63C,Enlarge,60,2 x 15,0.54,170,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98247.png
+V30DL63CL,Enlarge,60,2 x 15,0.47,200,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98248.png
+V30DM100C,Enlarge,100,2 x 15,0.66,160,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87576.png
+V30DM103C,Enlarge,100,2 x 15,0.61,160,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98482.png
+V30DM120,Enlarge,120,30,0.73,250,,175,SMPD (TO-263AC),Single,Yes,image/diodes/schottky/87602.png
+V30DM120C,Enlarge,120,2 x 15,0.67,150,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/89990.png
+V30DM150C,Enlarge,150,2 x 15,0.73,140,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87573.png
+V30DM153C,Enlarge,150,2 x 15,0.67,140,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87188.png
+V30DM45C,Enlarge,45,2 x 15,0.46,200,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87586.png
+V30DM60CL,Enlarge,60,2 x 15,0.52,200,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87581.png
+V30DM63CL,Enlarge,60,2 x 15,0.55,200,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98249.png
+V30K150,Enlarge,150,30,0.68,240,,150,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87157.png
+V30K170,Enlarge,170,30,0.72,240,,165,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87145.png
+V30K202,Enlarge,200,30,0.72,240,,165,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87158.png
+V30K45,Enlarge,45,30,0.46,240,,150,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87416.png
+V30K60,Enlarge,60,30,0.51,240,,150,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87159.png
+V30KL45,Enlarge,45,30,0.43,240,,150,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87160.png
+V30KM100,Enlarge,100,30,0.62,240,,165,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87150.png
+V30KM120,Enlarge,120,30,0.67,240,,165,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87144.png
+V30KM45,Enlarge,45,30,0.48,240,,165,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87149.png
+V30KM60,Enlarge,60,30,0.55,240,,165,FlatPAK 5 x 6,Single,Yes,image/diodes/schottky/87151.png
+V30M100M-E3,Enlarge,100,2 x 15,0.70,120,,175,TO-220AB,Common cathode,No,image/diodes/schottky/89986.png
+V30M120C,Enlarge,120,2 x 15,0.68,150,,175,TO-220AB,Common cathode,No,image/diodes/schottky/89464.png
+V30M120M-E3,Enlarge,120,2 x 15,0.70,120,,175,TO-220AB,Common cathode,No,image/diodes/schottky/89988.png
+V31103C,Enlarge,100,2 x 15,0.61,160,,150,TO-220AB,Common cathode,No,image/diodes/schottky/98157.png
+V31M103C,Enlarge,100,2 x 15,0.62,160,,175,TO-220AB,Common cathode,No,image/diodes/schottky/98158.png
+V35DM120,Enlarge,120,35,0.73,320,,175,SMPD (TO-263AC),Single,Yes,image/diodes/schottky/87603.png
+V35PW10,Enlarge,100,35,0.68,260,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87679.png
+V35PW12,Enlarge,120,35,0.70,260,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87683.png
+V35PW15,Enlarge,150,35,0.71,260,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87686.png
+V35PW22,Enlarge,200,35,0.77,260,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87006.png
+V35PW45,Enlarge,45,35,0.46,260,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87652.png
+V35PW60,Enlarge,60,35,0.55,260,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87687.png
+V35PWL63,Enlarge,60,35,0.56,260,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98258.png
+V35PWM10,Enlarge,100,35,0.68,260,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87502.png
+V35PWM103,Enlarge,100,35,0.65,260,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98469.png
+V35PWM12,Enlarge,120,35,0.68,260,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87653.png
+V35PWM15,Enlarge,150,35,0.71,260,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87503.png
+V35PWM153,Enlarge,150,35,0.71,260,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98168.png
+V35PWM45,Enlarge,45,35,0.52,260,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87690.png
+V35PWM60,Enlarge,60,35,0.58,260,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/87694.png
+V35PWM63,Enlarge,60,35,0.60,260,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98259.png
+V3F6,Enlarge,60,3,0.49,60,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87565.png
+V3FL45,Enlarge,45,3,0.43,50,,150,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87568.png
+V3FM10,Enlarge,100,3,0.62,55,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87566.png
+V3FM12,Enlarge,120,3,0.64,60,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87570.png
+V3FM15,Enlarge,150,3,0.66,40,,175,SMF (DO-219AB),Single,Yes,image/diodes/schottky/87567.png
+V3N103,Enlarge,100,3,0.43,80,,150,DFN3820A,Single,Yes,image/diodes/schottky/98442.png
+V3N22,Enlarge,200,3,0.61,60,,175,DFN3820A,Single,Yes,image/diodes/schottky/98485.png
+V3NL63,Enlarge,60,3,0.35,80,,150,DFN3820A,Single,Yes,image/diodes/schottky/98434.png
+V3NM103,Enlarge,100,3,0.46,80,,175,DFN3820A,Single,Yes,image/diodes/schottky/98446.png
+V3NM153,Enlarge,150,3,0.55,80,,175,DFN3820A,Single,Yes,image/diodes/schottky/98376.png
+V3NM63,Enlarge,60,3,0.42,80,,175,DFN3820A,Single,Yes,image/diodes/schottky/98438.png
+V3P22,Enlarge,200,3,0.70,60,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87471.png
+V3P6,Enlarge,60,3,0.48,60,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/89344.png
+V3P6L,Enlarge,60,3,0.44,80,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87460.png
+V3PAL45,Enlarge,45,3,0.37,80,,150,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/87906.png
+V3PAN50-M3,Enlarge,50,3,0.40,80,,150,SMPA (DO-221BC),Single,No,image/diodes/schottky/87909.png
+V3PL45,Enlarge,45,3,0.37,80,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87461.png
+V3PL63,Enlarge,60,3,0.48,60,,150,SMP (DO-220AA),Single,Yes,image/diodes/schottky/98216.png
+V3PM10,Enlarge,100,3,0.58,80,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87465.png
+V3PM12,Enlarge,120,3,0.61,80,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87468.png
+V3PM15,Enlarge,150,3,0.64,80,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87469.png
+V3PM6,Enlarge,60,3,0.47,80,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/87464.png
+V3PM63,Enlarge,60,3,0.53,60,,175,SMP (DO-220AA),Single,Yes,image/diodes/schottky/98217.png
+V40100C,Enlarge,100,2 x 20,0.61,250,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89162.png
+V40100C-E3,Enlarge,100,2 x 20,0.61,250,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89042.png
+V40100CI,Enlarge,100,2 x 20,0.59,250,,150,TO-220AB,Common cathode,No,image/diodes/schottky/87545.png
+V40100G,Enlarge,100,2 x 20,0.67,200,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89189.png
+V40100G-E3,Enlarge,100,2 x 20,0.67,200,,150,TO-220AB,Common cathode,No,image/diodes/schottky/88970.png
+V40120C,Enlarge,120,2 x 20,0.63,250,,150,TO-220AB,Common cathode,No,image/diodes/schottky/88937.png
+V40120C,Enlarge,120,2 x 20,0.63,250,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89163.png
+V40120CI,Enlarge,120,2 x 20,0.62,250,,150,TO-220AB,Common cathode,No,image/diodes/schottky/87546.png
+V40150C,Enlarge,150,2 x 20,0.75,160,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89250.png
+V40150C-E3,Enlarge,150,2 x 20,0.75,160,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89048.png
+V40170C-M3,Enlarge,170,2 x 20,0.68,200,,175,TO-220AB,Common cathode,No,image/diodes/schottky/89941.png
+V40D100C,Enlarge,100,2 x 20,0.63,250,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87950.png
+V40D103C,Enlarge,100,2 x 20,0.56,340,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98480.png
+V40D120C,Enlarge,120,2 x 20,0.64,250,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87951.png
+V40D45C,Enlarge,45,2 x 20,0.40,250,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87552.png
+V40D60C,Enlarge,60,2 x 20,0.47,250,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87553.png
+V40DL45,Enlarge,45,40,0.53,240,,150,SMPD (TO-263AC),Single,Yes,image/diodes/schottky/87790.png
+V40DL45BP,Enlarge,45,40,0.53,240,,200,SMPD (TO-263AC),Single,No,image/diodes/schottky/87789.png
+V40DL63C,Enlarge,60,2 x 20,0.47,250,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98250.png
+V40DM100C,Enlarge,100,2 x 20,0.64,240,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87577.png
+V40DM103C,Enlarge,100,2 x 20,0.58,370,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98483.png
+V40DM120C,Enlarge,120,2 x 20,0.64,250,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/89991.png
+V40DM150C,Enlarge,150,2 x 20,0.72,160,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87569.png
+V40DM153C,Enlarge,150,2 x 20,0.69,160,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87189.png
+V40DM45C,Enlarge,45,2 x 20,0.48,240,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87587.png
+V40DM60C,Enlarge,60,2 x 20,0.54,240,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87582.png
+V40DM63C,Enlarge,60,2 x 20,0.57,250,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98251.png
+V40M120C,Enlarge,120,2 x 20,0.64,250,,175,TO-220AB,Common cathode,No,image/diodes/schottky/89465.png
+V40M150C,Enlarge,150,2 x 20,0.75,160,,175,TO-220AB,Common cathode,No,image/diodes/schottky/87780.png
+V40PW103C,Enlarge,100,2 x 20,0.62,240,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98470.png
+V40PW10C,Enlarge,100,2 x 20,0.70,240,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87656.png
+V40PW12C,Enlarge,120,2 x 20,0.73,240,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87681.png
+V40PW15C,Enlarge,150,2 x 20,0.76,240,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87654.png
+V40PW22C,Enlarge,200,2 x 20,0.75,240,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87007.png
+V40PW45C,Enlarge,45,2 x 20,0.49,240,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87655.png
+V40PW60C,Enlarge,60,2 x 20,0.57,240,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87675.png
+V40PWL63C,Enlarge,60,2 x 20,0.56,240,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98264.png
+V40PWM103C,Enlarge,100,2 x 20,0.63,240,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98471.png
+V40PWM10C,Enlarge,100,2 x 20,0.68,240,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87504.png
+V40PWM12C,Enlarge,120,2 x 20,0.70,240,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87505.png
+V40PWM153C,Enlarge,150,2 x 20,0.69,240,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98165.png
+V40PWM15C,Enlarge,150,2 x 20,0.76,240,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87506.png
+V40PWM45C,Enlarge,45,2 x 20,0.52,240,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87691.png
+V40PWM60C,Enlarge,60,2 x 20,0.59,240,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/87695.png
+V40PWM63C,Enlarge,60,2 x 20,0.59,240,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98265.png
+V41103C,Enlarge,100,2 x 20,0.58,250,,150,TO-220AB,Common cathode,No,image/diodes/schottky/98159.png
+V41M103C,Enlarge,100,2 x 20,0.59,250,,175,TO-220AB,Common cathode,No,image/diodes/schottky/98160.png
+V4P22C,Enlarge,200,2 x 2.0,0.65,60,,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/87499.png
+V4PAL45,Enlarge,45,4,0.41,80,,150,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/87907.png
+V4PAN50-M3,Enlarge,50,4,0.46,80,,150,SMPA (DO-221BC),Single,No,image/diodes/schottky/87910.png
+V5N103,Enlarge,100,5,0.46,100,,150,DFN3820A,Single,Yes,image/diodes/schottky/98443.png
+V5N22,Enlarge,200,5,0.60,100,,175,DFN3820A,Single,Yes,image/diodes/schottky/98486.png
+V5N3103,Enlarge,100,5,0.43,100,,150,DFN33A,Single,Yes,image/diodes/schottky/98650.png
+V5N3202,Enlarge,200,5,0.58,100,,175,DFN33A,Single,Yes,image/diodes/schottky/98571.png
+V5N3L63,Enlarge,60,5,0.34,100,,150,DFN33A,Single,Yes,image/diodes/schottky/98568.png
+V5N3M103,Enlarge,100,5,0.45,100,,175,DFN33A,Single,Yes,image/diodes/schottky/98554.png
+V5N3M153,Enlarge,150,5,0.54,100,,175,DFN33A,Single,Yes,image/diodes/schottky/98570.png
+V5N3M63,Enlarge,60,5,0.4,100,,175,DFN33A,Single,Yes,image/diodes/schottky/98569.png
+V5NL63,Enlarge,60,5,0.35,100,,150,DFN3820A,Single,Yes,image/diodes/schottky/98435.png
+V5NM103,Enlarge,100,5,0.49,100,,175,DFN3820A,Single,Yes,image/diodes/schottky/98447.png
+V5NM153,Enlarge,150,5,0.56,100,,175,DFN3820A,Single,Yes,image/diodes/schottky/98377.png
+V5NM63,Enlarge,60,5,0.43,100,,175,DFN3820A,Single,Yes,image/diodes/schottky/98439.png
+V5PA22,Enlarge,200,5,0.69,90,,175,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/87472.png
+V60100C,Enlarge,100,2 x 30,0.66,320,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89155.png
+V60100C-E3,Enlarge,100,2 x 30,0.66,320,,150,TO-220AB,Common cathode,No,image/diodes/schottky/88942.png
+V60120C,Enlarge,120,2 x 30,0.71,300,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89251.png
+V60120C,Enlarge,120,2 x 30,0.71,300,,150,TO-220AB,Common cathode,No,image/diodes/schottky/88976.png
+V60170G-M3,Enlarge,170,2 x 30,0.72,210,,175,TO-220AB,Dual common cathode,No,image/diodes/schottky/89943.png
+V60D100C,Enlarge,100,2 x 30,0.66,320,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87952.png
+V60D103C,Enlarge,100,2 x 30,0.61,390,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98481.png
+V60D120C,Enlarge,120,2 x 30,0.70,320,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87953.png
+V60D45C,Enlarge,45,2 x 30,0.48,320,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/89997.png
+V60D60C,Enlarge,60,2 x 30,0.50,320,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87554.png
+V60DL63C,Enlarge,60,2 x 30,0.52,320,,150,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98252.png
+V60DM100C,Enlarge,100,2 x 30,0.70,320,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87578.png
+V60DM120C,Enlarge,120,2 x 30,0.70,320,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87618.png
+V60DM45C,Enlarge,45,2 x 30,0.55,320,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87588.png
+V60DM60C,Enlarge,60,2 x 30,0.61,320,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/87583.png
+V60DM63C,Enlarge,60,2 x 30,0.57,320,,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/schottky/98253.png
+V60M120C,Enlarge,120,2 x 30,0.69,300,,175,TO-220AB,Common cathode,No,image/diodes/schottky/87781.png
+V61103C,Enlarge,100,2 x 30,0.63,320,,150,TO-220AB,Common cathode,No,image/diodes/schottky/98161.png
+V61M103C,Enlarge,100,2 x 30,0.63,320,,175,TO-220AB,Common cathode,No,image/diodes/schottky/98162.png
+V6K100DU,Enlarge,100,2 x 3,0.55,80,,150,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/schottky/87418.png
+V6KL45DU,Enlarge,45,2 x 3,0.36,80,,150,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/schottky/87534.png
+V6KM120DU,Enlarge,120,2 x 3,0.60,80,,175,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/schottky/87419.png
+V6KM45DU,Enlarge,45,2 x 3,0.44,80,,175,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/schottky/87417.png
+V6N3103,Enlarge,100,6,0.45,100,,150,DFN33A,Single,Yes,image/diodes/schottky/98543.png
+V6N3M103,Enlarge,100,6,0.48,100,,175,DFN33A,Single,Yes,image/diodes/schottky/98549.png
+V6P22C,Enlarge,200,2 x 3.0,0.68,70,,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/87000.png
+V6PW10,Enlarge,100,6,0.58,100,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98181.png
+V6PW10C,Enlarge,100,2 x 3,0.56,70,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98198.png
+V6PW12,Enlarge,120,6,0.62,100,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98185.png
+V6PW12C,Enlarge,120,2 x 3,0.6,70,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98199.png
+V6PW60,Enlarge,60,6,0.46,100,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98177.png
+V6PW60C,Enlarge,60,2 x 3,0.43,70,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98200.png
+V6PWL45,Enlarge,45,6,0.38,100,,150,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98173.png
+V6PWL45C,Enlarge,45,2 x 3,0.37,70,,150,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98201.png
+V6PWM10,Enlarge,100,6,0.6,100,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98182.png
+V6PWM10C,Enlarge,100,2 x 3,0.57,70,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98202.png
+V6PWM12,Enlarge,120,6,0.63,100,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98186.png
+V6PWM12C,Enlarge,120,2 x 3,0.6,70,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98203.png
+V6PWM45,Enlarge,45,6,0.45,100,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98174.png
+V6PWM45C,Enlarge,45,2 x 3,0.45,70,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98204.png
+V6PWM60,Enlarge,60,6,0.51,100,,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/schottky/98178.png
+V6PWM60C,Enlarge,60,2 x 3,0.48,70,,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/schottky/98205.png
+V7N103,Enlarge,100,7,0.45,120,,150,DFN3820A,Single,Yes,image/diodes/schottky/98444.png
+V7N3103,Enlarge,100,7,0.45,120,,150,DFN33A,Single,Yes,image/diodes/schottky/98473.png
+V7N3L63,Enlarge,60,7,0.37,120,,150,DFN33A,Single,Yes,image/diodes/schottky/98572.png
+V7N3M103,Enlarge,100,7,0.49,120,,175,DFN33A,Single,Yes,image/diodes/schottky/98574.png
+V7N3M153,Enlarge,150,7,0.56,120,,175,DFN33A,Single,Yes,image/diodes/schottky/98575.png
+V7N3M63,Enlarge,60,7,0.43,120,,175,DFN33A,Single,Yes,image/diodes/schottky/98573.png
+V7NL63,Enlarge,60,7,0.37,120,,150,DFN3820A,Single,Yes,image/diodes/schottky/98436.png
+V7NM103,Enlarge,100,7,0.49,120,,175,DFN3820A,Single,Yes,image/diodes/schottky/98448.png
+V7NM153,Enlarge,150,7,0.56,120,,175,DFN3820A,Single,Yes,image/diodes/schottky/98378.png
+V7NM63,Enlarge,60,7,0.43,120,,175,DFN3820A,Single,Yes,image/diodes/schottky/98440.png
+V8K202DU,Enlarge,200,2 x 4,0.72,60,,150,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/schottky/98150.png
+V8KM60DU,Enlarge,60,2 x 4,0.50,80,,175,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/schottky/87536.png
+V8N3170,Enlarge,170,8,0.62,100,,175,DFN33A,Single,Yes,image/diodes/schottky/98550.png
+V8N3M103S,Enlarge,100,8,0.52,100,,175,DFN33A,Single,Yes,image/diodes/schottky/98576.png
+V8P10,Enlarge,100,8,0.582,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89005.png
+V8P103,Enlarge,100,8,0.55,150,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98454.png
+V8P12,Enlarge,120,8,0.63,140,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89170.png
+V8P15,Enlarge,150,8,0.66,140,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87619.png
+V8P20,Enlarge,200,8,0.68,150,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/89315.png
+V8P22,Enlarge,200,8,0.68,140,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87001.png
+V8P22C,Enlarge,200,2 x 4.0,0.69,80,,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/schottky/98169.png
+V8P45,Enlarge,45,8,0.41,140,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87710.png
+V8P6,Enlarge,60,8,0.46,140,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87708.png
+V8P8,Enlarge,80,8,0.54,140,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87709.png
+V8PA10,Enlarge,100,8,0.61,100,,150,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/87659.png
+V8PA103,Enlarge,100,8,0.59,100,,150,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/98383.png
+V8PA12,Enlarge,120,8,0.64,100,,150,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/87661.png
+V8PA15,Enlarge,150,8,0.68,100,,150,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/87658.png
+V8PA22,Enlarge,200,8,0.70,100,,175,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/87473.png
+V8PA6,Enlarge,60,8,0.49,100,,150,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/87657.png
+V8PAL45,Enlarge,45,8,0.40,120,,150,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/87908.png
+V8PAL50-M3,Enlarge,50,8,0.40,120,,150,SMPA (DO-221BC),Single,No,image/diodes/schottky/87912.png
+V8PAM10,Enlarge,100,8,0.62,100,,175,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/87660.png
+V8PAM103,Enlarge,100,8,0.6,100,,175,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/98284.png
+V8PAM103S,Enlarge,100,8,0.63,90,,175,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/98385.png
+V8PAM10S,Enlarge,100,8,0.63,90,,175,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/87013.png
+V8PAM12,Enlarge,120,8,0.65,100,,175,SMPA (DO-221BC),Single,Yes,image/diodes/schottky/87662.png
+V8PAN50-M3,Enlarge,50,8,0.41,120,,150,SMPA (DO-221BC),Single,No,image/diodes/schottky/87911.png
+V8PL6-M3,Enlarge,60,8,0.42,140,,150,SMPC (TO-277A),Single,No,image/diodes/schottky/87725.png
+V8PL63,Enlarge,60,8,0.48,140,,150,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98224.png
+V8PM10,Enlarge,100,8,0.60,140,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87620.png
+V8PM103,Enlarge,100,8,0.56,140,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98450.png
+V8PM103S,Enlarge,100,8,0.57,120,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/98449.png
+V8PM10S,Enlarge,100,8,0.62,120,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87532.png
+V8PM12,Enlarge,120,8,0.63,140,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/89936.png
+V8PM15,Enlarge,150,8,0.66,140,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87429.png
+V8PM153,Enlarge,150,8,0.62,140,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87203.png
+V8PM45,Enlarge,45,8,0.46,140,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87430.png
+V8PM6,Enlarge,60,8,0.52,140,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87428.png
+V8PM63,Enlarge,60,8,0.52,140,,175,SMPC (TO-277A),Single,Yes,image/diodes/schottky/87025.png
+V9N3103,Enlarge,100,9,0.43,150,,150,DFN33A,Single,Yes,image/diodes/schottky/98579.png
+V9N3202,Enlarge,200,9,0.60,150,,175,DFN33A,Single,Yes,image/diodes/schottky/98582.png
+V9N3L63,Enlarge,60,9,0.36,150,,150,DFN33A,Single,Yes,image/diodes/schottky/98577.png
+V9N3M103,Enlarge,100,9,0.47,150,,175,DFN33A,Single,Yes,image/diodes/schottky/98580.png
+V9N3M153,Enlarge,150,9,0.56,150,,175,DFN33A,Single,Yes,image/diodes/schottky/98581.png
+V9N3M63,Enlarge,60,9,0.42,150,,175,DFN33A,Single,Yes,image/diodes/schottky/98578.png
+VB10150C-E3,Enlarge,150,2 x 5.0,0.69,60,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89068.png
+VB10150C-M3,Enlarge,150,2 x 5.0,0.69,60,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87991.png
+VB10150S-E3,Enlarge,150,10,0.69,120,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89058.png
+VB10150S-M3,Enlarge,150,10,0.69,120,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87992.png
+VB10170C,Enlarge,170,2 x 5,0.65,80,,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89948.png
+VB20100C,Enlarge,100,2 x 10,0.58,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87982.png
+VB20100C-E3,Enlarge,100,2 x 10,0.58,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/88977.png
+VB20100S-E3,Enlarge,100,20,0.69,250,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/88975.png
+VB20100S-M3,Enlarge,100,20,0.69,250,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87648.png
+VB20100SG,Enlarge,100,20,0.75,150,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/88966.png
+VB20120C-E3,Enlarge,120,2 x 10,0.64,120,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89040.png
+VB20120C-M3,Enlarge,120,2 x 10,0.64,120,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87969.png
+VB20120S-E3,Enlarge,120,20,0.73,200,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/88993.png
+VB20120S-M3,Enlarge,120,20,0.73,200,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87983.png
+VB20120SG-E3,Enlarge,120,20,0.78,150,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/88994.png
+VB20120SG-M3,Enlarge,120,20,0.78,150,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87968.png
+VB20150C-E3,Enlarge,150,2 x 10,0.69,120,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89046.png
+VB20150C-M3,Enlarge,150,2 x 10,0.69,120,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87993.png
+VB20150S-E3,Enlarge,150,20,0.75,160,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89059.png
+VB20150S-M3,Enlarge,150,20,0.75,160,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87994.png
+VB20150SG-E3,Enlarge,150,20,0.77,140,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89060.png
+VB20200C-E3,Enlarge,200,2 x 10,0.68,120,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89072.png
+VB20200G-E3,Enlarge,200,2 x 10,0.71,110,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89117.png
+VB20202C,Enlarge,200,2 x 10,0.68,150,,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87797.png
+VB20202G,Enlarge,200,2 x 10,0.71,130,,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87798.png
+VB20M120C,Enlarge,120,2 x 10,0.64,120,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89466.png
+VB30100C,Enlarge,100,2 x 15,0.63,160,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87984.png
+VB30100C-E3,Enlarge,100,2 x 15,0.63,160,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89010.png
+VB30100S-E3,Enlarge,100,30,0.69,250,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/88941.png
+VB30100S-M3,Enlarge,100,30,0.69,250,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87985.png
+VB30100SG-E3,Enlarge,100,30,0.76,250,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/88996.png
+VB30100SG-M3,Enlarge,100,30,0.76,250,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87986.png
+VB30120C-E3,Enlarge,120,2 x 15,0.68,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89041.png
+VB30120S,Enlarge,120,30,0.74,300,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89152.png
+VB30120S-E3,Enlarge,120,30,0.74,300,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/88974.png
+VB30120SG-E3,Enlarge,120,30,0.81,220,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89011.png
+VB30150C,Enlarge,150,2 x 15,0.71,140,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89047.png
+VB30150C-M3,Enlarge,150,2 x 15,0.71,140,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87995.png
+VB30200C,Enlarge,200,2 x 15,0.648,250,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89014.png
+VB30202C,Enlarge,200,2 x 15,0.65,260,,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87799.png
+VB30M120C,Enlarge,120,2 x 15,0.68,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89467.png
+VB40100C,Enlarge,100,2 x 20,0.61,250,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87987.png
+VB40100C-E3,Enlarge,100,2 x 20,0.61,250,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89042.png
+VB40100G-E3,Enlarge,100,2 x 20,0.67,200,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/88970.png
+VB40120C,Enlarge,120,2 x 20,0.63,250,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/88937.png
+VB40150C,Enlarge,150,2 x 20,0.75,160,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89250.png
+VB40150C-E3,Enlarge,150,2 x 20,0.75,160,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89048.png
+VB40170C,Enlarge,170,2 x 20,0.68,200,,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89949.png
+VB40M120C,Enlarge,120,2 x 20,0.64,250,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89468.png
+VB60100C,Enlarge,100,2 x 30,0.66,320,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87988.png
+VB60100C-E3,Enlarge,100,2 x 30,0.66,320,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/88942.png
+VB60120C,Enlarge,120,2 x 30,0.71,300,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/88976.png
+VB60170G-E3,Enlarge,170,2 x 30,0.72,210,,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89950.png
+VBT10200C-E3,Enlarge,200,2 x 5.0,0.65,80,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89177.png
+VBT1045BP-E3,Enlarge,45,10,0.52,100,,200,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89452.png
+VBT1045BP-M3,Enlarge,45,10,0.52,100,,200,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87967.png
+VBT1045C-E3,Enlarge,45,2 x 5.0,0.41,100,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89358.png
+VBT1045C-M3,Enlarge,45,2 x 5.0,0.41,100,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87989.png
+VBT1045CBP-E3,Enlarge,45,2 x 5.0,0.41,100,,200,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89371.png
+VBT1045CBP-M3,Enlarge,45,2 x 5.0,0.41,100,,200,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87960.png
+VBT1060C-M3,Enlarge,60,2 x 5,0.50,100,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87971.png
+VBT1080C-E3,Enlarge,80,2 x 5,0.57,80,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89164.png
+VBT1080C-M3,Enlarge,80,2 x 5,0.57,80,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87974.png
+VBT1080S-E3,Enlarge,80,10,0.51,100,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89165.png
+VBT1080S-M3,Enlarge,80,10,0.60,100,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87975.png
+VBT1545CBP-E3,Enlarge,45,2 x 7.5,0.49,100,,200,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89486.png
+VBT2045BP-E3,Enlarge,45,20,0.51,160,,200,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89450.png
+VBT2045BP-M3,Enlarge,45,20,0.51,160,,200,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87966.png
+VBT2045C,Enlarge,45,2 x 10,0.41,160,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87956.png
+VBT2045C-E3,Enlarge,45,2 x 10,0.41,160,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89359.png
+VBT2045CBP-E3,Enlarge,45,2 x 10,0.41,160,,200,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89372.png
+VBT2045CBP-M3,Enlarge,45,2 x 10,0.41,160,,200,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87961.png
+VBT2060C-E3,Enlarge,60,2 x 10,0.52,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89132.png
+VBT2060C-M3,Enlarge,60,2 x 10,0.52,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87972.png
+VBT2060G-E3,Enlarge,60,2 x 10,0.63,100,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89133.png
+VBT2080C-E3,Enlarge,80,2 x 10,0.60,100,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89166.png
+VBT2080C-M3,Enlarge,80,2 x 10,0.60,100,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87976.png
+VBT2080S-E3,Enlarge,80,20,0.70,150,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89167.png
+VBT2080S-M3,Enlarge,80,20,0.70,150,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87977.png
+VBT3045BP-E3,Enlarge,45,30,0.51,200,,200,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89449.png
+VBT3045BP-M3,Enlarge,45,30,0.51,200,,200,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87965.png
+VBT3045C,Enlarge,45,2 x 15,0.39,200,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87957.png
+VBT3045C-E3,Enlarge,45,2 x 15,0.39,200,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89360.png
+VBT3045CBP-E3,Enlarge,,,,,,,,,,image/diodes/schottky/89373.png
+VBT3045CBP-M3,Enlarge,45,2 x 15,0.39,200,,200,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87962.png
+VBT3060C-E3,Enlarge,60,2 x 15,0.57,170,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89134.png
+VBT3060G-E3,Enlarge,60,2 x 15,0.61,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89135.png
+VBT3080C-E3,Enlarge,80,2 x 15,0.65,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89168.png
+VBT3080C-M3,Enlarge,80,2 x 15,0.65,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87978.png
+VBT3080S-E3,Enlarge,80,30,0.73,200,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89169.png
+VBT3080S-M3,Enlarge,,,,,,,,,,image/diodes/schottky/87979.png
+VBT30L60C,Enlarge,60,2 x 15,0.45,200,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89329.png
+VBT4045BP-E3,Enlarge,45,40,0.51,240,,200,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89442.png
+VBT4045BP-M3,Enlarge,45,40,0.51,240,,200,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87964.png
+VBT4045C-E3,Enlarge,45,2 x 20,0.41,240,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89361.png
+VBT4045C-M3,Enlarge,45,2 x 20,0.41,240,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87958.png
+VBT4060C,Enlarge,60,2 x 20,0.48,240,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87973.png
+VBT4060C,Enlarge,60,2 x 20,0.48,240,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89330.png
+VBT5200-E3,Enlarge,200,5,0.65,80,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89176.png
+VBT5202-M3,Enlarge,200,5,0.65,100,,175,D2PAK (TO-263AB),Single,No,image/diodes/schottky/87700.png
+VBT6045C-E3,Enlarge,45,2 x 30,0.47,320,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89362.png
+VBT6045C-M3,Enlarge,45,2 x 30,0.47,320,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/87959.png
+VBT6045CBP-E3,Enlarge,45,2 x 30,0.47,320,,200,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89374.png
+VBT6045CBP-M3,Enlarge,45,2 x 30,0.47,320,,200,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/98533.png
+VBT760-E3,Enlarge,60,7.5,0.60,100,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89130.png
+VF10150C,Enlarge,150,2 x 5.0,0.69,60,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89327.png
+VF10150C-E3,Enlarge,150,2 x 5.0,0.69,60,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89068.png
+VF10150S,Enlarge,150,10,0.69,120,,150,ITO-220AB,Single,No,image/diodes/schottky/89267.png
+VF10150S-E3,Enlarge,150,10,0.69,120,,150,ITO-220AB,Single,No,image/diodes/schottky/89058.png
+VF20100C,Enlarge,100,2 x 10,0.58,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89323.png
+VF20100C-E3,Enlarge,100,2 x 10,0.58,150,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/88977.png
+VF20100S-E3,Enlarge,100,20,0.69,250,,150,ITO-220AB,Single,No,image/diodes/schottky/88975.png
+VF20100S-M3,Enlarge,100,20,0.69,250,,150,ITO-220AB,Single,No,image/diodes/schottky/87648.png
+VF20100SG,Enlarge,100,20,0.75,150,,150,ITO-220AC,Single,No,image/diodes/schottky/88966.png
+VF20100SG,Enlarge,100,20,0.75,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89196.png
+VF20120C,Enlarge,120,2 x 10,0.64,120,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89324.png
+VF20120C-E3,Enlarge,120,2 x 10,0.64,120,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89040.png
+VF20120S,Enlarge,120,20,0.73,200,,150,ITO-220AB,Single,No,image/diodes/schottky/89264.png
+VF20120S-E3,Enlarge,120,20,0.73,200,,150,ITO-220AB,Single,No,image/diodes/schottky/88993.png
+VF20120SG,Enlarge,120,20,0.78,150,,150,ITO-220AB,Single,No,image/diodes/schottky/89265.png
+VF20120SG-E3,Enlarge,120,20,0.78,150,,150,ITO-220AB,Single,No,image/diodes/schottky/88994.png
+VF20150C,Enlarge,150,2 x 10,0.69,120,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89328.png
+VF20150C-E3,Enlarge,150,2 x 10,0.69,120,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89046.png
+VF20150S,Enlarge,150,20,0.75,160,,150,ITO-220AB,Single,No,image/diodes/schottky/89268.png
+VF20150S-E3,Enlarge,150,20,0.75,160,,150,ITO-220AB,Single,No,image/diodes/schottky/89059.png
+VF20150SG,Enlarge,150,20,0.77,140,,150,ITO-220AB,Single,No,image/diodes/schottky/89269.png
+VF20150SG-E3,Enlarge,150,20,0.77,140,,150,ITO-220AB,Single,No,image/diodes/schottky/89060.png
+VF20200C-E3,Enlarge,200,2 x 10,0.68,120,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89072.png
+VF20200G-E3,Enlarge,200,2 x 10,0.71,110,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89117.png
+VF20202C,Enlarge,200,2 x 10,0.68,150,,175,ITO-220AB,Common cathode,No,image/diodes/schottky/87797.png
+VF20202G,Enlarge,200,2 x 10,0.71,130,,175,ITO-220AB,Common cathode,No,image/diodes/schottky/87798.png
+VF20M120C-M3,Enlarge,120,2 x 10,0.64,120,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89469.png
+VF30100C-E3,Enlarge,100,2 x 15,0.63,160,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89010.png
+VF30100C-M3,Enlarge,100,2 x 15,0.63,160,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89203.png
+VF30100S,Enlarge,100,30,0.69,250,,150,ITO-220AB,Single,No,image/diodes/schottky/89195.png
+VF30100S-E3,Enlarge,100,30,0.69,250,,150,ITO-220AB,Single,No,image/diodes/schottky/88941.png
+VF30100SG-E3,Enlarge,100,30,0.76,250,,150,ITO-220AB,Single,No,image/diodes/schottky/88996.png
+VF30120C,Enlarge,120,2 x 15,0.68,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89325.png
+VF30120C-E3,Enlarge,120,2 x 15,0.68,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89041.png
+VF30120S,Enlarge,120,30,0.74,300,,150,ITO-220AB,Single,No,image/diodes/schottky/89152.png
+VF30120S-E3,Enlarge,120,30,0.74,300,,150,ITO-220AB,Single,No,image/diodes/schottky/88974.png
+VF30120SG,Enlarge,120,30,0.81,220,,150,ITO-220AB,Single,No,image/diodes/schottky/89266.png
+VF30120SG-E3,Enlarge,120,30,0.81,220,,150,ITO-220AB,Single,No,image/diodes/schottky/89011.png
+VF30150C,Enlarge,150,2 x 15,0.71,140,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89047.png
+VF30150C-M3,Enlarge,150,2 x 15,0.71,140,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89270.png
+VF30200C,Enlarge,200,2 x 15,0.648,250,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89014.png
+VF30202C,Enlarge,200,2 x 15,0.65,260,,175,ITO-220AB,Common cathode,No,image/diodes/schottky/87799.png
+VF30M120C-M3,Enlarge,120,2 x 15,0.68,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89470.png
+VF40100C,Enlarge,100,2 x 20,0.61,250,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89459.png
+VF40100C-E3,Enlarge,100,2 x 20,0.61,250,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89042.png
+VF40100G,Enlarge,100,2 x 20,0.67,200,,150,ITO-220AB,Single,No,image/diodes/schottky/89951.png
+VF40100G-E3,Enlarge,100,2 x 20,0.67,200,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/88970.png
+VF40120C,Enlarge,120,2 x 20,0.63,250,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89326.png
+VF40120C,Enlarge,120,2 x 20,0.63,250,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/88937.png
+VF40150C,Enlarge,150,2 x 20,0.75,160,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89271.png
+VF40150C-E3,Enlarge,150,2 x 20,0.75,160,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89048.png
+VF40M120C-M3,Enlarge,120,2 x 20,0.64,250,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89471.png
+VF60100C,Enlarge,100,2 x 30,0.66,320,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89394.png
+VF60120C,Enlarge,120,2 x 30,0.71,300,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89395.png
+VFT10200C-E3,Enlarge,200,2 x 5.0,0.65,80,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89177.png
+VFT1045,Enlarge,45,10,0.52,100,,150,ITO-220AC,Single,No,image/diodes/schottky/87540.png
+VFT1045BP,Enlarge,45,10,0.52,100,,200,ITO-220AC,Single,No,image/diodes/schottky/89453.png
+VFT1045C-M3,Enlarge,45,2 x 5.0,0.41,100,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89353.png
+VFT1045CBP,Enlarge,45,2 x 5.0,0.41,100,,200,ITO-220AB,Common cathode,No,image/diodes/schottky/89367.png
+VFT1060C,Enlarge,60,2 x 5.0,0.50,100,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89253.png
+VFT1060C-E3 VBT1060C-E3,Enlarge,60,2 x 5,0.50,100,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89131.png
+VFT1080C,Enlarge,80,2 x 5,0.57,80,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89258.png
+VFT1080C-E3,Enlarge,80,2 x 5,0.57,80,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89164.png
+VFT1080S,Enlarge,80,10,0.60,100,,150,ITO-220AB,Single,No,image/diodes/schottky/89259.png
+VFT1080S-E3,Enlarge,80,10,0.51,100,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89165.png
+VFT2045BP,Enlarge,45,20,0.51,160,,200,ITO-220AC,Single,No,image/diodes/schottky/89454.png
+VFT2045C-M3,Enlarge,45,2 x 10,0.41,160,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89354.png
+VFT2045CBP,Enlarge,45,2 x 10,0.41,160,,200,ITO-220AB,Common cathode,No,image/diodes/schottky/89368.png
+VFT2060C,Enlarge,60,2 x 10,0.52,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89254.png
+VFT2060C-E3,Enlarge,60,2 x 10,0.52,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89132.png
+VFT2060G,Enlarge,60,2 x 10,0.63,100,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89255.png
+VFT2060G-E3,Enlarge,60,2 x 10,0.63,100,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89133.png
+VFT2080C,Enlarge,80,2 x 10,0.60,100,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89260.png
+VFT2080C-E3,Enlarge,80,2 x 10,0.60,100,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89166.png
+VFT2080S,Enlarge,80,20,0.70,150,,150,ITO-220AB,Single,No,image/diodes/schottky/89261.png
+VFT2080S-E3,Enlarge,80,20,0.70,150,,150,ITO-220AB,Single,No,image/diodes/schottky/89167.png
+VFT3045BP,Enlarge,45,30,0.51,200,,200,ITO-220AC,Single,No,image/diodes/schottky/89455.png
+VFT3045C-M3,Enlarge,45,2 x 15,0.39,200,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89355.png
+VFT3045CBP,Enlarge,45,2 x 15,0.39,200,,200,ITO-220AB,Common cathode,No,image/diodes/schottky/89369.png
+VFT3060C,Enlarge,60,2 x 15,0.57,170,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89256.png
+VFT3060C-E3,Enlarge,60,2 x 15,0.57,170,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89134.png
+VFT3060G,Enlarge,60,2 x 15,0.61,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89257.png
+VFT3060G-E3,Enlarge,60,2 x 15,0.61,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89135.png
+VFT3080C,Enlarge,80,2 x 15,0.65,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89262.png
+VFT3080C-E3,Enlarge,80,2 x 15,0.65,150,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89168.png
+VFT3080S-E3,Enlarge,80,30,0.73,200,,150,ITO-220AB,Single,No,image/diodes/schottky/89169.png
+VFT3080S-M3,Enlarge,80,30,0.73,200,,150,ITO-220AB,Single,No,image/diodes/schottky/89263.png
+VFT30L60C,Enlarge,60,2 x 15,0.45,200,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89436.png
+VFT30L60C,Enlarge,60,2 x 15,0.45,200,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89378.png
+VFT4045BP,Enlarge,45,40,0.51,240,,200,ITO-220AC,Single,No,image/diodes/schottky/89456.png
+VFT4045C-M3,Enlarge,45,2 x 20,0.41,240,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89356.png
+VFT4060C,Enlarge,60,2 x 20,0.48,240,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89437.png
+VFT4060C-E3,Enlarge,60,2 x 20,0.48,240,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89379.png
+VFT5200-E3,Enlarge,200,5,0.65,80,,150,ITO-220AC,Single,No,image/diodes/schottky/89176.png
+VFT5202-M3,Enlarge,200,5,0.65,100,,175,ITO-220AC,Single,No,image/diodes/schottky/87700.png
+VFT6045C-M3,Enlarge,45,2 x 30,0.47,320,,150,ITO-220AB,Common cathode,No,image/diodes/schottky/89357.png
+VFT6045CBP,Enlarge,45,2 x 30,0.47,320,,200,ITO-220AB,Common cathode,No,image/diodes/schottky/89370.png
+VFT760,Enlarge,60,7.5,0.60,100,,150,ITO-220AC,Single,No,image/diodes/schottky/89252.png
+VFT760-E3,Enlarge,60,7.5,0.60,100,,150,ITO-220AC,Single,No,image/diodes/schottky/89130.png
+VI10150C-E3,Enlarge,150,2 x 5.0,0.69,60,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89068.png
+VI10150S,Enlarge,150,10,0.69,120,,150,TO-262AA,Single,No,image/diodes/schottky/89246.png
+VI10150S-E3,Enlarge,150,10,0.69,120,,150,TO-262AA,Single,No,image/diodes/schottky/89058.png
+VI20100C-E3,Enlarge,100,2 x 10,0.58,150,,150,TO-262AA,Common cathode,No,image/diodes/schottky/88977.png
+VI20100S,Enlarge,100,20,0.69,250,,150,TO-262AA,Single,No,image/diodes/schottky/89190.png
+VI20100S-E3,Enlarge,100,20,0.69,250,,150,TO-262AA,Single,No,image/diodes/schottky/88975.png
+VI20100SG,Enlarge,100,20,0.75,150,,150,TO-262AA,Single,No,image/diodes/schottky/89153.png
+VI20100SG,Enlarge,100,20,0.75,150,,150,TO-262AA,Single,No,image/diodes/schottky/88966.png
+VI20120C-E3,Enlarge,120,2 x 10,0.64,120,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89040.png
+VI20120S,Enlarge,120,20,0.73,200,,150,TO-262AA,Single,No,image/diodes/schottky/89243.png
+VI20120S-E3,Enlarge,120,20,0.73,200,,150,TO-262AA,Single,No,image/diodes/schottky/88993.png
+VI20120SG,Enlarge,120,20,0.78,150,,150,TO-262AA,Single,No,image/diodes/schottky/89244.png
+VI20120SG-E3,Enlarge,120,20,0.78,150,,150,TO-262AA,Single,No,image/diodes/schottky/88994.png
+VI20150C-E3,Enlarge,150,2 x 10,0.69,120,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89046.png
+VI20150S,Enlarge,150,20,0.75,160,,150,TO-262AA,Single,No,image/diodes/schottky/89247.png
+VI20150S-E3,Enlarge,150,20,0.75,160,,150,TO-262AA,Single,No,image/diodes/schottky/89059.png
+VI20150SG,Enlarge,150,20,0.77,140,,150,TO-262AA,Single,No,image/diodes/schottky/89248.png
+VI20150SG-E3,Enlarge,150,20,0.77,140,,150,TO-262AA,Single,No,image/diodes/schottky/89060.png
+VI20200C-E3,Enlarge,200,2 x 10,0.68,120,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89072.png
+VI20200G-E3,Enlarge,200,2 x 10,0.71,110,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89117.png
+VI20202C,Enlarge,200,2 x 10,0.68,150,,175,TO-262AA,Common cathode,No,image/diodes/schottky/87797.png
+VI20202G,Enlarge,200,2 x 10,0.71,130,,175,TO-262AA,Common cathode,No,image/diodes/schottky/87798.png
+VI20M120C,Enlarge,120,2 x 10,0.64,120,,175,TO-262AA,Common cathode,No,image/diodes/schottky/89463.png
+VI30100C,Enlarge,100,2 x 15,0.63,160,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89158.png
+VI30100C-E3,Enlarge,100,2 x 15,0.63,160,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89010.png
+VI30100S,Enlarge,100,30,0.69,250,,150,TO-262AA,Single,No,image/diodes/schottky/89175.png
+VI30100S-E3,Enlarge,100,30,0.69,250,,150,TO-262AA,Single,No,image/diodes/schottky/88941.png
+VI30100SG,Enlarge,100,30,0.76,250,,150,TO-262AA,Single,No,image/diodes/schottky/89191.png
+VI30100SG-E3,Enlarge,100,30,0.76,250,,150,TO-262AA,Single,No,image/diodes/schottky/88996.png
+VI30120C-E3,Enlarge,120,2 x 15,0.68,150,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89041.png
+VI30120S,Enlarge,120,30,0.74,300,,150,TO-262AA,Single,No,image/diodes/schottky/89152.png
+VI30120S-E3,Enlarge,120,30,0.74,300,,150,TO-262AA,Single,No,image/diodes/schottky/88974.png
+VI30120SG,Enlarge,120,30,0.81,220,,150,TO-262AA,Single,No,image/diodes/schottky/89245.png
+VI30120SG-E3,Enlarge,120,30,0.81,220,,150,TO-262AA,Single,No,image/diodes/schottky/89011.png
+VI30150C,Enlarge,150,2 x 15,0.71,140,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89249.png
+VI30150C,Enlarge,150,2 x 15,0.71,140,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89047.png
+VI30200C,Enlarge,200,2 x 15,0.648,250,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89014.png
+VI30202C,Enlarge,200,2 x 15,0.65,260,,175,TO-262AA,Common cathode,No,image/diodes/schottky/87799.png
+VI30M120C,Enlarge,120,2 x 15,0.68,150,,175,TO-262AA,Common cathode,No,image/diodes/schottky/89464.png
+VI40100C,Enlarge,100,2 x 20,0.61,250,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89162.png
+VI40100C-E3,Enlarge,100,2 x 20,0.61,250,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89042.png
+VI40100G,Enlarge,100,2 x 20,0.67,200,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89189.png
+VI40100G-E3,Enlarge,100,2 x 20,0.67,200,,150,TO-262AA,Common cathode,No,image/diodes/schottky/88970.png
+VI40120C,Enlarge,120,2 x 20,0.63,250,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89163.png
+VI40120C,Enlarge,120,2 x 20,0.63,250,,150,TO-262AA,Common cathode,No,image/diodes/schottky/88937.png
+VI40150C,Enlarge,150,2 x 20,0.75,160,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89250.png
+VI40150C-E3,Enlarge,150,2 x 20,0.75,160,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89048.png
+VI40M120C,Enlarge,120,2 x 20,0.64,250,,175,TO-262AA,Common cathode,No,image/diodes/schottky/89465.png
+VI60100C-E3,Enlarge,100,2 x 30,0.66,320,,150,TO-262AA,Common cathode,No,image/diodes/schottky/88942.png
+VIT10200C-E3,Enlarge,200,2 x 5.0,0.65,80,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89177.png
+VIT1045C,Enlarge,45,2 x 5.0,0.41,100,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89348.png
+VIT1045CBP,Enlarge,45,2 x 5.0,0.41,100,,200,TO-262AA,Common cathode,No,image/diodes/schottky/89363.png
+VIT1060C,Enlarge,60,2 x 5.0,0.50,100,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89232.png
+VIT1060C-E3,Enlarge,60,2 x 5,0.50,100,,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/89131.png
+VIT1080C,Enlarge,80,2 x 5,0.57,80,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89237.png
+VIT1080C-E3,Enlarge,80,2 x 5,0.57,80,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89164.png
+VIT1080S,Enlarge,80,10,0.60,100,,150,TO-262AA,Single,No,image/diodes/schottky/89238.png
+VIT1080S-E3,Enlarge,80,10,0.51,100,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89165.png
+VIT2045C,Enlarge,45,2 x 10,0.41,160,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89349.png
+VIT2045CBP,Enlarge,45,2 x 10,0.41,160,,200,TO-262AA,Common cathode,No,image/diodes/schottky/89364.png
+VIT2060C,Enlarge,60,2 x 10,0.52,150,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89233.png
+VIT2060C-E3,Enlarge,60,2 x 10,0.52,150,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89132.png
+VIT2060G,Enlarge,60,2 x 10,0.63,100,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89234.png
+VIT2060G-E3,Enlarge,60,2 x 10,0.63,100,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89133.png
+VIT2080C,Enlarge,80,2 x 10,0.60,100,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89239.png
+VIT2080C-E3,Enlarge,80,2 x 10,0.60,100,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89166.png
+VIT2080S,Enlarge,80,20,0.70,150,,150,TO-262AA,Single,No,image/diodes/schottky/89240.png
+VIT2080S-E3,Enlarge,80,20,0.70,150,,150,TO-262AA,Single,No,image/diodes/schottky/89167.png
+VIT3045C-M3,Enlarge,45,2 x 15,0.39,200,,150,TO-262AA,Dual common cathode,Yes,image/diodes/schottky/89350.png
+VIT3045CBP,Enlarge,45,2 x 15,0.39,200,,200,TO-262AA,Common cathode,No,image/diodes/schottky/89365.png
+VIT3045CHM3,Enlarge,45,2 x 15,0.39,200,,150,TO-262AA,Dual common cathode,Yes,image/diodes/schottky/89350.png
+VIT3060C,Enlarge,60,2 x 15,0.57,170,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89235.png
+VIT3060C-E3,Enlarge,60,2 x 15,0.57,170,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89134.png
+VIT3060G,Enlarge,60,2 x 15,0.61,150,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89236.png
+VIT3060G-E3,Enlarge,60,2 x 15,0.61,150,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89135.png
+VIT3080C,Enlarge,80,2 x 15,0.65,150,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89241.png
+VIT3080C-E3,Enlarge,80,2 x 15,0.65,150,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89168.png
+VIT3080S,Enlarge,80,30,0.73,200,,150,TO-262AA,Single,No,image/diodes/schottky/89242.png
+VIT3080S-E3,Enlarge,80,30,0.73,200,,150,TO-262AA,Single,No,image/diodes/schottky/89169.png
+VIT30L60C,Enlarge,60,2 x 15,0.45,200,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89438.png
+VIT30L60C-E3,Enlarge,60,2 x 15,0.45,200,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89380.png
+VIT4045C,Enlarge,45,2 x 20,0.41,240,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89351.png
+VIT4060C,Enlarge,60,2 x 20,0.48,240,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89439.png
+VIT4060C-E3,Enlarge,60,2 x 20,0.48,240,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89381.png
+VIT5200-E3,Enlarge,200,5,0.65,80,,150,TO-262AA,Single,No,image/diodes/schottky/89176.png
+VIT5202-M3,Enlarge,200,5,0.65,100,,175,TO-262AA,Single,No,image/diodes/schottky/87700.png
+VIT6045C,Enlarge,45,2 x 30,0.47,320,,150,TO-262AA,Common cathode,No,image/diodes/schottky/89352.png
+VIT6045CBP,Enlarge,45,2 x 30,0.47,320,,200,TO-262AA,Common cathode,No,image/diodes/schottky/89366.png
+VIT760,Enlarge,60,7.5,0.60,100,,150,TO-262AA,Single,No,image/diodes/schottky/89231.png
+VIT760-E3,Enlarge,60,7.5,0.60,100,,150,TO-262AA,Single,No,image/diodes/schottky/89130.png
+VS-100BGQ015-N4,Enlarge,15,100,0.45,5000,870 at 100 °C,125,PowerTab®,Single,No,image/diodes/schottky/97212.png
+VS-100BGQ015HN4,Enlarge,15,100,0.45,5000,870 at 100 °C,125,PowerTab®,Single,Yes,image/diodes/schottky/97211.png
+VS-100BGQ030-N4,Enlarge,30,100,0.56,4500,460 at 125 °C,150,PowerTab®,Single,No,image/diodes/schottky/97214.png
+VS-100BGQ030HN4,Enlarge,30,100,0.56,4500,460 at 125 °C,150,PowerTab®,Single,Yes,image/diodes/schottky/97213.png
+VS-100BGQ045-N4,Enlarge,45,100,0.71,4400,320 at 125 °C,150,PowerTab®,Single,No,image/diodes/schottky/97223.png
+VS-100BGQ045HN4,Enlarge,45,100,0.71,4400,320 at 125 °C,150,PowerTab®,Single,Yes,image/diodes/schottky/97222.png
+VS-100BGQ100-N4,Enlarge,100,100,0.82,6300,180 at 125 °C,175,PowerTab®,Single,No,image/diodes/schottky/97216.png
+VS-100BGQ100HN4,Enlarge,100,100,0.82,6300,180 at 125 °C,175,PowerTab®,Single,Yes,image/diodes/schottky/97215.png
+VS-10BQ015-M3,Enlarge,15,1,0.21,140,35 at 100 °C,125,SMB (DO-214AA),Single,No,image/diodes/schottky/93349.png
+VS-10BQ015HM3,Enlarge,15,1,0.21,140,35 at 100 °C,125,SMB (DO-214AA),Single,Yes,image/diodes/schottky/95722.png
+VS-10BQ030-M3,Enlarge,30,1,0.420,430,15 at 125 °C,150,SMB (DO-214AA),Single,No,image/diodes/schottky/95738.png
+VS-10BQ030HM3,Enlarge,30,1,0.420,430,15 at 125 °C,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/95740.png
+VS-10BQ040-M3,Enlarge,40,1,0.38,430,9 at 125 °C,150,SMB (DO-214AA),Single,No,image/diodes/schottky/93335.png
+VS-10BQ040HM3,Enlarge,40,1,0.38,430,9 at 125 °C,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/95723.png
+VS-10BQ060-M3,Enlarge,60,1,0.42,700,8 at 125 °C,150,SMB (DO-214AA),Single,No,image/diodes/schottky/93357.png
+VS-10BQ060HM3,Enlarge,60,1,0.42,700,8 at 125 °C,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/95724.png
+VS-10BQ100-M3,Enlarge,100,1,0.59,780,1 at 125 °C,175,SMB (DO-214AA),Single,No,image/diodes/schottky/93227.png
+VS-10BQ100HM3,Enlarge,100,1,0.59,780,1 at 125 °C,175,SMB (DO-214AA),Single,Yes,image/diodes/schottky/95725.png
+VS-10CTQ150-1-M3,Enlarge,150,2 x 5,0.93,620,7 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/95729.png
+VS-10CTQ150-M3,Enlarge,150,2 x 5,0.73,620,7 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96245.png
+VS-10CTQ150S-M3,Enlarge,150,2 x 5,0.93,620,7 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/95729.png
+VS-10MQ040-M3,Enlarge,40,1,0.49,120,26 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/93358.png
+VS-10MQ040HM3,Enlarge,40,1,0.49,120,26 at 125 °C,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/94833.png
+VS-10MQ040NTRPbF,Enlarge,40,1,0.54,120,26 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/94117.png
+VS-10MQ060-M3,Enlarge,60,1,0.57,40,7.5 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/93351.png
+VS-10MQ060HM3,Enlarge,60,1,0.57,40,7.5 at 125 °C,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/94835.png
+VS-10MQ060NTRPbF,Enlarge,60,1,0.63,40,7.5 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/94118.png
+VS-10MQ100-M3,Enlarge,100,1,0.63,120,1 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/93365.png
+VS-10MQ100HM3,Enlarge,100,1,0.63,120,1 at 125 °C,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/94836.png
+VS-10MQ100NTRPbF,Enlarge,100,1,0.78,120,1 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/94119.png
+VS-10TQ035-M3,Enlarge,35,10,0.49,1050,15 at 125 °C,175,TO-220AC 2L,Single,No,image/diodes/schottky/96260.png
+VS-10TQ035HN3,Enlarge,35,10,0.49,1050,15 at 125 °C,175,TO-220AC,Single,Yes,image/diodes/schottky/96381.png
+VS-10TQ035S-M3,Enlarge,35,10,0.49,1050,15 at 125 °C,175,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94923.png
+VS-10TQ035SHM3,Enlarge,35,10,0.49,1050,15 at 125 °C,175,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/94962.png
+VS-10TQ040-M3,Enlarge,40,10,0.49,1050,15 at 125 °C,175,TO-220AC 2L,Single,No,image/diodes/schottky/96260.png
+VS-10TQ040HN3,Enlarge,40,10,0.49,1050,15 at 125 °C,175,TO-220AC,Single,Yes,image/diodes/schottky/96381.png
+VS-10TQ045-M3,Enlarge,45,10,0.49,1050,15 at 125 °C,175,TO-220AC 2L,Single,No,image/diodes/schottky/96260.png
+VS-10TQ045HN3,Enlarge,45,10,0.49,1050,15 at 125 °C,175,TO-220AC,Single,Yes,image/diodes/schottky/96381.png
+VS-10TQ045S-M3,Enlarge,45,10,0.49,1050,15 at 125 °C,175,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94923.png
+VS-10TQ045SHM3,Enlarge,45,10,0.49,1050,15 at 125 °C,175,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/94962.png
+VS-10WQ045FN-M3,Enlarge,45,10,0.53,400,15 at 125 °C,175,DPAK (TO-252AA),Single,No,image/diodes/schottky/93284.png
+VS-10WQ045FNHM3,Enlarge,,,,,,,,,,image/diodes/schottky/94737.png
+VS-12CTQ...-1-M3 Series,Enlarge,35,2 x 6,0.53,690,7.0 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94924.png
+VS-12CTQ...-1-M3 Series,Enlarge,40,2 x 6,0.53,690,7.0 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94924.png
+VS-12CTQ...-1-M3 Series,Enlarge,45,2 x 6,0.53,690,7.0 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94924.png
+VS-12CTQ...S-M3,Enlarge,35,2 x 6,0.53,690,7.0 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94924.png
+VS-12CTQ...S-M3,Enlarge,40,2 x 6,0.53,690,7.0 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94924.png
+VS-12CTQ...S-M3,Enlarge,45,2 x 6,0.53,690,7.0 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94924.png
+VS-12CTQ035-M3,Enlarge,35,2 x 6,0.53,690,7 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96270.png
+VS-12CTQ040-M3,Enlarge,40,2 x 6,0.53,690,7 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96270.png
+VS-12CWQ03FN-M3,Enlarge,30,2 x 6,0.37,320,58 at 125 °C,150,DPAK (TO-252AA),Common cathode,No,image/diodes/schottky/93285.png
+VS-12CWQ04FN-M3,Enlarge,40,2 x 6,0.48,550,40 at 125 °C,150,DPAK (TO-252AA),Common cathode,No,image/diodes/schottky/93286.png
+VS-12CWQ04FNHM3,Enlarge,40,2 x 6,0.48,550,40 at 125 °C,150,DPAK (TO-252AA),Common cathode,Yes,image/diodes/schottky/94736.png
+VS-12CWQ06FN-M3,Enlarge,60,2 x 6,0.57,320,35 at 125 °C,150,DPAK (TO-252AA),Common cathode,No,image/diodes/schottky/93289.png
+VS-12CWQ06FNHM3,Enlarge,,,,,,,,,,image/diodes/schottky/94735.png
+VS-12CWQ10FN-M3,Enlarge,100,2 x 6,0.65,330,4 at 125 °C,150,DPAK (TO-252AA),Common cathode,No,image/diodes/schottky/93295.png
+VS-12CWQ10FNHM3,Enlarge,100,2 x 6,0.65,330,4 at 125 °C,150,DPAK (TO-252AA),Common cathode,Yes,image/diodes/schottky/94734.png
+VS-12TQ035-M3,Enlarge,35,15,0.50,990,70 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96261.png
+VS-12TQ035S-M3,Enlarge,35,15,0.50,990,70 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94925.png
+VS-12TQ035SHM3,Enlarge,35,15,0.50,990,70 at 125 °C,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/95853.png
+VS-12TQ040-M3,Enlarge,40,15,0.50,990,70 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96261.png
+VS-12TQ040S-M3,Enlarge,40,15,0.50,990,70 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94925.png
+VS-12TQ040SHM3,Enlarge,40,15,0.50,990,70 at 125 °C,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/95853.png
+VS-12TQ045-M3,Enlarge,45,15,0.50,990,70 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96261.png
+VS-12TQ045S-M3,Enlarge,45,15,0.50,990,70 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94925.png
+VS-12TQ045SHM3,Enlarge,45,15,0.50,990,70 at 125 °C,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/95853.png
+VS-15CTQ...-1-M3 Series,Enlarge,35,2 x 7.5,0.51,810,32 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/94926.png
+VS-15CTQ...-1-M3 Series,Enlarge,40,2 x 7.5,0.51,810,32 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/94926.png
+VS-15CTQ...-1-M3 Series,Enlarge,45,2 x 7.5,0.51,810,32 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/94926.png
+VS-15CTQ...S-M3,Enlarge,40,2 x 7.5,0.51,810,32 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94926.png
+VS-15CTQ...S-M3,Enlarge,45,2 x 7.5,0.51,810,32 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94926.png
+VS-15CTQ...S-M3,Enlarge,35,2 x 7.5,0.51,810,32 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94926.png
+VS-15CTQ035-M3,Enlarge,35,2 x 7.5,0.51,810,32 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96271.png
+VS-15CTQ040-M3,Enlarge,40,2 x 7.5,0.51,810,32 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96271.png
+VS-15CTQ045-M3,Enlarge,45,2 x 7.5,0.51,810,32 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96271.png
+VS-15MQ040-M3,Enlarge,40,1.5,0.34,330,20 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/93366.png
+VS-15MQ040HM3,Enlarge,40,1.5,0.34,330,20 at 125 °C,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/94837.png
+VS-15MQ040NTRPbF,Enlarge,40,1.5,0.43,330,20 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/94141.png
+VS-15TQ060-M3,Enlarge,60,15,0.56,1000,45 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96290.png
+VS-15TQ060S-M3,Enlarge,60,15,0.56,1000,45 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94927.png
+VS-15TQ060SHM3,Enlarge,60,15,0.56,1000,45 at 125 °C,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/96305.png
+VS-16CTQ...-1-M3 Series,Enlarge,60,2 x 8,0.58,850,7.0 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94929.png
+VS-16CTQ...-1-M3 Series,Enlarge,80,2 x 8,0.58,850,7.0 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94929.png
+VS-16CTQ...-1-M3 Series,Enlarge,100,2 x 8,0.58,850,7.0 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94929.png
+VS-16CTQ...-1HM3 Series,Enlarge,60 - 100,2 x 8,0.58,850,7.0 at 125 °C,175,TO-262AA,Common cathode,Yes,image/diodes/schottky/95861.png
+VS-16CTQ...HN3 Series,Enlarge,60,2 x 8,0.58,850,7 at 125 °C,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/94848.png
+VS-16CTQ...HN3 Series,Enlarge,80,2 x 8,0.58,850,7 at 125 °C,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/94848.png
+VS-16CTQ...HN3 Series,Enlarge,100,2 x 8,0.58,850,7 at 125 °C,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/94848.png
+VS-16CTQ...S-M3,Enlarge,80,2 x 8,0.58,850,7.0 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94929.png
+VS-16CTQ...S-M3,Enlarge,100,2 x 8,0.58,850,7.0 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94929.png
+VS-16CTQ...S-M3,Enlarge,60,2 x 8,0.58,850,7.0 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94929.png
+VS-16CTQ...SHM3,Enlarge,60 - 100,2 x 8,0.58,850,7.0 at 125 °C,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/95861.png
+VS-16CTQ060-M3,Enlarge,60,2 x 8,0.58,850,7 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96272.png
+VS-16CTQ080-M3,Enlarge,80,2 x 8,0.58,850,7 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96272.png
+VS-16CTQ100-M3,Enlarge,100,2 x 8,0.58,850,7 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96272.png
+VS-175BGQ030-N4,Enlarge,30,175,0.52,7400,920 at 125 °C,125,PowerTab®,Single,No,image/diodes/schottky/97218.png
+VS-175BGQ030HN4,Enlarge,30,175,0.52,7400,920 at 125 °C,150,PowerTab®,Single,Yes,image/diodes/schottky/97217.png
+VS-175BGQ045-N4,Enlarge,45,175,0.7,8700,640 at 125 °C,150,PowerTab®,Single,No,image/diodes/schottky/97220.png
+VS-175BGQ045HN4,Enlarge,45,175,0.7,8700,640 at 125 °C,150,PowerTab®,Single,Yes,image/diodes/schottky/97219.png
+VS-18TQ0..HN3 Series,Enlarge,35,18,0.53,1800,25 at 125 °C,175,TO-220AC,Single,Yes,image/diodes/schottky/94958.png
+VS-18TQ0..HN3 Series,Enlarge,40,18,0.53,1800,25 at 125 °C,175,TO-220AC,Single,Yes,image/diodes/schottky/94958.png
+VS-18TQ0..HN3 Series,Enlarge,45,18,0.53,1800,25 at 125 °C,175,TO-220AC,Single,Yes,image/diodes/schottky/94958.png
+VS-18TQ035-M3,Enlarge,35,18,0.53,1800,25 at 125 °C,175,TO-220AC 2L,Single,No,image/diodes/schottky/96262.png
+VS-18TQ035S-M3,Enlarge,35,18,0.53,1800,25 at 125 °C,175,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94928.png
+VS-18TQ035SHM3,Enlarge,35,18,0.53,1800,25 at 125 °C,175,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/96125.png
+VS-18TQ040-M3,Enlarge,40,18,0.53,1800,25 at 125 °C,175,TO-220AC 2L,Single,No,image/diodes/schottky/96262.png
+VS-18TQ040S-M3,Enlarge,40,18,0.53,1800,25 at 125 °C,175,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94928.png
+VS-18TQ040SHM3,Enlarge,40,18,0.53,1800,25 at 125 °C,175,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/96125.png
+VS-18TQ045-M3,Enlarge,45,18,0.53,1800,25 at 125 °C,175,TO-220AC 2L,Single,No,image/diodes/schottky/96262.png
+VS-18TQ045S-M3,Enlarge,45,18,0.53,1800,25 at 125 °C,175,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94928.png
+VS-18TQ045SHM3,Enlarge,45,18,0.53,1800,25 at 125 °C,175,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/96125.png
+VS-19TQ015-M3,Enlarge,15,19,0.32,700,522 at 100 °C,125,TO-220AC 2L,Single,No,image/diodes/schottky/94151.png
+VS-19TQ015S-M3,Enlarge,15,19,0.36,700,522 at 100 °C,125,D2PAK (TO-263AB),Single,No,image/diodes/schottky/95730.png
+VS-20BQ030-M3,Enlarge,30,2,0.37,350,15 at 125 °C,150,SMB (DO-214AA),Single,No,image/diodes/schottky/93333.png
+VS-20BQ030HM3,Enlarge,30,2,0.37,350,15 at 125 °C,150,SMB (DO-214AA),Single,Yes,image/diodes/schottky/95726.png
+VS-20CTQ...-1-M3 Series,Enlarge,45,2 x 10,0.57,1060,15 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94932.png
+VS-20CTQ...-1-M3 Series,Enlarge,35,2 x 10,0.57,1060,15 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94932.png
+VS-20CTQ...-1-M3 Series,Enlarge,40,2 x 10,0.57,1060,15 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94932.png
+VS-20CTQ...HN3 Series,Enlarge,35,2 x 10,0.57,1060,15 at 125 °C,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/94815.png
+VS-20CTQ...HN3 Series,Enlarge,40,2 x 10,0.57,1060,15 at 125 °C,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/94815.png
+VS-20CTQ...HN3 Series,Enlarge,45,2 x 10,0.57,1060,15 at 125 °C,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/94815.png
+VS-20CTQ...S-M3,Enlarge,35,2 x 10,0.57,1060,15 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94932.png
+VS-20CTQ...S-M3,Enlarge,40,2 x 10,0.57,1060,15 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94932.png
+VS-20CTQ...S-M3,Enlarge,45,2 x 10,0.57,1060,15 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94932.png
+VS-20CTQ035-M3,Enlarge,35,2 x 10,0.57,1060,15 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96273.png
+VS-20CTQ040-M3,Enlarge,40,2 x 10,0.57,1060,15 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96273.png
+VS-20CTQ045-M3,Enlarge,45,2 x 10,0.57,1060,15 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96273.png
+VS-20CTQ150-1-M3,Enlarge,150,2 x 10,0.66,1030,5.0 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/95731.png
+VS-20CTQ150-1HM3,Enlarge,150,2 x 10,0.66,1030,5.0 at 125 °C,175,TO-262AA,Common cathode,Yes,image/diodes/schottky/95739.png
+VS-20CTQ150-M3,Enlarge,150,2 x 10,0.66,1030,5 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96246.png
+VS-20CTQ150S-M3,Enlarge,150,2 x 10,0.66,1030,5.0 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/95731.png
+VS-20CTQ150SHM3,Enlarge,150,2 x 10,0.66,1030,5.0 at 125 °C,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/95739.png
+VS-20L15T-M3,Enlarge,15,20,See datasheet,700,600 at 100 °C,125,TO-220AC 2L,Single,No,image/diodes/schottky/96291.png
+VS-20L15TS-M3,Enlarge,15,20,0.33,700,600 at 100 °C,125,D2PAK (TO-263AB),Single,No,image/diodes/schottky/95734.png
+VS-20MQ040-M3,Enlarge,40,2,0.63,120,26 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/93370.png
+VS-20MQ040HM3,Enlarge,40,2,0.63,120,26 at 125 °C,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/94838.png
+VS-20MQ040NTRPbF,Enlarge,40,2,0.63,120,26 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/94593.png
+VS-20MQ060-M3,Enlarge,60,2,0.68,40,7.5 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/93408.png
+VS-20MQ060HM3,Enlarge,60,2,0.68,40,7.5 at 125 °C,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/94839.png
+VS-20MQ060NTRPbF,Enlarge,60,2,See datasheet,40,7.5 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/94592.png
+VS-20MQ100-M3,Enlarge,100,2,0.72,120,1 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/93361.png
+VS-20MQ100HM3,Enlarge,100,2,0.72,120,1 at 125 °C,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/94840.png
+VS-20MQ100NTRPbF,Enlarge,100,2,0.72,120,1 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/94591.png
+VS-20TQ035-M3,Enlarge,35,20,0.51,1800,105 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96263.png
+VS-20TQ035S-M3,Enlarge,35,20,0.51,1800,105 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94931.png
+VS-20TQ035SHM3,Enlarge,35,20,0.51,1800,105 at 125 °C,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/96309.png
+VS-20TQ035THN3,Enlarge,35,20,0.51,1800,105 at 125 °C,150,TO-220AC 2L,Single,Yes,image/diodes/schottky/96546.png
+VS-20TQ040-M3,Enlarge,40,20,0.51,1800,105 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96263.png
+VS-20TQ040S-M3,Enlarge,40,20,0.51,1800,105 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94931.png
+VS-20TQ040SHM3,Enlarge,40,20,0.51,1800,105 at 125 °C,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/96309.png
+VS-20TQ040THN3,Enlarge,40,20,0.51,1800,105 at 125 °C,150,TO-220AC 2L,Single,Yes,image/diodes/schottky/96546.png
+VS-20TQ045-M3,Enlarge,45,20,0.51,1800,105 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96263.png
+VS-20TQ045S-M3,Enlarge,45,20,0.51,1800,105 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94931.png
+VS-20TQ045SHM3,Enlarge,45,20,0.51,1800,105 at 125 °C,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/96309.png
+VS-20TQ045THN3,Enlarge,45,20,0.51,1800,105 at 125 °C,150,TO-220AC 2L,Single,Yes,image/diodes/schottky/96546.png
+VS-25CTQ...-1-M3 Series,Enlarge,35,2 x 15,0.50,990,70 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/94930.png
+VS-25CTQ...-1-M3 Series,Enlarge,40,2 x 15,0.50,990,70 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/94930.png
+VS-25CTQ...-1-M3 Series,Enlarge,45,2 x 15,0.50,990,70 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/94930.png
+VS-25CTQ...S-M3,Enlarge,35,2 x 15,0.50,990,70 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94930.png
+VS-25CTQ...S-M3,Enlarge,40,2 x 15,0.50,990,70 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94930.png
+VS-25CTQ...S-M3,Enlarge,45,2 x 15,0.50,990,70 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94930.png
+VS-25CTQ035-M3,Enlarge,25,2 x 15,0.50,990,70 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96274.png
+VS-25CTQ040-M3,Enlarge,40,2 x 15,0.50,990,70 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96274.png
+VS-25CTQ045-M3,Enlarge,45,2 x 15,0.50,990,70 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96274.png
+VS-25CTQ045SLHM3,Enlarge,45,2 x 15,0.50,990,70 at 125 °C,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/96847.png
+VS-25CTQ045SLHM3,Enlarge,35,2 x 15,0.50,990,70 at 125 °C,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/96847.png
+VS-25CTQ045SLHM3,Enlarge,40,2 x 15,0.50,990,70 at 125 °C,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/96847.png
+VS-30BQ015-M3,Enlarge,15,3,0.3,650,50 at 100 °C,125,SMC (DO-214AB),Single,No,image/diodes/schottky/93359.png
+VS-30BQ015HM3,Enlarge,15,3,0.3,650,50 at 100 °C,125,SMC (DO-214AB),Single,Yes,image/diodes/schottky/94842.png
+VS-30BQ040-M3,Enlarge,40,3,0.46,1600,30 at 125 °C,150,SMC (DO-214AB),Single,No,image/diodes/schottky/93332.png
+VS-30BQ040HM3,Enlarge,40,3,0.46,1600,30 at 125 °C,150,SMC (DO-214AB),Single,Yes,image/diodes/schottky/94843.png
+VS-30BQ060-M3,Enlarge,60,3,0.52,1200,20 at 125 °C,150,SMC (DO-214AB),Single,No,image/diodes/schottky/93330.png
+VS-30BQ060HM3,Enlarge,60,3,0.52,1200,20 at 125 °C,150,SMC (DO-214AB),Single,Yes,image/diodes/schottky/94844.png
+VS-30BQ100-M3,Enlarge,100,3,0.62,800,5 at 125 °C,175,SMC (DO-214AB),Single,No,image/diodes/schottky/93360.png
+VS-30BQ100HM3,Enlarge,100,3,0.62,,5 at 125 °C,175,SMC (DO-214AB),Single,Yes,image/diodes/schottky/94832.png
+VS-30CPQ...-N3 Series,Enlarge,90,2 x 15,0.67,920,7 at 125 °C,175,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96480.png
+VS-30CPQ...-N3 Series,Enlarge,100,2 x 15,0.67,920,7 at 125 °C,175,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96480.png
+VS-30CPQ...-N3 Series,Enlarge,80,2 x 15,0.67,920,7 at 125 °C,175,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96480.png
+VS-30CPQ0..-N3 Series,Enlarge,35,2 x 15,0.50,1020,70 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96453.png
+VS-30CPQ0..-N3 Series,Enlarge,40,2 x 15,0.50,1020,70 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96453.png
+VS-30CPQ0..-N3 Series,Enlarge,45,2 x 15,0.50,1020,70 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96453.png
+VS-30CPQ050-N3,Enlarge,50,2 x 15,0.56,1020,45 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96454.png
+VS-30CPQ060-N3,Enlarge,60,2 x 15,0.56,1020,45 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96454.png
+VS-30CPQ140-N3,Enlarge,140,2 x 15,0.78,1000,15 at 125 °C,175,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96455.png
+VS-30CPQ150-N3,Enlarge,150,2 x 15,0.78,1000,15 at 125 °C,175,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96455.png
+VS-30CTQ...-1-M3 Series,Enlarge,100,2 x 15,0.67,850,7.0 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94938.png
+VS-30CTQ...-1-M3 Series,Enlarge,35,2 x 15,0.56,1060,15 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94933.png
+VS-30CTQ...-1-M3 Series,Enlarge,40,2 x 15,0.56,1060,15 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94933.png
+VS-30CTQ...-1-M3 Series,Enlarge,45,2 x 15,0.56,1060,15 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94933.png
+VS-30CTQ...-1HM3 Series,Enlarge,35,2 x 15,0.56,1060,15 at 125 °C,175,TO-262AA,Common cathode,Yes,image/diodes/schottky/95804.png
+VS-30CTQ...-1HM3 Series,Enlarge,40,2 x 15,0.56,1060,15 at 125 °C,175,TO-262AA,Common cathode,Yes,image/diodes/schottky/95804.png
+VS-30CTQ...-1HM3 Series,Enlarge,45,2 x 15,0.56,1060,15 at 125 °C,175,TO-262AA,Common cathode,Yes,image/diodes/schottky/95804.png
+VS-30CTQ...HN3 Series,Enlarge,100,2 x 15,0.67,850,7.0 at 125 °C,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/94850.png
+VS-30CTQ...HN3 Series,Enlarge,80,2 x 15,0.67,850,7.0 at 125 °C,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/94850.png
+VS-30CTQ...S-M3,Enlarge,35,2 x 15,0.56,1060,15 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94933.png
+VS-30CTQ...S-M3,Enlarge,40,2 x 15,0.56,1060,15 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94933.png
+VS-30CTQ...S-M3,Enlarge,45,2 x 15,0.56,1060,15 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94933.png
+VS-30CTQ...S-M3,Enlarge,80,2 x 15,0.67,850,7.0 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94938.png
+VS-30CTQ...SHM3,Enlarge,35,2 x 15,0.56,1060,15 at 125 °C,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/95804.png
+VS-30CTQ...SHM3,Enlarge,40,2 x 15,0.56,1060,15 at 125 °C,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/95804.png
+VS-30CTQ...SHM3,Enlarge,45,2 x 15,0.56,1060,15 at 125 °C,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/95804.png
+VS-30CTQ0..HN3 Series,Enlarge,40,2 x 15,0.56,1060,15 at 125 °C,175,TO-220AC,Common cathode,Yes,image/diodes/schottky/94959.png
+VS-30CTQ0..HN3 Series,Enlarge,45,2 x 15,0.56,1060,15 at 125 °C,175,TO-220AC,Common cathode,Yes,image/diodes/schottky/94959.png
+VS-30CTQ0..HN3 Series,Enlarge,35,2 x 15,0.56,1060,15 at 125 °C,175,TO-220AC,Common cathode,Yes,image/diodes/schottky/94959.png
+VS-30CTQ0.0-1-M3 Series,Enlarge,60,2 x 15,0.56,1000,45 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/94934.png
+VS-30CTQ0.0S-M3,Enlarge,50,2 x 15,0.56,1000,45 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94934.png
+VS-30CTQ035-M3,Enlarge,35,2 x 15,0.56,1060,15 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96275.png
+VS-30CTQ040-M3,Enlarge,40,2 x 15,0.56,1060,15 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96275.png
+VS-30CTQ045-M3,Enlarge,45,2 x 15,0.56,1060,15 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96275.png
+VS-30CTQ050-M3,Enlarge,50,2 x 15,0.56,1000,45 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96276.png
+VS-30CTQ060-M3,Enlarge,60,2 x 15,0.56,1000,45 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96276.png
+VS-30CTQ080-M3,Enlarge,80,2 x 15,0.67,850,7.0 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96277.png
+VS-30CTQ080HN3,Enlarge,80,2 x 15,0.67,850,7.0 at 125 °C,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/96671.png
+VS-30CTQ100-M3,Enlarge,100,2 x 15,0.67,850,7.0 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96277.png
+VS-30CTQ100HN3,Enlarge,100,2 x 15,0.67,850,7.0 at 125 °C,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/96670.png
+VS-30MQ040-M3,Enlarge,40,3,0.46,330,20 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/93354.png
+VS-30MQ040HM3,Enlarge,40,3,0.46,330,20 at 125 °C,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/94841.png
+VS-30WQ03FN-M3,Enlarge,30,3.5,See datasheet,535,50 at 125 °C,150,DPAK (TO-252AA),Single,No,image/diodes/schottky/93296.png
+VS-30WQ04FN-M3,Enlarge,40,3.5,See datasheet,500,24 at 125 °C,150,DPAK (TO-252AA),Single,No,image/diodes/schottky/93297.png
+VS-30WQ04FNHM3,Enlarge,40,3.5,See datasheet,500,24 at 125 °C,150,DPAK (TO-252AA),Single,Yes,image/diodes/schottky/94733.png
+VS-30WQ06FN-M3,Enlarge,60,3.5,See datasheet,490,30 at 125 °C,150,DPAK (TO-252AA),Single,No,image/diodes/schottky/93298.png
+VS-30WQ06FNHM3,Enlarge,60,3.5,See datasheet,490,30 at 125 °C,150,DPAK (TO-252AA),Single,Yes,image/diodes/schottky/94732.png
+VS-30WQ10FN-M3,Enlarge,100,3.5,See datasheet,440,4.9 at 125 °C,150,DPAK (TO-252AA),Single,No,image/diodes/schottky/93299.png
+VS-30WQ10FNHM3,Enlarge,100,3.5,See datasheet,440,4.9 at 125 °C,150,DPAK (TO-252AA),Single,Yes,image/diodes/schottky/94731.png
+VS-32CTQ...-1-M3 Series,Enlarge,30,2 x 15,0.40,900,97 at 125°C,150,TO-262AA,Common cathode,No,image/diodes/schottky/94936.png
+VS-32CTQ...-1HM3 Series,Enlarge,30,2 x 15,0.40,900,97 at 125 °C,150,TO-262AA,Common cathode,Yes,image/diodes/schottky/95774.png
+VS-32CTQ...S-M3,Enlarge,25,2 x 15,0.40,900,97 at 125°C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94936.png
+VS-32CTQ...SHM3,Enlarge,25,2 x 15,0.40,900,97 at 125 °C,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/95774.png
+VS-32CTQ025-M3,Enlarge,25,2 x 15,0.40,900,97 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96278.png
+VS-32CTQ030-M3,Enlarge,30,2 x 15,0.40,900,97 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96278.png
+VS-40CPQ...-N3 Series,Enlarge,80,2 x 20,0.61,2950,15 at 125 °C,175,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96481.png
+VS-40CPQ...-N3 Series,Enlarge,100,2 x 20,0.61,2950,15 at 125 °C,175,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96481.png
+VS-40CPQ0..-N3 Series,Enlarge,35,2 x 20,0.43,3500,150 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96456.png
+VS-40CPQ0..-N3 Series,Enlarge,40,2 x 20,0.43,3500,150 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96456.png
+VS-40CPQ0..-N3 Series,Enlarge,45,2 x 20,0.43,3500,150 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96456.png
+VS-40CPQ050-N3,Enlarge,50,2 x 20,0.49,3200,96 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96457.png
+VS-40CPQ060-N3,Enlarge,60,2 x 20,0.49,3200,96 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96457.png
+VS-40CPQ060HN3,Enlarge,60,2 x 20,0.49,3200,96 at 125 °C,150,TO-247AC 3L,Common cathode,Yes,image/diodes/schottky/96566.png
+VS-40CTQ045-1-M3,Enlarge,45,2 x 20,0.48,1240,115 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/94935.png
+VS-40CTQ045-M3,Enlarge,45,2 x 20,0.48,1240,115 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96247.png
+VS-40CTQ045HN3,Enlarge,45,2 x 20,0.48,1240,105 at 125 °C,150,TO-220AB,Common cathode,Yes,image/diodes/schottky/96677.png
+VS-40CTQ045S-M3,Enlarge,45,2 x 20,0.48,1240,115 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94935.png
+VS-40CTQ150-1-M3,Enlarge,150,2 x 20,0.71,1500,15 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/95732.png
+VS-40CTQ150-1HM3,Enlarge,150,2 x 20,0.71,1500,15 at 125 °C,175,TO-262AA,Common cathode,Yes,image/diodes/schottky/96382.png
+VS-40CTQ150-M3,Enlarge,150,2 x 20,0.71,1500,15 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96248.png
+VS-40CTQ150S-M3,Enlarge,150,2 x 20,0.71,1500,15 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/95732.png
+VS-40CTQ150SHM3,Enlarge,150,2 x 20,0.71,1500,15 at 125 °C,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/96382.png
+VS-40L15CT-1-M3,Enlarge,15,2 x 20,0.33,700,600 at 100 °C,125,TO-262AA,Common cathode,No,image/diodes/schottky/95733.png
+VS-40L15CT-M3,Enlarge,15,2 x 20,See datasheet,700,600 at 100 °C,125,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96249.png
+VS-40L15CTS-M3,Enlarge,15,2 x 20,0.33,700,600 at 100 °C,125,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/95733.png
+VS-40L15CW-N3,Enlarge,15,2 x 20,See datasheet,700,600 at 100 °C,125,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96458.png
+VS-40L40CW-N3,Enlarge,40,2 x 20,0.49,1240,80 at 100 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96459.png
+VS-40L45CW-N3,Enlarge,45,2 x 20,0.49,1240,80 at 100 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96459.png
+VS-42CTQ030-1-M3,Enlarge,30,2 x 20,0.38,1100,183 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/94940.png
+VS-42CTQ030-1HM3,Enlarge,30,2 x 20,0.38,1100,183 at 125 °C,150,TO-262AA,Common cathode,Yes,image/diodes/schottky/94963.png
+VS-42CTQ030-M3,Enlarge,30,2 x 20,0.38,1100,183 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96250.png
+VS-42CTQ030S-M3,Enlarge,30,2 x 20,0.38,1100,183 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94940.png
+VS-42CTQ030SHM3,Enlarge,30,2 x 20,0.38,1100,183 at 125 °C,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/94963.png
+VS-43CTQ...-1-M3 Series,Enlarge,100,2 x 20,0.67,850,11 at 125 °C,175,TO-262AA,Common cathode,No,image/diodes/schottky/94942.png
+VS-43CTQ...-1HM3 Series,Enlarge,100,2 x 20,0.67,850,11 at 125 °C,175,TO-262AA,Common cathode,Yes,image/diodes/schottky/94964.png
+VS-43CTQ...S-M3,Enlarge,80,2 x 20,0.67,850,11 at 125 °C,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94942.png
+VS-43CTQ...SHM3,Enlarge,80,2 x 20,0.67,850,11 at 125 °C,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/94964.png
+VS-43CTQ100-M3,Enlarge,100,2 x 20,0.67,850,11 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96251.png
+VS-43CTQ100HN3,Enlarge,100,2 x 20,0.67,850,11 at 125 °C,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/94849.png
+VS-47CTQ020-1-M3,Enlarge,20,2 x 20,0.34,1000,310 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/94943.png
+VS-47CTQ020-M3,Enlarge,20,2 x 20,0.34,1000,310 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96252.png
+VS-47CTQ020S-M3,Enlarge,20,2 x 20,0.34,1000,310 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94943.png
+VS-48CTQ060-1-M3,Enlarge,60,2 x 20,0.58,1000,89 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/94944.png
+VS-48CTQ060-M3,Enlarge,60,2 x 20,0.58,1000,89 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96253.png
+VS-48CTQ060S-M3,Enlarge,60,2 x 20,0.58,1000,89 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/94944.png
+VS-50WQ03FN-M3,Enlarge,30,5.5,See datasheet,320,58 at 125 °C,150,DPAK (TO-252AA),Single,No,image/diodes/schottky/93311.png
+VS-50WQ03FNHM3,Enlarge,30,5.5,See datasheet,320,58 at 125 °C,150,DPAK (TO-252AA),Single,Yes,image/diodes/schottky/95860.png
+VS-50WQ04FN-M3,Enlarge,40,5.5,See datasheet,340,40 at 125 °C,150,DPAK (TO-252AA),Single,No,image/diodes/schottky/93312.png
+VS-50WQ04FNHM3,Enlarge,40,5.5,See datasheet,340,40 at 125 °C,150,DPAK (TO-252AA),Single,Yes,image/diodes/schottky/94728.png
+VS-50WQ06FN-M3,Enlarge,60,5.5,See datasheet,320,35 at 125 °C,150,DPAK (TO-252AA),Single,No,image/diodes/schottky/93313.png
+VS-50WQ06FNHM3,Enlarge,60,5.5,See datasheet,320,35 at 125 °C,150,DPAK (TO-252AA),Single,Yes,image/diodes/schottky/94729.png
+VS-50WQ10FN-M3,Enlarge,100,5.5,See datasheet,330,4 at 125 °C,150,DPAK (TO-252AA),Single,No,image/diodes/schottky/93314.png
+VS-50WQ10FNHM3,Enlarge,100,5.5,See datasheet,330,4 at 125 °C,150,DPAK (TO-252AA),Single,Yes,image/diodes/schottky/94730.png
+VS-52CPQ030-N3,Enlarge,30,2 x 25,0.38,2180,450 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96460.png
+VS-60CPQ150-N3,Enlarge,150,2 x 30,0.67,2300,25 at 125 °C,175,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96461.png
+VS-60CTQ035-M3,Enlarge,35,2 x 30,0.53,1500,250 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96279.png
+VS-60CTQ040-M3,Enlarge,40,2 x 30,0.53,1500,250 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96279.png
+VS-60CTQ045-M3,Enlarge,45,2 x 30,0.53,1500,250 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96279.png
+VS-60CTQ150-M3,Enlarge,150,2 x 30,0.72,710,20 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96254.png
+VS-60CTQ150HN3,Enlarge,150,2 x 30,0.72,710,20 at 125 °C,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/95839.png
+VS-61CTQ035-M3,Enlarge,35,2 x 30,0.57,2600,40 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96280.png
+VS-61CTQ040-M3,Enlarge,40,2 x 30,0.57,2600,40 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96280.png
+VS-62CTQ030-M3,Enlarge,30,2 x 30,0.44,1500,350 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96255.png
+VS-63CPQ100-N3,Enlarge,100,2 x 30,0.64,2200,25 at 125 °C,175,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96482.png
+VS-63CTQ100-M3,Enlarge,100,2 x 30,0.69,1500,20 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96256.png
+VS-65PQ015-N3,Enlarge,15,65,0.46,1500,870 at 100 °C,125,TO-247AC 3L,Single,No,image/diodes/schottky/96462.png
+VS-6CWQ03FN-M3,Enlarge,30,2 x 3.5,See datasheet,535,50 at 125 °C,150,DPAK (TO-252AA),Common cathode,No,image/diodes/schottky/93315.png
+VS-6CWQ04FN-M3,Enlarge,40,2 x 3.5,See datasheet,500,24 at 125 °C,150,DPAK (TO-252AA),Common cathode,No,image/diodes/schottky/93316.png
+VS-6CWQ04FNHM3,Enlarge,40,2 x 3.5,See datasheet,500,24 at 125 °C,150,DPAK (TO-252AA),Common cathode,Yes,image/diodes/schottky/94744.png
+VS-6CWQ06FN-M3,Enlarge,60,2 x 3.5,See datasheet,490,30 at 125 °C,150,DPAK (TO-252AA),Common cathode,No,image/diodes/schottky/93317.png
+VS-6CWQ06FNHM3,Enlarge,60,2 x 3.5,See datasheet,490,30 at 125 °C,150,DPAK (TO-252AA),Common cathode,Yes,image/diodes/schottky/94726.png
+VS-6CWQ10FN-M3,Enlarge,100,2 x 3.5,See datasheet,440,4.9 at 125 °C,150,DPAK (TO-252AA),Common cathode,No,image/diodes/schottky/93318.png
+VS-6CWQ10FNHM3,Enlarge,100,2 x 3.5,See datasheet,440,4.9 at 125 °C,150,DPAK (TO-252AA),Common cathode,Yes,image/diodes/schottky/94727.png
+VS-6TQ...HN3 Series,Enlarge,35,6,0.53,690,7 at 125 °C,175,TO-220AC,Single,Yes,image/diodes/schottky/94957.png
+VS-6TQ...HN3 Series,Enlarge,40,6,0.53,690,7 at 125 °C,175,TO-220AC,Single,Yes,image/diodes/schottky/94957.png
+VS-6TQ...HN3 Series,Enlarge,45,6,0.53,690,7 at 125 °C,175,TO-220AC,Single,Yes,image/diodes/schottky/94957.png
+VS-6TQ035-M3,Enlarge,35,6,0.53,690,7 at 125 °C,175,TO-220AC 2L,Single,No,image/diodes/schottky/96264.png
+VS-6TQ035S-M3,Enlarge,35,6,0.53,690,7 at 125 °C,175,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94945.png
+VS-6TQ040-M3,Enlarge,40,6,0.53,690,7 at 125 °C,175,TO-220AC 2L,Single,No,image/diodes/schottky/96264.png
+VS-6TQ040S-M3,Enlarge,40,6,0.53,690,7 at 125 °C,175,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94945.png
+VS-6TQ045-M3,Enlarge,45,6,0.53,690,7 at 125 °C,175,TO-220AC 2L,Single,No,image/diodes/schottky/96264.png
+VS-6TQ045S-M3,Enlarge,45,6,0.53,690,7 at 125 °C,175,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94945.png
+VS-72CPQ030-N3,Enlarge,30,2 x 35,0.43,2180,450 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96463.png
+VS-80CPQ020-N3,Enlarge,20,2 x 40,0.36,2200,1100 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96464.png
+VS-80CPQ150-N3,Enlarge,150,2 x 40,0.71,1930,26 at 125 °C,175,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96465.png
+VS-8TQ060-M3,Enlarge,60,8,0.58,850,7 at 125 °C,175,TO-220AC 2L,Single,No,image/diodes/schottky/96265.png
+VS-8TQ080-M3,Enlarge,80,8,0.58,850,7 at 125 °C,175,TO-220AC 2L,Single,No,image/diodes/schottky/96265.png
+VS-8TQ080S-M3,Enlarge,80,8,0.58,850,7 at 125 °C,175,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94946.png
+"VS-8TQ080SHM3, VS-8TQ100SHM3",Enlarge,,,,,,,,,,image/diodes/schottky/94961.png
+VS-8TQ100-M3,Enlarge,100,8,0.58,850,7 at 125 °C,175,TO-220AC 2L,Single,No,image/diodes/schottky/96265.png
+VS-8TQ100S-M3,Enlarge,100,8,0.58,850,7 at 125 °C,175,D2PAK (TO-263AB),Single,No,image/diodes/schottky/94946.png
+VS-MBR1035-M3,Enlarge,35,10,0.57,1060,15 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96266.png
+VS-MBR1045-M3,Enlarge,45,10,0.57,1060,15 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96266.png
+VS-MBR15..CT-1-M3,Enlarge,45,2 x 7.5,0.57,690,15 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/96403.png
+VS-MBR1535CT-M3,Enlarge,35,2 x 7.5,0.57,690,15 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96281.png
+VS-MBR1545CT-M3,Enlarge,45,2 x 7.5,0.57,690,15 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96281.png
+VS-MBR1635-M3,Enlarge,35,16,0.57,1800,40 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96267.png
+VS-MBR1645-M3,Enlarge,45,16,0.57,1800,40 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96267.png
+VS-MBR20...CT-1-M3,Enlarge,100,2 x 10,0.70,850,6 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/96404.png
+VS-MBR20...CT-1-M3,Enlarge,80,2 x 10,0.70,850,6 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/96404.png
+VS-MBR20...CT-1-M3,Enlarge,90,2 x 10,0.70,850,6 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/96404.png
+VS-MBR20...CT-1HM3,Enlarge,80,2 x 10,0.70,850,6 at 125 °C,150,TO-262AA,Common cathode,Yes,image/diodes/schottky/95859.png
+VS-MBR20...CT-1HM3,Enlarge,90,2 x 10,0.70,850,6 at 125 °C,150,TO-262AA,Common cathode,Yes,image/diodes/schottky/95859.png
+VS-MBR20...CT-1HM3,Enlarge,100,2 x 10,0.70,850,6 at 125 °C,150,TO-262AA,Common cathode,Yes,image/diodes/schottky/95859.png
+VS-MBR20...CTHN3 Series,Enlarge,,,,,,,,,,image/diodes/schottky/94960.png
+VS-MBR20..CT-1-M3,Enlarge,45,2 x 10,0.72,1060,15 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/96405.png
+VS-MBR20100CT-M3,Enlarge,100,2 x 10,0.70,850,6 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96282.png
+VS-MBR2035CT-M3,Enlarge,35,2 x 10,0.57,1060,15 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96283.png
+VS-MBR2045CT-M3,Enlarge,45,2 x 10,0.57,1060,15 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96283.png
+VS-MBR2080CT-M3,Enlarge,80,2 x 10,0.70,850,6 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96282.png
+VS-MBR2090CT-M3,Enlarge,90,2 x 10,0.70,850,6 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96282.png
+VS-MBR2535CT-M3,Enlarge,35,2 x 15,See datasheet,1060,40 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96284.png
+VS-MBR2545CT-M3,Enlarge,45,2 x 15,See datasheet,1060,40 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96284.png
+VS-MBR30..CT-M3,Enlarge,45,2 x 15,See datasheet,1020,100 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/96407.png
+VS-MBR30..WT-N3 Series,Enlarge,35,2 x 15,See datasheet,1020,100 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96483.png
+VS-MBR30..WT-N3 Series,Enlarge,45,2 x 15,See datasheet,1020,100 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96483.png
+VS-MBR3045CT-M3,Enlarge,45,2 x 15,See datasheet,1020,100 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96257.png
+VS-MBR4045CT-1-M3,Enlarge,45,2 x 20,0.58,900,95 at 125 °C,150,TO-262AA,Common cathode,No,image/diodes/schottky/96408.png
+VS-MBR4045CT-1HM3,Enlarge,45,2 x 20,0.58,900,95 at 125 °C,150,TO-262AA,Common cathode,Yes,image/diodes/schottky/94721.png
+VS-MBR4045CT-M3,Enlarge,45,2 x 20,0.58,900,95 at 125 °C,150,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96258.png
+VS-MBR4045WT-N3,Enlarge,45,2 x 20,0.56,1020,110 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96466.png
+VS-MBR4060WT-N3,Enlarge,60,2 x 20,0.62,1020,100 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96467.png
+VS-MBR40L15CW-N3,Enlarge,15,2 x 20,0.34,700,600 at 100 °C,125,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96468.png
+VS-MBR6045WT-N3,Enlarge,45,2 x 30,0.55,2900,150 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96469.png
+VS-MBR735-M3,Enlarge,35,7.5,0.57,690,15 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96268.png
+VS-MBR745-M3,Enlarge,45,7.5,0.57,690,15 at 125 °C,150,TO-220AC 2L,Single,No,image/diodes/schottky/96268.png
+VS-MBRA140-M3,Enlarge,40,1,0.49,120,26 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/95883.png
+VS-MBRA140TRPbF,Enlarge,40,1,0.49,120,26 at 125 °C,150,SMA (DO-214AC),Single,No,image/diodes/schottky/94301.png
+VS-MBRB1035-M3,Enlarge,35,10,0.57,1060,15 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/96393.png
+VS-MBRB1035HM3,Enlarge,35,10,0.57,1060,15 at 125 °C,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/96115.png
+VS-MBRB1045-M3,Enlarge,45,10,0.57,1060,15 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/96393.png
+VS-MBRB1045HM3,Enlarge,45,10,0.57,1060,15 at 125 °C,150,D2PAK (TO-263AB),Single,Yes,image/diodes/schottky/96115.png
+VS-MBRB15..CT-M3,Enlarge,35,2 x 7.5,0.57,690,15 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/96403.png
+VS-MBRB1635-M3,Enlarge,35,16,0.57,1800,40 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/96394.png
+VS-MBRB1645-M3,Enlarge,45,16,0.57,1800,40 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/96394.png
+VS-MBRB20...CT-M3,Enlarge,80,2 x 10,0.70,850,6 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/96404.png
+VS-MBRB20...CT-M3,Enlarge,90,2 x 10,0.70,850,6 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/96404.png
+VS-MBRB20...CT-M3,Enlarge,100,2 x 10,0.70,850,6 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/96404.png
+VS-MBRB20...CTHM3,Enlarge,100,2 x 10,0.70,850,6 at 125 °C,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/95859.png
+VS-MBRB20...CTHM3,Enlarge,80,2 x 10,0.70,850,6 at 125 °C,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/95859.png
+VS-MBRB20...CTHM3,Enlarge,90,2 x 10,0.70,850,6 at 125 °C,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/95859.png
+VS-MBRB20..CT-M3,Enlarge,35,2 x 10,0.72,1060,15 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/96405.png
+"VS-MBRB25..CT-M3, VS-MBR25..CT-M3",Enlarge,,,,,,,,,,image/diodes/schottky/96406.png
+VS-MBRB30..CT-M3,Enlarge,35,2 x 15,See datasheet,1020,100 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/96407.png
+VS-MBRB3030CTL-M3,Enlarge,30,2 x 15,0.34,1100,183 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/96395.png
+VS-MBRB4045CT-M3,Enlarge,45,2 x 20,0.58,900,95 at 125 °C,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/schottky/96408.png
+VS-MBRB4045CTHM3,Enlarge,45,2 x 20,0.58,900,95 at 125 °C,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/schottky/94721.png
+VS-MBRB735-M3,Enlarge,35,7.5,0.57,690,15 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/96396.png
+VS-MBRB745-M3,Enlarge,45,7.5,0.57,690,15 at 125 °C,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/96396.png
+VS-MBRD320-M3,Enlarge,20,3,0.49,490,20 at 125 °C,150,DPAK (TO-252AA),Single,No,image/diodes/schottky/93323.png
+VS-MBRD330-M3,Enlarge,30,3,0.49,490,20 at 125 °C,150,DPAK (TO-252AA),Single,No,image/diodes/schottky/93323.png
+VS-MBRD340-M3,Enlarge,40,3,0.49,490,20 at 125 °C,150,DPAK (TO-252AA),Single,No,image/diodes/schottky/93323.png
+VS-MBRD650CT-M3,Enlarge,50,2 x 3,0.65,490,15 at 125 °C,150,DPAK (TO-252AA),Common cathode,No,image/diodes/schottky/93325.png
+VS-MBRD660CT-M3,Enlarge,60,2 x 3,0.65,490,15 at 125 °C,150,DPAK (TO-252AA),Common cathode,No,image/diodes/schottky/93325.png
+VS-MBRS1100-M3,Enlarge,100,1,0.78,870,1 at 125 °C,175,SMB (DO-214AA),Single,No,image/diodes/schottky/95744.png
+VS-MBRS130-M3,Enlarge,30,1,0.420,230,15 at 125 °C,150,SMB (DO-214AA),Single,No,image/diodes/schottky/95746.png
+VS-MBRS130L-M3,Enlarge,30,1,0.30,230,20 at 125 °C,125,SMB (DO-214AA),Single,No,image/diodes/schottky/95745.png
+VS-MBRS140-M3,Enlarge,40,1,0.53,380,4.0 at 150 °C,150,SMB (DO-214AA),Single,No,image/diodes/schottky/95747.png
+VS-MBRS190-M3,Enlarge,90,1,0.78,870,1 at 125 °C,175,SMB (DO-214AA),Single,No,image/diodes/schottky/95744.png
+VS-MBRS340-M3,Enlarge,40,3,0.43,1580,35 at 125 °C,150,SMC (DO-214AB),Single,No,image/diodes/schottky/95748.png
+VS-MBRS360-M3,Enlarge,60,3,0.61,790,30 at 125 °C,150,SMC (DO-214AB),Single,No,image/diodes/schottky/95749.png
+VS-STPS1045B-M3,Enlarge,45,10,0.57,390,15 at 125 °C,175,DPAK (TO-252AA),Single,No,image/diodes/schottky/93327.png
+VS-STPS20L15D-M3,Enlarge,15,20,See datasheet,700,600 at 100 °C,125,TO-220AC 2L,Single,No,image/diodes/schottky/96269.png
+VS-STPS20L15G-M3,Enlarge,15,20,0.33,700,600 at 100 °C,125,D2PAK (TO-263AB),Single,No,image/diodes/schottky/96397.png
+VS-STPS30L60CW-N3,Enlarge,60,2 x 15,0.56,1020,100 at 125 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96470.png
+VS-STPS40L15CT-M3,Enlarge,15,2 x 20,See datasheet,700,600 at 100 °C,125,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96259.png
+VS-STPS40L15CW-N3,Enlarge,15,2 x 20,See datasheet,700,600 at 100 °C,125,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96471.png
+VS-STPS40L40CW-N3,Enlarge,40,2 x 20,0.43,3500,60 at 100 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96472.png
+VS-STPS40L45CW-N3,Enlarge,45,2 x 20,0.49,1240,80 at 100 °C,150,TO-247AC 3L,Common cathode,No,image/diodes/schottky/96473.png
+VS12CTQ045-M3,Enlarge,45,2 x 6,0.53,690,7 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96270.png
+VS61CTQ045-M3,Enlarge,45,2 x 30,0.57,2600,40 at 125 °C,175,TO-220AB 3L,Common cathode,No,image/diodes/schottky/96280.png
+VSKY02300603,Enlarge,30,0.2,500 at 200,6,,150,CLP0603-2M,Single,No,image/diodes/schottky/85910.png
+VSKY02400603,Enlarge,40,0.2,540 at 200,6,,150,CLP0603-2M,Single,No,image/diodes/schottky/85911.png
+VSKY05201006,Enlarge,20,0.5,0.345,12,,150,CLP1006-2L,Single,No,image/diodes/schottky/85938.png
+VSKY05301006,Enlarge,30,0.5,0.360,12,,150,CLP1006-2L,Single,No,image/diodes/schottky/85940.png
+VSKY05401006,Enlarge,40,0.5,0.360,12,,150,CLP1006-2L,Single,No,image/diodes/schottky/85903.png
+VSKY10201406,Enlarge,20,1,0.400,18,,150,CLP1406-2L,Single,No,image/diodes/schottky/85931.png
+VSKY10301406,Enlarge,30,1,0.420,18,,150,CLP1406-2L,Single,No,image/diodes/schottky/85947.png
+VSKY10401406,Enlarge,40,1,0.420,18,,150,CLP1406-2L,Single,No,image/diodes/schottky/85948.png
+VSKY20301608,Enlarge,30,2,0.320,28,,125,CLP1608-2L,Single,No,image/diodes/schottky/85898.png
+VSKY20401608,Enlarge,40,2,0.350,28,,125,CLP1608-2L,Single,No,image/diodes/schottky/85892.png
+VSS8D2M10,Enlarge,100,2,0.56,50,,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/schottky/87442.png
+VSS8D2M12,Enlarge,120,2,0.59,50,,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/schottky/87443.png
+VSS8D2M15,Enlarge,150,2,0.64,50,,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/schottky/87444.png
+VSS8D2M6,Enlarge,60,2,0.46,60,,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/schottky/87441.png
+VSS8D3M10,Enlarge,100,3,0.58,60,,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/schottky/87413.png
+VSS8D3M12,Enlarge,120,3,0.61,60,,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/schottky/87414.png
+VSS8D3M15,Enlarge,150,3,0.64,60,,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/schottky/87440.png
+VSS8D3M6,Enlarge,60,3,0.47,60,,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/schottky/87412.png
+VSS8D5M10,Enlarge,100,5,0.62,100,,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/schottky/87446.png
+VSS8D5M12,Enlarge,120,5,0.64,100,,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/schottky/87447.png
+VSS8D5M15,Enlarge,150,5,0.68,100,,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/schottky/87448.png
+VSS8D5M6,Enlarge,60,5,0.52,60,,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/schottky/87445.png
+VSSA210,Enlarge,100,2,0.56,60,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/89404.png
+VSSA210,Enlarge,100,2,0.56,60,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89137.png
+VSSA310S,Enlarge,100,3,0.62,60,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89138.png
+VSSA310S-M3,Enlarge,100,3,0.62,60,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/89405.png
+VSSA310SHM3,Enlarge,100,3,0.62,60,,150,SMA (DO-214AC),Single,Yes,image/diodes/schottky/89405.png
+VSSA36S-M3,Enlarge,60,3,0.48,60,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89345.png
+VSSA3L6S-M3,Enlarge,60,3,0.41,80,,150,SMA (DO-214AC),Single,No,image/diodes/schottky/89346.png
+VSSAF3103,Enlarge,100,3,0.52,80,,150,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/98379.png
+VSSAF3L45,Enlarge,45,3,0.37,80,,150,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/89935.png
+VSSAF3L63,Enlarge,60,3,0.41,80,,150,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/98218.png
+VSSAF3M10,Enlarge,100,3,0.56,80,,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/87507.png
+VSSAF3M103,Enlarge,100,3,0.54,80,,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/98380.png
+VSSAF3M6,Enlarge,60,3,0.46,80,,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/87514.png
+VSSAF3M63,Enlarge,60,3,0.48,80,,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/98219.png
+VSSAF3N50,Enlarge,50,3,0.40,80,,150,SlimSMA (DO-221AC),Single,No,image/diodes/schottky/87720.png
+VSSAF510,Enlarge,100,5,0.59,100,,150,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/87610.png
+VSSAF5103,Enlarge,100,5,0.59,100,,150,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/98381.png
+VSSAF512,Enlarge,120,5,0.62,100,,150,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/87611.png
+VSSAF515,Enlarge,150,5,0.66,100,,150,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/87612.png
+VSSAF522,Enlarge,200,5,0.69,90,,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/87453.png
+VSSAF56,Enlarge,60,5,0.48,100,,150,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/87733.png
+VSSAF5L45,Enlarge,45,5,0.39,100,,150,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/89934.png
+VSSAF5L63,Enlarge,60,5,0.48,100,,150,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/98220.png
+VSSAF5M10,Enlarge,100,5,0.62,100,,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/87667.png
+VSSAF5M103,Enlarge,100,5,0.59,100,,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/98382.png
+VSSAF5M12,Enlarge,120,5,0.64,100,,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/87668.png
+VSSAF5M15,Enlarge,150,5,0.68,100,,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/87669.png
+VSSAF5M6,Enlarge,60,5,0.52,100,,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/87666.png
+VSSAF5M63,Enlarge,60,5,0.54,100,,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/schottky/98221.png
+VSSAF5N50,Enlarge,50,5,0.41,100,,150,SlimSMA (DO-221AC),Single,No,image/diodes/schottky/87719.png
+VSSB310-E3,Enlarge,100,3,0.56,80,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89139.png
+VSSB310-M3,Enlarge,100,3,0.56,80,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89932.png
+VSSB3L6S-M3,Enlarge,60,3,0.42,80,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89347.png
+VSSB410S,Enlarge,100,4,0.61,80,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89140.png
+VSSB410S-M3,Enlarge,100,4,0.61,80,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89933.png
+VSSB420S-M3,Enlarge,200,4,0.71,40,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/89317.png
+VSSB7L45-M3,Enlarge,45,7,0.40,120,,150,SMB (DO-214AA),Single,No,image/diodes/schottky/87792.png
+VSSC520S-M3,Enlarge,200,5,0.67,100,,150,SMC (DO-214AB),Single,No,image/diodes/schottky/89318.png
+VSSC8L45-M3,Enlarge,45,8,0.39,140,,150,SMC (DO-214AB),Single,No,image/diodes/schottky/87793.png
+VT10200C-E3,Enlarge,200,2 x 5.0,0.65,80,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89177.png
+VT10200C-M3,Enlarge,200,2 x 5.0,0.65,80,,150,TO-220AB,Common cathode,No,image/diodes/schottky/87997.png
+"VT10202C, VFT10202C, VBT10202C, VIT10202C",Enlarge,,,,,,,,,,image/diodes/schottky/87796.png
+VT1045BP,Enlarge,45,10,0.52,100,,200,TO-220AC,Single,No,image/diodes/schottky/89451.png
+VT1045C,Enlarge,45,2 x 5.0,0.41,100,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89348.png
+VT1045CBP,Enlarge,45,2 x 5.0,0.41,100,,200,TO-220AB,Common cathode,No,image/diodes/schottky/89363.png
+VT1060C,Enlarge,60,2 x 5.0,0.50,100,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89232.png
+VT1060C-E3,Enlarge,60,2 x 5,0.50,100,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89131.png
+VT1080C,Enlarge,80,2 x 5,0.57,80,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89237.png
+VT1080C-E3,Enlarge,80,2 x 5,0.57,80,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89164.png
+VT1080S,Enlarge,80,10,0.60,100,,150,TO-220AB,Single,No,image/diodes/schottky/89238.png
+VT1080S-E3,Enlarge,80,10,0.51,100,,150,D2PAK (TO-263AB),Single,No,image/diodes/schottky/89165.png
+VT2045BP,Enlarge,45,20,0.51,160,,200,TO-220AC,Single,No,image/diodes/schottky/89448.png
+VT2045C,Enlarge,45,2 x 10,0.41,160,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89349.png
+VT2045CBP,Enlarge,45,2 x 10,0.41,160,,200,TO-220AB,Common cathode,No,image/diodes/schottky/89364.png
+VT2060C,Enlarge,60,2 x 10,0.52,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89233.png
+VT2060C-E3,Enlarge,60,2 x 10,0.52,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89132.png
+VT2060G,Enlarge,60,2 x 10,0.63,100,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89234.png
+VT2060G-E3,Enlarge,60,2 x 10,0.63,100,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89133.png
+VT2080C,Enlarge,80,2 x 10,0.60,100,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89239.png
+VT2080C-E3,Enlarge,80,2 x 10,0.60,100,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89166.png
+VT2080S,Enlarge,80,20,0.70,150,,150,TO-220AB,Single,No,image/diodes/schottky/89240.png
+VT2080S-E3,Enlarge,80,20,0.70,150,,150,TO-220AB,Single,No,image/diodes/schottky/89167.png
+VT3045BP,Enlarge,45,30,0.51,200,,200,TO-220AC,Single,No,image/diodes/schottky/89447.png
+VT3045C-M3,Enlarge,45,2 x 15,0.39,200,,150,TO-220AB,Dual common cathode,Yes,image/diodes/schottky/89350.png
+VT3045CBP,Enlarge,45,2 x 15,0.39,200,,200,TO-220AB,Common cathode,No,image/diodes/schottky/89365.png
+VT3045CHM3,Enlarge,45,2 x 15,0.39,200,,150,TO-220AB,Dual common cathode,Yes,image/diodes/schottky/89350.png
+VT3060C,Enlarge,60,2 x 15,0.57,170,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89235.png
+VT3060C-E3,Enlarge,60,2 x 15,0.57,170,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89134.png
+VT3060G,Enlarge,60,2 x 15,0.61,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89236.png
+VT3060G-E3,Enlarge,60,2 x 15,0.61,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89135.png
+VT3080C,Enlarge,80,2 x 15,0.65,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89241.png
+VT3080C-E3,Enlarge,80,2 x 15,0.65,150,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89168.png
+VT3080S,Enlarge,80,30,0.73,200,,150,TO-220AB,Single,No,image/diodes/schottky/89242.png
+VT3080S-E3,Enlarge,80,30,0.73,200,,150,TO-220AB,Single,No,image/diodes/schottky/89169.png
+VT30L60C,Enlarge,60,2 x 15,0.45,200,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89438.png
+VT30L60C-E3,Enlarge,60,2 x 15,0.45,200,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89380.png
+VT4045BP-M3,Enlarge,45,40,0.51,240,,200,TO-220AC,Single,No,image/diodes/schottky/89441.png
+VT4045C,Enlarge,45,2 x 20,0.41,240,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89351.png
+VT4060C,Enlarge,60,2 x 20,0.48,240,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89439.png
+VT4060C-E3,Enlarge,60,2 x 20,0.48,240,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89381.png
+VT5200-E3,Enlarge,200,5,0.65,80,,150,TO-220AC,Single,No,image/diodes/schottky/89176.png
+VT5202-M3,Enlarge,200,5,0.65,100,,175,TO-220AC,Single,No,image/diodes/schottky/87700.png
+VT6045C,Enlarge,45,2 x 30,0.47,320,,150,TO-220AB,Common cathode,No,image/diodes/schottky/89352.png
+VT6045CBP,Enlarge,45,2 x 30,0.47,320,,200,TO-220AB,Common cathode,No,image/diodes/schottky/89366.png
+VT60M45C,Enlarge,45,2 x 30,0.50,320,,175,TO-220AB,Common cathode,No,image/diodes/schottky/87782.png
+VT760,Enlarge,60,7.5,0.60,100,,150,TO-220AC,Single,No,image/diodes/schottky/89231.png
+VT760-E3,Enlarge,60,7.5,0.60,100,,150,TO-220AC,Single,No,image/diodes/schottky/89130.png
+VX20170C,Enlarge,170,2 x 10,0.65,150,,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/87172.png
+VX20202C,Enlarge,200,2 x 10,0.65,150,,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/87173.png
+VX30170C,Enlarge,170,2 x 15,0.65,260,,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/87174.png
+VX30202C,Enlarge,200,2 x 15,0.65,260,,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/87175.png
+VX40100C,Enlarge,100,2 x 20,0.60,250,,150,TO-220AB,Common cathode,Yes,image/diodes/schottky/87161.png
+VX40120C,Enlarge,120,2 x 20,0.63,250,,150,TO-220AB,Common cathode,Yes,image/diodes/schottky/87194.png
+VX4045C,Enlarge,45,2 x 20,0.43,250,,150,TO-220AB,Common cathode,Yes,image/diodes/schottky/87180.png
+VX4060C,Enlarge,60,2 x 20,0.47,250,,150,TO-220AB,Common cathode,Yes,image/diodes/schottky/87190.png
+VX40M100C,Enlarge,100,2 x 20,0.61,250,,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/87016.png
+VX40M120C,Enlarge,120,2 x 20,0.63,250,,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/87195.png
+VX40M45C,Enlarge,45,2 x 20,0.47,250,,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/87181.png
+VX40M60C,Enlarge,60,2 x 20,0.5,250,,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/87191.png
+VX60100C,Enlarge,100,2 x 30,0.65,320,,150,TO-220AB,Common cathode,Yes,image/diodes/schottky/87162.png
+VX60100PW,Enlarge,100,2 x 30,0.64,350,,150,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87169.png
+VX60120C,Enlarge,120,2 x 30,0.67,320,,150,TO-220AB,Common cathode,Yes,image/diodes/schottky/87196.png
+VX60170PW,Enlarge,170,2 x 30,0.65,350,,175,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87171.png
+VX60202PGW,Enlarge,200,2 x 30,0.74,300,,175,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87022.png
+VX60202PW,Enlarge,200,2 x 30,0.65,350,,175,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/88018.png
+VX6045C,Enlarge,45,2 x 30,0.45,320,,150,TO-220AB,Common cathode,Yes,image/diodes/schottky/87182.png
+VX6045PW,Enlarge,45,2 x 30,0.43,350,,150,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87176.png
+VX6060C,Enlarge,60,2 x 30,0.51,300,,150,TO-220AB,Common cathode,Yes,image/diodes/schottky/87192.png
+VX6060PW,Enlarge,60,2 x 30,0.49,350,,150,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87139.png
+VX60M100C,Enlarge,100,2 x 30,0.65,320,,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/87011.png
+VX60M100PW,Enlarge,100,2 x 30,0.65,350,,175,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87008.png
+VX60M120C,Enlarge,120,2 x 30,0.67,320,,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/87197.png
+VX60M153PW,Enlarge,150,2 x 30,0.70,350,,175,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/98222.png
+VX60M45C,Enlarge,45,2 x 30,0.50,320,,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/87183.png
+VX60M45PW,Enlarge,45,2 x 30,0.47,350,,175,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87177.png
+VX60M60C,Enlarge,60,2 x 30,0.55,300,,175,TO-220AB,Common cathode,Yes,image/diodes/schottky/87193.png
+VX60M60PW,Enlarge,60,2 x 30,0.52,350,,175,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87140.png
+VX80100PW,Enlarge,100,2 x 40,0.65,550,,150,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87163.png
+VX80153PW,Enlarge,150,2 x 40,0.69,500,,150,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/98223.png
+VX80170PW,Enlarge,170,2 x 40,0.68,500,,175,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87198.png
+VX80202PW,Enlarge,200,2 x 40,0.68,500,,150,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/88017.png
+VX8045PW,Enlarge,45,2 x 40,0.43,500,,150,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87178.png
+VX8060PW,Enlarge,60,2 x 40,0.5,500,,150,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87184.png
+VX80M100PW,Enlarge,100,2 x 40,0.66,550,,175,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87009.png
+VX80M45PW,Enlarge,45,2 x 40,0.48,500,,175,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87179.png
+VX80M60PW,Enlarge,60,2 x 40,0.54,500,,175,TO-247AD 3L,Common cathode,Yes,image/diodes/schottky/87185.png

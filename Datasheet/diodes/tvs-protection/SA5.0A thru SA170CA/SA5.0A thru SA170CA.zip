@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0044)http://www.vishay.com/docs/88210/sa9v0ca.cir -->
+<HTML><HEAD>
+<META content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<META name=GENERATOR content="MSHTML 8.00.7600.16766"></HEAD>
+<BODY>********************************** * Copyright: * * Thomatronik GmbH, 
+Germany * * info@thomatronik.de * ********************************** * SPICE3 * 
+Bidirectional .SUBCKT sa9v0ca 1 2 DF 9 90 DFMOD TEMP = 25 .MODEL DFMOD D N = 
+1.65653 IS = 2.66322E-009 RS = 0.0185105 + EG = 1.11 XTI = 3 + CJO = 2.3E-009 VJ 
+= 0.91875 M = 0.5 FC = 0.5 + TT = 1E-008 TNOM = 25 * Leakage RLF 9 90 908319 
+RLMOD RLR 1 9 908319 RLMOD .MODEL RLMOD R TC1 = 0 TC2 = 0 TNOM = 25 * Breakdown 
+RBD 90 4 0.112385 EBD 4 3 10 20 1 DBD 3 9 DBDMOD TEMP = 25 * Reverse DR 9 1 
+DFMOD TEMP = 25 RBDR 1 94 0.112385 EBDR 94 93 10 20 1 DBDR 93 9 DBDMOD TEMP = 25 
+.MODEL DBDMOD D IS = 1E-015 N = 0.5 TNOM = 25 IBVC 0 10 0.001 RBVC 10 0 10550 
+RBVCMOD .MODEL RBVCMOD R TC1 = 0.000853081 TNOM = 25 RBDX 20 23 0.112385 DBVC 23 
+22 DBDMOD TEMP = 25 DBVF 22 0 DFMOD TEMP = 25 IBVD 0 20 0.001 L1 90 2 1E-015 
+.ENDS </BODY></HTML>

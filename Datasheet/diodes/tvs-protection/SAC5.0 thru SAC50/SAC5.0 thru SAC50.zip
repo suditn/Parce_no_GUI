@@ -1,0 +1,43 @@
+**********************************
+* Model created by               *
+*   Uni.Dipl.-Ing. Arpad Buermen *
+*   arpad.burmen@ieee.org        *
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+* November 2000
+*   SPICE3
+*                    anode     cathode
+* Reverse direction: node 1 <- node 2
+.SUBCKT sac5v0 1 2
+DF 9 90 DFMOD TEMP = 25
+.MODEL DFMOD D N = 1 IS = 1.5E-005 RS = 0.00480096
++ EG = 1.11 XTI = 3
++ CJO = 0.8E-010 VJ = 1 M = 0.5 FC = 0.5
++ TT = 1E-008 TNOM = 25
+* Leakage
+RLF 9 90 20000 RLMOD
+RLR 1 9 90000 RLMOD
+.MODEL RLMOD R TC1 = 0 TC2 = 0 TNOM = 25
+* Breakdown
+RBD 90 4 0.406286
+EBD 4 3 10 20 1
+DBD 3 9 DBDMOD TEMP = 25
+* Reverse
+.MODEL DRMOD D N = 1 IS = 1.5E-005 RS = 0.00480096
++ EG = 1.11 XTI = 3
++ CJO = 1E-010 VJ = 1 M = 0.5 FC = 0.5
++ TT = 1E-008 TNOM = 25
++ BV = 110 IBV = 0.08
+DR 9 1 DRMOD TEMP = 25
+.MODEL DBDMOD D IS = 1E-015 N = 0.5 TNOM = 25
+IBVC 0 10 0.001
+RBVC 10 0 7600 RBVCMOD
+.MODEL RBVCMOD R TC1 = 0.001 TNOM = 25
+RBDX 20 23 0.406286
+DBVC 23 22 DBDMOD TEMP = 25
+DBVF 22 0 DFMOD TEMP = 25
+IBVD 0 20 0.001
+L1 90 2 1E-015
+.ENDS

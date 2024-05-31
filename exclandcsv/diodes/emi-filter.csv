@@ -1,0 +1,10 @@
+Part Number▲▼(all)VEMI45AA-HNHVEMI45AB-HNHVEMI45AC-HNHVEMI65AA-HCIVEMI65AB-HCIVEMI65AC-HCIVEMI85AA-HGKVEMI85AB-HGKVEMI85AC-HGK,Product Image,Package (JEDEC®) Code▲▼(all)LLP1713-9LLLP2513-13LLLP3313-17L,VRWM(V)▲▼(all)5,IRat VRWM(µA)▲▼(all)1,VBRat IR= 1 mA(V)▲▼(all)6,f3dBCut-off Frequency(MHz)▲▼(all)100130240,R8Line Resistance( Ω)▲▼(all)100,CINat VR= 0 V; VAC< 100 mV; f = 1 MHz(pF)▲▼(all)204060,ESD Immunity acc. IEC 61000-4-2(kV)▲▼(all)± 10± 18± 30,Number of Protected Lines▲▼(all)468,AEC-Q101 Qualified▲▼(all)No,Image path
+VEMI45AA-HNH,Enlarge,LLP1713-9L,5,1,6,100,100,60,± 30,4,No,image/diodes/emi-filter/81385.png
+VEMI45AB-HNH,Enlarge,LLP1713-9L,5,1,6,130,100,40,± 18,4,No,image/diodes/emi-filter/81716.png
+VEMI45AC-HNH,Enlarge,LLP1713-9L,5,1,6,240,100,20,± 10,4,No,image/diodes/emi-filter/81673.png
+VEMI65AA-HCI,Enlarge,LLP2513-13L,5,1,6,100,100,60,± 30,6,No,image/diodes/emi-filter/81384.png
+VEMI65AB-HCI,Enlarge,LLP2513-13L,5,1,6,130,100,40,± 18,6,No,image/diodes/emi-filter/81717.png
+VEMI65AC-HCI,Enlarge,LLP2513-13L,5,1,6,240,100,20,± 10,6,No,image/diodes/emi-filter/81680.png
+VEMI85AA-HGK,Enlarge,LLP3313-17L,5,1,6,100,100,60,± 30,8,No,image/diodes/emi-filter/81386.png
+VEMI85AB-HGK,Enlarge,LLP3313-17L,5,1,6,130,100,40,± 18,8,No,image/diodes/emi-filter/81718.png
+VEMI85AC-HGK,Enlarge,LLP3313-17L,5,1,6,240,100,20,± 10,8,No,image/diodes/emi-filter/81674.png

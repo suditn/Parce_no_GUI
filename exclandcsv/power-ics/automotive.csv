@@ -1,0 +1,10 @@
+Part Number▲▼(all)SiCQ670SiP32433ASiP32433BSIP32434ASIP32434BSiPQ32433ASiPQ32433BSiPQ32434ASiPQ32434B,"Description▲▼(all)in to 24 Vin, 5 V PWM with ZCD mode3.5 A, 78 mΩ, 2.8 V to 22 V eFuse with accurate current limit, OVP, and active reverse current blocking3.5 A, 78 mΩ, 2.8 V to 23 V, programmable OVP and current limit, active reverse blocking, auto retry on fault3.5 A, 78 mΩ, 2.8 V to 23 V, programmable OVP and current limit, active reverse blocking, latch-off on fault6 A, 33 mΩ, 2.8 V to 22 V eFuse with accurate current limit and programmable OVP6 A, 33 mΩ, 2.8 V to 23 V, programmable OVP and current limit, latch-off on fault6 A, 33 mΩ, 2.8 V to 23 V,programmable OVP and current limit, auto retry on fault",VinMin.(V)▲▼(all)2.52.8,VinMax.(V)▲▼(all)2428,Package▲▼(all)DFN33 10L wettable flankDFN33-10LPowerPAK® MLP55-31L,Image path
+SIP32434A,"6 A, 33 mΩ, 2.8 V to 23 V, programmable OVP and current limit, latch-off on fault",2.8,28,DFN33-10L,
+SIP32434B,"6 A, 33 mΩ, 2.8 V to 23 V,programmable OVP and current limit, auto retry on fault",2.8,28,DFN33-10L,
+SiP32433A,"3.5 A, 78 mΩ, 2.8 V to 23 V, programmable OVP and current limit, active reverse blocking, latch-off on fault",2.8,28,DFN33-10L,
+SiP32433B,"3.5 A, 78 mΩ, 2.8 V to 23 V, programmable OVP and current limit, active reverse blocking, auto retry on fault",2.8,28,DFN33-10L,
+SiCQ670,"into 24 Vin, 5 V PWMwith ZCD mode",2.5,24,PowerPAK® MLP55-31L,
+SiPQ32434A,"6 A, 33 mΩ, 2.8 V to 22 V eFuse with accurate current limit and programmable OVP",2.8,28,DFN33 10L wettable flank,
+SiPQ32434B,"6 A, 33 mΩ, 2.8 V to 22 V eFuse with accurate current limit and programmable OVP",2.8,28,DFN33 10L wettable flank,
+SiPQ32433A,"3.5 A, 78 mΩ, 2.8 V to 22 V eFuse with accurate current limit, OVP, and active reverse current blocking",2.8,28,DFN33 10L wettable flank,
+SiPQ32433B,"3.5 A, 78 mΩ, 2.8 V to 22 V eFuse with accurate current limit, OVP, and active reverse current blocking",2.8,28,DFN33 10L wettable flank,

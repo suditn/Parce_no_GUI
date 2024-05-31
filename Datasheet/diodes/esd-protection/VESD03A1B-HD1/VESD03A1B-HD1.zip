@@ -1,0 +1,20 @@
+*  Model for Vishay  ESD Protection Diode
+*			
+*  VESD03A1B-HD1
+*  
+*  86179SPICE_Vishay_VESD03A1B-HD1.txt
+*
+*  TNOM=27GRD, RS without heating		
+*                                       			
+*  Vishay Semiconductor GmbH
+*  Claus Mähner, February 2022
+*
+*                                   			
+*  Copyright:                            
+*  Vishay Intertechnology, Inc. 
+*                                                               
+*******************************************************************************
+.MODEL VESD03A1B D(IS=1.00E-16 N=1.00 RS=0.2 IKF=100
++CJO=2.43E-11 M=0.33 VJ=0.65 BV=6.0 IBV=0.001 NBV=1 IBVL=4.0E-5 NBVL=14)
+*
+********************************************************************************

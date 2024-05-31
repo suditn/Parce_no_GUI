@@ -1,0 +1,27 @@
+*  Model for Vishay  ESD Protection Diode
+*			
+*  VCUT03B1-DD1
+*
+*  86213SPICE_Vishay_VCUT03B1-DD1.txt
+*
+*  TNOM=27GRD, RS without heating		
+*                                       			
+*  Vishay Semiconductor GmbH
+*  Claus Mähner, September 2019
+*
+*                                   			
+*  Copyright:                            
+*  Vishay Intertechnology, Inc. 
+*                                                               
+*******************************************************************************
+.SUBCKT VCUT03B1 1 2
+*
+D1 1 3 VESD03
+D2 2 3 VESD03
+*
+.MODEL VESD03 D(IS=1.00E-16 N=1.00 RS=0.2 IKF=100
++CJO=2.43E-11 M=0.33 VJ=0.65 BV=6.0 IBV=0.001 NBV=1 IBVL=4.0E-5 NBVL=14)
+*
+.ENDS VCUT03B1
+*
+********************************************************************************

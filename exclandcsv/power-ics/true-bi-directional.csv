@@ -1,0 +1,5 @@
+Part Number▲▼(all)SiP32101SiP32102SiP32103SiP32104,"Description▲▼(all)2.3 V to 5.5 V, 6.5 mΩ, 7 A, bidirectional switch, EN active high with internal pull-down resistor2.3 V to 5.5 V, 6.5 mΩ, 7 A, bidirectional switch, EN active low2.3 V to 5.5 V, 6.5 mΩ, 7 A, bidirectional switch, EN active low with internal pull-down resistor2.3 V to 5.5 V, 6.5 mΩ, 7 A, bidirectional switch, EN active low with internal pull-up resistor",VinMin.(V)▲▼(all)2.3,VinMax.(V)▲▼(all)5.5,Package▲▼(all)WCSP12,Image path
+SiP32101,"2.3 V to 5.5 V, 6.5 mΩ, 7 A, bidirectional switch, EN active low with internal pull-down resistor",2.3,5.5,WCSP12,
+SiP32102,"2.3 V to 5.5 V, 6.5 mΩ, 7 A, bidirectional switch, EN active high with internal pull-down resistor",2.3,5.5,WCSP12,
+SiP32103,"2.3 V to 5.5 V, 6.5 mΩ, 7 A, bidirectional switch, EN active low with internal pull-up resistor",2.3,5.5,WCSP12,
+SiP32104,"2.3 V to 5.5 V, 6.5 mΩ, 7 A, bidirectional switch, EN active low",2.3,5.5,WCSP12,

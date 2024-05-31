@@ -1,0 +1,26 @@
+Series▲▼,Product Image,IFAV(A)▲▼,TC(°C)▲▼,VRRM(V)▲▼,IFSMat 50 Hz(A)▲▼,IFSMat 60 Hz(A)▲▼,VFat IFMat 25 °C(V at A)▲▼,TJ(°C)▲▼,RthJC(°C/W)▲▼,Package▲▼,CircuitConfiguration▲▼,Isolation fromHeatsink▲▼,Image path
+VS-RA160FA120,Enlarge,91,90,1200,940,985,1.27 at 100,-55 to +150,0.26,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/high-voltage/96330.png
+VS-RA220FA120,Enlarge,108,90,1200,1170,1225,1.31 at 110,-55 to +150,0.2,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/high-voltage/96043.png
+VS-T20HF220,Enlarge,20,85,2200,450,470,1.50 at 60,-40 to +150,2.53,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/94709.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,110,85,1000,2000,2100,1.35,-40 to +150,0.47,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,70,85,600,1200,1250,1.35,-40 to +150,0.69,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,85,85,400,1700,1800,1.27,-40 to +150,0.62,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,40,85,600,570,600,1.30,-40 to +150,1.36,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,85,85,1000,1700,1800,1.27,-40 to +150,0.62,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,110,85,800,2000,2100,1.35,-40 to +150,0.47,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,70,85,400,1200,1250,1.35,-40 to +150,0.69,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,85,85,200,1700,1800,1.27,-40 to +150,0.62,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,40,85,400,570,600,1.30,-40 to +150,1.36,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,110,85,600,2000,2100,1.35,-40 to +150,0.47,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,70,85,200,1200,1250,1.35,-40 to +150,0.69,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,85,85,100,1700,1800,1.27,-40 to +150,0.62,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,40,85,200,570,600,1.30,-40 to +150,1.36,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,110,85,400,2000,2100,1.35,-40 to +150,0.47,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,70,85,100,1200,1250,1.35,-40 to +150,0.69,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,70,85,1200,1200,1250,1.35,-40 to +150,0.69,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,40,85,100,570,600,1.30,-40 to +150,1.36,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,110,85,200,2000,2100,1.35,-40 to +150,0.47,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,40,85,1200,570,600,1.30,-40 to +150,1.36,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,70,85,1000,1200,1250,1.35,-40 to +150,0.69,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,85,85,800,1700,1800,1.27,-40 to +150,0.62,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png
+"VS-T40HF..., VS-T70HF..., VS-T85HF..., VS-T110HF... Series",Enlarge,110,85,100,2000,2100,1.35,-40 to +150,0.47,D-55 (T-module),Single diode,Isolated,image/modules/diode-modules/high-voltage/93587.png

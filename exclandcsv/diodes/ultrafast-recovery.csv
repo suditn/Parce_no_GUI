@@ -1,0 +1,846 @@
+Part Number▲▼,Product Image,Rev. Voltage(V)▲▼,IF(AV)(A)▲▼,VFat IF▲▼,IFSM(A)▲▼,trr(ns)▲▼,TJmax.(°C)▲▼,Package (JEDEC®) Code▲▼,CircuitConfiguration▲▼,AEC-Q101 Qualified▲▼,Image path
+31GF4,Enlarge,400,3,1.25,60,30,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88529.png
+31GF6-E3,Enlarge,600,3,1.6,90,30,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88530.png
+31GF6-M3,Enlarge,600,3,1.6,90,30,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/89434.png
+AU1FD,Enlarge,200,1,see datasheet,30,75,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/87168.png
+AU1FG,Enlarge,400,1,see datasheet,30,75,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/87168.png
+AU1FJ,Enlarge,600,1,see datasheet,30,75,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/87168.png
+AU1FK,Enlarge,800,1,see datasheet,30,75,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/87168.png
+AU1FM,Enlarge,1000,1,see datasheet,30,75,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/87168.png
+AU1PD,Enlarge,200,1,1.6,30,75,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/89291.png
+AU1PG,Enlarge,400,1,1.6,30,75,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/89291.png
+AU1PJ,Enlarge,600,1,1.6,30,75,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/89291.png
+AU1PK,Enlarge,800,1,1.6,30,75,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/89291.png
+AU1PM,Enlarge,1000,1,1.6,30,75,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/89291.png
+AU2PD,Enlarge,200,2,1.13,30,75,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/89336.png
+AU2PG,Enlarge,400,2,1.13,30,75,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/89336.png
+AU2PJ,Enlarge,600,2,1.13,30,75,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/89336.png
+AU2PK,Enlarge,800,2,1.42,30,75,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/89337.png
+AU2PM,Enlarge,1000,2,1.42,30,75,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/89337.png
+AU3PD,Enlarge,200,3,1.13,75,75,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/89338.png
+AU3PG,Enlarge,400,3,1.13,75,75,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/89338.png
+AU3PJ,Enlarge,600,3,1.13,75,75,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/89338.png
+AU3PK,Enlarge,800,3,1.45,45,75,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/89339.png
+AU3PM,Enlarge,1000,3,1.45,45,75,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/89339.png
+BYG20D,Enlarge,200,1.5,1.4,30,75,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88958.png
+BYG20G,Enlarge,400,1.5,1.4,30,75,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88958.png
+BYG20J,Enlarge,600,1.5,1.4,30,75,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88958.png
+BYG22A,Enlarge,50,2,1.1,35,25,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88959.png
+BYG22B,Enlarge,100,2,1.1,35,25,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88959.png
+BYG22D,Enlarge,200,2,1.1,35,25,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88959.png
+BYG23M,Enlarge,1000,1.5,1.7,30,75,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88962.png
+BYG23T-M3,Enlarge,1300,1,1.39,18,75,150,SMA (DO-214AC),Single,No,image/diodes/ultrafast-recovery/89429.png
+BYM07-xxx,Enlarge,50 to 400,0.5,see datasheet,10,50,175,GL34 (DO-213AA),Single,No,image/diodes/ultrafast-recovery/88580.png
+BYM12-xxx,Enlarge,50 to 400,1,see datasheet,30,50,175,GL41 (DO-213AB),Single,No,image/diodes/ultrafast-recovery/88581.png
+BYQ28E-xxx,Enlarge,100 to 200,2 x 5.0,0.895,55,25,150,TO-220AB,Common cathode,No,image/diodes/ultrafast-recovery/88549.png
+BYT53A,Enlarge,50,1.9,1.1 at 1,50,50,175,SOD-57,,No,image/diodes/ultrafast-recovery/86030.png
+BYT53B,Enlarge,100,1.9,1.1 at 1,50,50,175,SOD-57,,No,image/diodes/ultrafast-recovery/86030.png
+BYT53C,Enlarge,150,1.9,1.1 at 1,50,50,175,SOD-57,,No,image/diodes/ultrafast-recovery/86030.png
+BYT53D,Enlarge,200,1.9,1.1 at 1,50,50,175,SOD-57,,No,image/diodes/ultrafast-recovery/86030.png
+BYT53F,Enlarge,300,1.9,1.1 at 1,50,50,175,SOD-57,,No,image/diodes/ultrafast-recovery/86030.png
+BYT53G,Enlarge,400,1.9,1.1 at 1,50,50,175,SOD-57,,No,image/diodes/ultrafast-recovery/86030.png
+BYV26A,Enlarge,200,1,2.5 at 1,30,30,175,SOD-57,,No,image/diodes/ultrafast-recovery/86040.png
+BYV26B,Enlarge,400,1,2.5 at 1,30,30,175,SOD-57,,No,image/diodes/ultrafast-recovery/86040.png
+BYV26C,Enlarge,600,1,2.5 at 1,30,30,175,SOD-57,,No,image/diodes/ultrafast-recovery/86040.png
+BYV26D,Enlarge,800,1,2.5 at 1,30,75,175,SOD-57,,No,image/diodes/ultrafast-recovery/86040.png
+BYV26E,Enlarge,1000,1,2.5 at 1,30,75,175,SOD-57,,No,image/diodes/ultrafast-recovery/86040.png
+BYV27-100,Enlarge,110,2,1.07 at 3,50,25,175,SOD-57,,No,image/diodes/ultrafast-recovery/86042.png
+BYV27-150,Enlarge,165,2,1.07 at 3,50,25,175,SOD-57,,No,image/diodes/ultrafast-recovery/86042.png
+BYV27-200,Enlarge,220,2,1.07 at 3,50,25,175,SOD-57,,No,image/diodes/ultrafast-recovery/86042.png
+BYV27-50,Enlarge,55,2,1.07 at 3,50,25,175,SOD-57,,No,image/diodes/ultrafast-recovery/86042.png
+BYV27-600,Enlarge,600,2,1.15 at 1,50,40,175,SOD-57,,No,image/diodes/ultrafast-recovery/86041.png
+BYV28-100,Enlarge,100,3.5,1.1 at 5,90,30,175,SOD-64,,Yes,image/diodes/ultrafast-recovery/86044.png
+BYV28-150,Enlarge,150,3.5,1.1 at 5,90,30,175,SOD-64,,Yes,image/diodes/ultrafast-recovery/86044.png
+BYV28-200,Enlarge,200,3.5,1.1 at 5,90,30,175,SOD-64,,Yes,image/diodes/ultrafast-recovery/86044.png
+BYV28-50,Enlarge,50,3.5,1.1 at 5,90,30,175,SOD-64,,Yes,image/diodes/ultrafast-recovery/86044.png
+BYV28-600,Enlarge,600,3.5,1.25 at 3.5,90,50,175,SOD-64,,No,image/diodes/ultrafast-recovery/86043.png
+BYV32-xxx,Enlarge,50 to 200,18,0.85,150,25,150,TO-220AB,Common cathode,Yes,image/diodes/ultrafast-recovery/88558.png
+BYV98-100,Enlarge,100,4,1.1 at 5,70,35,175,SOD-64,,No,image/diodes/ultrafast-recovery/86046.png
+BYV98-150,Enlarge,150,4,1.1 at 5,70,35,175,SOD-64,,No,image/diodes/ultrafast-recovery/86046.png
+BYV98-200,Enlarge,200,4,1.1 at 5,70,35,175,SOD-64,,No,image/diodes/ultrafast-recovery/86046.png
+BYV98-50,Enlarge,50,4,1.1 at 5,70,35,175,SOD-64,,No,image/diodes/ultrafast-recovery/86046.png
+BYVB32-xxx,Enlarge,50 to 200,18,0.85,150,25,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/ultrafast-recovery/88558.png
+BYVF32-xxx,Enlarge,50 to 200,18,0.85,150,25,150,ITO-220AB,Common cathode,Yes,image/diodes/ultrafast-recovery/88558.png
+BYW29-xxx,Enlarge,50 to 200,8,0.8,100,25,150,TO-220AC,Single,Yes,image/diodes/ultrafast-recovery/88560.png
+BYWB29-xxx,Enlarge,50 to 200,8,0.8,100,25,150,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/88560.png
+BYWF29-xxx,Enlarge,50 to 200,8,0.8,100,25,150,ITO-220AC,Single,Yes,image/diodes/ultrafast-recovery/88560.png
+EGF1A,Enlarge,50,1,1.0,30,50,175,GF1 (DO-214BA),Single,Yes,image/diodes/ultrafast-recovery/98393.png
+EGF1A,Enlarge,50,1,1.0,30,50,175,GF1 (DO-214BA),Single,Yes,image/diodes/ultrafast-recovery/88579.png
+EGF1B,Enlarge,100,1,1.0,30,50,175,GF1 (DO-214BA),Single,Yes,image/diodes/ultrafast-recovery/98393.png
+EGF1B,Enlarge,100,1,1.0,30,50,175,GF1 (DO-214BA),Single,Yes,image/diodes/ultrafast-recovery/88579.png
+EGF1C,Enlarge,150,1,1.0,30,50,175,GF1 (DO-214BA),Single,Yes,image/diodes/ultrafast-recovery/98393.png
+EGF1C,Enlarge,150,1,1.0,30,50,175,GF1 (DO-214BA),Single,Yes,image/diodes/ultrafast-recovery/88579.png
+EGF1D,Enlarge,200,1,1.0,30,50,175,GF1 (DO-214BA),Single,Yes,image/diodes/ultrafast-recovery/98393.png
+EGF1D,Enlarge,200,1,1.0,30,50,175,GF1 (DO-214BA),Single,Yes,image/diodes/ultrafast-recovery/88579.png
+EGF1T,Enlarge,1300,1,3.0,20,75,150,GF1 (DO-214BA),Single,Yes,image/diodes/ultrafast-recovery/98392.png
+EGF1T,Enlarge,1300,1,3.0,20,75,150,GF1 (DO-214BA),Single,Yes,image/diodes/ultrafast-recovery/88904.png
+EGL34x,Enlarge,50 to 400,0.5,see datasheet,10,50,175,GL34 (DO-213AA),Single,No,image/diodes/ultrafast-recovery/88580.png
+EGL41x,Enlarge,50 to 400,1,see datasheet,30,50,175,GL41 (DO-213AB),Single,No,image/diodes/ultrafast-recovery/88581.png
+ES07B,Enlarge,100,1.2,0.98,30,25,150,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/85737.png
+ES07B-M,Enlarge,100,1.2,0.98,30,25,150,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/85192.png
+ES07D,Enlarge,200,1.2,0.98,30,25,150,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/85737.png
+ES07D-M,Enlarge,200,1.2,0.98,30,25,150,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/85192.png
+ES1A,Enlarge,50,1,0.92,30,15,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88586.png
+ES1B,Enlarge,100,1,0.92,30,15,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88586.png
+ES1C,Enlarge,150,1,0.92,30,15,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88586.png
+ES1D,Enlarge,200,1,0.92,30,15,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88586.png
+ES1PB,Enlarge,100,1,0.92,30,15,150,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/88918.png
+ES1PC,Enlarge,150,1,0.92,30,15,150,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/88918.png
+ES1PD,Enlarge,200,1,0.92,30,15,150,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/88918.png
+ES2A,Enlarge,50,2,0.90,50,20,150,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/88587.png
+ES2B,Enlarge,100,2,0.90,50,20,150,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/88587.png
+ES2C,Enlarge,150,2,0.90,50,20,150,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/88587.png
+ES2D,Enlarge,200,2,0.90,50,20,150,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/88587.png
+ES2F,Enlarge,300,2,1.1,50,35,150,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/88588.png
+ES2F-M3,Enlarge,300,2,1.1,50,35,150,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/89484.png
+ES2G,Enlarge,400,2,1.1,50,35,150,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/88588.png
+ES2G-M3,Enlarge,400,2,1.1,50,35,150,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/89484.png
+ES3A,Enlarge,50,3,0.90,100,20,150,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/88589.png
+ES3B,Enlarge,100,3,0.90,100,20,150,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/88589.png
+ES3C,Enlarge,150,3,0.90,100,20,150,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/88589.png
+ES3D,Enlarge,200,3,0.90,100,20,150,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/88589.png
+ES3F,Enlarge,300,3,1.1,100,35,150,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/88590.png
+ES3G,Enlarge,400,3,1.1,100,35,150,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/88590.png
+ESH1B,Enlarge,100,1,0.90,50,25,175,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88890.png
+ESH1C,Enlarge,150,1,0.90,50,25,175,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88890.png
+ESH1D,Enlarge,200,1,0.90,50,25,175,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88890.png
+ESH1PB,Enlarge,100,1,0.90,50,25,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/88895.png
+ESH1PC,Enlarge,150,1,0.90,50,25,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/88895.png
+ESH1PD,Enlarge,200,1,0.90,50,25,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/88895.png
+ESH2B,Enlarge,100,2,0.93,60,25,175,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/84649.png
+ESH2B-M3,Enlarge,100,2,0.93,60,25,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/89482.png
+ESH2C,Enlarge,150,2,0.93,60,25,175,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/84649.png
+ESH2C-M3,Enlarge,150,2,0.93,60,25,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/89482.png
+ESH2D,Enlarge,200,2,0.93,60,25,175,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/84649.png
+ESH2D-M3,Enlarge,200,2,0.93,60,25,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/89482.png
+ESH2PB,Enlarge,100,2,0.75,50,25,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/89016.png
+ESH2PC,Enlarge,150,2,0.75,50,25,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/89016.png
+ESH2PD,Enlarge,200,2,0.75,50,25,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/89016.png
+ESH3B,Enlarge,100,3,0.90,125,25,175,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/84648.png
+ESH3B-M3,Enlarge,100,3,0.90,125,25,175,SMC (DO-214AB),Single,No,image/diodes/ultrafast-recovery/88461.png
+ESH3C,Enlarge,150,3,0.90,125,25,175,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/84648.png
+ESH3C-M3,Enlarge,150,3,0.90,125,25,175,SMC (DO-214AB),Single,No,image/diodes/ultrafast-recovery/88461.png
+ESH3D,Enlarge,200,3,0.90,125,25,175,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/84648.png
+ESH3D-M3,Enlarge,200,3,0.90,125,25,175,SMC (DO-214AB),Single,No,image/diodes/ultrafast-recovery/88461.png
+FEP16xT,Enlarge,50 to 600,2 x 8.0,see datasheet,200,35,150,TO-220AB,Common cathode,Yes,image/diodes/ultrafast-recovery/88596.png
+FEP30xP-E3,Enlarge,50,30,see datasheet,300,35,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/ultrafast-recovery/88597.png
+FEP30xP-E3,Enlarge,100,30,see datasheet,300,35,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/ultrafast-recovery/88597.png
+FEP30xP-E3,Enlarge,150,30,see datasheet,300,35,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/ultrafast-recovery/88597.png
+FEP30xP-E3,Enlarge,200,30,see datasheet,300,35,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/ultrafast-recovery/88597.png
+FEP30xP-E3,Enlarge,300,30,see datasheet,300,35,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/ultrafast-recovery/88597.png
+FEP30xP-E3,Enlarge,400,30,see datasheet,300,35,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/ultrafast-recovery/88597.png
+FEP30xP-E3,Enlarge,500,30,see datasheet,300,35,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/ultrafast-recovery/88597.png
+FEP30xP-E3,Enlarge,600,30,see datasheet,300,35,150,TO-3P (TO-247AD),Common cathode,No,image/diodes/ultrafast-recovery/88597.png
+FEPB16xT,Enlarge,50 to 600,2 x 8.0,see datasheet,200,35,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/ultrafast-recovery/88596.png
+FEPF16xT,Enlarge,300 to 600,2 x 8.0,see datasheet,125,50,150,ITO-220AB,Common cathode,Yes,image/diodes/ultrafast-recovery/98357.png
+FES16xT,Enlarge,50 to 600,16,see datasheet,250,35,150,TO-220AC,Single,Yes,image/diodes/ultrafast-recovery/88599.png
+FES8xT,Enlarge,50 to 600,8,see datasheet,125,35,150,TO-220AC,Single,Yes,image/diodes/ultrafast-recovery/88600.png
+FESB16xT,Enlarge,50 to 600,16,see datasheet,250,35,150,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/88599.png
+FESB8xT,Enlarge,50 to 600,8,see datasheet,125,35,150,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/88600.png
+FESF16xT,Enlarge,50 to 600,16,see datasheet,250,35,150,ITO-220AC,Single,Yes,image/diodes/ultrafast-recovery/88599.png
+FESF8xT,Enlarge,50 to 600,8,see datasheet,125,35,150,ITO-220AC,Single,Yes,image/diodes/ultrafast-recovery/88600.png
+GI1401,Enlarge,50,8,0.895,125,35,150,TO-220AC,Single,No,image/diodes/ultrafast-recovery/88623.png
+GI1402,Enlarge,100,8,0.895,125,35,150,TO-220AC,Single,No,image/diodes/ultrafast-recovery/88623.png
+GI1403,Enlarge,150,8,0.895,125,35,150,TO-220AC,Single,No,image/diodes/ultrafast-recovery/88623.png
+GI1404,Enlarge,200,8,0.895,125,35,150,TO-220AC,Single,No,image/diodes/ultrafast-recovery/88623.png
+GI2401,Enlarge,50,16,0.895,125,35,150,TO-220AB,Common cathode,No,image/diodes/ultrafast-recovery/88624.png
+GI2402,Enlarge,100,16,0.895,125,35,150,TO-220AB,Common cathode,No,image/diodes/ultrafast-recovery/88624.png
+GI2403,Enlarge,150,16,0.895,125,35,150,TO-220AB,Common cathode,No,image/diodes/ultrafast-recovery/88624.png
+GI2404,Enlarge,200,16,0.895,125,35,150,TO-220AB,Common cathode,No,image/diodes/ultrafast-recovery/88624.png
+GIB1404,Enlarge,200,8,0.895,125,35,150,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/88632.png
+GIB2404,Enlarge,200,16,0.895,125,35,150,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/ultrafast-recovery/88633.png
+MUH1PB,Enlarge,100,1,0.82,10,25,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/ultrafast-recovery/89124.png
+MUH1PC,Enlarge,150,1,0.82,10,25,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/ultrafast-recovery/89124.png
+MUR420,Enlarge,200,4,0.710,150,25,175,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88685.png
+MUR440,Enlarge,400,4,1.05,150,50,175,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88686.png
+MUR460,Enlarge,600,4,1.05,150,50,175,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88686.png
+MURS120,Enlarge,200,1,0.71,40,25,175,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/88687.png
+MURS120-M3,Enlarge,200,1,0.71,40,25,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/89485.png
+MURS140,Enlarge,400,1,1.05,35,50,175,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/88688.png
+MURS140-M3,Enlarge,400,1,1.05,35,50,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/89462.png
+MURS160,Enlarge,600,1,1.05,35,50,175,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/88688.png
+MURS160-M3,Enlarge,600,1,1.05,35,50,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/89462.png
+MURS240,Enlarge,400,2,1.20,35,50,175,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/88971.png
+MURS240-M3,Enlarge,400,2,1.20,35,50,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/89922.png
+MURS260,Enlarge,600,2,1.20,35,50,175,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/88971.png
+MURS260-M3,Enlarge,600,2,1.20,35,50,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/89922.png
+MURS320,Enlarge,200,3,0.71,125,25,175,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/88689.png
+MURS320-M3,Enlarge,200,3,0.71,125,25,175,SMC (DO-214AB),Single,No,image/diodes/ultrafast-recovery/89490.png
+MURS340,Enlarge,400,3,1.05,125,50,175,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/88816.png
+MURS340S,Enlarge,400,3,1.20,35,50,175,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/89110.png
+MURS340S-M3,Enlarge,400,3,1.20,35,50,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/89925.png
+MURS360,Enlarge,600,3,1.05,125,50,175,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/88816.png
+MURS360S,Enlarge,600,3,1.20,35,50,175,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/89110.png
+MURS360S-M3,Enlarge,600,3,1.20,35,50,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/89925.png
+MURS460,Enlarge,600,4,1.28,110,50,175,SMC (DO-214AB),Single,No,image/diodes/ultrafast-recovery/87541.png
+SBYV27-100,Enlarge,100,2,0.88,50,15,150,DO-15 (DO-204AC),Single,No,image/diodes/ultrafast-recovery/88736.png
+SBYV27-150,Enlarge,150,2,0.88,50,15,150,DO-15 (DO-204AC),Single,No,image/diodes/ultrafast-recovery/88736.png
+SBYV27-200,Enlarge,200,2,0.88,50,15,150,DO-15 (DO-204AC),Single,No,image/diodes/ultrafast-recovery/88736.png
+SBYV27-50,Enlarge,50,2,0.88,50,15,150,DO-15 (DO-204AC),Single,No,image/diodes/ultrafast-recovery/88736.png
+SBYV28-100,Enlarge,100,3.5,0.89,90,20,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88737.png
+SBYV28-150,Enlarge,150,3.5,0.89,90,20,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88737.png
+SBYV28-200,Enlarge,200,3.5,0.89,90,20,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88737.png
+SBYV28-50,Enlarge,50,3.5,0.89,90,20,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88737.png
+SF1200,Enlarge,1200,1,3.4 at 1,30,75,175,SOD-57,,No,image/diodes/ultrafast-recovery/86059.png
+SF1600,Enlarge,1600,1,3.4 at 1,30,75,175,SOD-57,,No,image/diodes/ultrafast-recovery/86059.png
+SF4001,Enlarge,50,1,1 at 1,30,50,175,SOD-57,,No,image/diodes/ultrafast-recovery/86060.png
+SF4002,Enlarge,100,1,1 at 1,30,50,175,SOD-57,,No,image/diodes/ultrafast-recovery/86060.png
+SF4003,Enlarge,200,1,1 at 1,30,50,175,SOD-57,,No,image/diodes/ultrafast-recovery/86060.png
+SF4004,Enlarge,400,1,1 at 1,30,50,175,SOD-57,,No,image/diodes/ultrafast-recovery/86060.png
+SF4005,Enlarge,600,1,1.7 at 1,30,75,175,SOD-57,,No,image/diodes/ultrafast-recovery/86060.png
+SF4006,Enlarge,800,1,1.7 at 1,30,75,175,SOD-57,,No,image/diodes/ultrafast-recovery/86060.png
+SF4007,Enlarge,1000,1,1.7 at 1,30,75,175,SOD-57,,No,image/diodes/ultrafast-recovery/86060.png
+SF5400,Enlarge,50,3,1.1 at 3,150,50,175,SOD-64,,No,image/diodes/ultrafast-recovery/86061.png
+SF5401,Enlarge,100,3,1.1 at 3,150,50,175,SOD-64,,No,image/diodes/ultrafast-recovery/86061.png
+SF5402,Enlarge,200,3,1.1 at 3,150,50,175,SOD-64,,No,image/diodes/ultrafast-recovery/86061.png
+SF5403,Enlarge,300,3,1.1 at 3,150,50,175,SOD-64,,No,image/diodes/ultrafast-recovery/86061.png
+SF5404,Enlarge,400,3,1.1 at 3,150,50,175,SOD-64,,No,image/diodes/ultrafast-recovery/86061.png
+SF5405,Enlarge,500,3,1.7 at 3,150,75,175,SOD-64,,No,image/diodes/ultrafast-recovery/86061.png
+SF5406,Enlarge,600,3,1.7 at 3,150,75,175,SOD-64,,No,image/diodes/ultrafast-recovery/86061.png
+SF5407,Enlarge,800,3,1.7 at 3,150,75,175,SOD-64,,No,image/diodes/ultrafast-recovery/86061.png
+SF5408,Enlarge,1000,3,1.7 at 3,150,75,175,SOD-64,,No,image/diodes/ultrafast-recovery/86061.png
+UF1005,Enlarge,600 to 1000,1,1.7,30,75,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/89880.png
+UF1006,Enlarge,600 to 1000,1,1.7,30,75,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/89880.png
+UF1007,Enlarge,600 to 1000,1,1.7,30,75,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/89880.png
+UF4001,Enlarge,50,1,see datasheet,30,50,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/88755.png
+UF4002,Enlarge,100,1,see datasheet,30,50,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/88755.png
+UF4003,Enlarge,200,1,see datasheet,30,50,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/88755.png
+UF4004,Enlarge,400,1,see datasheet,30,50,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/88755.png
+UF4005,Enlarge,600,1,see datasheet,30,50,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/88755.png
+UF4006,Enlarge,800,1,see datasheet,30,50,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/88755.png
+UF4007,Enlarge,1000,1,see datasheet,30,50,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/88755.png
+UF5400,Enlarge,50,3,see datasheet,150,50,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88756.png
+UF5401,Enlarge,100,3,see datasheet,150,50,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88756.png
+UF5402,Enlarge,200,3,see datasheet,150,50,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88756.png
+UF5403,Enlarge,300,3,see datasheet,150,50,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88756.png
+UF5404,Enlarge,400,3,see datasheet,150,50,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88756.png
+UF5405,Enlarge,500,3,see datasheet,150,50,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88756.png
+UF5406,Enlarge,600,3,see datasheet,150,50,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88756.png
+UF5407,Enlarge,800,3,see datasheet,150,50,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88756.png
+UF5408,Enlarge,1000,3,see datasheet,150,50,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88756.png
+UG10xCT,Enlarge,100 to 200,2 x 5.0,0.895,55,25,150,TO-220AB,Common cathode,No,image/diodes/ultrafast-recovery/88549.png
+UG1A,Enlarge,50,1,0.95,40,15,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/88760.png
+UG1B,Enlarge,100,1,0.95,40,15,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/88760.png
+UG1C,Enlarge,150,1,0.95,40,15,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/88760.png
+UG1D,Enlarge,200,1,0.95,40,15,150,DO-41 (DO-204AL),Single,No,image/diodes/ultrafast-recovery/88760.png
+UG2A,Enlarge,50,2,0.95,80,15,150,DO-15 (DO-204AC),Single,No,image/diodes/ultrafast-recovery/88761.png
+UG2B,Enlarge,100,2,0.95,80,15,150,DO-15 (DO-204AC),Single,No,image/diodes/ultrafast-recovery/88761.png
+UG2C,Enlarge,150,2,0.95,80,15,150,DO-15 (DO-204AC),Single,No,image/diodes/ultrafast-recovery/88761.png
+UG2D,Enlarge,200,2,0.95,80,15,150,DO-15 (DO-204AC),Single,No,image/diodes/ultrafast-recovery/88761.png
+UG4A,Enlarge,50,4,0.95,150,20,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88763.png
+UG4B,Enlarge,100,4,0.95,150,20,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88763.png
+UG4C,Enlarge,150,4,0.95,150,20,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88763.png
+UG4D,Enlarge,200,4,0.95,150,20,150,DO-201AD,Single,No,image/diodes/ultrafast-recovery/88763.png
+UH4PBC,Enlarge,100,2 x 2.0,0.77,40,25,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/ultrafast-recovery/88991.png
+UH4PCC,Enlarge,150,2 x 2.0,0.77,40,25,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/ultrafast-recovery/88991.png
+US1A,Enlarge,50,1,see datasheet,30,50,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88768.png
+US1B,Enlarge,100,1,see datasheet,30,50,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88768.png
+US1D,Enlarge,200,1,see datasheet,30,50,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88768.png
+US1G,Enlarge,400,1,see datasheet,30,50,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88768.png
+US1J,Enlarge,600,1,see datasheet,30,50,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88768.png
+US1K,Enlarge,800,1,see datasheet,30,50,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88768.png
+US1M,Enlarge,1000,1,see datasheet,30,50,150,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/88768.png
+USB260,Enlarge,600,2,1.0,90,30,150,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/89483.png
+VS-10CDU06-M3,Enlarge,600,2 x 5,1,110,35,175,SMPD (TO-263AC),Common cathode,No,image/diodes/ultrafast-recovery/96518.png
+VS-10CDU06HM3,Enlarge,600,2 x 5,1,110,35,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/ultrafast-recovery/96519.png
+VS-10CSH01-M3,Enlarge,100,2 x 5,0.75,130,25,175,SMPC (TO-277A),Common cathode,No,image/diodes/ultrafast-recovery/94994.png
+VS-10CSH01HM3,Enlarge,100,2 x 5,0.75,130,25,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/ultrafast-recovery/94995.png
+VS-10CSH02-M3,Enlarge,200,2 x 5,0.75,130,25,175,SMPC (TO-277A),Common cathode,No,image/diodes/ultrafast-recovery/94974.png
+VS-10CSH02HM3,Enlarge,200,2 x 5,0.75,130,25,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/ultrafast-recovery/94975.png
+VS-10CVH01-M3,Enlarge,100,2 x 5,0.74,100,16,175,SlimDPAK (TO-252AE),Common cathode,No,image/diodes/ultrafast-recovery/96098.png
+VS-10CVH01HM3,Enlarge,100,2 x 5,0.74,100,16,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/ultrafast-recovery/96099.png
+VS-10CVH02-M3,Enlarge,200,2 x 5,0.74,100,16,175,SlimDPAK (TO-252AE),Common cathode,No,image/diodes/ultrafast-recovery/96097.png
+VS-10CVH02HM3,Enlarge,200,2 x 5,0.74,100,16,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/ultrafast-recovery/95668.png
+VS-10CWH02FN-M3,Enlarge,200,2 x 5,0.74,80,23,175,DPAK (TO-252AA),Common cathode,No,image/diodes/ultrafast-recovery/93263.png
+VS-12CDU06-M3,Enlarge,600,2 x 6,0.89,200,45,175,SMPD (TO-263AC),Common cathode,No,image/diodes/ultrafast-recovery/95810.png
+VS-12CDU06HM3,Enlarge,600,2 x 6,0.89,200,45,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/ultrafast-recovery/95811.png
+VS-12EWH06FN-M3,Enlarge,600,12,1.34,110,18,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93254.png
+VS-150EBU02-N4,Enlarge,200,150,0.79,1600,see datasheet,175,PowerTab®,Single,No,image/diodes/ultrafast-recovery/97194.png
+VS-150EBU02HN4,Enlarge,200,150,0.77,1600,see datasheet,175,PowerTab®,Single,Yes,image/diodes/ultrafast-recovery/97195.png
+VS-150EBU04-N4,Enlarge,400,150,0.9,1500,see datasheet,175,PowerTab®,Single,No,image/diodes/ultrafast-recovery/97192.png
+VS-150EBU04HN4,Enlarge,400,150,0.9,1500,see datasheet,175,PowerTab®,Single,Yes,image/diodes/ultrafast-recovery/97193.png
+VS-15AWL06FN-M3,Enlarge,600,15,0.85,180,60,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93568.png
+VS-15ETH03-1-M3,Enlarge,300,15,0.85,140,40,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96230.png
+VS-15ETH03-M3,Enlarge,300,15,0.85,140,see datasheet,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96181.png
+VS-15ETH03S-M3,Enlarge,300,15,0.85,140,40,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96230.png
+VS-15ETH03SHM3,Enlarge,,,,,,,,,,image/diodes/ultrafast-recovery/96231.png
+VS-15ETH06-1-M3,Enlarge,600,15,1.3,120,22,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96301.png
+VS-15ETH06-M3,Enlarge,600,15,1.3,120,22,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96174.png
+VS-15ETH06FP-N3,Enlarge,600,15,1.3,180,22,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96426.png
+VS-15ETH06HN3,Enlarge,600,15,2.2,120,22,175,TO-220AC,Single die,Yes,image/diodes/ultrafast-recovery/94767.png
+VS-15ETH06S-M3,Enlarge,600,15,1.3,120,22,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96301.png
+VS-15ETL06-1-M3,Enlarge,600,15,0.85,250,60,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96315.png
+VS-15ETL06-M3,Enlarge,600,15,0.85,250,60,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96175.png
+VS-15ETL06FP-N3,Enlarge,600,15,0.85,250,60,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96427.png
+VS-15ETL06HN3,Enlarge,600,15,0.85,250,60,175,TO-220AC,Single die,Yes,image/diodes/ultrafast-recovery/94816.png
+VS-15ETL06S-M3,Enlarge,600,15,0.85,250,60,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96315.png
+VS-15ETU12-M3,Enlarge,1200,15,2.25,150,44,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96207.png
+VS-15ETU12HN3,Enlarge,1200,15,2.25,150,44,175,TO-220AC,Single die,Yes,image/diodes/ultrafast-recovery/95645.png
+VS-15ETX06-1-M3,Enlarge,600,15,1.5,170,18,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96302.png
+VS-15ETX06-M3,Enlarge,600,15,1.5,170,18,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96176.png
+VS-15ETX06FP-N3,Enlarge,600,15,1.5,170,18,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96428.png
+VS-15ETX06S-M3,Enlarge,600,15,1.5,170,18,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96302.png
+VS-15EVH06-M3,Enlarge,600,15,1.2,120,20,175,SlimDPAK (TO-252AE),Single,No,image/diodes/ultrafast-recovery/96159.png
+VS-15EVH06HM3,Enlarge,600,15,1.2,120,20,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/ultrafast-recovery/96158.png
+VS-15EVL06-M3,Enlarge,600,15,0.98,180,38,175,SlimDPAK (TO-252AE),Single,No,image/diodes/ultrafast-recovery/96161.png
+VS-15EVL06HM3,Enlarge,600,15,0.98,180,38,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/ultrafast-recovery/96160.png
+VS-15EVU06-M3,Enlarge,600,15,1.10,160,26,175,SlimDPAK (TO-252AE),Single,No,image/diodes/ultrafast-recovery/96163.png
+VS-15EVU06HM3,Enlarge,600,15,1.10,160,26,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/ultrafast-recovery/96162.png
+VS-15EWH06FN-M3,Enlarge,600,15,1.2,120,22,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93237.png
+VS-15EWL06FN-M3,Enlarge,600,15,0.85,180,60,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93568.png
+VS-15EWX06FN-M3,Enlarge,600,15,1.5,120,18,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93239.png
+VS-16CDH02-M3,Enlarge,200,2 x 8,0.77,190,27,175,SMPD (TO-263AC),Common cathode,No,image/diodes/ultrafast-recovery/95812.png
+VS-16CDH02HM3,Enlarge,200,2 x 8,0.77,190,27,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/ultrafast-recovery/95813.png
+VS-16CDU06-M3,Enlarge,600,2 x 8,0.94,200,45,175,SMPD (TO-263AC),Common cathode,No,image/diodes/ultrafast-recovery/95814.png
+VS-16CDU06HM3,Enlarge,600,2 x 8,0.94,200,45,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/ultrafast-recovery/95815.png
+VS-16CTU04-1-M3,Enlarge,400,2 x 8,0.94,100,35,175,TO-262AA,Common cathode,No,image/diodes/ultrafast-recovery/96232.png
+VS-16CTU04-M3,Enlarge,400,2 x 8,0.94,100,see datasheet,175,TO-220AB 3L,Common cathode,No,image/diodes/ultrafast-recovery/96197.png
+VS-16CTU04HN3,Enlarge,400,2 x 8,0.94,100,24,175,TO-220AB,Common cathode,Yes,image/diodes/ultrafast-recovery/94720.png
+VS-16CTU04S-M3,Enlarge,400,2 x 8,0.94,100,35,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/ultrafast-recovery/96232.png
+VS-16EDH02-M3,Enlarge,200,16,0.75,250,32,175,SMPD (TO-263AC),Single,No,image/diodes/ultrafast-recovery/95816.png
+VS-16EDH02HM3,Enlarge,200,16,0.75,250,32,175,SMPD (TO-263AC),Single,Yes,image/diodes/ultrafast-recovery/95817.png
+VS-16EDH06-M3,Enlarge,600,16,1.24,160,30,175,SMPD (TO-263AC),Single,No,image/diodes/ultrafast-recovery/96228.png
+VS-16EDH06HM3,Enlarge,600,16,1.24,160,30,175,SMPD (TO-263AC),Single,Yes,image/diodes/ultrafast-recovery/96229.png
+VS-16EDU06-M3,Enlarge,600,16,0.91,160,55,175,SMPD (TO-263AC),Single,No,image/diodes/ultrafast-recovery/95818.png
+VS-16EDU06HM3,Enlarge,600,16,0.91,160,55,175,SMPD (TO-263AC),Single,Yes,image/diodes/ultrafast-recovery/95819.png
+VS-1EAH02-M3,Enlarge,200,1,0.72,32,15,175,DFN3820A,Single,No,image/diodes/ultrafast-recovery/97082.png
+VS-1EAH02HM3,Enlarge,200,1,0.72,32,15,175,DFN3820A,Single,Yes,image/diodes/ultrafast-recovery/97067.png
+VS-1EFH01-M3,Enlarge,100,1,0.74,35,25,175,SMF (DO-219AB),Single,No,image/diodes/ultrafast-recovery/95783.png
+VS-1EFH01HM3,Enlarge,100,1,0.74,35,25,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/95784.png
+VS-1EFH02-M3,Enlarge,200,1,0.74,35,25,175,SMF (DO-219AB),Single,No,image/diodes/ultrafast-recovery/95785.png
+VS-1EFH02HM3,Enlarge,200,1,0.74,35,25,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/95786.png
+VS-1EFU06-M3,Enlarge,600,1,0.83,30,55,175,SMF (DO-219AB),Single,No,image/diodes/ultrafast-recovery/95864.png
+VS-1EFU06HM3,Enlarge,600,1,0.83,30,55,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/95863.png
+VS-1EMH01-M3,Enlarge,100,1,0.68,50,25,175,SMA (DO-214AC),Single die,No,image/diodes/ultrafast-recovery/95826.png
+VS-1EMH01HM3,Enlarge,100,1,0.68,50,25,175,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/95827.png
+VS-1EMH02-M3,Enlarge,200,1,0.68,50,25,175,SMA (DO-214AC),Single,No,image/diodes/ultrafast-recovery/95828.png
+VS-1EMH02HM3,Enlarge,200,1,0.68,50,25,175,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/95829.png
+VS-1ENH01-M3,Enlarge,100,1,0.69,40,23,175,SMP (DO-220AA),Single,No,image/diodes/ultrafast-recovery/96578.png
+VS-1ENH01HM3,Enlarge,100,1,0.69,40,23,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/96544.png
+VS-1ENH02-M3,Enlarge,200,1,0.69,40,23,175,SMP (DO-220AA),Single,No,image/diodes/ultrafast-recovery/96578.png
+VS-1ENH02HM3,Enlarge,200,1,0.69,40,23,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/96544.png
+VS-1EQH01-M3,Enlarge,100,1,0.72,30,33,175,MicroSMP (DO-219AD),Single,No,image/diodes/ultrafast-recovery/96592.png
+VS-1EQH01HM3,Enlarge,100,1,0.72,30,33,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/ultrafast-recovery/96563.png
+VS-1EQH02-M3,Enlarge,200,1,0.72,30,33,175,MicroSMP (DO-219AD),Single,No,image/diodes/ultrafast-recovery/96592.png
+VS-1EQH02HM3,Enlarge,200,1,0.72,30,33,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/ultrafast-recovery/96563.png
+VS-20CDH02-M3,Enlarge,200,2 x 10,0.77,210,25,175,SMPD (TO-263AC),Common cathode,No,image/diodes/ultrafast-recovery/95820.png
+VS-20CDH02HM3,Enlarge,200,2 x 10,0.77,210,25,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/ultrafast-recovery/95821.png
+VS-20CTH03-1-M3,Enlarge,300,2 x 10,0.85,120,35,175,TO-262AA,Common cathode,No,image/diodes/ultrafast-recovery/96386.png
+VS-20CTH03-1HM3,Enlarge,300,2 x 10,0.85,120,23,175,TO-262AA,Common cathode,Yes,image/diodes/ultrafast-recovery/95671.png
+VS-20CTH03-M3,Enlarge,300,2 x 10,0.85,120,see datasheet,175,TO-220AB 3L,Common cathode,No,image/diodes/ultrafast-recovery/96205.png
+VS-20CTH03FP-N3,Enlarge,300,2 x 10,0.85,120,see datasheet,175,TO-220 FullPAK 3L,Common cathode,No,image/diodes/ultrafast-recovery/96432.png
+VS-20CTH03S-M3,Enlarge,300,2 x 10,0.85,120,35,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/ultrafast-recovery/96386.png
+VS-20CTH03SHM3,Enlarge,300,2 x 10,0.85,120,23,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/ultrafast-recovery/95671.png
+VS-2EAH02-M3,Enlarge,200,2,0.71,54,15,175,DFN3820A,Single,No,image/diodes/ultrafast-recovery/97083.png
+VS-2EAH02HM3,Enlarge,200,2,0.71,54,15,175,DFN3820A,Single,Yes,image/diodes/ultrafast-recovery/97069.png
+VS-2EFH01-M3,Enlarge,100,2,0.75,50,25,175,SMF (DO-219AB),Single,No,image/diodes/ultrafast-recovery/95787.png
+VS-2EFH01HM3,Enlarge,100,2,0.75,50,25,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/95788.png
+VS-2EFH02-M3,Enlarge,200,2,0.75,50,25,175,SMF (DO-219AB),Single,No,image/diodes/ultrafast-recovery/95789.png
+VS-2EFH02HM3,Enlarge,200,2,0.75,50,25,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/95790.png
+VS-2EFU06-M3,Enlarge,600,2,0.95,30,55,175,SMF (DO-219AB),Single,No,image/diodes/ultrafast-recovery/95866.png
+VS-2EFU06HM3,Enlarge,600,2,0.95,30,55,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/95865.png
+VS-2EGH01-M3,Enlarge,100,2,0.66,70,24,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/96443.png
+VS-2EGH02-M3,Enlarge,200,2,0.66,70,24,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/96444.png
+VS-2EGH02HM3,Enlarge,200,2,0.66,70,24,175,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/94859.png
+VS-2EJH01-M3,Enlarge,100,2,0.72,65,25,175,SlimSMA (DO-221AC),Single,No,image/diodes/ultrafast-recovery/94901.png
+VS-2EJH01HM3,Enlarge,100,2,0.72,65,25,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/ultrafast-recovery/94902.png
+VS-2EJH02-M3,Enlarge,200,2,0.72,65,25,175,SlimSMA (DO-221AC),Single,No,image/diodes/ultrafast-recovery/94881.png
+VS-2EJH02HM3,Enlarge,200,2,0.72,65,25,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/ultrafast-recovery/94880.png
+VS-2EMH01-M3,Enlarge,100,2,0.75,50,25,175,SMA (DO-214AC),Single,No,image/diodes/ultrafast-recovery/95830.png
+VS-2EMH01HM3,Enlarge,100,2,0.75,50,25,175,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/95831.png
+VS-2EMH02-M3,Enlarge,200,2,0.75,50,25,175,SMA (DO-214AC),Single,No,image/diodes/ultrafast-recovery/95832.png
+VS-2EMH02HM3,Enlarge,200,2,0.75,50,25,175,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/95833.png
+VS-2ENH01-M3,Enlarge,100,2,0.79,40,23,175,SMP (DO-220AA),Single,No,image/diodes/ultrafast-recovery/96577.png
+VS-2ENH01HM3,Enlarge,100,2,0.79,40,23,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/96548.png
+VS-2ENH02-M3,Enlarge,200,2,0.79,40,23,175,SMP (DO-220AA),Single,No,image/diodes/ultrafast-recovery/96577.png
+VS-2ENH02HM3,Enlarge,200,2,0.79,40,23,175,SMP (DO-220AA),Single,Yes,image/diodes/ultrafast-recovery/96548.png
+VS-2EQH01-M3,Enlarge,100,2,0.82,30,33,175,MicroSMP (DO-219AD),Single,No,image/diodes/ultrafast-recovery/96545.png
+VS-2EQH01HM3,Enlarge,100,2,0.82,30,33,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/ultrafast-recovery/96564.png
+VS-2EQH02-M3,Enlarge,200,2,0.82,30,33,175,MicroSMP (DO-219AD),Single,No,image/diodes/ultrafast-recovery/96545.png
+VS-2EQH02HM3,Enlarge,200,2,0.82,30,33,175,MicroSMP (DO-219AD),Single,Yes,image/diodes/ultrafast-recovery/96564.png
+VS-2EYH01-M3,Enlarge,100,2,0.69,60,15,175,SlimSMAW (DO-221AD),Single,No,image/diodes/ultrafast-recovery/96514.png
+VS-2EYH01HM3,Enlarge,100,2,0.69,60,15,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/ultrafast-recovery/96383.png
+VS-2EYH02-M3,Enlarge,200,2,0.69,60,15,175,SlimSMAW (DO-221AD),Single,No,image/diodes/ultrafast-recovery/96514.png
+VS-2EYH02HM3,Enlarge,200,2,0.69,60,15,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/ultrafast-recovery/96383.png
+VS-30CDH06-M3,Enlarge,600,2 x 15,1.22,160,30,175,SMPD (TO-263AC),Common cathode,No,image/diodes/ultrafast-recovery/96625.png
+VS-30CDH06HM3,Enlarge,600,2 x 15,1.22,160,30,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/ultrafast-recovery/96624.png
+VS-30CDU06-M3,Enlarge,600,2 x 15,0.9,300,55,175,SMPD (TO-263AC),Common cathode,No,image/diodes/ultrafast-recovery/95822.png
+VS-30CDU06HM3,Enlarge,600,2 x 15,0.9,300,55,175,SMPD (TO-263AC),Common cathode,Yes,image/diodes/ultrafast-recovery/95823.png
+VS-30CPH03-N3,Enlarge,300,2 x 15,0.85,140,see datasheet,175,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94012.png
+VS-30CPU04-N3,Enlarge,400,2 x 15,0.93,200,see datasheet,175,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94013.png
+VS-30CPU04LHN3,Enlarge,400,2 x 15,0.93,200,36,175,TO-247AD 3L,Common cathode,Yes,image/diodes/ultrafast-recovery/96845.png
+VS-30CTH02-1-M3,Enlarge,200,2 x 15,0.78,200,30,175,TO-262AA,Common cathode,No,image/diodes/ultrafast-recovery/96234.png
+VS-30CTH02-M3,Enlarge,200,2 x 15,0.78,200,see datasheet,175,TO-220AB 3L,Common cathode,No,image/diodes/ultrafast-recovery/96206.png
+VS-30CTH02FP-N3,Enlarge,200,2 x 15,0.78,200,see datasheet,175,TO-220 FullPAK 3L,Common cathode,No,image/diodes/ultrafast-recovery/96433.png
+VS-30CTH02HN3,Enlarge,200,2 x 15,0.78,200,see datasheet,175,TO-220AB,Common cathode,Yes,image/diodes/ultrafast-recovery/96116.png
+VS-30CTH02S-M3,Enlarge,200,2 x 15,0.78,200,30,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/ultrafast-recovery/96234.png
+VS-30CTH02SHM3,Enlarge,200,2 x 15,0.78,200,30,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/ultrafast-recovery/96522.png
+VS-30CTH03-M3,Enlarge,300,2 x 15,0.85,150,see datasheet,175,TO-220AB 3L,Common cathode,No,image/diodes/ultrafast-recovery/96198.png
+VS-30EPH03-N3,Enlarge,300,30,0.9,300,see datasheet,175,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94017.png
+VS-30EPH06-N3,Enlarge,600,30,1.34,300,see datasheet,175,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94018.png
+VS-30EPH06HN3,Enlarge,600,30,1.34,300,see datasheet,175,TO-247AC modified,Single,Yes,image/diodes/ultrafast-recovery/94371.png
+VS-30EPH06L-N3,Enlarge,600,30,1.34,300,see datasheet,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96626.png
+VS-30EPU12L-N3,Enlarge,1200,30,2.05,300,49,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/95927.png
+VS-30EPU12LHN3,Enlarge,1200,30,2.05,300,49,175,TO-247AD 2L,Single die,Yes,image/diodes/ultrafast-recovery/95938.png
+VS-30ETH06-1-M3,Enlarge,600,30,1.34,200,28,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/94236.png
+VS-30ETH06-1-M3,Enlarge,600,30,1.34,200,28,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96236.png
+VS-30ETH06-M3,Enlarge,600,30,1.34,200,23,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96182.png
+VS-30ETH06FP-N3,Enlarge,600,30,1.34,220,23,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96292.png
+VS-30ETH06S-M3,Enlarge,600,30,1.34,200,28,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/94236.png
+VS-30ETH06S-M3,Enlarge,600,30,1.34,200,28,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96236.png
+VS-30ETU12-M3,Enlarge,1200,30,2.05,240,49,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/95990.png
+VS-30ETU12THN3,Enlarge,1200,30,2.05,240,49,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96071.png
+VS-3EAH02-M3,Enlarge,200,3,0.73,61,15,175,DFN3820A,Single,No,image/diodes/ultrafast-recovery/97084.png
+VS-3EAH02HM3,Enlarge,200,3,0.73,61,15,175,DFN3820A,Single,Yes,image/diodes/ultrafast-recovery/97070.png
+VS-3ECH01-M3,Enlarge,100,3,0.69,130,25,175,SMC (DO-214AB),Single,No,image/diodes/ultrafast-recovery/95834.png
+VS-3ECH01HM3,Enlarge,100,3,0.69,130,25,175,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/95835.png
+VS-3ECH02-M3,Enlarge,200,3,0.69,130,25,175,SMC (DO-214AB),Single,No,image/diodes/ultrafast-recovery/95836.png
+VS-3ECH02HM3,Enlarge,200,3,0.69,130,25,175,SMC (DO-214AB),Single,Yes,image/diodes/ultrafast-recovery/95837.png
+VS-3EGH06-M3,Enlarge,600,3,1.2,55,35,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/94773.png
+VS-3EGU06-M3,Enlarge,600,3,0.99,55,41,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/94707.png
+VS-3EGU06WHM3,Enlarge,600,3,0.99,55,41,175,SMB (DO-214AA),Single,Yes,image/diodes/ultrafast-recovery/95852.png
+VS-3EJH01-M3,Enlarge,100,3,0.74,85,30,175,SlimSMA (DO-221AC),Single,No,image/diodes/ultrafast-recovery/94903.png
+VS-3EJH01HM3,Enlarge,100,3,0.74,85,30,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/ultrafast-recovery/94904.png
+VS-3EJH02-M3,Enlarge,200,3,0.74,85,30,175,SlimSMA (DO-221AC),Single,No,image/diodes/ultrafast-recovery/94879.png
+VS-3EJH02HM3,Enlarge,200,3,0.74,85,30,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/ultrafast-recovery/94878.png
+VS-3EJU06-M3,Enlarge,600,3,0.99,43,50,175,SlimSMA (DO-221AC),Single,No,image/diodes/ultrafast-recovery/96067.png
+VS-3EJU06HM3,Enlarge,600,3,0.99,43,50,175,SlimSMA (DO-221AC),Single,Yes,image/diodes/ultrafast-recovery/96068.png
+VS-3EMH06-M3,Enlarge,600,3,1.2,50,35,175,SMA (DO-214AC),Single,No,image/diodes/ultrafast-recovery/94776.png
+VS-3EMU06-M3,Enlarge,600,3,0.99,55,41,175,SMA (DO-214AC),Single,No,image/diodes/ultrafast-recovery/93993.png
+VS-3EYH01-M3,Enlarge,100,3,0.71,70,16,175,SlimSMAW (DO-221AD),Single,No,image/diodes/ultrafast-recovery/96515.png
+VS-3EYH01HM3,Enlarge,100,3,0.71,70,16,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/ultrafast-recovery/96384.png
+VS-3EYH02-M3,Enlarge,200,3,0.71,70,16,175,SlimSMAW (DO-221AD),Single,No,image/diodes/ultrafast-recovery/96515.png
+VS-3EYH02HM3,Enlarge,200,3,0.71,70,16,175,SlimSMAW (DO-221AD),Single,Yes,image/diodes/ultrafast-recovery/96384.png
+VS-4CSH01-M3,Enlarge,100,2 x 2,0.75,90,24,175,SMPC (TO-277A),Common cathode,No,image/diodes/ultrafast-recovery/94996.png
+VS-4CSH01HM3,Enlarge,100,2 x 2,0.75,90,24,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/ultrafast-recovery/94997.png
+VS-4CSH02-M3,Enlarge,200,2 x 2,0.75,90,24,175,SMPC (TO-277A),Common cathode,No,image/diodes/ultrafast-recovery/94976.png
+VS-4CSH02HM3,Enlarge,200,2 x 2,0.75,90,24,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/ultrafast-recovery/94973.png
+VS-4ECH06-M3,Enlarge,600,4,1.15,90,30,175,SMC (DO-214AB),Single,No,image/diodes/ultrafast-recovery/94777.png
+VS-4ECU06-M3,Enlarge,600,4,0.88,120,45,175,SMC (DO-214AB),Single,No,image/diodes/ultrafast-recovery/94778.png
+VS-4EGH06-M3,Enlarge,600,4,1.2,55,30,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/94775.png
+VS-4EGU06-M3,Enlarge,600,4,0.94,100,45,175,SMB (DO-214AA),Single,No,image/diodes/ultrafast-recovery/94774.png
+VS-4ESH01-M3,Enlarge,100,4,0.73,130,27,175,SMPC (TO-277A),Single,No,image/diodes/ultrafast-recovery/94998.png
+VS-4ESH01HM3,Enlarge,100,4,0.73,130,27,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/94999.png
+VS-4ESH02-M3,Enlarge,200,4,0.73,130,27,175,SMPC (TO-277A),Single,No,image/diodes/ultrafast-recovery/94978.png
+VS-4ESH02HM3,Enlarge,200,4,0.73,130,27,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/94979.png
+VS-4EVH01-M3,Enlarge,100,4,0.71,100,16,175,SlimDPAK (TO-252AE),Single,No,image/diodes/ultrafast-recovery/96100.png
+VS-4EVH01HM3,Enlarge,100,4,0.71,100,16,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/ultrafast-recovery/96101.png
+VS-4EVH02-M3,Enlarge,200,4,0.71,100,16,175,SlimDPAK (TO-252AE),Single,No,image/diodes/ultrafast-recovery/96102.png
+VS-4EVH02HM3,Enlarge,200,4,0.71,100,16,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/ultrafast-recovery/95669.png
+VS-4EWH02FN-M3,Enlarge,200,4,0.71,80,23,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93258.png
+VS-4EWH02FNHM3,Enlarge,200,4,0.71,80,23,175,DPAK (TO-252AA),Single,Yes,image/diodes/ultrafast-recovery/94766.png
+VS-50EPU12L-N3,Enlarge,1200,50,1.95,400,57,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/95928.png
+VS-50EPU12LHN3,Enlarge,1200,50,1.95,400,57,175,TO-247AD 2L,Single die,Yes,image/diodes/ultrafast-recovery/95684.png
+VS-5EAH02-M3,Enlarge,200,5,0.72,102,15,175,DFN3820A,Single,No,image/diodes/ultrafast-recovery/97085.png
+VS-5EAH02HM3,Enlarge,200,5,0.72,102,15,175,DFN3820A,Single,Yes,image/diodes/ultrafast-recovery/97071.png
+VS-5ECH06-M3,Enlarge,600,5,1.2,110,30,175,SMC (DO-214AB),Single,No,image/diodes/ultrafast-recovery/94779.png
+VS-5ECU06-M3,Enlarge,600,5,0.92,130,45,175,SMC (DO-214AB),Single,No,image/diodes/ultrafast-recovery/94780.png
+VS-5EWH06FN-M3,Enlarge,600,5,1.2,70,18,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93245.png
+VS-5EWH06FNHM3,Enlarge,600,5,1.2,70,18,175,DPAK (TO-252AA),Single,Yes,image/diodes/ultrafast-recovery/94817.png
+VS-5EWL06FN-M3,Enlarge,600,5,0.85,80,59,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93250.png
+VS-5EWX06FN-M3,Enlarge,600,5,1.55,50,14,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93248.png
+VS-60APH03-N3,Enlarge,300,60,0.85,450,28,175,TO-247AC 3L,Single,No,image/diodes/ultrafast-recovery/94796.png
+VS-60APH03L-N3,Enlarge,300,60,0.85,450,28,175,TO-247AD 3L,Single,No,image/diodes/ultrafast-recovery/96627.png
+VS-60APU02-N3,Enlarge,200,60,0.81,800,see datasheet,175,TO-247AC 3L,Single,No,image/diodes/ultrafast-recovery/94021.png
+VS-60APU04-N3,Enlarge,400,60,0.87,600,see datasheet,175,TO-247AC 3L,Single,No,image/diodes/ultrafast-recovery/94022.png
+VS-60APU04LHN3,Enlarge,400,60,0.87,600,50,175,TO-247AD 3L,Single,Yes,image/diodes/ultrafast-recovery/96846.png
+VS-60APU06-N3,Enlarge,600,60,1.11,600,see datasheet,175,TO-247AC 3L,Single,No,image/diodes/ultrafast-recovery/94023.png
+VS-60APU06HN3,Enlarge,600,60,1.11,600,see datasheet,175,TO-247AC,Single die,Yes,image/diodes/ultrafast-recovery/93806.png
+VS-60CPH03-N3,Enlarge,300,2 x 30,0.92,300,see datasheet,175,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94500.png
+VS-60CPU02-N3,Enlarge,200,2 x 30,0.75,300,30,175,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94657.png
+VS-60CPU03W-N3,Enlarge,300,2 x 30,0.9,300,50,175,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/95800.png
+VS-60CPU04-N3,Enlarge,400,2 x 30,0.92,300,37,175,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/93189.png
+VS-60CPU06-N3,Enlarge,600,2 x 30,1.1,300,27,175,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94658.png
+VS-60EPU02-N3,Enlarge,200,60,0.81,800,see datasheet,175,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94021.png
+VS-60EPU04-N3,Enlarge,400,60,0.87,600,see datasheet,175,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94022.png
+VS-60EPU04LHN3,Enlarge,400,60,0.87,600,50,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96846.png
+VS-60EPU06-N3,Enlarge,600,60,1.11,600,see datasheet,175,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94023.png
+VS-60EPU06HN3,Enlarge,600,60,1.11,600,see datasheet,175,TO-247AC modified (2 pins),Single die,Yes,image/diodes/ultrafast-recovery/93806.png
+VS-60EPU06L-N3,Enlarge,600,60,1.11,600,see datasheet,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96628.png
+VS-6CSH01-M3,Enlarge,100,2 x 3,0.75,150,27,175,SMPC (TO-277A),Common cathode,No,image/diodes/ultrafast-recovery/95700.png
+VS-6CSH01HM3,Enlarge,100,2 x 3,0.75,150,27,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/ultrafast-recovery/95701.png
+VS-6CSH02-M3,Enlarge,200,2 x 3,0.75,150,27,175,SMPC (TO-277A),Common cathode,No,image/diodes/ultrafast-recovery/94980.png
+VS-6CSH02HM3,Enlarge,200,2 x 3,0.75,150,27,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/ultrafast-recovery/94981.png
+VS-6CVH01-M3,Enlarge,100,2 x 3,0.75,70,20,175,SlimDPAK (TO-252AE),Common cathode,No,image/diodes/ultrafast-recovery/96091.png
+VS-6CVH01HM3,Enlarge,100,2 x 3,0.75,70,20,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/ultrafast-recovery/96089.png
+VS-6CVH02-M3,Enlarge,200,2 x 3,0.75,70,20,175,SlimDPAK (TO-252AE),Common cathode,No,image/diodes/ultrafast-recovery/96087.png
+VS-6CVH02HM3,Enlarge,200,2 x 3,0.75,70,20,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/ultrafast-recovery/95664.png
+VS-6CWH02FN-M3,Enlarge,200,2 x 3,0.9,50,see datasheet,175,DPAK (TO-252AA),Common cathode,No,image/diodes/ultrafast-recovery/93498.png
+VS-6CWH02FNHM3,Enlarge,200,2 x 3,0.9,50,see datasheet,175,DPAK (TO-252AA),Common cathode,Yes,image/diodes/ultrafast-recovery/94743.png
+VS-6DKH02-M3,Enlarge,200,2 x 3,0.71,147,25,175,FlatPAK 5 x 6,Separated cathode,No,image/diodes/ultrafast-recovery/96082.png
+VS-6DKH02HM3,Enlarge,200,2 x 3,0.71,173,25,175,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/ultrafast-recovery/96086.png
+VS-6ESH01-M3,Enlarge,100,6,0.74,150,28,175,SMPC (TO-277A),Single,No,image/diodes/ultrafast-recovery/95702.png
+VS-6ESH01HM3,Enlarge,100,6,0.74,150,28,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/95703.png
+VS-6ESH02-M3,Enlarge,200,6,0.74,150,28,175,SMPC (TO-277A),Single,No,image/diodes/ultrafast-recovery/94982.png
+VS-6ESH02HM3,Enlarge,200,6,0.74,150,28,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/94983.png
+VS-6ESH06-M3,Enlarge,600,6,1.05,90,33,175,SMPC (TO-277A),Single,No,image/diodes/ultrafast-recovery/94984.png
+VS-6ESH06HM3,Enlarge,600,6,1.05,90,33,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/94985.png
+VS-6ESU06-M3,Enlarge,600,6,0.95,120,42,175,SMPC (TO-277A),Single,No,image/diodes/ultrafast-recovery/94986.png
+VS-6ESU06HM3,Enlarge,600,6,0.95,120,42,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/94987.png
+VS-6EVH06-M3,Enlarge,600,6,1.26,70,16,175,SlimDPAK (TO-252AE),Single,No,image/diodes/ultrafast-recovery/96142.png
+VS-6EVH06HM3,Enlarge,600,6,1.26,70,16,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/ultrafast-recovery/96140.png
+VS-6EVL06-M3,Enlarge,600,6,0.98,80,34,175,SlimDPAK (TO-252AE),Single,No,image/diodes/ultrafast-recovery/96143.png
+VS-6EVL06HM3,Enlarge,600,6,0.98,80,34,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/ultrafast-recovery/96141.png
+VS-6EVX06-M3,Enlarge,600,6,1.26,50,14,175,SlimDPAK (TO-252AE),Single,No,image/diodes/ultrafast-recovery/96147.png
+VS-6EVX06HM3,Enlarge,600,6,1.26,50,14,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/ultrafast-recovery/96146.png
+VS-6EWH06FN-M3,Enlarge,600,6,1.26,70,18,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93514.png
+VS-6EWH06FNHM3,Enlarge,600,6,1.26,70,18,175,DPAK (TO-252AA),Single,Yes,image/diodes/ultrafast-recovery/94740.png
+VS-6EWL06FN-M3,Enlarge,600,6,0.87,80,59,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93502.png
+VS-6EWX06FN-M3,Enlarge,600,6,1.65,50,14,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93249.png
+VS-6EWX06FNHM3,Enlarge,600,6,1.65,50,14,175,DPAK (TO-252AA),Single,Yes,image/diodes/ultrafast-recovery/94745.png
+VS-75EPU12L-N3,Enlarge,1200,75,1.95,700,62,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/95939.png
+VS-75EPU12LHN3,Enlarge,1200,75,1.95,700,62,175,TO-247AD 2L,Single die,Yes,image/diodes/ultrafast-recovery/95685.png
+VS-80CPH03-N3,Enlarge,300,2 x 40,0.94,320,34,175,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/93270.png
+VS-80CPU02-N3,Enlarge,200,2 x 40,0.8,330,34,175,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/93457.png
+VS-80EBU02-N4,Enlarge,200,80,0.79,800,see datasheet,175,PowerTab®,Single,Yes,image/diodes/ultrafast-recovery/97204.png
+VS-80EBU02HN4,Enlarge,200,80,0.77,800,see datasheet,175,PowerTab®,Single,Yes,image/diodes/ultrafast-recovery/97203.png
+VS-80EBU04-N4,Enlarge,400,80,0.92,800,see datasheet,175,PowerTab®,Single,No,image/diodes/ultrafast-recovery/97206.png
+VS-80EBU04HN4,Enlarge,400,80,0.92,800,see datasheet,175,PowerTab®,Single,Yes,image/diodes/ultrafast-recovery/97205.png
+VS-8CSH01-M3,Enlarge,100,2 x 4,0.72,130,25,175,SMPC (TO-277A),Common cathode,No,image/diodes/ultrafast-recovery/95704.png
+VS-8CSH01HM3,Enlarge,100,2 x 4,0.72,130,25,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/ultrafast-recovery/95705.png
+VS-8CSH02-M3,Enlarge,200,2 x 4,0.72,130,25,175,SMPC (TO-277A),Common cathode,No,image/diodes/ultrafast-recovery/94988.png
+VS-8CSH02HM3,Enlarge,200,2 x 4,0.72,130,25,175,SMPC (TO-277A),Common cathode,Yes,image/diodes/ultrafast-recovery/94989.png
+VS-8CVH01-M3,Enlarge,100,2 x 4,0.71,100,16,175,SlimDPAK (TO-252AE),Common cathode,No,image/diodes/ultrafast-recovery/96094.png
+VS-8CVH01HM3,Enlarge,100,2 x 4,0.71,100,16,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/ultrafast-recovery/96092.png
+VS-8CVH02-M3,Enlarge,200,2 x 4,0.71,100,16,175,SlimDPAK (TO-252AE),Common cathode,No,image/diodes/ultrafast-recovery/96093.png
+VS-8CVH02HM3,Enlarge,200,2 x 4,0.71,100,16,175,SlimDPAK (TO-252AE),Common cathode,Yes,image/diodes/ultrafast-recovery/95667.png
+VS-8CWH02FN-M3,Enlarge,200,2 x 4,0.71,80,23,175,DPAK (TO-252AA),Common cathode,No,image/diodes/ultrafast-recovery/93261.png
+VS-8CWH02FNHM3,Enlarge,200,2 x 4,0.95,80,23,175,DPAK (TO-252AA),Common cathode,Yes,image/diodes/ultrafast-recovery/94741.png
+VS-8DKH02-M3,Enlarge,200,2 x 4,0.7,173,25,175,FlatPAK 5 x 6,Separated cathode,No,image/diodes/ultrafast-recovery/96090.png
+VS-8DKH02HM3,Enlarge,200,2 x 4,0.7,173,25,175,FlatPAK 5 x 6,Separated cathode,Yes,image/diodes/ultrafast-recovery/96088.png
+VS-8ESH01-M3,Enlarge,100,8,0.78,150,28,175,SMPC (TO-277A),Single,No,image/diodes/ultrafast-recovery/96987.png
+VS-8ESH01HM3,Enlarge,100,8,0.78,150,28,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/96986.png
+VS-8ESH02-M3,Enlarge,200,8,0.78,150,28,175,SMPC (TO-277A),Single,No,image/diodes/ultrafast-recovery/96978.png
+VS-8ESH02HM3,Enlarge,200,8,0.78,150,28,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/96984.png
+VS-8ESH06-M3,Enlarge,600,8,1.13,90,33,175,SMPC (TO-277A),Single,No,image/diodes/ultrafast-recovery/96979.png
+VS-8ESH06HM3,Enlarge,600,8,1.13,90,33,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/96983.png
+VS-8ESU06-M3,Enlarge,600,8,1.01,120,42,175,SMPC (TO-277A),Single,No,image/diodes/ultrafast-recovery/96982.png
+VS-8ESU06HM3,Enlarge,600,8,1.01,120,42,175,SMPC (TO-277A),Single,Yes,image/diodes/ultrafast-recovery/96985.png
+VS-8ETH03-1-M3,Enlarge,300,8,0.83,100,35,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96238.png
+VS-8ETH03-1HM3,Enlarge,300,8,0.83,100,35,175,TO-262AA,Single,Yes,image/diodes/ultrafast-recovery/96124.png
+VS-8ETH03-M3,Enlarge,300,8,0.83,100,see datasheet,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96183.png
+VS-8ETH03S-M3,Enlarge,300,8,0.83,100,35,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96238.png
+VS-8ETH03SHM3,Enlarge,300,8,0.83,100,35,175,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/96124.png
+VS-8ETH06-1-M3,Enlarge,600,8,1.3,90,18,175,TO-262AA,Common cathode,No,image/diodes/ultrafast-recovery/96387.png
+VS-8ETH06-1HM3,Enlarge,600,8,1.3,90,18,175,TO-262AA,Single,Yes,image/diodes/ultrafast-recovery/96045.png
+VS-8ETH06-M3,Enlarge,600,8,1.3,90,18,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96177.png
+VS-8ETH06FP-N3,Enlarge,600,8,1.3,100,18,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96429.png
+VS-8ETH06HN3,Enlarge,600,8,1.3,90,18,175,TO-220AC,Single,Yes,image/diodes/ultrafast-recovery/94768.png
+VS-8ETH06S-M3,Enlarge,600,8,1.3,90,18,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/ultrafast-recovery/96387.png
+VS-8ETH06SHM3,Enlarge,600,8,1.3,90,18,175,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/96045.png
+VS-8ETL06-1-M3,Enlarge,600,8,0.81,175,60,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96240.png
+VS-8ETL06-M3,Enlarge,600,8,0.81,175,60,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96178.png
+VS-8ETL06FP-N3,Enlarge,600,8,0.81,175,60,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96430.png
+VS-8ETL06S-M3,Enlarge,600,8,0.81,175,60,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96240.png
+VS-8ETL06S2LHM3,Enlarge,600,8,0.81,175,60,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96852.png
+VS-8ETL06SHM3,Enlarge,600,8,0.81,175,60,175,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/96529.png
+VS-8ETU04-1-M3,Enlarge,400,8,0.94,100,35,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96388.png
+VS-8ETU04-1HM3,Enlarge,400,8,0.94,100,35,175,TO-262AA,Single,Yes,image/diodes/ultrafast-recovery/95841.png
+VS-8ETU04-M3,Enlarge,400,8,0.94,100,see datasheet,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96184.png
+VS-8ETU04HN3,Enlarge,400,8,0.94,100,see datasheet,175,TO-220AC,Single die,Yes,image/diodes/ultrafast-recovery/95840.png
+VS-8ETU04S-M3,Enlarge,400,8,0.94,100,35,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96388.png
+VS-8ETU04SHM3,Enlarge,400,8,0.94,100,35,175,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/95841.png
+VS-8ETU12-M3,Enlarge,1200,8,1.95,80,42,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96208.png
+VS-8ETU12HN3,Enlarge,1200,8,1.95,80,42,175,TO-220AC,Single die,Yes,image/diodes/ultrafast-recovery/95775.png
+VS-8ETX06-1-M3,Enlarge,600,8,1.4,110,15,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96242.png
+VS-8ETX06-M3,Enlarge,600,8,1.4,110,15,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96179.png
+VS-8ETX06FP-N3,Enlarge,600,8,1.4,110,15,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96431.png
+VS-8ETX06S-M3,Enlarge,600,8,1.4,110,15,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96242.png
+VS-8EVH06-M3,Enlarge,600,8,1.3,90,16,175,SlimDPAK (TO-252AE),Single,No,image/diodes/ultrafast-recovery/96151.png
+VS-8EVH06HM3,Enlarge,600,8,1.3,90,16,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/ultrafast-recovery/96148.png
+VS-8EVL06-M3,Enlarge,600,8,0.98,130,34,175,SlimDPAK (TO-252AE),Single,No,image/diodes/ultrafast-recovery/96152.png
+VS-8EVL06HM3,Enlarge,600,8,0.98,130,34,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/ultrafast-recovery/96149.png
+VS-8EVX06-M3,Enlarge,600,8,1.4,80,14,175,SlimDPAK (TO-252AE),Single,No,image/diodes/ultrafast-recovery/96153.png
+VS-8EVX06HM3,Enlarge,600,8,1.4,80,14,175,SlimDPAK (TO-252AE),Single,Yes,image/diodes/ultrafast-recovery/96150.png
+VS-8EWH02FN-M3,Enlarge,200,8,0.75,140,23,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93259.png
+VS-8EWH06FN-M3,Enlarge,600,8,1.3,90,18,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93238.png
+VS-8EWH06FNHM3,Enlarge,600,8,1.3,90,18,175,DPAK (TO-252AA),Single,Yes,image/diodes/ultrafast-recovery/94739.png
+VS-8EWL06FN-M3,Enlarge,600,8,0.81,140,60,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93240.png
+VS-8EWX06FN-M3,Enlarge,600,8,1.4,90,15,175,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93244.png
+VS-A5PH3006L-N3,Enlarge,600,30,1.15,330,25,175,TO-247AD 3L,Single,No,image/diodes/ultrafast-recovery/96895.png
+VS-A5PH3006LHN3,Enlarge,600,30,1.15,330,25,175,TO-247AD 3L,Single,Yes,image/diodes/ultrafast-recovery/96897.png
+VS-A5PH6006L-N3,Enlarge,600,60,1.2,500,29,175,TO-247AD 3L,Single,No,image/diodes/ultrafast-recovery/96900.png
+VS-A5PH6006LHN3,Enlarge,600,60,1.2,500,29,175,TO-247AD 3L,Single,Yes,image/diodes/ultrafast-recovery/96903.png
+VS-A5PH7506L-N3,Enlarge,600,75,1.2,650,32,175,TO-247AD 3L,Single,No,image/diodes/ultrafast-recovery/97161.png
+VS-A5PH7506LHN3,Enlarge,600,75,1.2,650,32,175,TO-247AD 3L,Single,Yes,image/diodes/ultrafast-recovery/97164.png
+VS-A5PX3006L-N3,Enlarge,600,30,1.3,310,22,175,TO-247AD 3L,Single,No,image/diodes/ultrafast-recovery/96901.png
+VS-A5PX3006LHN3,Enlarge,600,30,1.3,310,22,175,TO-247AD 3L,Single,Yes,image/diodes/ultrafast-recovery/96904.png
+VS-A5PX6006L-N3,Enlarge,600,60,1.4,480,26,175,TO-247AD 3L,Single,No,image/diodes/ultrafast-recovery/96902.png
+VS-A5PX6006LHN3,Enlarge,600,60,1.4,480,26,175,TO-247AD 3L,Single,Yes,image/diodes/ultrafast-recovery/96905.png
+VS-APH3006-N3,Enlarge,600,30,1.4,220,27,175,TO-247AC 3L,Single,No,image/diodes/ultrafast-recovery/93571.png
+VS-APH3006HN3,Enlarge,600,30,2.65,220,27,175,TO-247AC,Single die,Yes,image/diodes/ultrafast-recovery/94867.png
+VS-APH3006L-N3,Enlarge,600,30,1.4,240,26,175,TO-247AD 3L,Single die,No,image/diodes/ultrafast-recovery/95945.png
+VS-APH3006LHN3,Enlarge,600,30,1.4,240,26,175,TO-247AD 3L,Single die,Yes,image/diodes/ultrafast-recovery/95956.png
+VS-APU3006-N3,Enlarge,600,30,1.15,220,30,175,TO-247AC 3L,Single,No,image/diodes/ultrafast-recovery/93570.png
+VS-APU3006HN3,Enlarge,600,30,1.15,220,30,175,TO-247AC,Single die,Yes,image/diodes/ultrafast-recovery/94818.png
+VS-APU3006L-N3,Enlarge,600,30,1.15,250,30,175,TO-247AD 3L,Single die,No,image/diodes/ultrafast-recovery/96076.png
+VS-APU3006LHN3,Enlarge,600,30,1.15,250,30,175,TO-247AD 3L,Single die,Yes,image/diodes/ultrafast-recovery/96077.png
+VS-APU6006-N3,Enlarge,600,60,1.05,600,32,175,TO-247AC 3L,Single,No,image/diodes/ultrafast-recovery/94794.png
+VS-APU6006LHN3,Enlarge,600,60,1.05,600,32,175,TO-247AD 3L,Single,Yes,image/diodes/ultrafast-recovery/95957.png
+VS-AZH3106FP-M3,Enlarge,600,30,1.40,280,22,175,TO-3PF,Common anode,No,image/diodes/ultrafast-recovery/96828.png
+VS-C4PH3006L-N3,Enlarge,600,2 x 15,1.28,200,see datasheet,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/95948.png
+VS-C4PH3006LHN3,Enlarge,600,2 x 15,1.28,200,see datasheet,175,TO-247AD 3L,Common cathode,Yes,image/diodes/ultrafast-recovery/95953.png
+VS-C4PH6006L-N3,Enlarge,600,2 x 30,1.37,240,see datasheet,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/95949.png
+VS-C4PH6006LHN3,Enlarge,600,2 x 30,1.37,240,see datasheet,175,TO-247AD 3L,Common cathode,Yes,image/diodes/ultrafast-recovery/95954.png
+VS-C4PU3006L-N3,Enlarge,600,2 x 15,1.12,200,see datasheet,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/95934.png
+VS-C4PU3006LHN3,Enlarge,600,2 x 15,1.12,200,see datasheet,175,TO-247AD 3L,Single die,Yes,image/diodes/ultrafast-recovery/95937.png
+VS-C4PU6006L-N3,Enlarge,600,2 x 30,1.19,240,see datasheet,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/95941.png
+VS-C4PU6006LHN3,Enlarge,600,2 x 30,1.19,240,see datasheet,175,TO-247AD 3L,Common cathode,Yes,image/diodes/ultrafast-recovery/95950.png
+VS-C4ZU3006FP-M3,Enlarge,600,15,1.08,180,37,175,TO-3PF,Common cathode,No,image/diodes/ultrafast-recovery/96686.png
+VS-C4ZU6006FP-M3,Enlarge,600,30,1.20,255,37,175,TO-3PF,Common cathode,No,image/diodes/ultrafast-recovery/96687.png
+VS-C5PH3006L-N3,Enlarge,600,15,1.15,200,22,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/97079.png
+VS-C5PH3012L-N3,Enlarge,1200,15,1.7,125,37,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/96649.png
+VS-C5PH3012LHN3,Enlarge,1200,15,1.7,125,37,175,TO-247AD 3L,Common cathode,Yes,image/diodes/ultrafast-recovery/96746.png
+VS-C5PH6006L-N3,Enlarge,600,30,1.15,330,25,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/96966.png
+VS-C5PH6006LHN3,Enlarge,600,30,1.15,330,25,175,TO-247AD 3L,Common cathode,Yes,image/diodes/ultrafast-recovery/96952.png
+VS-C5PH6012L-N3,Enlarge,1200,30,1.7,240,32,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/96680.png
+VS-C5PW3006L-N3,Enlarge,600,15,1.5,175,17,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/97077.png
+VS-C5PW6006L-N3,Enlarge,600,30,1.6,280,20,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/97076.png
+VS-C5PW6006LHN3,Enlarge,600,30,1.6,280,20,175,TO-247AD 3L,Common cathode,Yes,image/diodes/ultrafast-recovery/96962.png
+VS-C5PX3006L-N3,Enlarge,600,15,1.3,185,19,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/97078.png
+VS-C5PX3012L-N3,Enlarge,1200,15,2.1,110,29,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/96616.png
+VS-C5PX3012LHN3,Enlarge,1200,15,2.1,110,29,175,TO-247AD 3L,Common cathode,Yes,image/diodes/ultrafast-recovery/96745.png
+VS-C5PX6006L-N3,Enlarge,600,30,1.3,310,22,175,TO-247AD 3L,Common cathode,Yes,image/diodes/ultrafast-recovery/96967.png
+VS-C5PX6006LHN3,Enlarge,600,30,1.3,310,22,175,TO-247AD 3L,Common cathode,Yes,image/diodes/ultrafast-recovery/96953.png
+VS-C5PX6012L-N3,Enlarge,1200,30,2.1,190,26,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/96661.png
+VS-C5TH3012-M3,Enlarge,1200,15,1.7,125,37,175,TO-220AB 3L,Common cathode,No,image/diodes/ultrafast-recovery/96613.png
+VS-C5TX3012-M3,Enlarge,1200,15,2.1,110,29,175,TO-220AB 3L,Common cathode,No,image/diodes/ultrafast-recovery/96610.png
+VS-C5ZW3006FP-N3,Enlarge,600,2 x 15,1.5,175,17,175,TO-3PF,Common cathode,No,image/diodes/ultrafast-recovery/97103.png
+VS-C5ZX3006FP-N3,Enlarge,600,2 x 15,1.3,205,19,175,TO-3PF,Common cathode,No,image/diodes/ultrafast-recovery/96968.png
+VS-CPU6006-N3,Enlarge,600,2 x 30,1.75,250,26,175,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94795.png
+VS-CPU6006L-N3,Enlarge,600,2 x 30,1.75,250,26,175,TO-247AD 3L,Common cathode,No,image/diodes/ultrafast-recovery/95946.png
+VS-CPU6006LHN3,Enlarge,600,2 x 30,1.75,250,26,175,TO-247AD 3L,Common cathode,Yes,image/diodes/ultrafast-recovery/95951.png
+VS-CZH6106FP-M3,Enlarge,600,30,1.40,280,22,175,TO-3PF,Common cathode,No,image/diodes/ultrafast-recovery/96829.png
+VS-E4PH3006L-N3,Enlarge,600,30,1.37,240,see datasheet,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/95897.png
+VS-E4PH3006LHN3,Enlarge,600,30,1.37,240,see datasheet,175,TO-247AD 2L,Single die,Yes,image/diodes/ultrafast-recovery/95942.png
+VS-E4PH6006L-N3,Enlarge,600,60,1.48,425,see datasheet,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/95898.png
+VS-E4PH6006LHN3,Enlarge,600,60,1.48,425,see datasheet,175,TO-247AD 2L,Single die,Yes,image/diodes/ultrafast-recovery/95943.png
+VS-E4PU3006L-N3,Enlarge,600,30,1.19,240,see datasheet,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/95899.png
+VS-E4PU3006LHN3,Enlarge,600,30,1.19,240,see datasheet,175,TO-247AD 2L,Single die,Yes,image/diodes/ultrafast-recovery/95929.png
+VS-E4PU6006L-N3,Enlarge,600,60,1.29,450,see datasheet,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/95900.png
+VS-E4PU6006LHN3,Enlarge,600,60,1.29,450,see datasheet,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/95940.png
+VS-E4TU2006FP-N3,Enlarge,600,20,1.26,190,61,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96422.png
+VS-E5PH3006L-N3,Enlarge,600,30,1.15,330,25,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96623.png
+VS-E5PH3006LHN3,Enlarge,600,30,1.15,330,25,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96763.png
+VS-E5PH3012L-N3,Enlarge,1200,30,1.7,250,32,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96501.png
+VS-E5PH3012LHN3,Enlarge,1200,30,1.7,240,32,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96765.png
+VS-E5PH6006L-N3,Enlarge,600,60,1.2,500,29,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96755.png
+VS-E5PH6006LHN3,Enlarge,600,60,1.2,500,29,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96764.png
+VS-E5PH6012L-N3,Enlarge,1200,60,1.7,460,38,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96502.png
+VS-E5PH6012LHN3,Enlarge,1200,60,1.7,425,38,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96766.png
+VS-E5PH7506L-N3,Enlarge,600,75,1.2,615,32,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96756.png
+VS-E5PH7506LHN3,Enlarge,600,75,1.2,615,32,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96819.png
+VS-E5PH7512L-N3,Enlarge,1200,75,1.85,470,40,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96885.png
+VS-E5PW3006L-N3,Enlarge,600,30,1.6,280,20,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/97048.png
+VS-E5PW3006LHN3,Enlarge,600,30,1.6,280,20,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96959.png
+VS-E5PW6006L-N3,Enlarge,600,60,1.7,450,24,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/97049.png
+VS-E5PW6006LHN3,Enlarge,600,60,1.7,450,24,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96961.png
+VS-E5PX3006L-N3,Enlarge,600,30,1.3,310,22,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96757.png
+VS-E5PX3006LHN3,Enlarge,600,30,1.3,310,22,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96810.png
+VS-E5PX3012L-N3,Enlarge,1200,30,2.1,210,26,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96442.png
+VS-E5PX3012LHN3,Enlarge,1200,30,2.1,190,26,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96767.png
+VS-E5PX6006L-N3,Enlarge,600,60,1.4,480,26,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96758.png
+VS-E5PX6006LHN3,Enlarge,600,60,1.4,480,26,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96821.png
+VS-E5PX6012L-N3,Enlarge,1200,60,2.1,420,30,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96479.png
+VS-E5PX6012LHN3,Enlarge,1200,60,2.1,370,30,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96768.png
+VS-E5PX7506L-N3,Enlarge,600,75,1.4,565,29,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96759.png
+VS-E5PX7506LHN3,Enlarge,600,75,1.4,565,29,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/96820.png
+VS-E5PX7512L-N3,Enlarge,1200,75,2.3,395,32,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96889.png
+VS-E5PX7606L-N3,Enlarge,600,75,1.5,480,26,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96884.png
+VS-E5TH0812-M3,Enlarge,1200,8,1.8,65,33,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96606.png
+VS-E5TH0812THN3,Enlarge,1200,8,1.8,65,33,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96740.png
+VS-E5TH1506-M3,Enlarge,600,15,1.15,200,22,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96751.png
+VS-E5TH1506S2L-M3,Enlarge,600,15,1.15,200,22,175,D2PAK 2L (TO-263AB 2L),Single,No,image/diodes/ultrafast-recovery/97020.png
+VS-E5TH1506S2LHM3,Enlarge,600,15,1.15,200,22,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96811.png
+VS-E5TH1506THN3,Enlarge,600,15,1.15,200,22,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96824.png
+VS-E5TH1512-M3,Enlarge,1200,15,1.7,125,37,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96581.png
+VS-E5TH1512S2L-M3,Enlarge,1200,15,1.7,125,37,175,D2PAK 2L (TO-263AB 2L),Single,No,image/diodes/ultrafast-recovery/97021.png
+VS-E5TH1512S2LHM3,Enlarge,1200,15,1.7,125,37,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96808.png
+VS-E5TH1512THN3,Enlarge,1200,15,1.7,125,37,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96742.png
+VS-E5TH2106S2L-M3,Enlarge,600,20,1.23,200,22,175,D2PAK 2L (TO-263AB 2L),Single,No,image/diodes/ultrafast-recovery/97022.png
+VS-E5TH2106S2LHM3,Enlarge,600,20,1.23,200,22,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96913.png
+VS-E5TH2112S2L-M3,Enlarge,1200,20,1.88,125,37,175,D2PAK 2L (TO-263AB 2L),Single,No,image/diodes/ultrafast-recovery/97023.png
+VS-E5TH2112S2LHM3,Enlarge,1200,20,1.88,125,37,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96935.png
+VS-E5TH3006-M3,Enlarge,600,30,1.15,330,25,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96753.png
+VS-E5TH3006S2L-M3,Enlarge,600,30,1.15,330,25,175,D2PAK 2L (TO-263AB 2L),Single,No,image/diodes/ultrafast-recovery/97024.png
+VS-E5TH3006S2LHM3,Enlarge,600,30,1.15,330,25,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96837.png
+VS-E5TH3006THN3,Enlarge,600,30,1.15,330,25,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96825.png
+VS-E5TH3012-M3,Enlarge,1200,30,1.7,240,32,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96611.png
+VS-E5TH3012S2L-M3,Enlarge,1200,30,1.7,240,32,175,D2PAK 2L (TO-263AB 2L),Single,No,image/diodes/ultrafast-recovery/96998.png
+VS-E5TH3012S2LHM3,Enlarge,1200,30,1.7,240,32,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96809.png
+VS-E5TH3012THN3,Enlarge,1200,30,1.7,240,32,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96744.png
+VS-E5TW1206FP-N3,Enlarge,600,12,1.75,110,16,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96976.png
+VS-E5TW1506FP-N3,Enlarge,600,15,1.5,175,17,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96972.png
+VS-E5TX0812-M3,Enlarge,1200,8,2.1,60,27,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96607.png
+VS-E5TX0812THN3,Enlarge,1200,8,2.1,60,27,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96739.png
+VS-E5TX1206FP-N3,Enlarge,600,12,1.36,155,17,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96974.png
+VS-E5TX1506-M3,Enlarge,600,15,1.3,185,19,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96752.png
+VS-E5TX1506FP-N3,Enlarge,600,15,1.3,205,19,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96969.png
+VS-E5TX1506S2L-M3,Enlarge,600,15,1.3,185,19,175,D2PAK 2L (TO-263AB 2L),Single,No,image/diodes/ultrafast-recovery/97025.png
+VS-E5TX1506S2LHM3,Enlarge,600,15,1.3,185,19,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96814.png
+VS-E5TX1506THN3,Enlarge,600,15,1.3,185,19,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96826.png
+VS-E5TX1512-M3,Enlarge,1200,15,2.1,110,29,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96608.png
+VS-E5TX1512S2L-M3,Enlarge,1200,15,2.1,110,29,175,D2PAK 2L (TO-263AB 2L),Single,No,image/diodes/ultrafast-recovery/97026.png
+VS-E5TX1512S2LHM3,Enlarge,1200,15,2.1,110,29,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96812.png
+VS-E5TX1512THN3,Enlarge,1200,15,2.1,110,29,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96741.png
+VS-E5TX2106S2L-M3,Enlarge,600,20,1.40,185,19,175,D2PAK 2L (TO-263AB 2L),Single,No,image/diodes/ultrafast-recovery/97027.png
+VS-E5TX2106S2LHM3,Enlarge,600,20,1.40,185,19,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96914.png
+VS-E5TX2112S2L-M3,Enlarge,1200,20,2.40,110,29,175,D2PAK 2L (TO-263AB 2L),Single,No,image/diodes/ultrafast-recovery/97028.png
+VS-E5TX2112S2LHM3,Enlarge,1200,20,2.40,110,29,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96936.png
+VS-E5TX3006-M3,Enlarge,600,30,1.3,310,22,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96754.png
+VS-E5TX3006S2L-M3,Enlarge,600,30,1.3,310,22,175,D2PAK 2L (TO-263AB 2L),Single,No,image/diodes/ultrafast-recovery/97029.png
+VS-E5TX3006S2LHM3,Enlarge,600,30,1.3,310,22,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96838.png
+VS-E5TX3006THN3,Enlarge,600,30,1.3,310,22,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96827.png
+VS-E5TX3012-M3,Enlarge,1200,30,2.1,190,26,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96612.png
+VS-E5TX3012S2L-M3,Enlarge,1200,30,2.1,190,26,175,D2PAK 2L (TO-263AB 2L),Single,No,image/diodes/ultrafast-recovery/96999.png
+VS-E5TX3012S2LHM3,Enlarge,1200,30,2.1,190,26,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96813.png
+VS-E5TX3012THN3,Enlarge,1200,30,2.1,190,26,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96743.png
+VS-E7FX0112-M3,Enlarge,1200,1,1.45,14,50,175,SMF (DO-219AB),Single,No,image/diodes/ultrafast-recovery/97163.png
+VS-E7FX0112HM3,Enlarge,1200,1,1.45,14,50,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/97081.png
+VS-E7FX0212-M3,Enlarge,1200,2,1.60,21,45,175,SMF (DO-219AB),Single,No,image/diodes/ultrafast-recovery/97162.png
+VS-E7FX0212HM3,Enlarge,1200,2,1.60,21,45,175,SMF (DO-219AB),Single,Yes,image/diodes/ultrafast-recovery/97115.png
+VS-E7MH0112-M3,Enlarge,1200,1,1.10,21,75,175,SMA (DO-214AC),Single,No,image/diodes/ultrafast-recovery/96673.png
+VS-E7MH0112HM3,Enlarge,1200,1,1.10,21,75,175,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/96892.png
+VS-E7MX0112-M3,Enlarge,1200,1,1.33,21,45,175,SMA (DO-214AC),Single,No,image/diodes/ultrafast-recovery/97267.png
+VS-E7MX0112HM3,Enlarge,1200,1,1.33,21,45,175,SMA (DO-214AC),Single,Yes,image/diodes/ultrafast-recovery/97145.png
+VS-EBU15006-N4,Enlarge,600,150,1.08,1200,50,175,PowerTab®,Single,No,image/diodes/ultrafast-recovery/97196.png
+VS-EBU15006HN4,Enlarge,600,150,1.08,1200,50,175,PowerTab®,Single,Yes,image/diodes/ultrafast-recovery/97197.png
+VS-EBU8006HN4,Enlarge,600,80,1.53,750,46,175,PowerTab®,Single die,Yes,image/diodes/ultrafast-recovery/97207.png
+VS-EPH3006-N3,Enlarge,600,30,1.4,220,27,175,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/93571.png
+VS-EPH3006HN3,Enlarge,600,30,2.65,220,27,175,TO-247AC modified (2 pins),Single die,Yes,image/diodes/ultrafast-recovery/94867.png
+VS-EPH3006L-N3,Enlarge,600,30,1.4,240,26,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/95780.png
+VS-EPH3006LHN3,Enlarge,600,30,1.4,240,26,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/95781.png
+VS-EPH3007L-N3,Enlarge,650,30,1.4,195,33,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96447.png
+VS-EPH6007L-N3,Enlarge,650,60,1.4,520,65,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96451.png
+VS-EPU3006-N3,Enlarge,600,30,1.15,220,30,175,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/93570.png
+VS-EPU3006HN3,Enlarge,600,30,1.15,220,30,175,TO-247AC modified (2 pins),Single die,Yes,image/diodes/ultrafast-recovery/94818.png
+VS-EPU3006L-N3,Enlarge,600,30,1.15,250,30,175,TO-247AD 2L,Single die,No,image/diodes/ultrafast-recovery/95947.png
+VS-EPU3006LHN3,Enlarge,600,30,1.15,250,30,175,TO-247AD 2L,Single die,Yes,image/diodes/ultrafast-recovery/95952.png
+VS-EPU6006-N3,Enlarge,600,60,1.05,600,32,175,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94794.png
+VS-EPU6006L-N3,Enlarge,600,60,1.05,600,32,175,TO-247AD 2L,Single die,No,image/diodes/ultrafast-recovery/95944.png
+VS-EPU6006LHN3,Enlarge,600,60,1.05,600,32,175,TO-247AD 2L,Single,Yes,image/diodes/ultrafast-recovery/95957.png
+VS-EPX3007L-N3,Enlarge,650,30,1.6,170,27,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96449.png
+VS-EPX6007L-N3,Enlarge,650,60,1.6,500,40,175,TO-247AD 2L,Single,No,image/diodes/ultrafast-recovery/96452.png
+VS-ETH0806-M3,Enlarge,600,8,1.3,80,16,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96629.png
+VS-ETH0806FP-M3,Enlarge,600,8,1.3,80,16,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/93515.png
+VS-ETH1506-1-M3,Enlarge,600,15,1.25,160,21,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96331.png
+VS-ETH1506-1HM3,Enlarge,600,15,1.25,160,21,175,TO-262AA,Single,Yes,image/diodes/ultrafast-recovery/94482.png
+VS-ETH1506-M3,Enlarge,600,15,1.25,160,21,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96630.png
+VS-ETH1506FP-M3,Enlarge,600,15,1.25,160,21,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/93522.png
+VS-ETH1506S-M3,Enlarge,600,15,1.25,160,21,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96331.png
+VS-ETH1506SHM3,Enlarge,600,15,1.25,160,21,175,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/94482.png
+VS-ETH3006-1-M3,Enlarge,600,30,1.4,180,27,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96332.png
+VS-ETH3006-1HM3,Enlarge,600,30,1.4,180,27,175,TO-262AA,Single,Yes,image/diodes/ultrafast-recovery/94425.png
+VS-ETH3006-M3,Enlarge,600,30,1.4,180,27,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96631.png
+VS-ETH3006FP-M3,Enlarge,600,30,1.4,180,27,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/93523.png
+VS-ETH3006S-M3,Enlarge,600,30,1.4,180,27,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96332.png
+VS-ETH3006SHM3,Enlarge,600,30,1.4,180,27,175,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/94425.png
+VS-ETH3007-M3,Enlarge,650,30,1.4,210,33,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96063.png
+VS-ETH3007THN3,Enlarge,650,30,1.4,210,33,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96064.png
+VS-ETH3106FP-N3,Enlarge,600,30,1.40,280,22,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/96786.png
+VS-ETL0806-M3,Enlarge,600,8,0.84,120,65,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96632.png
+VS-ETL0806FP-M3,Enlarge,600,8,0.84,120,65,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/93528.png
+VS-ETL1506-1-M3,Enlarge,600,15,0.85,200,60,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96333.png
+VS-ETL1506-1HM3,Enlarge,600,15,0.85,200,60,175,TO-262AA,Single,Yes,image/diodes/ultrafast-recovery/95868.png
+VS-ETL1506-M3,Enlarge,600,15,0.85,200,60,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96633.png
+VS-ETL1506FP-M3,Enlarge,600,15,0.85,200,60,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/93531.png
+VS-ETL1506S-M3,Enlarge,600,15,0.85,200,60,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96333.png
+VS-ETL1506SHM3,Enlarge,600,15,0.85,200,60,175,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/95868.png
+VS-ETL3006S2LHM3,Enlarge,600,30,0.9,280,110,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96872.png
+VS-ETU0805-M3,Enlarge,500,8,0.9,110,28,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96634.png
+VS-ETU0805FP-M3,Enlarge,500,8,0.9,110,28,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/94813.png
+VS-ETU1506-1-M3,Enlarge,600,15,1.1,160,24,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96334.png
+VS-ETU1506-1HM3,Enlarge,600,15,1.1,160,24,175,TO-262AA,Single,Yes,image/diodes/ultrafast-recovery/95978.png
+VS-ETU1506-M3,Enlarge,600,15,1.1,160,24,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96635.png
+VS-ETU1506FP-M3,Enlarge,600,15,1.1,160,24,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/93534.png
+VS-ETU1506S-M3,Enlarge,600,15,1.1,160,24,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96334.png
+VS-ETU1506S2LHM3,Enlarge,600,15,1.1,160,24,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96850.png
+VS-ETU1506SHM3,Enlarge,600,15,1.1,160,24,175,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/95978.png
+VS-ETU2006S2LHM3,Enlarge,600,20,1.2,180,see datasheet,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96788.png
+VS-ETU3006-1-M3,Enlarge,600,30,1.15,200,30,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96340.png
+VS-ETU3006-1HM3,Enlarge,600,30,1.15,200,30,175,TO-262AA,Single,Yes,image/diodes/ultrafast-recovery/94702.png
+VS-ETU3006-M3,Enlarge,600,30,1.15,200,30,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96636.png
+VS-ETU3006FP-M3,Enlarge,600,30,1.15,200,30,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/93538.png
+VS-ETU3006S-M3,Enlarge,600,30,1.15,200,30,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96340.png
+VS-ETU3006S2LHM3,Enlarge,600,30,1.15,200,30,175,D2PAK 2L (TO-263AB 2L),Single,Yes,image/diodes/ultrafast-recovery/96851.png
+VS-ETU3006SHM3,Enlarge,600,30,1.15,200,30,175,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/94702.png
+VS-ETX0806-M3,Enlarge,600,8,1.5,80,14,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96637.png
+VS-ETX0806FP-M3,Enlarge,600,8,1.5,80,14,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/93546.png
+VS-ETX1506-1-M3,Enlarge,600,15,1.55,120,18,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96341.png
+VS-ETX1506-M3,Enlarge,600,15,1.55,120,18,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96638.png
+VS-ETX1506FP-M3,Enlarge,600,15,1.55,120,18,175,TO-220 FullPAK 2L,Single,No,image/diodes/ultrafast-recovery/93549.png
+VS-ETX1506S-M3,Enlarge,600,15,1.55,120,18,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96341.png
+VS-ETX3007-M3,Enlarge,650,30,1.6,210,27,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96065.png
+VS-ETX3007THN3,Enlarge,650,30,1.6,210,27,175,TO-220AC 2L,Single,Yes,image/diodes/ultrafast-recovery/96066.png
+VS-HFA04SD60S-M3,Enlarge,600,4,1.4,25,17,150,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93473.png
+VS-HFA04SD60SHM3,Enlarge,600,4,1.4,25,17,150,DPAK (TO-252AA),Single,Yes,image/diodes/ultrafast-recovery/94756.png
+VS-HFA04TB60-M3,Enlarge,600,4,1.4,25,17,150,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96187.png
+VS-HFA04TB60S-M3,Enlarge,600,4,1.4,25,17,150,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96215.png
+VS-HFA06PB120-N3,Enlarge,1200,6,2.4,80,26,150,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94037.png
+VS-HFA06TB120-M3,Enlarge,1200,6,3.0,80,26,150,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96188.png
+VS-HFA06TB120S-M3,Enlarge,1200,6,2.4,80,26,150,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96216.png
+VS-HFA08PB120-N3,Enlarge,1200,8,2.4,130,28,150,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94040.png
+VS-HFA08PB60-N3,Enlarge,600,8,1.4,60,18,150,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94041.png
+VS-HFA08SD60S-M3,Enlarge,600,8,1.4,60,18,150,DPAK (TO-252AA),Single,No,image/diodes/ultrafast-recovery/93474.png
+VS-HFA08TA60C-M3,Enlarge,600,2 x 4,1.4,25,17,150,TO-220AB 3L,Common cathode,No,image/diodes/ultrafast-recovery/96202.png
+VS-HFA08TA60CS-M3,Enlarge,600,8,2.2,25,17,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/ultrafast-recovery/96217.png
+VS-HFA08TB120-M3,Enlarge,1200,8,2.4,130,28,150,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96189.png
+VS-HFA08TB120HN3,Enlarge,1200,8,2.4,130,28,150,TO-220AC,Single die,Yes,image/diodes/ultrafast-recovery/94718.png
+VS-HFA08TB120S-M3,Enlarge,1200,8,2.4,130,28,150,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96218.png
+VS-HFA08TB60-M3,Enlarge,600,8,1.4,60,18,150,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96190.png
+VS-HFA08TB60HN3,Enlarge,600,8,1.4,60,18,150,TO-220AC,Single die,Yes,image/diodes/ultrafast-recovery/94970.png
+VS-HFA08TB60S-M3,Enlarge,600,8,1.4,60,18,150,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96219.png
+VS-HFA12PA120C-N3,Enlarge,1200,2 x 6,2.4,80,26,150,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94597.png
+VS-HFA15PB60-N3,Enlarge,600,15,1.2,150,19,150,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94052.png
+VS-HFA15TB60-1-M3,Enlarge,600,15,1.2,150,23,150,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96313.png
+VS-HFA15TB60-M3,Enlarge,600,15,1.2,150,23,150,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96191.png
+VS-HFA15TB60S-M3,Enlarge,600,15,1.2,150,23,150,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96313.png
+VS-HFA16PA120C-N3,Enlarge,1200,2 x 8,2.4,130,28,150,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94055.png
+VS-HFA16PA60C-N3,Enlarge,600,2 x 8,1.4,60,18,150,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94056.png
+VS-HFA16PB120-N3,Enlarge,1200,16,2.3,190,30,150,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94057.png
+VS-HFA16PB120HN3,Enlarge,1200,16,2.3,190,30,150,TO-247AC modified (2 pins),Single,Yes,image/diodes/ultrafast-recovery/94717.png
+VS-HFA16TA60C-M3,Enlarge,600,2 x 8,1.4,60,18,150,TO-220AB 3L,Common cathode,No,image/diodes/ultrafast-recovery/96203.png
+VS-HFA16TA60CS-M3,Enlarge,600,2 x 8,1.4,60,18,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/ultrafast-recovery/96220.png
+VS-HFA16TB120-M3,Enlarge,1200,16,2.3,190,30,150,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96192.png
+VS-HFA16TB120S-M3,Enlarge,1200,16,2.3,190,30,150,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96312.png
+VS-HFA16TB120SHM3,Enlarge,1200,16,2.3,190,30,150,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/94991.png
+VS-HFA25PB60-N3,Enlarge,600,25,1.3,225,23,150,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94064.png
+VS-HFA25TB60-M3,Enlarge,600,25,1.3,225,23,150,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96193.png
+VS-HFA25TB60HN3,Enlarge,600,25,1.7,225,23,150,TO-220AC,Single,Yes,image/diodes/ultrafast-recovery/94412.png
+VS-HFA25TB60S-M3,Enlarge,600,25,1.3,225,23,150,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96311.png
+VS-HFA25TB60SHM3,Enlarge,600,25,1.3,225,23,150,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/94675.png
+VS-HFA30PA60C-N3,Enlarge,600,2 x 15,1.2,150,19,150,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94068.png
+VS-HFA30PB120-N3,Enlarge,1200,30,2.3,120,47,150,TO-247AC 2L,Single,No,image/diodes/ultrafast-recovery/94069.png
+VS-HFA30PB120HN3,Enlarge,1200,30,2.3,120,47,150,TO-247AC modified (2 pins),Single die,Yes,image/diodes/ultrafast-recovery/94372.png
+VS-HFA30TA60C-M3,Enlarge,600,2 x 15,1.2,150,19,150,TO-220AB 3L,Common cathode,No,image/diodes/ultrafast-recovery/96204.png
+VS-HFA30TA60CHN3,Enlarge,600,2 x 15,1.2,150,19,150,TO-220AB,Common cathode,Yes,image/diodes/ultrafast-recovery/94511.png
+VS-HFA30TA60CS-M3,Enlarge,600,2 x 15,1.2,150,19,150,D2PAK (TO-263AB),Common cathode,No,image/diodes/ultrafast-recovery/96420.png
+VS-HFA32PA120C-N3,Enlarge,1200,2 x 16,2.3,190,30,150,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94073.png
+VS-HFA50PA60C-N3,Enlarge,600,2 x 25,1.3,225,23,150,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94074.png
+VS-HFA50PA60CHN3,Enlarge,600,2 x 25,1.3,225,23,150,TO-247AC,Single die,Yes,image/diodes/ultrafast-recovery/94678.png
+VS-MUR1020CT-M3,Enlarge,200,2 x 5,0.87,50,see datasheet,175,TO-220AB 3L,Common cathode,No,image/diodes/ultrafast-recovery/96199.png
+VS-MUR1520-M3,Enlarge,200,15,0.85,200,see datasheet,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96185.png
+VS-MUR1620CT-M3,Enlarge,200,2 x 8,0.895,100,see datasheet,175,TO-220AB 3L,Common cathode,No,image/diodes/ultrafast-recovery/96200.png
+VS-MUR2020CT-M3,Enlarge,200,2 x 10,0.85,100,19,175,TO-220AB 3L,Common cathode,No,image/diodes/ultrafast-recovery/96201.png
+VS-MUR3020WT-N3,Enlarge,200,2 x 15,0.85,200,see datasheet,175,TO-247AC 3L,Common cathode,No,image/diodes/ultrafast-recovery/94080.png
+VS-MUR820-M3,Enlarge,200,8,0.895,100,see datasheet,175,TO-220AC 2L,Single,No,image/diodes/ultrafast-recovery/96186.png
+VS-MURB1020CT-1-M3,Enlarge,200,2 x 5,0.87,50,25,175,TO-262AA,Common cathode,No,image/diodes/ultrafast-recovery/96389.png
+VS-MURB1020CT-1HM3,Enlarge,200,2 x 5,0.87,50,19,175,TO-262AA,Common cathode,Yes,image/diodes/ultrafast-recovery/95807.png
+VS-MURB1020CT-M3,Enlarge,200,2 x 5,0.87,50,25,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/ultrafast-recovery/96389.png
+VS-MURB1020CTHM3,Enlarge,200,2 x 5,0.87,50,19,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/ultrafast-recovery/95807.png
+VS-MURB1520-1-M3,Enlarge,200,15,0.85,200,35,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96316.png
+VS-MURB1520-M3,Enlarge,200,15,0.85,200,35,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96316.png
+VS-MURB1620CT-1-M3,Enlarge,200,2 x 8,0.895,100,35,175,TO-262AA,Common cathode,No,image/diodes/ultrafast-recovery/96390.png
+VS-MURB1620CT-1HM3,Enlarge,200,2 x 8,0.895,100,19,175,TO-262AA,Common cathode,Yes,image/diodes/ultrafast-recovery/94852.png
+VS-MURB1620CT-M3,Enlarge,200,2 x 8,0.895,100,35,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/ultrafast-recovery/96390.png
+VS-MURB1620CTHM3,Enlarge,200,2 x 8,0.895,100,19,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/ultrafast-recovery/94852.png
+VS-MURB2020CT-1-M3,Enlarge,200,2 x 10,0.85,100,35,175,TO-262AA,Common cathode,No,image/diodes/ultrafast-recovery/96391.png
+VS-MURB2020CT-1HM3,Enlarge,200,2 x 10,0.85,100,19,175,TO-262AA,Common cathode,Yes,image/diodes/ultrafast-recovery/94807.png
+VS-MURB2020CT-M3,Enlarge,200,2 x 10,0.85,100,35,175,D2PAK (TO-263AB),Common cathode,No,image/diodes/ultrafast-recovery/96391.png
+VS-MURB2020CTHM3,Enlarge,200,2 x 10,0.85,100,19,175,D2PAK (TO-263AB),Common cathode,Yes,image/diodes/ultrafast-recovery/94807.png
+VS-MURB820-1-M3,Enlarge,200,8,0.895,100,35,175,TO-262AA,Single,No,image/diodes/ultrafast-recovery/96392.png
+VS-MURB820-1HM3,Enlarge,200,8,0.75,100,35,175,TO-262AA,Single,Yes,image/diodes/ultrafast-recovery/95902.png
+VS-MURB820-M3,Enlarge,200,8,0.895,100,35,175,D2PAK (TO-263AB),Single,No,image/diodes/ultrafast-recovery/96392.png
+VS-MURB820HM3,Enlarge,200,8,0.75,100,35,175,D2PAK (TO-263AB),Single,Yes,image/diodes/ultrafast-recovery/95902.png
+VS-MURD620CT-M3,Enlarge,200,2 x 3,0.9,50,see datasheet,175,DPAK (TO-252AA),Common cathode,No,image/diodes/ultrafast-recovery/93497.png
+VS-MURD620CTHM3,Enlarge,200,2 x 3,0.9,50,see datasheet,175,DPAK (TO-252AA),Common cathode,Yes,image/diodes/ultrafast-recovery/94742.png

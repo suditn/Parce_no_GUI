@@ -1,0 +1,26 @@
+*  Model for Vishay  ESD Protection Diode
+*			
+*  VBUS05M2-HT5
+* 
+*  86208SPICE_Vishay_VBUS05M2-HT5.txt
+*
+*  TNOM=27GRD, RS without heating
+*                                       			
+*  Vishay Semiconductor GmbH
+*  Claus Mähner, February 2022
+*
+*                                   			
+*  Copyright:                            
+*  Vishay Intertechnology, Inc. 
+*
+********************************************************************************
+*
+.SUBCKT VBUS05M2 1 2 3
+*	
+D1 1 4 DBUS
+D2 2 4 DBUS
+D3 3 4 DBUS
+.MODEL DBUS D(RS=1 CJO=7.2E-13 M=0.1 VJ=0.41 IS=1E-9 BV=7.8 IBV=0.001)
+*	
+.ENDS VBUS05M2
+********************************************************************************

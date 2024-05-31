@@ -1,0 +1,713 @@
+Part Number▲▼,Product Image,Rev. Voltage(V)▲▼,IF(AV)(A)▲▼,VFat IF(V)▲▼,IFSM(A)▲▼,trr(ns)▲▼,TJmax.(°C)▲▼,Package (JEDEC®) Code▲▼,CircuitConfiguration▲▼,Snap factor▲▼,AEC-Q101Qualified▲▼,Image path
+1N4001,Enlarge,50,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88503.png
+1N4002,Enlarge,100,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88503.png
+1N4003,Enlarge,200,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88503.png
+1N4004,Enlarge,400,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88503.png
+1N4005,Enlarge,600,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88503.png
+1N4006,Enlarge,800,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88503.png
+1N4007,Enlarge,1000,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88503.png
+1N4933,Enlarge,50,1,1.2,30,200,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88508.png
+1N4934,Enlarge,100,1,1.2,30,200,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88508.png
+1N4935,Enlarge,200,1,1.2,30,200,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88508.png
+1N4936,Enlarge,400,1,1.2,30,200,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88508.png
+1N4937,Enlarge,600,1,1.2,30,200,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88508.png
+1N5059,Enlarge,200,2,1 at 1,50,4000,175,SOD-57,,,No,image/diodes/standard-recovery/86000.png
+1N5060,Enlarge,400,2,1 at 1,50,4000,175,SOD-57,,,No,image/diodes/standard-recovery/86000.png
+1N5061,Enlarge,600,2,1 at 1,50,4000,175,SOD-57,,,No,image/diodes/standard-recovery/86000.png
+1N5062,Enlarge,800,2,1 at 1,50,4000,175,SOD-57,,,No,image/diodes/standard-recovery/86000.png
+1N5391,Enlarge,50,1.5,1.4,50,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88514.png
+1N5392,Enlarge,100,1.5,1.4,50,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88514.png
+1N5393,Enlarge,200,1.5,1.4,50,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88514.png
+1N5394,Enlarge,300,1.5,1.4,50,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88514.png
+1N5395,Enlarge,400,1.5,1.4,50,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88514.png
+1N5396,Enlarge,500,1.5,1.4,50,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88514.png
+1N5397,Enlarge,600,1.5,1.4,50,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88514.png
+1N5398,Enlarge,800,1.5,1.4,50,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88514.png
+1N5399,Enlarge,1000,1.5,1.4,50,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88514.png
+1N5400,Enlarge,50,3,1.2,200,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88516.png
+1N5401,Enlarge,100,3,1.2,200,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88516.png
+1N5402,Enlarge,200,3,1.2,200,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88516.png
+1N5403,Enlarge,300,3,1.2,200,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88516.png
+1N5404,Enlarge,400,3,1.2,200,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88516.png
+1N5405,Enlarge,500,3,1.2,200,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88516.png
+1N5406,Enlarge,600,3,1.2,200,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88516.png
+1N5407,Enlarge,800,3,1.2,200,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88516.png
+1N5408,Enlarge,1000,3,1.2,200,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88516.png
+1N5417,Enlarge,200,3,1.1 at 3,100,100,175,SOD-64,,,No,image/diodes/standard-recovery/86097.png
+1N5418,Enlarge,400,3,1.1 at 3,100,100,175,SOD-64,,,No,image/diodes/standard-recovery/86097.png
+1N5624,Enlarge,200,3,1 at 3,100,5000,175,SOD-64,,,No,image/diodes/standard-recovery/86063.png
+1N5625,Enlarge,400,3,1 at 3,100,5000,175,SOD-64,,,No,image/diodes/standard-recovery/86063.png
+1N5626,Enlarge,600,3,1 at 3,100,5000,175,SOD-64,,,No,image/diodes/standard-recovery/86063.png
+1N5627,Enlarge,800,3,1 at 3,100,5000,175,SOD-64,,,No,image/diodes/standard-recovery/86063.png
+1N6478,Enlarge,50,1,1.1,30,,175,GL41 (DO-213AB),Single,,No,image/diodes/standard-recovery/88527.png
+1N6479,Enlarge,100,1,1.1,30,,175,GL41 (DO-213AB),Single,,No,image/diodes/standard-recovery/88527.png
+1N6480,Enlarge,200,1,1.1,30,,175,GL41 (DO-213AB),Single,,No,image/diodes/standard-recovery/88527.png
+1N6481,Enlarge,400,1,1.1,30,,175,GL41 (DO-213AB),Single,,No,image/diodes/standard-recovery/88527.png
+1N6482,Enlarge,600,1,1.1,30,,175,GL41 (DO-213AB),Single,,No,image/diodes/standard-recovery/88527.png
+1N6483,Enlarge,800,1,1.1,30,,175,GL41 (DO-213AB),Single,,No,image/diodes/standard-recovery/88527.png
+1N6484,Enlarge,1000,1,1.1,30,,175,GL41 (DO-213AB),Single,,No,image/diodes/standard-recovery/88527.png
+AR1FD,Enlarge,200,1,see datasheet,30,140,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87167.png
+AR1FG,Enlarge,400,1,see datasheet,30,140,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87167.png
+AR1FJ,Enlarge,600,1,see datasheet,30,140,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87167.png
+AR1FK,Enlarge,800,1,see datasheet,30,140,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87167.png
+AR1FM,Enlarge,1000,1,see datasheet,30,140,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87167.png
+AR1PD,Enlarge,200,1,see datasheet,30,140,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89289.png
+AR1PG,Enlarge,400,1,see datasheet,30,140,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89289.png
+AR1PJ,Enlarge,600,1,see datasheet,30,140,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89289.png
+AR1PK,Enlarge,800,1,see datasheet,30,140,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89289.png
+AR1PM,Enlarge,1000,1,see datasheet,30,140,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89289.png
+AR3PD,Enlarge,200,3,1.04,50,140,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89332.png
+AR3PG,Enlarge,400,3,1.04,50,140,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89332.png
+AR3PJ,Enlarge,600,3,1.04,50,140,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89332.png
+AR3PK,Enlarge,800,3,1.26,50,120,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89333.png
+AR3PM,Enlarge,1000,3,1.26,50,120,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89333.png
+AR4PD,Enlarge,200,4,1.02,65,140,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89334.png
+AR4PG,Enlarge,400,4,1.02,65,140,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89334.png
+AR4PJ,Enlarge,600,4,1.02,65,140,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89334.png
+AR4PK,Enlarge,800,4,1.27,65,120,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89335.png
+AR4PM,Enlarge,1000,4,1.27,65,120,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89335.png
+AS1FD,Enlarge,200,1.5,0.84,30,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87021.png
+AS1FG,Enlarge,400,1.5,0.84,30,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87021.png
+AS1FJ,Enlarge,600,1.5,0.84,30,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87021.png
+AS1FK,Enlarge,800,1.5,0.84,30,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87021.png
+AS1FM,Enlarge,1000,1.5,0.84,30,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87021.png
+AS1PD,Enlarge,200,1.5,0.89,30,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89290.png
+AS1PG,Enlarge,400,1.5,0.89,30,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89290.png
+AS1PJ,Enlarge,600,1.5,0.89,30,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89290.png
+AS1PK,Enlarge,800,1.5,0.89,30,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89290.png
+AS1PM,Enlarge,1000,1.5,0.89,30,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89290.png
+AS3BD,Enlarge,200,3,0.86,90,,175,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/89377.png
+AS3BG,Enlarge,400,3,0.86,90,,175,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/89377.png
+AS3BJ,Enlarge,600,3,0.86,90,,175,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/89377.png
+AS3PD,Enlarge,200,3,0.90,70,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/88837.png
+AS3PG,Enlarge,400,3,0.90,70,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/88837.png
+AS3PJ,Enlarge,600,3,0.90,70,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/88837.png
+AS3PK,Enlarge,800,3,0.90,70,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/88837.png
+AS3PM,Enlarge,1000,3,0.90,70,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/88837.png
+AS4PD,Enlarge,200,4,0.92,100,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/88770.png
+AS4PG,Enlarge,400,4,0.92,100,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/88770.png
+AS4PJ,Enlarge,600,4,0.92,100,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/88770.png
+AS4PK,Enlarge,800,4,0.92,100,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/88770.png
+AS4PM,Enlarge,1000,4,0.92,100,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/88770.png
+BA157,Enlarge,400,1,1.3,20,150,125,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88536.png
+BA158,Enlarge,600,1,1.3,20,150,125,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88536.png
+BA159,Enlarge,1000,1,1.3,20,150,125,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88536.png
+BA159D,Enlarge,800,1,1.3,20,150,125,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88536.png
+BY203-12S,Enlarge,1200,0.25,2.4 at 0.2,20,300,150,SOD-57,,,No,image/diodes/standard-recovery/86002.png
+BY203-16S,Enlarge,1600,0.25,2.4 at 0.2,20,300,150,SOD-57,,,No,image/diodes/standard-recovery/86002.png
+BY203-20S,Enlarge,2000,0.25,2.4 at 0.2,20,300,150,SOD-57,,,No,image/diodes/standard-recovery/86002.png
+BY228,Enlarge,1500,3,1.5 at 5,50,2000,140,SOD-64,,,No,image/diodes/standard-recovery/86003.png
+BY228-13,Enlarge,1000,3,1.5 at 5,50,2000,140,SOD-64,,,No,image/diodes/standard-recovery/86004.png
+BY228-15,Enlarge,1200,3,1.5 at 5,50,2000,140,SOD-64,,,No,image/diodes/standard-recovery/86004.png
+BY251P,Enlarge,200,3,1.1,150,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88838.png
+BY252P,Enlarge,400,3,1.1,150,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88838.png
+BY253P,Enlarge,600,3,1.1,150,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88838.png
+BY254P,Enlarge,800,3,1.1,150,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88838.png
+BY255P,Enlarge,1300,3,1.1,150,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88838.png
+BY268,Enlarge,1400,0.8,1.25 at 0.4,20,400,175,SOD-57,,,No,image/diodes/standard-recovery/86005.png
+BY269,Enlarge,1600,0.8,1.25 at 0.4,20,400,175,SOD-57,,,No,image/diodes/standard-recovery/86005.png
+BY448,Enlarge,1500,2,1.6 at 3,30,2000,140,SOD-57,,,No,image/diodes/standard-recovery/86006.png
+BY458,Enlarge,1200,2,1.6 at 3,30,2000,140,SOD-57,,,No,image/diodes/standard-recovery/86006.png
+BY527,Enlarge,800,2,1 at 1,50,4000,175,SOD-57,,,No,image/diodes/standard-recovery/86007.png
+BYG10D,Enlarge,200,1.5,1.15,30,,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88957.png
+BYG10G,Enlarge,400,1.5,1.15,30,,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88957.png
+BYG10J,Enlarge,600,1.5,1.15,30,,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88957.png
+BYG10K,Enlarge,800,1.5,1.15,30,,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88957.png
+BYG10M,Enlarge,1000,1.5,1.15,30,,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88957.png
+BYG10Y,Enlarge,1600,1.5,1.15,30,,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88957.png
+BYG21K,Enlarge,800,1.5,1.6,30,120,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88961.png
+BYG21M,Enlarge,1000,1.5,1.6,30,120,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88961.png
+BYG24D,Enlarge,200,1.5,1.25,30,140,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88960.png
+BYG24G,Enlarge,400,1.5,1.25,30,140,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88960.png
+BYG24J,Enlarge,600,1.5,1.25,30,140,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88960.png
+BYM10-xxx,Enlarge,50 to 1000,1,see datasheet,30,,175,MELF (DO-213AB),Single,,No,image/diodes/standard-recovery/88546.png
+BYM10-xxx,Enlarge,50 to 1600,1,see datasheet,30,,175,MELF (DO-213AB),Single,,No,image/diodes/standard-recovery/88546.png
+BYM11-xxx,Enlarge,50 to 1000,1,1.3,30,150,175,GL41 (DO-213AB),Single,,No,image/diodes/standard-recovery/88547.png
+BYM36A,Enlarge,200,3,1.6 at 3,65,100,175,SOD-64,,,No,image/diodes/standard-recovery/86012.png
+BYM36B,Enlarge,400,3,1.6 at 3,65,100,175,SOD-64,,,No,image/diodes/standard-recovery/86012.png
+BYM36C,Enlarge,600,3,1.6 at 3,65,100,175,SOD-64,,,No,image/diodes/standard-recovery/86012.png
+BYM36D,Enlarge,800,2.9,1.78 at 3,65,150,175,SOD-64,,,No,image/diodes/standard-recovery/86012.png
+BYM36E,Enlarge,1000,2.9,1.78 at 3,65,150,175,SOD-64,,,No,image/diodes/standard-recovery/86012.png
+BYT51A,Enlarge,50,1.5,1.1 at 1,50,4000,175,SOD-57,,,Yes,image/diodes/standard-recovery/86028.png
+BYT51B,Enlarge,100,1.5,1.1 at 1,50,4000,175,SOD-57,,,Yes,image/diodes/standard-recovery/86028.png
+BYT51D,Enlarge,200,1.5,1.1 at 1,50,4000,175,SOD-57,,,Yes,image/diodes/standard-recovery/86028.png
+BYT51G,Enlarge,400,1.5,1.1 at 1,50,4000,175,SOD-57,,,Yes,image/diodes/standard-recovery/86028.png
+BYT51J,Enlarge,600,1.5,1.1 at 1,50,4000,175,SOD-57,,,Yes,image/diodes/standard-recovery/86028.png
+BYT51K,Enlarge,800,1.5,1.1 at 1,50,4000,175,SOD-57,,,Yes,image/diodes/standard-recovery/86028.png
+BYT51M,Enlarge,1000,1.5,1.1 at 1,50,4000,175,SOD-57,,,Yes,image/diodes/standard-recovery/86028.png
+BYT52A,Enlarge,50,1.4,1.3 at 1,50,200,175,SOD-57,,,No,image/diodes/standard-recovery/86029.png
+BYT52B,Enlarge,100,1.4,1.3 at 1,50,200,175,SOD-57,,,No,image/diodes/standard-recovery/86029.png
+BYT52D,Enlarge,200,1.4,1.3 at 1,50,200,175,SOD-57,,,No,image/diodes/standard-recovery/86029.png
+BYT52G,Enlarge,400,1.4,1.3 at 1,50,200,175,SOD-57,,,No,image/diodes/standard-recovery/86029.png
+BYT52J,Enlarge,600,1.4,1.3 at 1,50,200,175,SOD-57,,,No,image/diodes/standard-recovery/86029.png
+BYT52K,Enlarge,800,1.4,1.3 at 1,50,200,175,SOD-57,,,No,image/diodes/standard-recovery/86029.png
+BYT52M,Enlarge,1000,1.4,1.3 at 1,50,200,175,SOD-57,,,No,image/diodes/standard-recovery/86029.png
+BYT54A,Enlarge,50,1.25,1.5 at 1,30,100,175,SOD-57,,,No,image/diodes/standard-recovery/86031.png
+BYT54B,Enlarge,100,1.25,1.5 at 1,30,100,175,SOD-57,,,No,image/diodes/standard-recovery/86031.png
+BYT54D,Enlarge,200,1.25,1.5 at 1,30,100,175,SOD-57,,,No,image/diodes/standard-recovery/86031.png
+BYT54G,Enlarge,400,1.25,1.5 at 1,30,100,175,SOD-57,,,No,image/diodes/standard-recovery/86031.png
+BYT54J,Enlarge,600,1.25,1.5 at 1,30,100,175,SOD-57,,,No,image/diodes/standard-recovery/86031.png
+BYT54K,Enlarge,800,1.25,1.5 at 1,30,100,175,SOD-57,,,No,image/diodes/standard-recovery/86031.png
+BYT54M,Enlarge,1000,1.25,1.5 at 1,30,100,175,SOD-57,,,No,image/diodes/standard-recovery/86031.png
+BYT56A,Enlarge,50,3,1.4 at 3,80,100,175,SOD-64,,,No,image/diodes/standard-recovery/86032.png
+BYT56B,Enlarge,100,3,1.4 at 3,80,100,175,SOD-64,,,No,image/diodes/standard-recovery/86032.png
+BYT56D,Enlarge,200,3,1.4 at 3,80,100,175,SOD-64,,,No,image/diodes/standard-recovery/86032.png
+BYT56G,Enlarge,400,3,1.4 at 3,80,100,175,SOD-64,,,No,image/diodes/standard-recovery/86032.png
+BYT56J,Enlarge,600,3,1.4 at 3,80,100,175,SOD-64,,,No,image/diodes/standard-recovery/86032.png
+BYT56K,Enlarge,800,3,1.4 at 3,80,100,175,SOD-64,,,No,image/diodes/standard-recovery/86032.png
+BYT56M,Enlarge,1000,3,1.4 at 3,80,100,175,SOD-64,,,No,image/diodes/standard-recovery/86032.png
+BYT62,Enlarge,2400,0.35,3 at 0.2,10,5000,175,SOD-57,,,No,image/diodes/standard-recovery/86033.png
+BYT77,Enlarge,800,3,1.2 at 3,100,250,175,SOD-64,,,No,image/diodes/standard-recovery/86034.png
+BYT78,Enlarge,1000,3,1.2 at 3,100,250,175,SOD-64,,,No,image/diodes/standard-recovery/86034.png
+BYV12,Enlarge,100,1.5,1.5 at 1,40,300,175,SOD-57,,,No,image/diodes/standard-recovery/86039.png
+BYV13,Enlarge,400,1.5,1.5 at 1,40,300,175,SOD-57,,,No,image/diodes/standard-recovery/86039.png
+BYV14,Enlarge,600,1.5,1.5 at 1,40,300,175,SOD-57,,,No,image/diodes/standard-recovery/86039.png
+BYV15,Enlarge,800,1.5,1.5 at 1,40,300,175,SOD-57,,,No,image/diodes/standard-recovery/86039.png
+BYV16,Enlarge,1000,1.5,1.5 at 1,40,300,175,SOD-57,,,No,image/diodes/standard-recovery/86039.png
+BYV37,Enlarge,800,2,1.1 at 1,50,300,175,SOD-57,,,No,image/diodes/standard-recovery/86045.png
+BYV38,Enlarge,1000,2,1.1 at 1,50,300,175,SOD-57,,,No,image/diodes/standard-recovery/86045.png
+BYW172D,Enlarge,200,3,1.1 at 3,100,100,175,SOD-64,,,No,image/diodes/standard-recovery/86096.png
+BYW172F,Enlarge,300,3,1.1 at 3,100,100,175,SOD-64,,,No,image/diodes/standard-recovery/86096.png
+BYW172G,Enlarge,400,3,1.1 at 3,100,100,175,SOD-64,,,No,image/diodes/standard-recovery/86096.png
+BYW178,Enlarge,800,3,1.9 at 3,80,60,175,SOD-64,,,No,image/diodes/standard-recovery/86047.png
+BYW32,Enlarge,200,2,1.1 at 1,50,200,175,SOD-57,,,No,image/diodes/standard-recovery/86048.png
+BYW33,Enlarge,300,2,1.1 at 1,50,200,175,SOD-57,,,No,image/diodes/standard-recovery/86048.png
+BYW34,Enlarge,400,2,1.1 at 1,50,200,175,SOD-57,,,No,image/diodes/standard-recovery/86048.png
+BYW35,Enlarge,500,2,1.1 at 1,50,200,175,SOD-57,,,No,image/diodes/standard-recovery/86048.png
+BYW36,Enlarge,600,2,1.1 at 1,50,200,175,SOD-57,,,No,image/diodes/standard-recovery/86048.png
+BYW52,Enlarge,200,2,1 at 1,50,4000,175,SOD-57,,,Yes,image/diodes/standard-recovery/86049.png
+BYW53,Enlarge,400,2,1 at 1,50,4000,175,SOD-57,,,Yes,image/diodes/standard-recovery/86049.png
+BYW54,Enlarge,600,2,1 at 1,50,4000,175,SOD-57,,,Yes,image/diodes/standard-recovery/86049.png
+BYW55,Enlarge,800,2,1 at 1,50,4000,175,SOD-57,,,Yes,image/diodes/standard-recovery/86049.png
+BYW56,Enlarge,1000,2,1 at 1,50,4000,175,SOD-57,,,Yes,image/diodes/standard-recovery/86049.png
+BYW72,Enlarge,200,3,1.1 at 3,100,200,175,SOD-64,,,No,image/diodes/standard-recovery/86050.png
+BYW73,Enlarge,300,3,1.1 at 3,100,200,175,SOD-64,,,No,image/diodes/standard-recovery/86050.png
+BYW74,Enlarge,400,3,1.1 at 3,100,200,175,SOD-64,,,No,image/diodes/standard-recovery/86050.png
+BYW75,Enlarge,500,3,1.1 at 3,100,200,175,SOD-64,,,No,image/diodes/standard-recovery/86050.png
+BYW76,Enlarge,600,3,1.1 at 3,100,200,175,SOD-64,,,No,image/diodes/standard-recovery/86050.png
+BYW82,Enlarge,200,3,1 at 3,100,5000,175,SOD-64,,,Yes,image/diodes/standard-recovery/86051.png
+BYW83,Enlarge,400,3,1 at 3,100,5000,175,SOD-64,,,Yes,image/diodes/standard-recovery/86051.png
+BYW84,Enlarge,600,3,1 at 3,100,5000,175,SOD-64,,,Yes,image/diodes/standard-recovery/86051.png
+BYW85,Enlarge,800,3,1 at 3,100,5000,175,SOD-64,,,Yes,image/diodes/standard-recovery/86051.png
+BYW86,Enlarge,1000,3,1 at 3,100,5000,175,SOD-64,,,Yes,image/diodes/standard-recovery/86051.png
+BYX82,Enlarge,200,2,1 at 1,50,4000,175,SOD-57,,,No,image/diodes/standard-recovery/86052.png
+BYX83,Enlarge,400,2,1 at 1,50,4000,175,SOD-57,,,No,image/diodes/standard-recovery/86052.png
+BYX84,Enlarge,600,2,1 at 1,50,4000,175,SOD-57,,,No,image/diodes/standard-recovery/86052.png
+BYX85,Enlarge,800,2,1 at 1,50,4000,175,SOD-57,,,No,image/diodes/standard-recovery/86052.png
+BYX86,Enlarge,1000,2,1 at 1,50,4000,175,SOD-57,,,No,image/diodes/standard-recovery/86052.png
+GF1A,Enlarge,50,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98394.png
+GF1A,Enlarge,50,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88617.png
+GF1B,Enlarge,100,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98394.png
+GF1B,Enlarge,100,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88617.png
+GF1D,Enlarge,200,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98394.png
+GF1D,Enlarge,200,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88617.png
+GF1G,Enlarge,400,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98394.png
+GF1G,Enlarge,400,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88617.png
+GF1J,Enlarge,600,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98394.png
+GF1J,Enlarge,600,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88617.png
+GF1K,Enlarge,800,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98394.png
+GF1K,Enlarge,800,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88617.png
+GF1M,Enlarge,1000,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98394.png
+GF1M,Enlarge,1000,1,see datasheet,30,,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88617.png
+GI500,Enlarge,50,3,1.1,100,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88626.png
+GI501,Enlarge,100,3,1.1,100,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88626.png
+GI502,Enlarge,200,3,1.1,100,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88626.png
+GI504,Enlarge,400,3,1.1,100,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88626.png
+GI506,Enlarge,600,3,1.1,100,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88626.png
+GI508,Enlarge,800,3,1.1,100,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88626.png
+GI510,Enlarge,1000,3,1.1,100,,150,DO-201AD,Single die,,No,image/diodes/standard-recovery/88626.png
+GI750,Enlarge,50,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88627.png
+GI751,Enlarge,100,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88627.png
+GI752,Enlarge,200,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88627.png
+GI754,Enlarge,400,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88627.png
+GI756,Enlarge,600,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88627.png
+GI758,Enlarge,800,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88627.png
+GL34A,Enlarge,50,0.5,see datasheet,10,,175,GL34 (DO-213AA),Single,,No,image/diodes/standard-recovery/88634.png
+GL34B,Enlarge,100,0.5,see datasheet,10,,175,GL34 (DO-213AA),Single,,No,image/diodes/standard-recovery/88634.png
+GL34D,Enlarge,200,0.5,see datasheet,10,,175,GL34 (DO-213AA),Single,,No,image/diodes/standard-recovery/88634.png
+GL34G,Enlarge,400,0.5,see datasheet,10,,175,GL34 (DO-213AA),Single,,No,image/diodes/standard-recovery/88634.png
+GL34J,Enlarge,600,0.5,see datasheet,10,,175,GL34 (DO-213AA),Single,,No,image/diodes/standard-recovery/88634.png
+GL41x,Enlarge,50 to 1000,1,see datasheet,30,,175,MELF (DO-213AB),Single,,No,image/diodes/standard-recovery/88546.png
+GL41x,Enlarge,50 to 1600,1,see datasheet,30,,175,MELF (DO-213AB),Single,,No,image/diodes/standard-recovery/88546.png
+GP02-20,Enlarge,2000,0.25,3.0,15,,175,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88635.png
+GP02-25,Enlarge,2500,0.25,3.0,15,,175,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88635.png
+GP02-30,Enlarge,3000,0.25,3.0,15,,175,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88635.png
+GP02-35,Enlarge,3500,0.25,3.0,15,,175,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88635.png
+GP02-40,Enlarge,4000,0.25,3.0,15,,175,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88635.png
+GPP10A,Enlarge,50,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88641.png
+GPP10B,Enlarge,100,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88641.png
+GPP10D,Enlarge,200,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88641.png
+GPP10G,Enlarge,400,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88641.png
+GPP10J,Enlarge,600,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88641.png
+GPP10K,Enlarge,800,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88641.png
+GPP10M,Enlarge,1000,1,1.1,30,,150,DO-41 (DO-204AL),Single,,No,image/diodes/standard-recovery/88641.png
+GPP20A,Enlarge,50,2,1.1,70,,150,DO-15 (DO-204AC),Single,,No,image/diodes/standard-recovery/88642.png
+GPP20B,Enlarge,100,2,1.1,70,,150,DO-15 (DO-204AC),Single,,No,image/diodes/standard-recovery/88642.png
+GPP20D,Enlarge,200,2,1.1,70,,150,DO-15 (DO-204AC),Single,,No,image/diodes/standard-recovery/88642.png
+GPP20G,Enlarge,400,2,1.1,70,,150,DO-15 (DO-204AC),Single,,No,image/diodes/standard-recovery/88642.png
+GPP20J,Enlarge,600,2,1.1,70,,150,DO-15 (DO-204AC),Single,,No,image/diodes/standard-recovery/88642.png
+GPP20K,Enlarge,800,2,1.1,70,,150,DO-15 (DO-204AC),Single,,No,image/diodes/standard-recovery/88642.png
+GPP20M,Enlarge,1000,2,1.1,70,,150,DO-15 (DO-204AC),Single,,No,image/diodes/standard-recovery/88642.png
+MPG06A,Enlarge,50,1,1.1,40,,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88682.png
+MPG06B,Enlarge,100,1,1.1,40,,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88682.png
+MPG06D,Enlarge,200,1,1.1,40,,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88682.png
+MPG06G,Enlarge,400,1,1.1,40,,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88682.png
+MPG06J,Enlarge,600,1,1.1,40,,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88682.png
+MPG06K,Enlarge,800,1,1.1,40,,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88682.png
+MPG06M,Enlarge,1000,1,1.1,40,,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88682.png
+MRSE1PK,Enlarge,800,1,1.0,15,250,175,MicroSMP (DO-219AD),Single,,No,image/diodes/standard-recovery/98651.png
+MSE07PB,Enlarge,100,0.7,0.83,20,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/87795.png
+MSE07PD,Enlarge,200,0.7,0.83,20,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/87795.png
+MSE07PG,Enlarge,400,0.7,0.83,20,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/87795.png
+MSE07PJ,Enlarge,600,0.7,0.83,20,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/87795.png
+MSE1PB,Enlarge,100,1,0.925,20,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/89067.png
+MSE1PD,Enlarge,200,1,0.925,20,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/89067.png
+MSE1PG,Enlarge,400,1,0.925,20,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/89067.png
+MSE1PJ,Enlarge,600,1,0.925,20,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/89067.png
+MSQ1PG,Enlarge,400,1,0.99,15,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/87547.png
+MSQ1PJ,Enlarge,600,1,0.99,15,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/87547.png
+MSX1PB,Enlarge,100,1,0.9,18,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/87726.png
+MSX1PD,Enlarge,200,1,0.9,18,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/87726.png
+MSX1PG,Enlarge,400,1,0.9,18,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/87726.png
+MSX1PJ,Enlarge,600,1,0.9,18,,175,MicroSMP (DO-219AD),Single,,Yes,image/diodes/standard-recovery/87726.png
+NS8xT,Enlarge,50 to 1000,8,1.1,125,,150,TO-220AC,Single,,Yes,image/diodes/standard-recovery/88690.png
+NSB8xT,Enlarge,50 to 1000,8,1.1,125,,150,D2PAK (TO-263AB),Single,,Yes,image/diodes/standard-recovery/88690.png
+P300A,Enlarge,50,3,1.2,200,,150,DO-201AD,Single,,No,image/diodes/standard-recovery/88691.png
+P300B,Enlarge,100,3,1.2,200,,150,DO-201AD,Single,,No,image/diodes/standard-recovery/88691.png
+P300D,Enlarge,200,3,1.2,200,,150,DO-201AD,Single,,No,image/diodes/standard-recovery/88691.png
+P300G,Enlarge,400,3,1.2,200,,150,DO-201AD,Single,,No,image/diodes/standard-recovery/88691.png
+P300J,Enlarge,600,3,1.2,200,,150,DO-201AD,Single,,No,image/diodes/standard-recovery/88691.png
+P300K,Enlarge,800,3,1.2,200,,150,DO-201AD,Single,,No,image/diodes/standard-recovery/88691.png
+P300M,Enlarge,1000,3,1.2,200,,150,DO-201AD,Single,,No,image/diodes/standard-recovery/88691.png
+P600A,Enlarge,50,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88692.png
+P600B,Enlarge,100,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88692.png
+P600D,Enlarge,200,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88692.png
+P600G,Enlarge,400,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88692.png
+P600J,Enlarge,600,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88692.png
+P600K,Enlarge,800,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88692.png
+P600M,Enlarge,1000,6,see datasheet,400,,150,P600,Single die,,No,image/diodes/standard-recovery/88692.png
+RGF1A,Enlarge,50,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98395.png
+RGF1A,Enlarge,50,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88697.png
+RGF1B,Enlarge,100,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98395.png
+RGF1B,Enlarge,100,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88697.png
+RGF1D,Enlarge,200,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98395.png
+RGF1D,Enlarge,200,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88697.png
+RGF1G,Enlarge,400,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98395.png
+RGF1G,Enlarge,400,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88697.png
+RGF1J,Enlarge,600,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98395.png
+RGF1J,Enlarge,600,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88697.png
+RGF1K,Enlarge,800,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98395.png
+RGF1K,Enlarge,800,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88697.png
+RGF1M,Enlarge,1000,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/98395.png
+RGF1M,Enlarge,1000,1,1.3,30,150,175,GF1 (DO-214BA),Single,,Yes,image/diodes/standard-recovery/88697.png
+RGL34A,Enlarge,50,0.5,1.3,10,150,175,GL34 (DO-213AA),Single,,No,image/diodes/standard-recovery/88698.png
+RGL34B,Enlarge,100,0.5,1.3,10,150,175,GL34 (DO-213AA),Single,,No,image/diodes/standard-recovery/88698.png
+RGL34D,Enlarge,200,0.5,1.3,10,150,175,GL34 (DO-213AA),Single,,No,image/diodes/standard-recovery/88698.png
+RGL34G,Enlarge,400,0.5,1.3,10,150,175,GL34 (DO-213AA),Single,,No,image/diodes/standard-recovery/88698.png
+RGL34J,Enlarge,600,0.5,1.3,10,150,175,GL34 (DO-213AA),Single,,No,image/diodes/standard-recovery/88698.png
+RGL34K,Enlarge,800,0.5,1.3,10,150,175,GL34 (DO-213AA),Single,,No,image/diodes/standard-recovery/88698.png
+RGL41x,Enlarge,50 to 1000,1,1.3,30,150,175,GL41 (DO-213AB),Single,,No,image/diodes/standard-recovery/88547.png
+RMPG06A,Enlarge,50,1,1.3,40,150,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88706.png
+RMPG06B,Enlarge,100,1,1.3,40,150,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88706.png
+RMPG06D,Enlarge,200,1,1.3,40,150,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88706.png
+RMPG06G,Enlarge,400,1,1.3,40,150,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88706.png
+RMPG06J,Enlarge,600,1,1.3,40,150,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88706.png
+RMPG06K,Enlarge,800,1,1.3,40,150,150,MPG06,Single die,,Yes,image/diodes/standard-recovery/88706.png
+RS07B,Enlarge,100,1.4,1.15,30,150,150,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85742.png
+RS07B-M,Enlarge,100,1.4,1.15,30,150,150,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85195.png
+RS07D,Enlarge,200,1.4,1.15,30,150,150,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85742.png
+RS07D-M,Enlarge,200,1.4,1.15,30,150,150,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85195.png
+RS07G,Enlarge,400,1.4,1.15,30,150,150,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85742.png
+RS07G-M,Enlarge,400,1.4,1.15,30,150,150,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85195.png
+RS07J,Enlarge,600,1.4,1.15,30,250,150,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85742.png
+RS07J-M,Enlarge,600,1.4,1.15,30,250,150,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85195.png
+RS07K,Enlarge,800,1.4,1.3,30,300,150,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85742.png
+RS07K-M,Enlarge,800,1.4,1.3,30,300,150,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85195.png
+RS1A,Enlarge,50,1,1.3,30,150,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88707.png
+RS1B,Enlarge,100,1,1.3,30,150,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88707.png
+RS1D,Enlarge,200,1,1.3,30,150,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88707.png
+RS1FD,Enlarge,200,1,0.88,30,,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/87042.png
+RS1FG,Enlarge,400,1,0.88,30,,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/87042.png
+RS1FJ,Enlarge,600,1,0.88,30,,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/87042.png
+RS1FK,Enlarge,800,1,0.88,30,,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/87042.png
+RS1FLD,Enlarge,200,1,0.84,35,,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/87141.png
+RS1FLG,Enlarge,400,1,0.84,35,,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/87141.png
+RS1FLJ,Enlarge,600,1,0.84,35,,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/87141.png
+RS1FLK,Enlarge,800,1,0.84,35,,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/87141.png
+RS1FLM,Enlarge,1000,1,0.84,35,,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/87141.png
+RS1FM,Enlarge,1000,1,0.88,30,,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/87042.png
+RS1G,Enlarge,400,1,1.3,30,150,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88707.png
+RS1J,Enlarge,600,1,1.3,30,150,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88707.png
+RS1K,Enlarge,800,1,1.3,30,150,150,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88707.png
+RS1PB,Enlarge,100,1,1.3,30,150,150,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/88934.png
+RS1PD,Enlarge,200,1,1.3,30,150,150,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/88934.png
+RS1PG,Enlarge,400,1,1.3,30,150,150,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/88934.png
+RS1PJ,Enlarge,600,1,1.3,30,150,150,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/88934.png
+RS2A,Enlarge,50,1.5,1.3,50,150,150,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88708.png
+RS2B,Enlarge,100,1.5,1.3,50,150,150,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88708.png
+RS2D,Enlarge,200,1.5,1.3,50,150,150,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88708.png
+RS2G,Enlarge,400,1.5,1.3,50,150,150,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88708.png
+RS2J,Enlarge,600,1.5,1.3,50,150,150,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88708.png
+RS2K,Enlarge,800,1.5,1.3,50,150,150,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88708.png
+RS3A,Enlarge,50,3,1.3,100,150,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88709.png
+RS3B,Enlarge,100,3,1.3,100,150,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88709.png
+RS3D,Enlarge,200,3,1.3,100,150,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88709.png
+RS3G,Enlarge,400,3,1.3,100,150,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88709.png
+RS3J,Enlarge,600,3,1.3,100,150,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88709.png
+RS3K,Enlarge,800,3,1.3,100,150,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88709.png
+S07B,Enlarge,100,1.5,1.1,25,1800,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85733.png
+S07B-M,Enlarge,100,1.5,1.1,25,1800,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85191.png
+S07D,Enlarge,200,1.5,1.1,25,1800,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85733.png
+S07D-M,Enlarge,200,1.5,1.1,25,1800,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85191.png
+S07G,Enlarge,400,1.5,1.1,25,1800,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85733.png
+S07G-M,Enlarge,400,1.5,1.1,25,1800,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85191.png
+S07J,Enlarge,600,1.5,1.1,25,1800,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85733.png
+S07J-M,Enlarge,600,1.5,1.1,25,1800,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85191.png
+S07M,Enlarge,1000,1.5,1.1,25,1800,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85733.png
+S07M-M,Enlarge,1000,1.5,1.1,25,1800,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/85191.png
+S10CG,Enlarge,400,10,0.87,300,,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/87608.png
+S10CJ,Enlarge,600,10,0.87,300,,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/87608.png
+S10CK,Enlarge,800,10,0.87,300,,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/87608.png
+S10CM,Enlarge,1000,10,0.87,300,,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/87608.png
+S1A,Enlarge,50,1,1.1,40,,175,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88711.png
+S1AFG,Enlarge,400,1,0.85,35,,150,SlimSMA (DO-221AC),Single,,No,image/diodes/standard-recovery/87739.png
+S1AFJ,Enlarge,600,1,0.85,35,,150,SlimSMA (DO-221AC),Single,,No,image/diodes/standard-recovery/87739.png
+S1AFK,Enlarge,800,1,0.85,35,,150,SlimSMA (DO-221AC),Single,,No,image/diodes/standard-recovery/87739.png
+S1AFM,Enlarge,1000,1,0.85,35,,150,SlimSMA (DO-221AC),Single,,No,image/diodes/standard-recovery/87739.png
+S1B,Enlarge,100,1,1.1,40,,175,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88711.png
+S1D,Enlarge,200,1,1.1,40,,175,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88711.png
+S1FLB,Enlarge,100,1.5,1.1,22,1800,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/81820.png
+S1FLB-M,Enlarge,100,1.5,1.1,22,1800,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/82453.png
+S1FLD,Enlarge,200,1.5,1.1,22,1800,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/81820.png
+S1FLD-M,Enlarge,200,1.5,1.1,22,1800,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/82453.png
+S1FLG,Enlarge,400,1.5,1.1,22,1800,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/81820.png
+S1FLG-M,Enlarge,400,1.5,1.1,22,1800,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/82453.png
+S1FLJ,Enlarge,600,1.5,1.1,22,1800,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/81820.png
+S1FLJ-M,Enlarge,600,1.5,1.1,22,1800,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/82453.png
+S1FLK,Enlarge,800,1.5,1.1,22,1800,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/81820.png
+S1FLK-M,Enlarge,800,1.5,1.1,22,1800,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/82453.png
+S1FLM,Enlarge,1000,1.5,1.1,22,1800,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/81820.png
+S1FLM-M,Enlarge,1000,1.5,1.1,22,1800,150,SMF (DO-219AB),Single,,No,image/diodes/standard-recovery/82453.png
+S1G,Enlarge,400,1,1.1,40,,175,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88711.png
+S1J,Enlarge,600,1,1.1,40,,175,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88711.png
+S1K,Enlarge,800,1,1.1,40,,175,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88711.png
+S1M,Enlarge,1000,1,1.1,40,,175,SMA (DO-214AC),Single,,Yes,image/diodes/standard-recovery/88711.png
+S1PB,Enlarge,100,1,0.95,,,150,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/88917.png
+S1PD,Enlarge,200,1,0.95,,,150,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/88917.png
+S1PG,Enlarge,400,1,0.95,,,150,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/88917.png
+S1PJ,Enlarge,600,1,0.95,,,150,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/88917.png
+S1PK,Enlarge,800,1,0.95,,,150,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/88917.png
+S1PM,Enlarge,1000,1,0.95,,,150,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/88917.png
+S2A,Enlarge,50,1.5,1.15,50,,175,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88712.png
+S2B,Enlarge,100,1.5,1.15,50,,175,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88712.png
+S2D,Enlarge,200,1.5,1.15,50,,175,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88712.png
+S2G,Enlarge,400,1.5,1.15,50,,175,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88712.png
+S2J,Enlarge,600,1.5,1.15,50,,175,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88712.png
+S2K,Enlarge,800,1.5,1.15,50,,175,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88712.png
+S2M,Enlarge,1000,1.5,1.15,50,,175,SMB (DO-214AA),Single,,Yes,image/diodes/standard-recovery/88712.png
+S3A,Enlarge,50,3,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88713.png
+S3AFG,Enlarge,400,3,0.9,50,,175,SlimSMA (DO-221AC),Single,,Yes,image/diodes/standard-recovery/87207.png
+S3AFJ,Enlarge,600,3,0.9,50,,175,SlimSMA (DO-221AC),Single,,Yes,image/diodes/standard-recovery/87207.png
+S3B,Enlarge,100,3,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88713.png
+S3D,Enlarge,200,3,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88713.png
+S3G,Enlarge,400,3,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88713.png
+S3J,Enlarge,600,3,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88713.png
+S3K,Enlarge,800,3,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88713.png
+S3M,Enlarge,1000,3,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88713.png
+S4PB,Enlarge,100,4,0.860,100,,150,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89032.png
+S4PD,Enlarge,200,4,0.860,100,,150,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89032.png
+S4PG,Enlarge,400,4,0.860,100,,150,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89032.png
+S4PJ,Enlarge,600,4,0.860,100,,150,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89032.png
+S4PK,Enlarge,800,4,0.860,100,,150,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89032.png
+S4PM,Enlarge,1000,4,0.860,100,,150,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/89032.png
+S5A,Enlarge,50,5,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88931.png
+S5B,Enlarge,100,5,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88931.png
+S5D,Enlarge,200,5,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88931.png
+S5G,Enlarge,400,5,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88931.png
+S5J,Enlarge,600,5,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88931.png
+S5K,Enlarge,800,5,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88931.png
+S5M,Enlarge,1000,5,1.15,100,,175,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/88931.png
+S5MS,Enlarge,1000,5,0.90,100,,150,SMC (DO-214AB),Single,,No,image/diodes/standard-recovery/89148.png
+S5PMS,Enlarge,1000,5,0.90,100,,150,SMPC (TO-277A),Single,,No,image/diodes/standard-recovery/89149.png
+S8CG,Enlarge,400,8,0.87,260,,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/87607.png
+S8CJ,Enlarge,600,8,0.87,260,,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/87607.png
+S8CK,Enlarge,800,8,0.87,260,,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/87607.png
+S8CM,Enlarge,1000,8,0.87,260,,150,SMC (DO-214AB),Single,,Yes,image/diodes/standard-recovery/87607.png
+S8G,Enlarge,400,8,0.85,220,,150,SMC (DO-214AB),Single,,No,image/diodes/standard-recovery/98460.png
+S8GS,Enlarge,400,8,0.87,200,,150,SMC (DO-214AB),Single,,No,image/diodes/standard-recovery/98461.png
+S8J,Enlarge,600,8,0.85,220,,150,SMC (DO-214AB),Single,,No,image/diodes/standard-recovery/98460.png
+S8JS,Enlarge,600,8,0.87,200,,150,SMC (DO-214AB),Single,,No,image/diodes/standard-recovery/98461.png
+S8K,Enlarge,800,8,0.85,220,,150,SMC (DO-214AB),Single,,No,image/diodes/standard-recovery/98460.png
+S8KS,Enlarge,800,8,0.87,200,,150,SMC (DO-214AB),Single,,No,image/diodes/standard-recovery/98461.png
+S8M,Enlarge,1000,8,0.85,220,,150,SMC (DO-214AB),Single,,No,image/diodes/standard-recovery/98460.png
+S8MS,Enlarge,1000,8,0.87,200,,150,SMC (DO-214AB),Single,,No,image/diodes/standard-recovery/98461.png
+S8PG,Enlarge,400,8,0.87,230,,150,SMPC (TO-277A),Single,,No,image/diodes/standard-recovery/98366.png
+S8PJ,Enlarge,600,8,0.87,230,,150,SMPC (TO-277A),Single,,No,image/diodes/standard-recovery/98366.png
+S8PK,Enlarge,800,8,0.87,230,,150,SMPC (TO-277A),Single,,No,image/diodes/standard-recovery/98366.png
+S8PM,Enlarge,1000,8,0.87,230,,150,SMPC (TO-277A),Single,,No,image/diodes/standard-recovery/98366.png
+SA2B,Enlarge,100,2,0.854,55,,150,SMA (DO-214AC),Single,,No,image/diodes/standard-recovery/88969.png
+SA2D,Enlarge,200,2,0.854,55,,150,SMA (DO-214AC),Single,,No,image/diodes/standard-recovery/88969.png
+SA2G,Enlarge,400,2,0.854,55,,150,SMA (DO-214AC),Single,,No,image/diodes/standard-recovery/88969.png
+SA2J,Enlarge,600,2,0.854,55,,150,SMA (DO-214AC),Single,,No,image/diodes/standard-recovery/88969.png
+SA2K,Enlarge,800,2,0.854,55,,150,SMA (DO-214AC),Single,,No,image/diodes/standard-recovery/88969.png
+SA2M,Enlarge,1000,2,0.854,55,,150,SMA (DO-214AC),Single,,No,image/diodes/standard-recovery/88969.png
+SB2D,Enlarge,200,2,0.86,55,,150,SMB (DO-214AA),Single,,No,image/diodes/standard-recovery/89461.png
+SB2G,Enlarge,400,2,0.86,55,,150,SMB (DO-214AA),Single,,No,image/diodes/standard-recovery/89461.png
+SB2J,Enlarge,600,2,0.86,55,,150,SMB (DO-214AA),Single,,No,image/diodes/standard-recovery/89461.png
+SB2K,Enlarge,800,2,0.86,55,,150,SMB (DO-214AA),Single,,No,image/diodes/standard-recovery/89461.png
+SB2M,Enlarge,1000,2,0.86,55,,150,SMB (DO-214AA),Single,,No,image/diodes/standard-recovery/89461.png
+SE07PB,Enlarge,100,0.7,0.865,20,,175,SMP (DO-220AA),Single,,No,image/diodes/standard-recovery/89023.png
+SE07PD,Enlarge,200,0.7,0.865,20,,175,SMP (DO-220AA),Single,,No,image/diodes/standard-recovery/89023.png
+SE07PG,Enlarge,400,0.7,0.865,20,,175,SMP (DO-220AA),Single,,No,image/diodes/standard-recovery/89023.png
+SE07PJ,Enlarge,600,0.7,0.865,20,,175,SMP (DO-220AA),Single,,No,image/diodes/standard-recovery/89023.png
+SE100PWB,Enlarge,100,10,0.93,125,,175,SlimDPAK (TO-252AE),Single,,Yes,image/diodes/standard-recovery/87509.png
+SE100PWD,Enlarge,200,10,0.93,125,,175,SlimDPAK (TO-252AE),Single,,Yes,image/diodes/standard-recovery/87509.png
+SE100PWG,Enlarge,400,10,0.93,125,,175,SlimDPAK (TO-252AE),Single,,Yes,image/diodes/standard-recovery/87509.png
+SE100PWJ,Enlarge,600,10,0.93,125,,175,SlimDPAK (TO-252AE),Single,,Yes,image/diodes/standard-recovery/87509.png
+SE100PWTG,Enlarge,400,10,0.93,125,,175,SlimDPAK 2L,Single,,Yes,image/diodes/standard-recovery/98361.png
+SE100PWTJ,Enlarge,600,10,0.93,125,,175,SlimDPAK 2L,Single,,Yes,image/diodes/standard-recovery/98361.png
+SE100PWTLG,Enlarge,400,10,0.78,150,,175,SlimDPAK 2L,Single,,Yes,image/diodes/standard-recovery/98396.png
+SE100PWTLJ,Enlarge,600,10,0.78,150,,175,SlimDPAK 2L,Single,,Yes,image/diodes/standard-recovery/98396.png
+SE10DB,Enlarge,100,10,0.96,110,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/89983.png
+SE10DD,Enlarge,200,10,0.96,110,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/89983.png
+SE10DG,Enlarge,400,10,0.96,110,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/89983.png
+SE10DJ,Enlarge,600,10,0.96,110,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/89983.png
+SE10DLG,Enlarge,400,10,0.83,150,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/87486.png
+SE10DLJ,Enlarge,600,10,0.83,150,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/87486.png
+SE10DTG,Enlarge,400,10,0.96,110,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98191.png
+SE10DTJ,Enlarge,600,10,0.96,110,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98191.png
+SE10DTLG,Enlarge,400,10,0.83,150,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98231.png
+SE10DTLJ,Enlarge,600,10,0.83,150,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98231.png
+SE10FD,Enlarge,200,1,0.85,25,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87722.png
+SE10FG,Enlarge,400,1,0.85,25,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87722.png
+SE10FJ,Enlarge,600,1,0.85,25,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87722.png
+SE10PB,Enlarge,100,1,0.86,25,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89024.png
+SE10PD,Enlarge,200,1,0.86,25,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89024.png
+SE10PG,Enlarge,400,1,0.86,25,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89024.png
+SE10PJ,Enlarge,600,1,0.86,25,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89024.png
+SE12DB,Enlarge,100,12,0.96,125,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/89984.png
+SE12DD,Enlarge,200,12,0.96,125,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/89984.png
+SE12DG,Enlarge,400,12,0.96,125,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/89984.png
+SE12DJ,Enlarge,600,12,0.96,125,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/89984.png
+SE12DLG,Enlarge,400,12,0.83,165,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/87487.png
+SE12DLJ,Enlarge,600,12,0.83,165,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/87487.png
+SE12DTG,Enlarge,400,12,0.96,125,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98230.png
+SE12DTJ,Enlarge,600,12,0.96,125,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98230.png
+SE12DTLG,Enlarge,400,12,0.83,165,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98232.png
+SE12DTLJ,Enlarge,600,12,0.83,165,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98232.png
+SE15FD,Enlarge,200,1.5,0.86,30,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87723.png
+SE15FG,Enlarge,400,1.5,0.86,30,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87723.png
+SE15FJ,Enlarge,600,1.5,0.86,30,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87723.png
+SE15PB,Enlarge,100,1.5,0.868,30,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89025.png
+SE15PD,Enlarge,200,1.5,0.868,30,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89025.png
+SE15PG,Enlarge,400,1.5,0.868,30,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89025.png
+SE15PJ,Enlarge,600,1.5,0.868,30,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/89025.png
+SE20AFB,Enlarge,100,2,0.86,35,,175,SlimSMA (DO-221AC),Single,,Yes,image/diodes/standard-recovery/89954.png
+SE20AFD,Enlarge,200,2,0.86,35,,175,SlimSMA (DO-221AC),Single,,Yes,image/diodes/standard-recovery/89954.png
+SE20AFG,Enlarge,400,2,0.86,35,,175,SlimSMA (DO-221AC),Single,,Yes,image/diodes/standard-recovery/89954.png
+SE20AFJ,Enlarge,600,2,0.86,35,,175,SlimSMA (DO-221AC),Single,,Yes,image/diodes/standard-recovery/89954.png
+SE20DB,Enlarge,100,20,1.03,150,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/87794.png
+SE20DD,Enlarge,200,20,1.03,150,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/87794.png
+SE20DG,Enlarge,400,20,1.03,150,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/87794.png
+SE20DJ,Enlarge,600,20,1.03,150,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/87794.png
+SE20DLG,Enlarge,400,20,0.85,200,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/87488.png
+SE20DLJ,Enlarge,600,20,0.85,200,,175,SMPD (TO-263AC),Single,,Yes,image/diodes/standard-recovery/87488.png
+SE20DTG,Enlarge,400,20,1.03,150,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98190.png
+SE20DTJ,Enlarge,600,20,1.03,150,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98190.png
+SE20DTLG,Enlarge,400,20,0.85,200,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98233.png
+SE20DTLJ,Enlarge,600,20,0.85,200,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98233.png
+SE20FD,Enlarge,200,2,0.85,35,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87724.png
+SE20FG,Enlarge,400,2,0.85,35,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87724.png
+SE20FJ,Enlarge,600,2,0.85,35,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/87724.png
+SE20ND,Enlarge,200,2,0.86,32,,175,DFN3820A,Single,,Yes,image/diodes/standard-recovery/98367.png
+SE20NG,Enlarge,400,2,0.86,32,,175,DFN3820A,Single,,Yes,image/diodes/standard-recovery/98367.png
+SE20NJ,Enlarge,600,2,0.86,32,,175,DFN3820A,Single,,Yes,image/diodes/standard-recovery/98367.png
+SE20PAB,Enlarge,100,2,0.92,32,,175,SMPA (DO-221BC),Single,,Yes,image/diodes/standard-recovery/87701.png
+SE20PAD,Enlarge,200,2,0.92,32,,175,SMPA (DO-221BC),Single,,Yes,image/diodes/standard-recovery/87701.png
+SE20PAG,Enlarge,400,2,0.92,32,,175,SMPA (DO-221BC),Single,,Yes,image/diodes/standard-recovery/87701.png
+SE20PAJ,Enlarge,600,2,0.92,32,,175,SMPA (DO-221BC),Single,,Yes,image/diodes/standard-recovery/87701.png
+SE20PB,Enlarge,100,2,0.85,32,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/87905.png
+SE20PD,Enlarge,200,2,0.85,32,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/87905.png
+SE20PG,Enlarge,400,2,0.85,32,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/87905.png
+SE20PJ,Enlarge,600,2,0.85,32,,175,SMP (DO-220AA),Single,,Yes,image/diodes/standard-recovery/87905.png
+SE30124,Enlarge,1200,30,0.97,700,,175,DO-218AB,Single,,No,image/diodes/standard-recovery/98474.png
+SE30AFB,Enlarge,100,3,0.86,40,,175,SlimSMA (DO-221AC),Single,,Yes,image/diodes/standard-recovery/89955.png
+SE30AFD,Enlarge,200,3,0.86,40,,175,SlimSMA (DO-221AC),Single,,Yes,image/diodes/standard-recovery/89955.png
+SE30AFG,Enlarge,400,3,0.86,40,,175,SlimSMA (DO-221AC),Single,,Yes,image/diodes/standard-recovery/89955.png
+SE30AFJ,Enlarge,600,3,0.86,40,,175,SlimSMA (DO-221AC),Single,,Yes,image/diodes/standard-recovery/89955.png
+SE30DT12,Enlarge,1200,30,1.01,300,,175,SMPD 2L,Single,,Yes,image/diodes/standard-recovery/98242.png
+SE30ND,Enlarge,200,3,0.86,40,,175,DFN3820A,Single,,Yes,image/diodes/standard-recovery/98368.png
+SE30NG,Enlarge,400,3,0.86,40,,175,DFN3820A,Single,,Yes,image/diodes/standard-recovery/98368.png
+SE30NJ,Enlarge,600,3,0.86,40,,175,DFN3820A,Single,,Yes,image/diodes/standard-recovery/98368.png
+SE30PAB,Enlarge,100,3,1.00,32,,175,SMPA (DO-221BC),Single,,Yes,image/diodes/standard-recovery/87702.png
+SE30PAD,Enlarge,200,3,1.00,32,,175,SMPA (DO-221BC),Single,,Yes,image/diodes/standard-recovery/87702.png
+SE30PAG,Enlarge,400,3,1.00,32,,175,SMPA (DO-221BC),Single,,Yes,image/diodes/standard-recovery/87702.png
+SE30PAJ,Enlarge,600,3,1.00,32,,175,SMPA (DO-221BC),Single,,Yes,image/diodes/standard-recovery/87702.png
+SE40N3D,Enlarge,200,4,0.84,70,,175,DFN33A,Single,,Yes,image/diodes/standard-recovery/98541.png
+SE40N3G,Enlarge,400,4,0.84,70,,175,DFN33A,Single,,Yes,image/diodes/standard-recovery/98541.png
+SE40N3J,Enlarge,600,4,0.84,70,,175,DFN33A,Single,,Yes,image/diodes/standard-recovery/98541.png
+SE40ND,Enlarge,200,4,0.86,60,,175,DFN3820A,Single,,Yes,image/diodes/standard-recovery/98369.png
+SE40NG,Enlarge,400,4,0.86,60,,175,DFN3820A,Single,,Yes,image/diodes/standard-recovery/98369.png
+SE40NJ,Enlarge,600,4,0.86,60,,175,DFN3820A,Single,,Yes,image/diodes/standard-recovery/98369.png
+SE40PB,Enlarge,100,4,0.91,60,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/87954.png
+SE40PD,Enlarge,200,4,0.91,60,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/87954.png
+SE40PG,Enlarge,400,4,0.91,60,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/87954.png
+SE40PJ,Enlarge,600,4,0.91,60,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/87954.png
+SE40PWBC,Enlarge,100,2 x 2,0.92,36,,175,SlimDPAK (TO-252AE),Common cathode,,Yes,image/diodes/standard-recovery/87538.png
+SE40PWDC,Enlarge,200,2 x 2,0.92,36,,175,SlimDPAK (TO-252AE),Common cathode,,Yes,image/diodes/standard-recovery/87538.png
+SE40PWGC,Enlarge,400,2 x 2,0.92,36,,175,SlimDPAK (TO-252AE),Common cathode,,Yes,image/diodes/standard-recovery/87538.png
+SE40PWJC,Enlarge,600,2 x 2,0.92,36,,175,SlimDPAK (TO-252AE),Common cathode,,Yes,image/diodes/standard-recovery/87538.png
+SE50PAB,Enlarge,100,5,0.95,42,,175,SMPA (DO-221BC),Single,,Yes,image/diodes/standard-recovery/87703.png
+SE50PAD,Enlarge,200,5,0.95,42,,175,SMPA (DO-221BC),Single,,Yes,image/diodes/standard-recovery/87703.png
+SE50PAG,Enlarge,400,5,0.95,42,,175,SMPA (DO-221BC),Single,,Yes,image/diodes/standard-recovery/87703.png
+SE50PAJ,Enlarge,600,5,0.95,42,,175,SMPA (DO-221BC),Single,,Yes,image/diodes/standard-recovery/87703.png
+SE60N3D,Enlarge,200,6,0.88,80,,175,DFN33A,Single,,Yes,image/diodes/standard-recovery/98542.png
+SE60N3G,Enlarge,400,6,0.88,80,,175,DFN33A,Single,,Yes,image/diodes/standard-recovery/98542.png
+SE60N3J,Enlarge,600,6,0.88,80,,175,DFN33A,Single,,Yes,image/diodes/standard-recovery/98542.png
+SE60PWBC,Enlarge,100,2 x 3,0.94,42,,175,SlimDPAK (TO-252AE),Common cathode,,Yes,image/diodes/standard-recovery/87533.png
+SE60PWDC,Enlarge,200,2 x 3,0.94,42,,175,SlimDPAK (TO-252AE),Common cathode,,Yes,image/diodes/standard-recovery/87533.png
+SE60PWGC,Enlarge,400,2 x 3,0.94,42,,175,SlimDPAK (TO-252AE),Common cathode,,Yes,image/diodes/standard-recovery/87533.png
+SE60PWJC,Enlarge,600,2 x 3,0.94,42,,175,SlimDPAK (TO-252AE),Common cathode,,Yes,image/diodes/standard-recovery/87533.png
+SE70PB,Enlarge,100 to 600,7,0.87,120,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/87955.png
+SE70PD,Enlarge,100 to 600,7,0.87,120,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/87955.png
+SE70PG,Enlarge,100 to 600,7,0.87,120,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/87955.png
+SE70PJ,Enlarge,100 to 600,7,0.87,120,,175,SMPC (TO-277A),Single,,Yes,image/diodes/standard-recovery/87955.png
+SE80PWB,Enlarge,100,8,0.92,110,,175,SlimDPAK (TO-252AE),Single,,Yes,image/diodes/standard-recovery/87508.png
+SE80PWD,Enlarge,200,8,0.92,110,,175,SlimDPAK (TO-252AE),Single,,Yes,image/diodes/standard-recovery/87508.png
+SE80PWG,Enlarge,400,8,0.92,110,,175,SlimDPAK (TO-252AE),Single,,Yes,image/diodes/standard-recovery/87508.png
+SE80PWJ,Enlarge,600,8,0.92,110,,175,SlimDPAK (TO-252AE),Single,,Yes,image/diodes/standard-recovery/87508.png
+SE80PWTG,Enlarge,400,8,0.92,110,,175,SlimDPAK 2L,Single,,Yes,image/diodes/standard-recovery/98189.png
+SE80PWTJ,Enlarge,600,8,0.92,110,,175,SlimDPAK 2L,Single,,Yes,image/diodes/standard-recovery/98189.png
+SE80PWTLG,Enlarge,400,8,0.79,130,,175,SlimDPAK 2L,Single,,Yes,image/diodes/standard-recovery/98397.png
+SE80PWTLJ,Enlarge,600,8,0.79,130,,175,SlimDPAK 2L,Single,,Yes,image/diodes/standard-recovery/98397.png
+SE8D20D,Enlarge,200 to 600,2,0.86,35,,175,SlimSMAW (DO-221AD),Single,,Yes,image/diodes/standard-recovery/98269.png
+SE8D20G,Enlarge,200 to 600,2,0.86,35,,175,SlimSMAW (DO-221AD),Single,,Yes,image/diodes/standard-recovery/98269.png
+SE8D20J,Enlarge,200 to 600,2,0.86,35,,175,SlimSMAW (DO-221AD),Single,,Yes,image/diodes/standard-recovery/98269.png
+SE8D30D,Enlarge,200 to 600,3,0.86,40,,175,SlimSMAW (DO-221AD),Single,,Yes,image/diodes/standard-recovery/98270.png
+SE8D30G,Enlarge,200 to 600,3,0.86,40,,175,SlimSMAW (DO-221AD),Single,,Yes,image/diodes/standard-recovery/98270.png
+SE8D30J,Enlarge,200 to 600,3,0.86,40,,175,SlimSMAW (DO-221AD),Single,,Yes,image/diodes/standard-recovery/98270.png
+SEG10FG,Enlarge,400,1,0.83,25,,175,SMF (DO-219AB),Single,,Yes,image/diodes/standard-recovery/98193.png
+SEP4512,Enlarge,1200,2 x 45,1.14,480,,175,TO-247AD 3L,Phase leg,,Yes,image/diodes/standard-recovery/98365.png
+VS-10ETF0...-M3 Series,Enlarge,"200, 400, 600",10,1.2,130,50,150,TO-220AC 2L,Single,0.6,No,image/diodes/standard-recovery/96210.png
+"VS-10ETF02FP-M3, VS-10ETF04FP-M3, VS-10ETF06FP-M3",Enlarge,"200, 400, 600",10,1.2,160,50,150,TO-220 FullPAK 2L,Single,0.5,No,image/diodes/standard-recovery/96293.png
+"VS-10ETF02S-M3, VS-10ETF04S-M3, VS-10ETF06S-M3 Series",Enlarge,"200, 400, 600",10,1.2,140,50,150,D2PAK (TO-263AB),Single,0.6,No,image/diodes/standard-recovery/94884.png
+VS-10ETF06SLHM3,Enlarge,600,10,1.2,,50,150,D2PAK (TO-263AB),Single,0.6,Yes,image/diodes/standard-recovery/96485.png
+VS-10ETF06THM3,Enlarge,600,10,1.2,,,150,2L TO-220AC,Single,0.6,Yes,image/diodes/standard-recovery/96539.png
+VS-10ETF1...-M3 Series,Enlarge,"1000, 1200",10,1.33,140,80,150,TO-220AC 2L,Single,0.6,No,image/diodes/standard-recovery/96211.png
+"VS-10ETF10FP-M3, VS-10ETF12FP-M3",Enlarge,"1000, 1200",10,1.33,140,80,150,TO-220 FullPAK 2L,Single,0.6,No,image/diodes/standard-recovery/96294.png
+"VS-10ETF10S-M3, VS-10ETF12S-M3 Series",Enlarge,"1000, 1200",10,1.33,155,80,150,D2PAK (TO-263AB),Single,0.6,No,image/diodes/standard-recovery/94885.png
+VS-10ETF12SLHM3,Enlarge,1200,10,1.33,,80,150,D2PAK (TO-263AB),Single,0.6,Yes,image/diodes/standard-recovery/96486.png
+VS-10ETF12THM3,Enlarge,1200,10,1.33,,,150,2L TO-220AC,Single,0.6,Yes,image/diodes/standard-recovery/96540.png
+VS-10ETS...-M3 Series,Enlarge,800 - 1200,10,1.1,,,150,TO-220AC 2L,Single,,No,image/diodes/standard-recovery/96212.png
+VS-10ETS08FP-M3,Enlarge,800 - 1200,10,1.1,,,150,TO-220 FullPAK 2L,Single,,No,image/diodes/standard-recovery/96295.png
+VS-10ETS08S-M3,Enlarge,800,10,1.1,,,150,D2PAK (TO-263AB),Single,,No,image/diodes/standard-recovery/94888.png
+VS-10ETS10S-M3,Enlarge,1000,10,1.1,,,150,D2PAK (TO-263AB),Single,,No,image/diodes/standard-recovery/94888.png
+VS-10ETS12FP-M3,Enlarge,800 - 1200,10,1.1,,,150,TO-220 FullPAK 2L,Single,,No,image/diodes/standard-recovery/96295.png
+VS-10ETS12S-M3 Series,Enlarge,1200,10,1.1,,,150,D2PAK (TO-263AB),Single,,No,image/diodes/standard-recovery/94888.png
+VS-10ETS12SLHM3,Enlarge,1200,10,1.1,,,150,D2PAK (TO-263AB),Single,,Yes,image/diodes/standard-recovery/96484.png
+VS-10ETS12THM3,Enlarge,1200,10,1.1,,,150,TO-220AC 2L,Single,,Yes,image/diodes/standard-recovery/96537.png
+VS-20ATS..-M3,Enlarge,800 1200,20,1.1,,,150,TO-220AB 3L,Common anode,,No,image/diodes/standard-recovery/96244.png
+VS-20ATS12HM3,Enlarge,1200,20,1.1,,,150,3L TO-220AB,Single,,Yes,image/diodes/standard-recovery/96523.png
+VS-20ETF...-M3 Series,Enlarge,"200, 400, 600",20,1.3,300,60,150,TO-220AC 2L,Single,0.6,No,image/diodes/standard-recovery/96213.png
+VS-20ETF...-M3 Series,Enlarge,"800, 1000, 1200",20,1.31,320,95,150,TO-220AC 2L,Single,0.6,No,image/diodes/standard-recovery/96214.png
+"VS-20ETF02FP-M3, VS-20ETF04FP-M3, VS-20ETF06FP-M3",Enlarge,"200, 400, 600",20,1.3,300,60,150,TO-220 FullPAK 2L,Single,0.6,No,image/diodes/standard-recovery/96296.png
+"VS-20ETF02S-M3, VS-20ETF04S-M3, VS-20ETF06S-M3 Series",Enlarge,"200, 400, 600",20,1.3,300,60,150,D2PAK (TO-263AB),Single,0.6,No,image/diodes/standard-recovery/94886.png
+VS-20ETF06SLHM3,Enlarge,600,20,1.3,,60,150,D2PAK (TO-263AB),Single,0.6,Yes,image/diodes/standard-recovery/96119.png
+VS-20ETF06THM3,Enlarge,600,20,1.3,,,150,2L TO-220AC,Single,0.6,Yes,image/diodes/standard-recovery/96534.png
+"VS-20ETF08S-M3, VS-20ETF10S-M3, VS-20ETF12S-M3 Series",Enlarge,"800, 1000, 1200",20,1.31,355,95,150,D2PAK (TO-263AB),Single,0.6,No,image/diodes/standard-recovery/94887.png
+"VS-20ETF10FP-M3, VS-20ETF12FP-M3",Enlarge,"1000, 1200",20,1.31,320,95,150,TO-220 FullPAK 2L,Single,0.6,No,image/diodes/standard-recovery/96297.png
+VS-20ETF12SLHM3,Enlarge,1200,20,1.31,355,95,150,D2PAK (TO-263AB),Single,0.6,Yes,image/diodes/standard-recovery/96487.png
+VS-20ETF12THM3,Enlarge,1200,20,1.31,320,95,150,TO-220AC 2L,Single,0.6,Yes,image/diodes/standard-recovery/96535.png
+VS-20ETS..-M3,Enlarge,800 1200,20,1.1,,,150,TO-220AC 2L,Single,,No,image/diodes/standard-recovery/96244.png
+VS-20ETS08FP-M3,Enlarge,800,20,1.1,,,150,TO-220 FullPAK 2L,Single,,No,image/diodes/standard-recovery/96298.png
+VS-20ETS08S-M3,Enlarge,800,20,1.1,,,150,D2PAK (TO-263AB),Single,,No,image/diodes/standard-recovery/94889.png
+VS-20ETS12FP-M3,Enlarge,1200,20,1.1,,,150,TO-220 FullPAK 2L,Single,,No,image/diodes/standard-recovery/96298.png
+VS-20ETS12S-M3 Series,Enlarge,1200,20,1.1,,,150,D2PAK (TO-263AB),Single,,No,image/diodes/standard-recovery/94889.png
+VS-20ETS12THM3,Enlarge,1200,20,1.1,,,150,2L TO-220AC,Single,,Yes,image/diodes/standard-recovery/96523.png
+VS-20ETS16-M3,Enlarge,1600,20,1.1,,,150,TO-220AC 2L,Single,,No,image/diodes/standard-recovery/93405.png
+VS-20ETS16THM3,Enlarge,1600,20,1.1,,,150,2L TO-220AC,Single,,Yes,image/diodes/standard-recovery/96536.png
+VS-25ETS08S-M3,Enlarge,800,25,1.14,,,150,D2PAK (TO-263AB),Single,,No,image/diodes/standard-recovery/94890.png
+VS-25ETS10S-M3,Enlarge,1000,25,1.14,,,150,D2PAK (TO-263AB),Single,,No,image/diodes/standard-recovery/94890.png
+VS-25ETS12S-M3 Series,Enlarge,1200,25,1.14,,,150,D2PAK (TO-263AB),Single,,No,image/diodes/standard-recovery/94890.png
+VS-25ETS12SLHM3,Enlarge,1200,25,1.14,,,175,D2PAK (TO-263AB),Single,,Yes,image/diodes/standard-recovery/96975.png
+VS-30.PF0.-M3 Series,Enlarge,"200, 400, 600",30,1.41,320,60,150,TO-247AC 2L,Single,0.6,No,image/diodes/standard-recovery/93693.png
+VS-30.PF0.-M3 Series,Enlarge,"200, 400, 600",30,1.41,320,60,150,TO-247AC 3L,Single,0.6,No,image/diodes/standard-recovery/93693.png
+VS-30.PF1.-M3 Series,Enlarge,"1000, 1200",30,1.41,350,95,150,TO-247AC 2L,Single,0.6,No,image/diodes/standard-recovery/93705.png
+VS-30.PF1.-M3 Series,Enlarge,"1000, 1200",30,1.41,350,95,150,TO-247AC 3L,Single,0.6,No,image/diodes/standard-recovery/93705.png
+VS-30ETS12S2L-M3,Enlarge,1200,30,1.20,,,175,D2PAK 2L (TO-263AB 2L),Single,,No,image/diodes/standard-recovery/97033.png
+VS-30ETS12S2LHM3,Enlarge,1200,30,1.20,,,175,D2PAK 2L (TO-263AB 2L),Single,,Yes,image/diodes/standard-recovery/96954.png
+"VS-35EPF06L-M3, VS-35APF06L-M3",Enlarge,600,35,1.27,320,60,150,TO-247AD 2L,Single,0.6,No,image/diodes/standard-recovery/95995.png
+"VS-35EPF06L-M3, VS-35APF06L-M3",Enlarge,600,35,1.27,320,60,150,TO-247AD 3L,Single,0.6,No,image/diodes/standard-recovery/95995.png
+"VS-35EPF06LHM3, VS-35APF06LHM3",Enlarge,600,35,1.27,,60,150,TO-247AD 2L,Single,0.6,Yes,image/diodes/standard-recovery/96494.png
+"VS-35EPF06LHM3, VS-35APF06LHM3",Enlarge,600,35,1.27,,60,150,TO-247AD 3L,Single,0.6,Yes,image/diodes/standard-recovery/96494.png
+"VS-35EPF12L-M3, VS-35APF12L-M3",Enlarge,1200,35,1.27,350,95,150,TO-247AD 2L,Single,0.6,No,image/diodes/standard-recovery/95996.png
+"VS-35EPF12L-M3, VS-35APF12L-M3",Enlarge,1200,35,1.27,350,95,150,TO-247AD 3L,Single,0.6,No,image/diodes/standard-recovery/95996.png
+"VS-35EPF12LHM3, VS-35APF12LHM3",Enlarge,1200,35,1.27,,95,150,TO-247AD 2L,Single,0.6,Yes,image/diodes/standard-recovery/96492.png
+"VS-35EPF12LHM3, VS-35APF12LHM3",Enlarge,1200,35,1.27,,95,150,TO-247AD 3L,Single,0.6,Yes,image/diodes/standard-recovery/96492.png
+VS-40APS16-M3,Enlarge,1600,40,1.14,,,150,TO-247AC 3L,Single,,No,image/diodes/standard-recovery/94344.png
+VS-40EPF0.-M3 Series,Enlarge,"200, 400, 600",40,1.25,475,60,150,TO-247AC 2L,Single,0.5,No,image/diodes/standard-recovery/94102.png
+VS-40EPF1.-M3 Series,Enlarge,"1000, 1200",40,1.4,475,95,150,TO-247AC 2L,Single,0.5,No,image/diodes/standard-recovery/94103.png
+VS-40EPF1.-M3 Series,Enlarge,"1000, 1200",40,1.4,475,95,150,TO-247AC 3L,Single,0.5,No,image/diodes/standard-recovery/94103.png
+VS-40EPS..-M3 Series,Enlarge,800 - 1200,40,1.1,,,150,TO-247AC 2L,Single,,No,image/diodes/standard-recovery/94343.png
+VS-40EPS16-M3,Enlarge,1600,40,1.14,,,150,TO-247AC 2L,Single,,No,image/diodes/standard-recovery/94344.png
+VS-45APS..L-M3,Enlarge,1200,45,1.14,,,150,TO-247AD 3L,Single,,Yes,image/diodes/standard-recovery/96335.png
+VS-45APS12LHM3,Enlarge,1200,45,1.14,,,150,TO-247AD 3L,Single,,Yes,image/diodes/standard-recovery/96128.png
+VS-45APS16L-M3,Enlarge,1600,45,1.16,,,150,TO-247AD 3L,Single,,Yes,image/diodes/standard-recovery/96478.png
+VS-45APS16LHM3,Enlarge,1600,45,1.16,,,150,TO-247AD 3L,Single,,Yes,image/diodes/standard-recovery/96450.png
+"VS-45EPF06L-M3, VS-45APF06L-M3",Enlarge,600,45,1.31,550,60,150,TO-247AD 2L,Single,0.5,No,image/diodes/standard-recovery/95999.png
+"VS-45EPF06L-M3, VS-45APF06L-M3",Enlarge,600,45,1.31,550,60,150,TO-247AD 3L,Single,0.5,No,image/diodes/standard-recovery/95999.png
+"VS-45EPF06LHM3, VS-45APF06LHM3",Enlarge,600,45,1.31,,60,150,TO-247AD 2L,Single,0.5,Yes,image/diodes/standard-recovery/96499.png
+"VS-45EPF06LHM3, VS-45APF06LHM3",Enlarge,600,45,1.31,,60,150,TO-247AD 3L,Single,0.5,Yes,image/diodes/standard-recovery/96499.png
+"VS-45EPF12L-M3, VS-45APF12L-M3",Enlarge,1200,45,1.44,550,95,150,TO-247AD 2L,Single,0.5,No,image/diodes/standard-recovery/95935.png
+"VS-45EPF12L-M3, VS-45APF12L-M3",Enlarge,1200,45,1.44,550,95,150,TO-247AD 3L,Single,0.5,No,image/diodes/standard-recovery/95935.png
+"VS-45EPF12LHM3, VS-45APF12LHM3",Enlarge,1200,45,1.44,,95,150,TO-247AD 2L,Single,0.5,Yes,image/diodes/standard-recovery/96500.png
+"VS-45EPF12LHM3, VS-45APF12LHM3",Enlarge,1200,45,1.44,,95,150,TO-247AD 3L,Single,0.5,Yes,image/diodes/standard-recovery/96500.png
+VS-45EPS..L-M3,Enlarge,800,45,1.14,,,150,TO-247AD 2L,Single,,Yes,image/diodes/standard-recovery/96335.png
+VS-45EPS12LHM3,Enlarge,1200,45,1.14,,,150,TO-247AD 2L,Single,,Yes,image/diodes/standard-recovery/96128.png
+VS-45EPS16L-M3,Enlarge,1600,45,1.16,,,150,TO-247AD 2L,Single,,Yes,image/diodes/standard-recovery/96478.png
+VS-45EPS16LHM3,Enlarge,1600,45,1.16,,,150,TO-247AD 2L,Single,,Yes,image/diodes/standard-recovery/96450.png
+VS-60.PF0.-M3 Series,Enlarge,"200, 400, 600",60,1.3,830,70,150,TO-247AC 2L,Single,0.5,No,image/diodes/standard-recovery/93710.png
+VS-60.PF0.-M3 Series,Enlarge,"200, 400, 600",60,1.3,830,70,150,TO-247AC 3L,Single,0.5,No,image/diodes/standard-recovery/93710.png
+VS-60.PF1.-M3 Series,Enlarge,"1000, 1200",60,1.4,830,95,150,TO-247AC 2L,Single,0.6,No,image/diodes/standard-recovery/93721.png
+VS-60.PF1.-M3 Series,Enlarge,"1000, 1200",60,1.4,830,95,150,TO-247AC 3L,Single,0.6,No,image/diodes/standard-recovery/93721.png
+VS-60EPS..-M3 Series,Enlarge,800 - 1200,60,1.09,,,150,TO-247AC 2L,Single,,No,image/diodes/standard-recovery/94345.png
+VS-60EPS16-M3,Enlarge,1600,60,1.15,,,150,TO-247AC 2L,Single,,No,image/diodes/standard-recovery/94346.png
+VS-65APS..L-M3,Enlarge,1200,65,1.12,,,150,TO-247AD 3L,Single,,Yes,image/diodes/standard-recovery/95998.png
+VS-65APS12LHM3,Enlarge,1200,65,1.12,,,150,TO-247AD 3L,Single,,Yes,image/diodes/standard-recovery/96107.png
+VS-65APS16L-M3,Enlarge,1600,65,1.17,,,150,TO-247AD 3L,Single,,Yes,image/diodes/standard-recovery/93393.png
+VS-65APS16LHM3,Enlarge,1600,65,1.17,,,150,TO-247AD 3L,Single,,Yes,image/diodes/standard-recovery/96475.png
+"VS-65EPF06L-M3, VS-65APF06L-M3",Enlarge,600,65,1.32,830,70,150,TO-247AD 2L,Single,0.5,No,image/diodes/standard-recovery/95652.png
+"VS-65EPF06L-M3, VS-65APF06L-M3",Enlarge,600,65,1.32,830,70,150,TO-247AD 3L,Single,0.5,No,image/diodes/standard-recovery/95652.png
+"VS-65EPF06LHM3, VS-65APF06LHM3",Enlarge,600,65,1.32,,70,150,TO-247AD 2L,Single,0.5,Yes,image/diodes/standard-recovery/96498.png
+"VS-65EPF06LHM3, VS-65APF06LHM3",Enlarge,600,65,1.32,,70,150,TO-247AD 3L,Single,0.5,Yes,image/diodes/standard-recovery/96498.png
+"VS-65EPF12L-M3, VS-65APF12L-M3",Enlarge,1200,65,1.42,830,95,150,TO-247AD 2L,Single,0.6,No,image/diodes/standard-recovery/95653.png
+"VS-65EPF12L-M3, VS-65APF12L-M3",Enlarge,1200,65,1.42,830,95,150,TO-247AD 3L,Single,0.6,No,image/diodes/standard-recovery/95653.png
+"VS-65EPF12LHM3, VS-65APF12LHM3",Enlarge,1200,65,1.42,,95,150,TO-247AD 2L,Single,0.6,Yes,image/diodes/standard-recovery/96497.png
+"VS-65EPF12LHM3, VS-65APF12LHM3",Enlarge,1200,65,1.42,,95,150,TO-247AD 3L,Single,0.6,Yes,image/diodes/standard-recovery/96497.png
+VS-65EPS..L-M3,Enlarge,800,65,1.12,,,150,TO-247AD 2L,Single,,Yes,image/diodes/standard-recovery/95998.png
+VS-65EPS12LHM3,Enlarge,1200,65,1.12,,,150,TO-247AD 2L,Single,,Yes,image/diodes/standard-recovery/96107.png
+VS-65EPS16L-M3,Enlarge,1600,65,1.17,,,150,TO-247AD 2L,Single,,Yes,image/diodes/standard-recovery/93393.png
+VS-65EPS16LHM3,Enlarge,1600,65,1.17,,,150,TO-247AD 2L,Single,,Yes,image/diodes/standard-recovery/96475.png
+VS-80APF0..-M3 Series,Enlarge,"200, 400, 600",80,1.25,1000,70,150,TO-247AC 3L,Single,0.5,No,image/diodes/standard-recovery/93722.png
+VS-80APF1.-M3 Series,Enlarge,"1000, 1200",80,1.35,1250,90,150,TO-247AC 3L,Single,0.5,No,image/diodes/standard-recovery/93725.png
+VS-80APS..-M3 Series,Enlarge,800 - 1200,80,1.17,,,150,TO-247AC 3L,Single,,No,image/diodes/standard-recovery/93794.png
+VS-80APS16-M3,Enlarge,1600,80,1.17,,,150,TO-247AC 3L,Single,,No,image/diodes/standard-recovery/93795.png
+VS-85EPF12-M4,Enlarge,1200,85,1.36,1190,95,150,PowerTab®,Single,0.5,No,image/diodes/standard-recovery/97208.png
+VS-85EPF12HM4,Enlarge,1200,85,1.36,1190,95,150,PowerTab®,Single,0.5,Yes,image/diodes/standard-recovery/97209.png
+"VS-8EWF02S-M3, VS-8EWF04S-M3, VS-8EWF06S-M3",Enlarge,"200, 400, 600",8,1.2,150,55,150,DPAK (TO-252AA),Single,0.5,No,image/diodes/standard-recovery/93375.png
+VS-8EWF06SLHM3,Enlarge,600,8,1.2,,55,150,DPAK (TO-252AA),Single,0.5,Yes,image/diodes/standard-recovery/96117.png
+"VS-8EWF10S-M3, VS-8EWF12S-M3 Soft Recovery Series",Enlarge,"1000, 1200",8,1.3,150,80,150,DPAK (TO-252AA),Single,0.6,No,image/diodes/standard-recovery/93377.png
+VS-8EWF12SLHM3,Enlarge,1200,8,1.3,150,80,150,DPAK (TO-252AA),Single,0.6,Yes,image/diodes/standard-recovery/96490.png
+VS-8EWS08S-M3,Enlarge,800,8,1.1,,,150,DPAK (TO-252AA),Single,,No,image/diodes/standard-recovery/93383.png
+VS-8EWS12S-M3,Enlarge,1200,8,1.1,,,150,DPAK (TO-252AA),Single,,No,image/diodes/standard-recovery/93383.png
+VS-8EWS12SLHM3,Enlarge,1200,8,1.1,,,150,DPAK (TO-252AA),Single,,Yes,image/diodes/standard-recovery/96118.png
+VS-8EWS16S-M3 Series,Enlarge,1600,8,1.1,,,150,DPAK (TO-252AA),Single,,No,image/diodes/standard-recovery/93384.png
+VS-8EWS16SLHM3,Enlarge,1600,8,1.1,,,150,DPAK (TO-252AA),Single,,Yes,image/diodes/standard-recovery/96489.png
+VS-90APS..L-M3,Enlarge,800 - 1200,90,1.20,,,150,TO-247AD 3L,Single,,No,image/diodes/standard-recovery/93396.png
+VS-90APS16L-M3,Enlarge,1600,90,1.21,,,150,TO-247AD 3L,Single,,No,image/diodes/standard-recovery/95696.png
+"VS-90EPF06L-M3, VS-90APF06L-M3",Enlarge,600,90,1.3,,70,150,TO-247AD 2L,Single,0.5,No,image/diodes/standard-recovery/95694.png
+"VS-90EPF06L-M3, VS-90APF06L-M3",Enlarge,600,90,1.3,,70,150,TO-247AD 3L,Single,0.5,No,image/diodes/standard-recovery/95694.png
+"VS-90EPF12L-M3, VS-90APF12L-M3",Enlarge,1200,90,1.38,,90,150,TO-247AD 2L,Single,0.5,No,image/diodes/standard-recovery/95654.png
+"VS-90EPF12L-M3, VS-90APF12L-M3",Enlarge,1200,90,1.38,,90,150,TO-247AD 3L,Single,0.5,No,image/diodes/standard-recovery/95654.png
+VS-90EPS..L-M3,Enlarge,800 - 1200,90,1.20,,,150,TO-247AD 2L,Single,,No,image/diodes/standard-recovery/93396.png
+VS-90EPS16L-M3,Enlarge,1600,90,1.21,,,150,TO-247AD 2L,Single,,No,image/diodes/standard-recovery/95696.png

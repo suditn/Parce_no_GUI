@@ -1,0 +1,113 @@
+Series▲▼,Product Image,Package (JEDEC®) Code▲▼,VRRM(V)▲▼,IRat VR(nA at V)▲▼,VFat IF(V at mA)▲▼,trr(ns)▲▼,Circuit Configuration▲▼,AEC-Q101 Qualified▲▼,Image path
+1N4148,Enlarge,DO-35 (DO-204AH),100,25 at 20,1 at 10,8,Single,No,image/diodes/switching/81857.png
+1N4148W,Enlarge,SOD-123,100,25 at 20,1 at 10,4,Single,Yes,image/diodes/switching/86356.png
+1N4148W-G,Enlarge,SOD-123,100,25 at 20,1 at 10,4,Single,Yes,image/diodes/switching/86357.png
+1N4148WS,Enlarge,SOD-323,100,25 at 20,1 at 10,4,Single,Yes,image/diodes/switching/85751.png
+1N4148WS-G,Enlarge,SOD-323,100,25 at 20,1 at 10,4,Single,Yes,image/diodes/switching/85413.png
+1N4150,Enlarge,DO-35 (DO-204AH),50,100 at 50,0.620 at 1,4,Single,No,image/diodes/switching/85522.png
+1N4150W,Enlarge,SOD-123,50,100 at 50,0.620 at 1,4,Single,Yes,image/diodes/switching/86358.png
+1N4150W-G,Enlarge,SOD-123,50,100 at 50,0.620 at 1,4,Single,Yes,image/diodes/switching/86359.png
+1N4151,Enlarge,DO-35 (DO-204AH),75,50 at 50,1 at 50,4,Single,No,image/diodes/switching/85523.png
+1N4151W,Enlarge,SOD-123,75,50 at 50,1.0 at 50,4,Single,Yes,image/diodes/switching/86360.png
+1N4151W-G,Enlarge,SOD-123,75,50 at 50,1.0 at 50,4,Single,Yes,image/diodes/switching/86361.png
+1N4151WS,Enlarge,SOD-323,75,50 at 50,1 at 50,4,Single,Yes,image/diodes/switching/85847.png
+1N4151WS-G,Enlarge,SOD-323,75,50 at 50,1 at 50,4,Single,Yes,image/diodes/switching/85412.png
+1N4154,Enlarge,DO-35 (DO-204AH),35,100 at 25,1 at 30,4,Single,No,image/diodes/switching/85524.png
+1N4448,Enlarge,DO-35 (DO-204AH),100,25 at 20,0.720 at 5,8,Single,No,image/diodes/switching/81858.png
+1N4448W,Enlarge,SOD-123,100,25 at 20,1 at 100,4,Single,Yes,image/diodes/switching/86362.png
+1N4448W-G,Enlarge,SOD-123,100,25 at 20,1 at 100,4,Single,Yes,image/diodes/switching/86363.png
+1N4448WS,Enlarge,SOD-323,100,25 at 20,1 at 100,4,Single,Yes,image/diodes/switching/81387.png
+1N4448WS-G,Enlarge,SOD-323,100,25 at 20,1 at 100,4,Single,Yes,image/diodes/switching/85414.png
+1N914,Enlarge,DO-35 (DO-204AH),100,5 at 75,1 at 10,4,Single,No,image/diodes/switching/85622.png
+BAL99,Enlarge,SOT-23,70,2500 at 70,0.715 at 1,6,Single,Yes,image/diodes/switching/86364.png
+BAL99-G,Enlarge,SOT-23,70,2500 at 70,0.715 at 1,6,Single,Yes,image/diodes/switching/86365.png
+BAR64-05W,Enlarge,SOT-323,,50 at 50,1.1 at 50,n/a,Common cathode,Yes,image/diodes/switching/86199.png
+BAS16,Enlarge,SOT-23,75,100 at 75,0.715 at 1,6,Single,Yes,image/diodes/switching/86366.png
+BAS16-G,Enlarge,SOT-23,75,100 at 75,0.715 at 1,6,Single,Yes,image/diodes/switching/86367.png
+BAS16D,Enlarge,SOD-123,100,50 at 75,1.25 at 150,6,Single,Yes,image/diodes/switching/86368.png
+BAS16D-G,Enlarge,SOD-123,100,50 at 75,1.25 at 150,6,Single,Yes,image/diodes/switching/86369.png
+BAS16L,Enlarge,DFN1006-2A,100,500 at 80,1.250 at 150,4,Single,Yes,image/diodes/switching/86187.png
+BAS16LTH,Enlarge,DFN1006-2A,,500 at 80,1.250 at 150,4,Single,Yes,image/diodes/switching/86327.png
+BAS16WS,Enlarge,SOD-323,100,1000 at 75,1.250 at 150,6,Single,Yes,image/diodes/switching/85752.png
+BAS16WS-G,Enlarge,SOD-323,100,1000 at 75,1.250 at 150,6,Single,Yes,image/diodes/switching/85152.png
+"BAS19, BAS20, BAS21",Enlarge,SOT-23,120,100 at 100,1.0 at 100,50,Single,Yes,image/diodes/switching/86370.png
+"BAS19, BAS20, BAS21",Enlarge,SOT-23,200,100 at 150,1.0 at 100,50,Single,Yes,image/diodes/switching/86370.png
+"BAS19, BAS20, BAS21",Enlarge,SOT-23,250,100 at 200,1.0 at 100,50,Single,Yes,image/diodes/switching/86370.png
+"BAS19-G, BAS20-G, BAS21-G",Enlarge,SOT-23,120,100 at 100,1.0 at 100,50,Single,Yes,image/diodes/switching/86371.png
+"BAV100, BAV101, BAV102, BAV103",Enlarge,MiniMELF (SOD-80),120,100 at 100,1 at 100,50,Single,No,image/diodes/switching/85542.png
+"BAV100, BAV101, BAV102, BAV103",Enlarge,MiniMELF (SOD-80),200,100 at 150,1 at 100,50,Single,No,image/diodes/switching/85542.png
+"BAV100, BAV101, BAV102, BAV103",Enlarge,MiniMELF (SOD-80),250,100 at 200,1 at 100,50,Single,No,image/diodes/switching/85542.png
+"BAV100, BAV101, BAV102, BAV103",Enlarge,MiniMELF (SOD-80),60,100 at 50,1 at 100,50,Single,No,image/diodes/switching/85542.png
+"BAV17, BAV18, BAV19, BAV20, BAV21",Enlarge,DO-35 (DO-204AH),200,100 at 150,1 at 100,50,Single,No,image/diodes/switching/85543.png
+"BAV17, BAV18, BAV19, BAV20, BAV21",Enlarge,DO-35 (DO-204AH),25,100 at 20,1 at 100,50,Single,No,image/diodes/switching/85543.png
+"BAV17, BAV18, BAV19, BAV20, BAV21",Enlarge,DO-35 (DO-204AH),250,100 at 200,1 at 100,50,Single,No,image/diodes/switching/85543.png
+"BAV17, BAV18, BAV19, BAV20, BAV21",Enlarge,DO-35 (DO-204AH),60,100 at 50,1 at 100,50,Single,No,image/diodes/switching/85543.png
+"BAV17, BAV18, BAV19, BAV20, BAV21",Enlarge,DO-35 (DO-204AH),120,100 at 100,1 at 100,50,Single,No,image/diodes/switching/85543.png
+"BAV19W, BAV20W, BAV21W",Enlarge,SOD-123,120,100 at 100,1 at 100,50,Single,Yes,image/diodes/switching/86372.png
+"BAV19W, BAV20W, BAV21W",Enlarge,SOD-123,200,100 at 150,1 at 100,50,Single,Yes,image/diodes/switching/86372.png
+"BAV19W, BAV20W, BAV21W",Enlarge,SOD-123,250,100 at 200,1 at 100,50,Single,Yes,image/diodes/switching/86372.png
+"BAV19W-G, BAV20W-G, BAV21W-G",Enlarge,SOD-123,120,100 at 100,1 at 100,50,Single,Yes,image/diodes/switching/86373.png
+"BAV19WS, BAV20WS, BAV21WS",Enlarge,SOD-323,120,100 at 100,1 at 100,50,Single,Yes,image/diodes/switching/85726.png
+"BAV19WS, BAV20WS, BAV21WS",Enlarge,SOD-323,200,100 at 150,1 at 100,50,Single,Yes,image/diodes/switching/85726.png
+"BAV19WS, BAV20WS, BAV21WS",Enlarge,SOD-323,250,100 at 200,1 at 100,50,Single,Yes,image/diodes/switching/85726.png
+"BAV19WS-G, BAV20WS-G, BAV21WS-G",Enlarge,SOD-323,250,100 at 200,1 at 100,50,Single,Yes,image/diodes/switching/83423.png
+"BAV19WS-G, BAV20WS-G, BAV21WS-G",Enlarge,SOD-323,120,100 at 100,1 at 100,50,Single,Yes,image/diodes/switching/83423.png
+"BAV19WS-G, BAV20WS-G, BAV21WS-G",Enlarge,SOD-323,200,100 at 150,1 at 100,50,Single,Yes,image/diodes/switching/83423.png
+"BAV200, BAV201, BAV202, BAV203",Enlarge,QuadroMELF (SOD-80),250,100 at 200,1 at 100,50,Single,No,image/diodes/switching/85544.png
+"BAV200, BAV201, BAV202, BAV203",Enlarge,QuadroMELF (SOD-80),60,100 at 50,1 at 100,50,Single,No,image/diodes/switching/85544.png
+"BAV200, BAV201, BAV202, BAV203",Enlarge,QuadroMELF (SOD-80),120,100 at 100,1 at 100,50,Single,No,image/diodes/switching/85544.png
+"BAV200, BAV201, BAV202, BAV203",Enlarge,QuadroMELF (SOD-80),200,100 at 150,1 at 100,50,Single,No,image/diodes/switching/85544.png
+BAV23C,Enlarge,SOT-23,250,100 at 200,1 at 100,50,10 000,Yes,image/diodes/switching/86374.png
+BAV23C,Enlarge,SOT-23,250,100 at 200,1 at 100,50,Common cathode,Yes,image/diodes/switching/86374.png
+BAV23C-G,Enlarge,SOT-23,250,100 at 200,1 at 100,50,Common cathode,Yes,image/diodes/switching/86375.png
+"BAV300, BAV301, BAV302, BAV303",Enlarge,MicroMELF,60,100 at 50,1 at 100,50,Single,No,image/diodes/switching/85545.png
+"BAV300, BAV301, BAV302, BAV303",Enlarge,MicroMELF,120,100 at 100,1 at 100,50,Single,No,image/diodes/switching/85545.png
+"BAV300, BAV301, BAV302, BAV303",Enlarge,MicroMELF,200,100 at 150,1 at 100,50,Single,No,image/diodes/switching/85545.png
+"BAV300, BAV301, BAV302, BAV303",Enlarge,MicroMELF,250,100 at 200,1 at 100,50,Single,No,image/diodes/switching/85545.png
+BAV70,Enlarge,SOT-23,70,100 at 70,0.715 at 1,6,Common cathode,Yes,image/diodes/switching/86376.png
+BAV70-G,Enlarge,SOT-23,70,100 at 70,0.715 at 1,6,Common cathode,Yes,image/diodes/switching/86377.png
+BAV99,Enlarge,SOT-23,70,100 at 70,0.715 at 1,6,Dual serial,Yes,image/diodes/switching/86378.png
+BAV99-G,Enlarge,SOT-23,70,100 at 70,0.715 at 1,6,Dual serial,Yes,image/diodes/switching/86379.png
+BAW27,Enlarge,DO-35 (DO-204AH),75,100 at 60,0.750 at 10,6,Single,No,image/diodes/switching/85548.png
+BAW56,Enlarge,SOT-23,70,100 at 70,0.715 at 1,6,Common anode,Yes,image/diodes/switching/86380.png
+BAW56-G,Enlarge,SOT-23,70,100 at 70,0.715 at 1,6,Common anode,Yes,image/diodes/switching/86381.png
+BAW75,Enlarge,DO-35 (DO-204AH),35,100 at 25,1 at 30,4,Single,No,image/diodes/switching/85550.png
+BAW76,Enlarge,DO-35 (DO-204AH),75,100 at 50,1 at 100,4,Single,No,image/diodes/switching/85551.png
+GSD2004A,Enlarge,SOT-23,300,100 at 240,0.87 at 20,50,Common anode,Yes,image/diodes/switching/86382.png
+GSD2004A-G,Enlarge,SOT-23,300,100 at 240,0.87 at 20,50,Common anode,Yes,image/diodes/switching/86383.png
+GSD2004C,Enlarge,SOT-23,300,100 at 240,0.87 at 20,50,Common anode,Yes,image/diodes/switching/86384.png
+GSD2004C-G,Enlarge,SOT-23,300,100 at 240,0.87 at 20,50,Common anode,Yes,image/diodes/switching/86385.png
+GSD2004S,Enlarge,SOT-23,300,100 at 240,0.87 at 20,50,Dual serial,Yes,image/diodes/switching/86386.png
+GSD2004S-G,Enlarge,SOT-23,300,100 at 240,0.87 at 20,50,Dual serial,Yes,image/diodes/switching/86387.png
+GSD2004W,Enlarge,SOD-123,300,100 at 240,1 at 100,50,Single,Yes,image/diodes/switching/86388.png
+GSD2004W-G,Enlarge,SOD-123,300,100 at 240,1 at 100,50,Single,Yes,image/diodes/switching/86389.png
+GSD2004WS,Enlarge,SOD-323,300,100 at 240,0.87 at 20,50,Single,Yes,image/diodes/switching/85730.png
+GSD2004WS-G,Enlarge,SOD-323,300,100 at 240,0.87 at 20,50,Single,Yes,image/diodes/switching/85415.png
+IMBD4148,Enlarge,SOT-23,,100 at 70,1.0 at 10,4,Single,Yes,image/diodes/switching/86390.png
+IMBD4148-G,Enlarge,SOT-23,,100 at 70,1.0 at 10,4,Single,Yes,image/diodes/switching/86391.png
+IMBD4448,Enlarge,SOT-23,,100 at 70,0.72 at 5,4,Common anode,Yes,image/diodes/switching/86392.png
+IMBD4448-G,Enlarge,SOT-23,,100 at 70,0.72 at 5,4,Common anode,Yes,image/diodes/switching/86393.png
+"LL4148, LL4448",Enlarge,MiniMELF (SOD-80),100,25 at 20,1 at 50,8,Single,No,image/diodes/switching/85557.png
+"LL4148, LL4448",Enlarge,MiniMELF (SOD-80),100,25 at 20,0.720 at 5,8,Single,No,image/diodes/switching/85557.png
+LL4148-M,Enlarge,MiniMELF (SOD-80),100,25 at 20,1 at 50,8,Single,No,image/diodes/switching/81162.png
+LL4150,Enlarge,MiniMELF (SOD-80),50,100 at 50,0.620 at 1,4,Single,No,image/diodes/switching/85558.png
+LL4150-M,Enlarge,MiniMELF (SOD-80),50,100 at 50,0.620 at 1,4,Single,No,image/diodes/switching/85905.png
+LL4151,Enlarge,MiniMELF (SOD-80),75,50 at 50,1 at 50,4,Single,No,image/diodes/switching/85559.png
+LL4151-M,Enlarge,MiniMELF (SOD-80),75,50 at 50,1 at 50,4,Single,No,image/diodes/switching/85906.png
+LL4154,Enlarge,MiniMELF (SOD-80),35,100 at 25,1 at 30,4,Single,No,image/diodes/switching/85560.png
+LL4154-M,Enlarge,MiniMELF (SOD-80),35,100 at 25,1 at 30,4,Single,No,image/diodes/switching/85907.png
+"LS4148, LS4448",Enlarge,QuadroMELF (SOD-80),100,25 at 20,0.720 at 5,8,Single,No,image/diodes/switching/85561.png
+"LS4148, LS4448",Enlarge,QuadroMELF (SOD-80),100,25 at 20,1 at 50,8,Single,No,image/diodes/switching/85561.png
+LS4150,Enlarge,QuadroMELF (SOD-80),50,100 at 50,0.620 at 1,4,Single,No,image/diodes/switching/85562.png
+LS4151,Enlarge,QuadroMELF (SOD-80),75,50 at 50,1 at 50,4,Single,No,image/diodes/switching/85563.png
+LS4154,Enlarge,QuadroMELF (SOD-80),35,100 at 25,1 at 30,4,Single,No,image/diodes/switching/85564.png
+"MCL4148, MCL4448",Enlarge,MicroMELF,100,25 at 20,1 at 50,8,Single,No,image/diodes/switching/85566.png
+"MCL4148, MCL4448",Enlarge,MicroMELF,100,25 at 20,0.720 at 5,8,Single,No,image/diodes/switching/85566.png
+MCL4151,Enlarge,MicroMELF,75,50 at 50,1 at 50,4,Single,No,image/diodes/switching/85567.png
+MCL4154,Enlarge,MicroMELF,35,100 at 25,1 at 30,4,Single,No,image/diodes/switching/85568.png
+MMBD6050,Enlarge,SOT-23,,100 at 50,0.7 at 1,4,Single,Yes,image/diodes/switching/86394.png
+MMBD6050-G,Enlarge,SOT-23,,100 at 50,0.7 at 1,4,Single,Yes,image/diodes/switching/86395.png
+MMBD7000,Enlarge,SOT-23,,400 at 50,0.70 at 1,4,Dual serial,Yes,image/diodes/switching/86396.png
+MMBD7000-G,Enlarge,SOT-23,,400 at 50,0.70 at 1,4,Dual serial,Yes,image/diodes/switching/86397.png
+MMBD914,Enlarge,SOT-23,100,25 at 20,1 at 10,4,Single,Yes,image/diodes/switching/86398.png
+MMBD914-G,Enlarge,SOT-23,100,25 at 20,1 at 10,4,Single,Yes,image/diodes/switching/86399.png

@@ -1,0 +1,47 @@
+*************************************************
+* Copyright 2020 © Vishay Intertechnology, Inc. *
+* All rights reserved.                          *
+*************************************************
+*July 19, 2022
+*DD Vishay semiconduttori italiana SPA
+*davide.dapra@vishay.com
+*File Name: XLD8A24CA.txt
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product datasheet. Designers should refer to the
+*appropriate datasheet of the same number for guaranteed specification
+*limits.
+
+
+*Model fit device from -55°C to 175°C
+*DEVICE=XLD8A24CA,X
+
+****************************************************
+.SUBCKT XLD8A24CA 1 2
+DF 9 90 DFMOD
+.MODEL DFMOD D CJO=5.68n  M=0.782  VJ=1.612
+CJ 1 90 1.7n
+* Leakage
+RLF 9 90 RLMOD 24E6
+RLR 1 9 RLMOD 24E6
+.MODEL RLMOD RES TC1 = 0 TC2 = 0 T_MEASURED = 25
+* Breakdown
+RBD 90 4 0.021
+EBD 4 3 10 20 1
+DBD 3 9 DBDMOD
+* Reverse
+DR 9 1 DFMOD
+RBDR 1 94 0.021
+EBDR 94 93 10 20 1
+DBDR 93 9 DBDMOD
+.MODEL DBDMOD D
+B1 0 10 I=I(rbd)>10e-6 ? 6.76e-4 : I(rbdr)>10e-6 ? 6.76e-4 : 1e-3
+RBVC 10 0 RBVCMOD 28290
+CBVC 10 0 21p
+.MODEL RBVCMOD RES TC1 = 0.453m  TC2=-2.769u   T_MEASURED = 25
+RBDX 20 23 0.023
+DBVC 23 22 DBDMOD
+DBVF 22 0 DFMOD
+IBVD 0 20 0.001 
+L1 90 2  2.2E-09
+ 
+.ENDS

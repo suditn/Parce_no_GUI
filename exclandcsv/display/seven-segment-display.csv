@@ -1,0 +1,51 @@
+Part Number▲▼(all)TDCG1050MTDCG1060MTDCR1050MTDCR1060MTDSG1150TDSG1150-LMTDSG1160TDSG1160-LMTDSG3150TDSG3150-MTDSG3150-MNTDSG3160TDSG3160-MTDSG5150TDSG5150-MNTDSG5150-NTDSG5160TDSG5160-MNTDSG5160-NTDSL1150TDSL1160TDSL3150TDSL3160TDSL5150TDSL5160TDSO1150TDSO1150-KTDSO1160TDSO1160-KLTDSO3150TDSO3150-KLTDSO3150-LTDSO3155TDSO3160TDSO3160-KLTDSO3160-LTDSO5150TDSO5150-LMTDSO5160TDSO5160-LMTDSR0750TDSR0750-HITDSR0760TDSR1050TDSR1050-IKTDSR1060TDSR1350TDSR1360TDSR1360-IKVDMG10A0VDMG10C0VDMO10A0VDMO10C0VDMR10A0VDMR10A1VDMR10C0VDMY10A0VDMY10A1VDMY10C0,Image,Package▲▼(all)7 mm10 mm10 mm clock13 mm,Color▲▼(all)GreenOrange redRedSoft orangeSuper redYellow,Circuitry▲▼(all)Common anodeCommon cathode,IVminμcd▲▼(all)180280450700110018002800400045007000,Typ. IVμcd▲▼(all)1720260400100030004000440045005000600068008250302509500,Max. IVμcd▲▼(all)220036005600900014000,at If(mA)▲▼(all)12510,Typ. Vf(V)▲▼(all)1.822.02.4,Image path
+TDCG1050M,Enlarge,10 mm clock,Green,Common anode,2800,4000,,10,2,image/displays/seven-segment-display/83180.png
+TDCG1060M,Enlarge,10 mm clock,Green,Common cathode,2800,4000,,10,2,image/displays/seven-segment-display/83180.png
+TDCR1050M,Enlarge,10 mm clock,Red,Common anode,4000,6000,,10,2,image/displays/seven-segment-display/83180.png
+TDCR1060M,Enlarge,10 mm clock,Red,Common cathode,4000,6000,,10,2,image/displays/seven-segment-display/83180.png
+TDSG1150,Enlarge,7 mm,Green,Common anode,450,6000,,10,2.4,image/displays/seven-segment-display/83124.png
+TDSG1150-LM,Enlarge,7 mm,Green,Common anode,2800,,9000,10,2.4,image/displays/seven-segment-display/83124.png
+TDSG1160,Enlarge,7 mm,Green,Common cathode,450,6000,,10,2.4,image/displays/seven-segment-display/83124.png
+TDSG1160-LM,Enlarge,7 mm,Green,Common cathode,2800,,9000,10,2.4,image/displays/seven-segment-display/83124.png
+TDSG3150,Enlarge,10 mm,Green,Common anode,450,6800,,10,2.4,image/displays/seven-segment-display/83125.png
+TDSG3150-M,Enlarge,10 mm,Green,Common anode,4500,,9000,10,2.4,image/displays/seven-segment-display/83125.png
+TDSG3150-MN,Enlarge,10 mm,Green,Common anode,4500,,14000,10,2.4,image/displays/seven-segment-display/83125.png
+TDSG3160,Enlarge,10 mm,Green,Common cathode,450,6800,,10,2.4,image/displays/seven-segment-display/83125.png
+TDSG3160-M,Enlarge,10 mm,Green,Common cathode,4500,,9000,10,2.4,image/displays/seven-segment-display/83125.png
+TDSG5150,Enlarge,13 mm,Green,Common anode,700,9500,,10,2.4,image/displays/seven-segment-display/83126.png
+TDSG5150-MN,Enlarge,13 mm,Green,Common anode,4500,,14000,10,2.4,image/displays/seven-segment-display/83126.png
+TDSG5150-N,Enlarge,13 mm,Green,Common anode,7000,,14000,10,2.4,image/displays/seven-segment-display/83126.png
+TDSG5160,Enlarge,13 mm,Green,Common cathode,700,9500,,10,2.4,image/displays/seven-segment-display/83126.png
+TDSG5160-MN,Enlarge,13 mm,Green,Common cathode,4500,,14000,10,2.4,image/displays/seven-segment-display/83126.png
+TDSG5160-N,Enlarge,13 mm,Green,Common cathode,7000,,14000,10,2.4,image/displays/seven-segment-display/83126.png
+TDSL1150,Enlarge,7 mm,Red,Common anode,,1000,,5,1.8,image/displays/seven-segment-display/83121.png
+TDSL1160,Enlarge,7 mm,Red,Common cathode,,1000,,5,1.8,image/displays/seven-segment-display/83121.png
+TDSL3150,Enlarge,10 mm,Red,Common anode,180,260,,2,1.8,image/displays/seven-segment-display/83122.png
+TDSL3160,Enlarge,10 mm,Red,Common cathode,180,260,,2,1.8,image/displays/seven-segment-display/83122.png
+TDSL5150,Enlarge,13 mm,Red,Common anode,280,400,,2,1.8,image/displays/seven-segment-display/83123.png
+TDSL5160,Enlarge,13 mm,Red,Common cathode,280,400,,2,1.8,image/displays/seven-segment-display/83123.png
+TDSO1150,Enlarge,7 mm,Orange red,Common anode,450,3000,,10,2,image/displays/seven-segment-display/83124.png
+TDSO1150-K,Enlarge,7 mm,Orange red,Common anode,1800,,3600,10,2,image/displays/seven-segment-display/83124.png
+TDSO1160,Enlarge,7 mm,Orange red,Common cathode,450,3000,,10,2,image/displays/seven-segment-display/83124.png
+TDSO1160-KL,Enlarge,7 mm,Orange red,Common cathode,1800,,5600,10,2,image/displays/seven-segment-display/83124.png
+TDSO3150,Enlarge,10 mm,Orange red,Common anode,450,4500,,10,2,image/displays/seven-segment-display/83125.png
+TDSO3150-KL,Enlarge,10 mm,Orange red,Common anode,1800,,5600,10,2,image/displays/seven-segment-display/83125.png
+TDSO3150-L,Enlarge,10 mm,Orange red,Common anode,2800,,5600,10,2,image/displays/seven-segment-display/83125.png
+TDSO3155,Enlarge,10 mm,Orange red,Common anode,1100,,9000,10,2,image/displays/seven-segment-display/83125.png
+TDSO3160,Enlarge,10 mm,Orange red,Common cathode,450,4500,,10,2,image/displays/seven-segment-display/83125.png
+TDSO3160-KL,Enlarge,10 mm,Orange red,Common cathode,1800,,5600,10,2,image/displays/seven-segment-display/83125.png
+TDSO3160-L,Enlarge,10 mm,Orange red,Common cathode,2800,,5600,10,2,image/displays/seven-segment-display/83125.png
+TDSO5150,Enlarge,13 mm,Orange red,Common anode,700,5000,,10,2,image/displays/seven-segment-display/83126.png
+TDSO5150-LM,Enlarge,13 mm,Orange red,Common anode,2800,,9000,10,2,image/displays/seven-segment-display/83126.png
+TDSO5160,Enlarge,13 mm,Orange red,Common cathode,700,5000,,10,2,image/displays/seven-segment-display/83126.png
+TDSO5160-LM,Enlarge,13 mm,Orange red,Common cathode,2800,,9000,10,2,image/displays/seven-segment-display/83126.png
+TDSR0750,Enlarge,7 mm,Red,Common anode,180,,2200,1,1.8,image/displays/seven-segment-display/81163.png
+TDSR0750-HI,Enlarge,7 mm,Red,Common anode,700,,2200,1,1.8,image/displays/seven-segment-display/81163.png
+TDSR0760,Enlarge,7 mm,Red,Common cathode,180,,2200,1,1.8,image/displays/seven-segment-display/81163.png
+TDSR1050,Enlarge,10 mm,Red,Common anode,280,,3600,1,1.8,image/displays/seven-segment-display/81199.png
+TDSR1050-IK,Enlarge,10 mm,Red,Common anode,1100,,3600,1,1.8,image/displays/seven-segment-display/81199.png
+TDSR1060,Enlarge,10 mm,Red,Common cathode,280,,3600,1,1.8,image/displays/seven-segment-display/81199.png
+TDSR1350,Enlarge,13 mm,Red,Common anode,280,,3600,1,1.8,image/displays/seven-segment-display/85180.png
+TDSR1360,Enlarge,13 mm,Red,Common cathode,280,,3600,1,1.8,image/displays/seven-segment-display/85180.png
+TDSR1360-IK,Enlarge,13 mm,Red,Common cathode,1100,,3600,1,1.8,image/displays/seven-segment-display/85180.png
+VDMG10A0,Enlarge,10 mm,Green,Common anode,,4400,,10,2.0,image/displays/seven-segment-display/84196.png

@@ -1,0 +1,9 @@
+Part Number▲▼(all)TLUV5300VLMKE3400 VLMKE3401VLMKG3400VLMV3100,Package▲▼(all)5 mmSMD PLCC-3SMD PLCC-4,Color▲▼(all)GreenRedSuper redYellow,"Dominant Wavelength Min. (nm)orColor Coordinate(x, y)(nm)▲▼(all)552562564581612627","Dominant Wavelength Typ. (nm)orColor Coordinate(x, y)(nm)▲▼(all)570571588620630633","Dominant Wavelength Max. (nm)orColor Coordinate(x, y)(nm)▲▼(all)575575594625625639",Luminous Intensity IVMin.(mcd)▲▼(all)12.835.55690,Luminous Intensity IVTyp.(mcd)▲▼(all)2.51214,Luminous Intensity IVMax.(mcd)▲▼(all)90140180280,IFforIV(mA)▲▼(all)1020,Luminous Flux ΦVMin.(mIm)▲▼(all),Luminous Flux ΦVTyp.(mIm)▲▼(all),Luminous Flux ΦVMax.(mIm)▲▼(all),IFforΦV(mA)▲▼(all),"Forward Voltage, VFTyp.(V)▲▼(all)1.922.02.12.4","Forward Voltage, VFMax.(V)▲▼(all)2.63",Angle of Half Intensity(± °)▲▼(all)3060,Key Feature▲▼(all)Bicolor,Image path
+TLUV5300,5 mm,Red,612,,625,1,2.5,,10,,,,,2,3,30,Bicolor,
+TLUV5300,5 mm,Green,552,,575,1,2.5,,10,,,,,2.4,3,30,Bicolor,
+VLMKE3400 VLMKE3401,SMD PLCC-4,Red,,630,,56,,180,20,,,,,1.9,2.6,60,Bicolor,
+VLMKE3400 VLMKE3401,SMD PLCC-4,Yellow,581,588,594,90,,280,20,,,,,2,2.6,60,Bicolor,
+VLMKG3400,SMD PLCC-4,Super red,627,633,639,56,,140,20,,,,,1.9,2.6,60,Bicolor,
+VLMKG3400,SMD PLCC-4,Green,564,570,575,35.5,,90,20,,,,,2.0,2.6,60,Bicolor,
+VLMV3100,SMD PLCC-3,Red,612,620,625,2.8,12,,10,,,,,2.0,3,60,Bicolor,
+VLMV3100,SMD PLCC-3,Green,562,571,575,2.8,14,,10,,,,,2.1,3,60,Bicolor,

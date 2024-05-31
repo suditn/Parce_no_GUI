@@ -1,0 +1,28 @@
+Series▲▼,Product Image,IFAV(A)▲▼,TC(°C)▲▼,VRRM(V)▲▼,IFSM(A)▲▼,VFat IFMat 25 °C(V at A)▲▼,TJ(°C)▲▼,RthJC(°C/W)▲▼,trr(ns)▲▼,Package▲▼,CircuitConfiguration▲▼,Isolationfrom Heatsink▲▼,Image path
+VS-402CNQ200PBF,Enlarge,551,175,200,2100,0.845 at 200,-40 to +175,0.19,132,TO-244,Two diodes common cathode,Not Isolated,image/modules/diode-modules/fred/96898.png
+VS-U5FH120EA120,Enlarge,60,85,1200,340,1.99 at 60,-55 to +175,0.69,71,SOT-227,"Two separate diodes,
+antiparallel pin-out",Isolated,image/modules/diode-modules/fred/97090.png
+VS-U5FH120FA120,Enlarge,60,85,1200,340,1.99 at 60,-55 to +175,0.69,71,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96934.png
+VS-U5FH120FA60,Enlarge,60,115,600,485,1.36 at 60,-55 to +175,0.7,67,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96939.png
+VS-U5FH150FA60,Enlarge,75,117,600,575,1.34 at 75,-55 to +175,0.54,70,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96941.png
+VS-U5FH240FA120,Enlarge,120,75,1200,665,1.99 at 120,-55 to +175,0.38,98,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96896.png
+VS-U5FH300FA60,Enlarge,150,98,600,1080,1.36 at 150,-55 to +175,0.35,76,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96943.png
+VS-U5FH60FA120,Enlarge,30,105,1200,180,2.08 at 30,-55 to +175,1.1,54,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96945.png
+VS-U5FH60FA60,Enlarge,30,132,600,305,1.37 at 30,-55 to +175,0.95,61,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96948.png
+VS-U5FX120EA120,Enlarge,60,70,1200,290,2.75 at 60,-55 to +175,0.69,46,SOT-227,"Two separate diodes,
+antiparallel pin-out",Isolated,image/modules/diode-modules/fred/97089.png
+VS-U5FX120FA120,Enlarge,60,70,1200,290,2.75 at 60,-55 to +175,0.69,46,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96947.png
+VS-U5FX120FA60,Enlarge,60,100,600,450,1.6 at 60,-55 to +175,0.7,63,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96940.png
+VS-U5FX150FA60,Enlarge,75,102,600,540,1.6 at 75,-55 to +175,0.54,65,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96942.png
+VS-U5FX240FA120,Enlarge,120,59,1200,595,2.8 at 120,-55 to +175,0.38,60,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96933.png
+VS-U5FX300FA60,Enlarge,150,80,600,1035,1.6 at 150,-55 to +175,0.35,72,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96944.png
+VS-U5FX60FA120,Enlarge,30,85,1200,150,2.91 at 30,-55 to +175,1.1,41,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96946.png
+VS-U5FX60FA60,Enlarge,30,128,600,290,1.6 at 30,-55 to +175,0.95,57,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/96938.png
+VS-UFB130FA20,Enlarge,65,132,200,890,0.96 at 60,-55 to +175,0.72,42,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/93606.png
+VS-UFB130FA40,Enlarge,65,123,400,800,1.16 at 60,-55 to +175,0.72,86,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/93602.png
+VS-UFB130FA60,Enlarge,82,85,600,750,1.43 at 60,-55 to +175,0.73,79,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/93657.png
+VS-UFB170FA60,Enlarge,94,90,600,850,1.02 at 50,-55 to +175,0.73,170,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/94814.png
+VS-UFB201FA40,Enlarge,120,88,400,600,1.33 at 100,-55 to +175,0.56,80,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/93793.png
+VS-UFB211FA40,Enlarge,210,90,400,1300,1.06 at 100,-55 to +175,0.32,93,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/95843.png
+VS-UFB230FA60,Enlarge,141,85,600,1400,1.46 at 100,-55 to +175,0.43,83,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/93641.png
+VS-UFB250FA60,Enlarge,168,90,600,1300,1.02 at 100,-55 to +175,0.43,166,SOT-227,"Two separate diodes, parallel pin-out",Isolated,image/modules/diode-modules/fred/93626.png

@@ -1,0 +1,16 @@
+"Part Number▲▼(all)LH1262CAC, LH1262CACTR, LH1262CBVO1263AAC, VO1263AACTR, VO1263ABVO3120VO3150AVOD3120AB, VOD3120AD, VOD3120AGVOM1271VOMDA1271VOW3120",Product Image,"Package▲▼(all)DIP-8DIP-8, 400 milSMD-8SOP-4",Output Current IO(A)▲▼(all)0.52.5,Operating Voltage Range Vcc(V)▲▼(all)15 to 3215 to 30,"tPLH, tPHLmin.(µs)▲▼(all)0.050.1","tPLH, tPHLmax.(µs)▲▼(all)0.40.5",Pulse Width Distortion PWD(µs)▲▼(all)0.070.20.3,Supply Current ICC max.(mA)▲▼(all)2.53,Common Mode Rejection CMR min.(kV/µs)▲▼(all)2535,Operating Temperature Range(°C)▲▼(all)-40 to +85-40 to +100-40 to +105-40 to +110-1.3-40 to +125,Isolation Voltage VISOVRMS▲▼(all)37505300,"Safety Standard(s)▲▼(all)UL, cUL, CQCUL, cUL, FIMKOUL, cUL, VDEUL, cUL, VDE, BSI, CQC, FIMKOUL, cUL, VDE, CQCUL, cUL, VDE, CQC, CQCUL, cUL, VDE, CQC, CQC, FIMKO",Image path
+VO3120,Enlarge,DIP-8,2.5,15 to 32,0.1,0.4,0.2,2.5,25,-40 to +110,5300,"UL, cUL, VDE",image/optocouplers/opto-driver/81314.png
+VO3120,Enlarge,SMD-8,2.5,15 to 32,0.1,0.4,0.2,2.5,25,-40 to +110,5300,"UL, cUL, VDE",image/optocouplers/opto-driver/81314.png
+VOMDA1271,Enlarge,SOP-4,,,,,,,,-1.3-40 to +125,3750,"UL, cUL, CQC",image/optocouplers/opto-driver/80316.png
+"LH1262CAC, LH1262CACTR, LH1262CB",Enlarge,SMD-8,,,,,,,,-40 to +85,5300,"UL, cUL, VDE, CQC, CQC, FIMKO",image/optocouplers/opto-driver/83802.png
+"LH1262CAC, LH1262CACTR, LH1262CB",Enlarge,DIP-8,,,,,,,,-40 to +85,5300,"UL, cUL, VDE, CQC, CQC, FIMKO",image/optocouplers/opto-driver/83802.png
+"VO1263AAC, VO1263AACTR, VO1263AB",Enlarge,SMD-8,,,,,,,,-40 to +100,5300,"UL, cUL, VDE, BSI, CQC, FIMKO",image/optocouplers/opto-driver/84639.png
+"VO1263AAC, VO1263AACTR, VO1263AB",Enlarge,DIP-8,,,,,,,,-40 to +100,5300,"UL, cUL, VDE, BSI, CQC, FIMKO",image/optocouplers/opto-driver/84639.png
+VO3150A,Enlarge,DIP-8,0.5,15 to 32,0.1,0.4,0.2,2.5,25,-40 to +110,5300,"UL, cUL, VDE",image/optocouplers/opto-driver/81808.png
+VO3150A,Enlarge,SMD-8,0.5,15 to 32,0.1,0.4,0.2,2.5,25,-40 to +110,5300,"UL, cUL, VDE",image/optocouplers/opto-driver/81808.png
+VOW3120,Enlarge,DIP-8,2.5,15 to 32,0.1,0.5,0.3,2.5,25,-40 to +100,5300,"UL, cUL, VDE, CQC, CQC",image/optocouplers/opto-driver/82442.png
+VOW3120,Enlarge,SMD-8,2.5,15 to 32,0.1,0.5,0.3,2.5,25,-40 to +100,5300,"UL, cUL, VDE, CQC, CQC",image/optocouplers/opto-driver/82442.png
+VOM1271,Enlarge,SOP-4,,,,,,,,-40 to +100,3750,"UL, cUL, FIMKO",image/optocouplers/opto-driver/83469.png
+"VOD3120AB, VOD3120AD, VOD3120AG",Enlarge,DIP-8,2.5,15 to 30,0.05,0.5,0.07,3,35,-40 to +105,5300,"UL, cUL, VDE, CQC",image/optocouplers/opto-driver/84921.png
+"VOD3120AB, VOD3120AD, VOD3120AG",Enlarge,"DIP-8, 400 mil",2.5,15 to 30,0.05,0.5,0.07,3,35,-40 to +105,5300,"UL, cUL, VDE, CQC",image/optocouplers/opto-driver/84921.png
+"VOD3120AB, VOD3120AD, VOD3120AG",Enlarge,SMD-8,2.5,15 to 30,0.05,0.5,0.07,3,35,-40 to +105,5300,"UL, cUL, VDE, CQC",image/optocouplers/opto-driver/84921.png

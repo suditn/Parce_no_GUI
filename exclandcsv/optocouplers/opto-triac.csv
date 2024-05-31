@@ -1,0 +1,78 @@
+Part Number▲▼,Product Image,Zero or Non-zero crossing▲▼,Package▲▼,Trigger Current IFTMax.(mA)▲▼,Blocking Voltage VDRM(V)▲▼,On-state Current(mA)▲▼,Static dv / dt▲▼,Isolation Voltage VISOVRMS▲▼,Ambient Temperature Range(°C)▲▼,Creepage Min.(mm)▲▼,Working Voltage VIORM(Vpeak)▲▼,Safety Standard▲▼,Image path
+"BRT12, BRT13",Enlarge,Non-Zero,DIP-6,1.2 to 3,800,300,10,4420,-40 to +100,7,890,"UL, cUL, VDE",image/optocouplers/opto-triac/83689.png
+"BRT12, BRT13",Enlarge,Non-Zero,"DIP-6, 400 mil",1.2 to 3,800,300,10,4420,-40 to +100,,890,"UL, cUL, VDE",image/optocouplers/opto-triac/83689.png
+"BRT12, BRT13",Enlarge,Non-Zero,SMD-6,1.2 to 3,800,300,10,4420,-40 to +100,7,890,"UL, cUL, VDE",image/optocouplers/opto-triac/83689.png
+"IL4116, IL4117, IL4118",Enlarge,Zero,DIP-6,1.3,800,300,10000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83628.png
+"IL4116, IL4117, IL4118",Enlarge,Zero,"DIP-6, 400 mil",1.3,800,300,10000,4420,-55 to +100,8,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83628.png
+"IL4116, IL4117, IL4118",Enlarge,Zero,SMD-6,1.3,800,300,10000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83628.png
+"IL420, IL4208",Enlarge,Non-Zero,DIP-6,2,800,300,10000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83629.png
+"IL420, IL4208",Enlarge,Non-Zero,"DIP-6, 400 mil",2,800,300,10000,4420,-55 to +100,,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83629.png
+"IL420, IL4208",Enlarge,Non-Zero,SMD-6,2,800,300,10000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83629.png
+"IL4216, IL4217, IL4218",Enlarge,Non-Zero,DIP-6,n/a,800,300,10000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83630.png
+"IL4216, IL4217, IL4218",Enlarge,Non-Zero,"DIP-6, 400 mil",n/a,800,300,10000,4420,-55 to +100,8,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83630.png
+"IL4216, IL4217, IL4218",Enlarge,Non-Zero,SMD-6,n/a,800,300,10000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83630.png
+VO2223,Enlarge,Non-Zero,DIP-8,10,600,900,n/a,5300,-40 to +85,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/81166.png
+VO2223A,Enlarge,Non-Zero,DIP-8,10,600,1000,n/a,5300,-40 to +85,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/81924.png
+VO2223A,Enlarge,Non-Zero,SMD-8,10,600,1000,n/a,5300,-40 to +85,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/81924.png
+VO2223B,Enlarge,Non-Zero,DIP-8,10,600,1000,n/a,5300,-40 to +85,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83312.png
+VO2223B,Enlarge,Non-Zero,SMD-8,10,600,1000,n/a,5300,-40 to +85,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83312.png
+"VO3021, VO3022, VO3023",Enlarge,Non-Zero,DIP-6,5 to 15,400,100,1000,5000,-40 to +100,,,"UL, cUL, VDE, CQC, CQC, FIMKO",image/optocouplers/opto-triac/84132.png
+"VO3021, VO3022, VO3023",Enlarge,Non-Zero,"DIP-6, 400 mil",5 to 15,400,100,1000,5000,-40 to +100,,,"UL, cUL, VDE, CQC, CQC, FIMKO",image/optocouplers/opto-triac/84132.png
+"VO3021, VO3022, VO3023",Enlarge,Non-Zero,SMD-6,5 to 15,400,100,1000,5000,-40 to +100,,,"UL, cUL, VDE, CQC, CQC, FIMKO",image/optocouplers/opto-triac/84132.png
+"VO3052, VO3053",Enlarge,Non-Zero,DIP-6,5 to 10,600,100,1500,4420,-55 to +100,7,890,"UL, cUL, VDE",image/optocouplers/opto-triac/83749.png
+"VO3052, VO3053",Enlarge,Non-Zero,"DIP-6, 400 mil",5 to 10,600,100,1500,4420,-55 to +100,8,890,"UL, cUL, VDE",image/optocouplers/opto-triac/83749.png
+"VO3052, VO3053",Enlarge,Non-Zero,SMD-6,5 to 10,600,100,1500,4420,-55 to +100,7,890,"UL, cUL, VDE",image/optocouplers/opto-triac/83749.png
+VO4256,Enlarge,Non-Zero,DIP-6,1.6 to 3,600,300,5000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/84798.png
+VO4256,Enlarge,Non-Zero,SMD-6,1.6 to 3,600,300,5000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/84798.png
+VOM160,Enlarge,Non-Zero,SOP-4,5 to 10,600,70,500,3750,-40 to +100,,,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/81349.png
+"VOM3052, VOM3053",Enlarge,Non-Zero,SOP-4,5 to 10,600,70,1500,3750,-40 to +100,,,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/83492.png
+"VOM3052, VOM3053",Enlarge,Non-Zero,SOP-4 180° orientation,5 to 10,600,70,1500,3750,-40 to +100,,,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/83492.png
+"BRT21, BRT22, BRT23",Enlarge,Zero,DIP-6,1.2 to 2,800,300,10000,4420,-40 to +100,7,630,"UL, cUL, VDE",image/optocouplers/opto-triac/83690.png
+"BRT21, BRT22, BRT23",Enlarge,Zero,"DIP-6, 400 mil",1.2 to 2,800,300,10000,4420,-40 to +100,,630,"UL, cUL, VDE",image/optocouplers/opto-triac/83690.png
+"BRT21, BRT22, BRT23",Enlarge,Zero,SMD-6,1.2 to 2,800,300,10000,4420,-40 to +100,7,630,"UL, cUL, VDE",image/optocouplers/opto-triac/83690.png
+"IL410, IL4108",Enlarge,Zero,DIP-6,2 to 6,800,300,10000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83627.png
+"IL410, IL4108",Enlarge,Zero,"DIP-6, 400 mil",2 to 6,800,300,10000,4420,-55 to +100,,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83627.png
+"IL410, IL4108",Enlarge,Zero,SMD-6,2 to 6,800,300,10000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/83627.png
+"VO4154, VO4156",Enlarge,Zero,"DIP-6, 400 mil",1.6 to 3,600,300,5000,4420,-55 to +100,8,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/84797.png
+"VO4154, VO4156",Enlarge,Zero,SMD-6,1.6 to 3,600,300,5000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/84797.png
+VO4258,Enlarge,Non-Zero,DIP-6,1.6 to 3,800,300,5000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/84635.png
+VO4258,Enlarge,Non-Zero,"DIP-6, 400 mil",1.6 to 3,800,300,5000,4420,-55 to +100,,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/84635.png
+VO4258,Enlarge,Non-Zero,SMD-6,1.6 to 3,800,300,5000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/84635.png
+"VO3062, VO3063",Enlarge,Zero,DIP-6,5 to 10,600,100,1500,4420,-55 to +100,7,890,"UL, cUL, VDE",image/optocouplers/opto-triac/83748.png
+"VO3062, VO3063",Enlarge,Zero,"DIP-6, 400 mil",5 to 10,600,100,1500,4420,-55 to +100,8,890,"UL, cUL, VDE",image/optocouplers/opto-triac/83748.png
+"VO3062, VO3063",Enlarge,Zero,SMD-6,5 to 10,600,100,1500,4420,-55 to +100,7,890,"UL, cUL, VDE",image/optocouplers/opto-triac/83748.png
+VO4158,Enlarge,Zero,DIP-6,1.6 to 3,800,300,5000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/84634.png
+VO4158,Enlarge,Zero,SMD-6,1.6 to 3,800,300,5000,4420,-55 to +100,7,890,"UL, cUL, VDE, FIMKO",image/optocouplers/opto-triac/84634.png
+"VOT8024AB, VOT8024AD, VOT8024AG",Enlarge,Zero,DIP-4,5,800,100,1000,5300,-55 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84919.png
+"VOT8024AB, VOT8024AD, VOT8024AG",Enlarge,Zero,"DIP-4, 400 mil",5,800,100,1000,5300,-55 to +110,8,1140,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84919.png
+"VOT8024AB, VOT8024AD, VOT8024AG",Enlarge,Zero,SMD-4,5,800,100,1000,5300,-55 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84919.png
+"VOT8024AB, VOT8024AD, VOT8024AG",Enlarge,Zero,"SMD-4, 90° orientation",5,800,100,1000,5300,-55 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84919.png
+"VOT8024AB, VOT8024AD, VOT8024AG",Enlarge,Zero,"SMD-4, 180° orientation",5,800,100,1000,5300,-55 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84919.png
+"VOT8024AB, VOT8024AD, VOT8024AG",Enlarge,Zero,"SMD-4, 270° orientation",5,800,100,1000,5300,-55 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84919.png
+VOT8024AM,Enlarge,Zero,SOP-4,5,800,100,1000,3750,-55 to +110,5,565,"UL, cUL, VDE",image/optocouplers/opto-triac/84909.png
+VOT8024AM,Enlarge,Zero,"SOP-4, 180° orientation",5,800,100,1000,3750,-55 to +110,5,565,"UL, cUL, VDE",image/optocouplers/opto-triac/84909.png
+"VOT8025AB, VOT8025AD, VOT8025AG",Enlarge,Zero,DIP-6,5,800,100,1000,5300,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84924.png
+"VOT8025AB, VOT8025AD, VOT8025AG",Enlarge,Zero,"DIP-6, 400 mil",5,800,100,1000,5300,-40 to +110,8,1140,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84924.png
+"VOT8025AB, VOT8025AD, VOT8025AG",Enlarge,Zero,SMD-6,5,800,100,1000,5300,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84924.png
+"VOT8025AB, VOT8025AD, VOT8025AG",Enlarge,Zero,"SMD-6, 90° orientation",5,800,100,1000,5300,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84924.png
+"VOT8025AB, VOT8025AD, VOT8025AG",Enlarge,Zero,"SMD-6, 180° orientation",5,800,100,1000,5300,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84924.png
+"VOT8026AB, VOT8026AD, VOT8026AG",Enlarge,Zero,DIP-6,5,800,100,1000,5300,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84925.png
+"VOT8026AB, VOT8026AD, VOT8026AG",Enlarge,Zero,"DIP-6, 400 mil",5,800,100,1000,5300,-40 to +110,8,1140,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84925.png
+"VOT8026AB, VOT8026AD, VOT8026AG",Enlarge,Zero,SMD-6,5,800,100,1000,5300,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84925.png
+"VOT8026AB, VOT8026AD, VOT8026AG",Enlarge,Zero,"SMD-6, 180° orientation",5,800,100,1000,5300,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84925.png
+"VOT8121AB, VOT8121AD, VOT8121AG",Enlarge,Non-Zero,DIP-4,10,800,100,1000,5300,-55 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84918.png
+"VOT8121AB, VOT8121AD, VOT8121AG",Enlarge,Non-Zero,"DIP-4, 400 mil",10,800,100,1000,5300,-55 to +110,8,1140,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84918.png
+"VOT8121AB, VOT8121AD, VOT8121AG",Enlarge,Non-Zero,SMD-4,10,800,100,1000,5300,-55 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84918.png
+"VOT8121AB, VOT8121AD, VOT8121AG",Enlarge,Non-Zero,"SMD-4, 90° orientation",10,800,100,1000,5300,-55 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84918.png
+"VOT8121AB, VOT8121AD, VOT8121AG",Enlarge,Non-Zero,"SMD-4, 180° orientation",10,800,100,1000,5300,-55 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84918.png
+"VOT8121AB, VOT8121AD, VOT8121AG",Enlarge,Non-Zero,"SMD-4, 270° orientation",10,800,100,1000,5300,-55 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84918.png
+VOT8121AM,Enlarge,Non-Zero,SOP-4,10,800,100,1000,3750,-55 to +110,5,565,"UL, cUL, VDE",image/optocouplers/opto-triac/84914.png
+VOT8121AM,Enlarge,Non-Zero,"SOP-4, 180° orientation",10,800,100,1000,3750,-55 to +110,5,565,"UL, cUL, VDE",image/optocouplers/opto-triac/84914.png
+"VOT8123AB, VOT8123AD, VOT8123AG",Enlarge,Non-Zero,DIP-6,10,800,100,1000,5000,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84926.png
+"VOT8123AB, VOT8123AD, VOT8123AG",Enlarge,Non-Zero,"DIP-6, 400 mil",10,800,100,1000,5000,-40 to +110,8,1140,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84926.png
+"VOT8123AB, VOT8123AD, VOT8123AG",Enlarge,Non-Zero,SMD-6,10,800,100,1000,5000,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84926.png
+"VOT8123AB, VOT8123AD, VOT8123AG",Enlarge,Non-Zero,"SMD-6, 180° orientation",10,800,100,1000,5000,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84926.png
+"VOT8125AB, VOT8125AD, VOT8125AG",Enlarge,Non-Zero,DIP-6,5,800,100,1000,5000,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84923.png
+"VOT8125AB, VOT8125AD, VOT8125AG",Enlarge,Non-Zero,"DIP-6, 400 mil",5,800,100,1000,5000,-40 to +110,8,1140,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84923.png
+"VOT8125AB, VOT8125AD, VOT8125AG",Enlarge,Non-Zero,SMD-6,5,800,100,1000,5000,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84923.png
+"VOT8125AB, VOT8125AD, VOT8125AG",Enlarge,Non-Zero,"SMD-6, 180° orientation",5,800,100,1000,5000,-40 to +110,7,890,"UL, cUL, VDE, CQC",image/optocouplers/opto-triac/84923.png

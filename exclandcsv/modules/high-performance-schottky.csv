@@ -1,0 +1,26 @@
+Series▲▼,Product Image,IFAV(A)▲▼,TC(°C)▲▼,VRRM(V)▲▼,IFSM(A)▲▼,VFat IFMat 25 °C(V at A)▲▼,TJ(°C)▲▼,RthJC(°C/W)▲▼,Package▲▼,Circuit Configuration▲▼,Isolation from Heatsink▲▼,Image path
+VS-120NQ045PbF,Enlarge,120,105,45,1550,0.63 at 120,-55 to +150,0.38,HALF-PAK (D-67),Single,Not Isolated,image/modules/diode-modules/high-performance-schottky/94458.png
+VS-121NQ045PbF,Enlarge,120,137,45,2000,0.65 at 120,-55 to +175,0.38,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94127.png
+VS-122NQ030PbF,Enlarge,120,115,30,2000,0.57 at 120,-55 to +150,0.38,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94128.png
+VS-123NQ100PbF,Enlarge,120,133,100,1800,0.91 at 120,-55 to +175,0.38,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94129.png
+VS-125NQ015PbF,Enlarge,120,74,15,1700,0.43 at 120,-55 to +125,0.38,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94459.png
+VS-180NQ045PbF,Enlarge,180,105,45,2400,0.6 at 180,-55 to +150,0.28,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94148.png
+VS-182NQ030PbF,Enlarge,180,108,30,2500,0.59 at 180,-55 to +150,0.28,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94460.png
+VS-183NQ100PbF,Enlarge,180,128,100,2500,0.91 at 180,-55 to +175,0.28,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94461.png
+VS-200CNQ045PbF,Enlarge,200,116,45,1550,0.55 at 100,-55 to +150,0.38,TO-244,Two diodes common cathode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94153.png
+VS-201CNQ045PbF,Enlarge,200,146,45,2000,0.67 at 100,-55 to +175,0.38,TO-244,Two diodes common cathode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94154.png
+VS-201CNQ050PbF,Enlarge,200,146,50,2000,0.67 at 100,-55 to +175,0.38,TO-244,Two diodes common cathode,Not Isolated,image/modules/diode-modules/high-performance-schottky/93991.png
+VS-203CNQ100PbF,Enlarge,200,142,100,1700,0.86 at 100,-55 to +175,0.38,TO-244,Two diodes common cathode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94155.png
+VS-209CNQ...PbF Series,Enlarge,200,131,150,1200,1.06 at 100,-55 to +175,0.38,TO-244,Two diodes common cathode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94156.png
+VS-209CNQ...PbF Series,Enlarge,200,131,135,1200,1.06 at 100,-55 to +175,0.38,TO-244,Two diodes common cathode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94156.png
+VS-220CNQ030PbF,Enlarge,220,122,30,1950,0.49 at 110,-55 to +150,0.38,TO-244,Two diodes common cathode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94169.png
+VS-240NQ045PbF,Enlarge,240,104,45,3400,0.72 at 240,-55 to +150,0.19,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94462.png
+VS-241NQ045PbF,Enlarge,240,144,45,3450,0.8 at 240,-55 to +175,0.19,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94463.png
+VS-242NQ030PbF,Enlarge,240,118,30,3000,0.54 at 240,-55 to +150,0.19,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94170.png
+VS-243NQ100PbF,Enlarge,240,132,100,3300,0.95 at 240,-55 to +175,0.19,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94171.png
+VS-245NQ015PbF,Enlarge,240,73,15,3000,0.52 at 240,-55 to +125,0.19,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94464.png
+VS-249NQ150PbF,Enlarge,240,121,150,2300,1.21 at 240,-55 to +175,0.19,HALF-PAK (D-67),Single diode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94172.png
+VS-300CNQ045PbF,Enlarge,300,111,45,2400,0.61 at 150,-55 to +150,0.28,TO-244,Two diodes common cathode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94175.png
+VS-301CNQ...PbF Series,Enlarge,300,132,40,3200,0.69 at 150,-55 to +175,0.28,TO-244,Two diodes common cathode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94176.png
+VS-301CNQ...PbF Series,Enlarge,300,132,45,3200,0.69 at 150,-55 to +175,0.28,TO-244,Two diodes common cathode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94176.png
+VS-303CNQ100PbF,Enlarge,300,138,100,2500,0.91 at 150,-55 to +175,0.28,TO-244,Two diodes common cathode,Not Isolated,image/modules/diode-modules/high-performance-schottky/94177.png

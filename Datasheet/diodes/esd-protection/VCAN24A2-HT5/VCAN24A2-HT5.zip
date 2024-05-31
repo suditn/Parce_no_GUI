@@ -1,0 +1,44 @@
+*  Model for Vishay  ESD Protection Diode
+*			
+*  VCAN24A2-HT5
+*
+*  86539SPICE_Vishay_VCAN24A2-HT5.txt
+*
+*  TNOM=27GRD, RS without heating	
+*                                       			
+*  Vishay Semiconductor GmbH
+*  Benedikt Westenfelder, May 2022
+*
+*
+*  Copyright:                   			
+*  Vishay Intertechnology, Inc. 	
+*
+********************************************************************************
+*	
+.SUBCKT VCAN24A2HT5 1 2 3 
+*	
+D1 1 c T3531D
+D2 2 c T3531D
+D3 3 c T3531D
+R1 1 c 3.3E10
+R2 2 c 3.3E10
+R3 3 c 3.3E10
+*	
+.MODEL T3531D D
++IS= 1E-15
++N= 1.049
++ISR= 1.00E-17
++NR= 2
++RS= 0.666666667
++IKF= 1000000
++CJO= 1.53E-11
++M= 0.39
++VJ= 1.20
++BV= 28.3
++IBV= 0.0000001
++NBV= 1
++IBVL= 0
++NBVL= 1
++TT= 0.00E+00
+*
+.ENDS VCAN24A2HT5

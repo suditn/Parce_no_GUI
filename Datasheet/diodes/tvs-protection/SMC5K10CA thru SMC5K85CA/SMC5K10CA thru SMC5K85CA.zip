@@ -1,0 +1,48 @@
+*************************************************
+* Copyright 2020 © Vishay Intertechnology, Inc. *
+* All rights reserved.                          *
+*************************************************
+*Nov 16, 2021
+*DD Vishay semiconduttori italiana SPA
+*davide.dapra@vishay.com
+*File Name: SMC5K10CA.txt
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product datasheet. Designers should refer to the
+*appropriate datasheet of the same number for guaranteed specification
+*limits.
+
+
+*Model fit device at 25°C
+*DEVICE=SMC5K10CA,X
+
+**************************************************** 
+
+.SUBCKT SMC5K10CA 1 2
+* Forward
+DF 9 90 DFMOD 
+.MODEL DFMOD D N = 0.932  IS = 8.369E-8  RS = 1.1e-3 
++ EG = 1.11 XTI = 3  ISR=4.82e-9   NR=0.45 IKF=2.02
++ CJO = 8.18E-09 VJ = 0.75  M = 0.190  FC = 0.5
++ TT = 1E-008
+* Leakage
+RLF 9 90 1.1e6 
+RLR 1 9  1.1e6 
+ * Breakdown
+RBD 90 4 6.4e-3
+EBD 4 3 10 20 1
+DBD 3 9 DBDMOD 
+* Reverse
+DR 9 1 DFMOD
+RBDR 1 94 6.4e-3
+EBDR 94 93 10 20 1
+DBDR 93 9 DBDMOD
+.MODEL DBDMOD D IS = 1E-015 N = 0.5 
+IBVC 0 10 0.001
+RBVC 10 0 11700 TC1 = 0.00073
+RBDX 20 23 6.4e-3
+DBVC 23 22 DBDMOD 
+DBVF 22 0 DFMOD 
+IBVD 0 20 0.001
+*Stray inductance for current return under device SMC
+L1 90 2 12.5E-010
+.ENDS

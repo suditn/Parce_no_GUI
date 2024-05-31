@@ -1,0 +1,175 @@
+Part Number▲▼,Product Image,Package▲▼,Reverse WorkingVoltage(V)▲▼,Capacitance(pF)▲▼,LeakageCurrent(µA)▲▼,Peak Pulse Current8/20 µs (*10/1000 µs)acc. IEC 61000-4-5(A)▲▼,Peak PulsePower 8/20 µsacc. IEC 61000-4-5(W)▲▼,ProtectableLines▲▼,ESD Immunityacc. IEC 61000-4-2(kV)▲▼,Max. OperatingJunction Temperature(°C)▲▼,AEC-Q101Qualified▲▼,Image path
+GMF05C-HSF,Enlarge,LLP75-6L,5,126,1,12,200,5,± 30,125,No,image/diodes/esd-protection/81731.png
+GSOT03,Enlarge,SOT-23,3.3,420,100,30,369,1,± 30,125,Yes,image/diodes/esd-protection/85807.png
+GSOT03C,Enlarge,SOT-23,3.3,420,100,30,369,2,± 30,150,Yes,image/diodes/esd-protection/85824.png
+GSOT04,Enlarge,SOT-23,4,310,20,30,429,1,± 30,125,Yes,image/diodes/esd-protection/85807.png
+GSOT04C,Enlarge,SOT-23,4,310,20,30,429,2,± 30,150,Yes,image/diodes/esd-protection/85824.png
+GSOT05,Enlarge,SOT-23,5,260,10,30,480,1,± 30,125,Yes,image/diodes/esd-protection/85807.png
+GSOT05C,Enlarge,SOT-23,5,260,10,30,480,2,± 30,150,Yes,image/diodes/esd-protection/85824.png
+GSOT08,Enlarge,SOT-23,8,160,5,18,345,1,± 30,125,Yes,image/diodes/esd-protection/85807.png
+GSOT08C,Enlarge,SOT-23,8,160,5,18,345,2,± 30,150,Yes,image/diodes/esd-protection/85824.png
+GSOT12,Enlarge,SOT-23,12,115,1,12,312,1,± 30,125,Yes,image/diodes/esd-protection/85807.png
+GSOT12C,Enlarge,SOT-23,12,115,1,12,312,2,± 30,150,Yes,image/diodes/esd-protection/85824.png
+GSOT15,Enlarge,SOT-23,15,90,1,8,230,1,± 30,125,Yes,image/diodes/esd-protection/85807.png
+GSOT15C,Enlarge,SOT-23,15,90,1,8,345,2,± 30,150,Yes,image/diodes/esd-protection/85824.png
+GSOT24,Enlarge,SOT-23,24,65,1,5,235,1,± 30,125,Yes,image/diodes/esd-protection/85807.png
+GSOT24C,Enlarge,SOT-23,24,65,1,5,235,2,± 30,150,Yes,image/diodes/esd-protection/85824.png
+GSOT36,Enlarge,SOT-23,36,52,1,3.5,248,1,± 30,125,Yes,image/diodes/esd-protection/85807.png
+GSOT36C,Enlarge,SOT-23,36,52,1,3.5,248,2,± 30,150,Yes,image/diodes/esd-protection/85824.png
+SMF10A,Enlarge,SMF (DO-219AB),10,562,0.1,11.8,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF10A,Enlarge,SMF (DO-219AB),10,562,0.1,11.8,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF11A,Enlarge,SMF (DO-219AB),11,509,0.1,11,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF11A,Enlarge,SMF (DO-219AB),11,509,0.1,11,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF12A,Enlarge,SMF (DO-219AB),12,483,0.1,10.1,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF12A,Enlarge,SMF (DO-219AB),12,483,0.1,10.1,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF13A,Enlarge,SMF (DO-219AB),13,423,0.1,9.3,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF13A,Enlarge,SMF (DO-219AB),13,423,0.1,9.3,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF14A,Enlarge,SMF (DO-219AB),14,392,0.1,8.6,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF14A,Enlarge,SMF (DO-219AB),14,392,0.1,8.6,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF15A,Enlarge,SMF (DO-219AB),15,367,0.1,8.2,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF15A,Enlarge,SMF (DO-219AB),15,367,0.1,8.2,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF16A,Enlarge,SMF (DO-219AB),16,343,0.1,7.7,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF16A,Enlarge,SMF (DO-219AB),16,343,0.1,7.7,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF17A,Enlarge,SMF (DO-219AB),17,324,0.1,7.2,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF17A,Enlarge,SMF (DO-219AB),17,324,0.1,7.2,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF18A,Enlarge,SMF (DO-219AB),18,320,0.1,6.8,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF18A,Enlarge,SMF (DO-219AB),18,320,0.1,6.8,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF20A,Enlarge,SMF (DO-219AB),20,283,0.1,6.2,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF20A,Enlarge,SMF (DO-219AB),20,283,0.1,6.2,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF22A,Enlarge,SMF (DO-219AB),22,271,0.1,5.6,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF22A,Enlarge,SMF (DO-219AB),22,271,0.1,5.6,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF24A,Enlarge,SMF (DO-219AB),24,244,0.1,5.1,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF24A,Enlarge,SMF (DO-219AB),24,244,0.1,5.1,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF26A,Enlarge,SMF (DO-219AB),26,230,0.1,4.8,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF26A,Enlarge,SMF (DO-219AB),26,230,0.1,4.8,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF28A,Enlarge,SMF (DO-219AB),28,227,0.1,4.4,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF28A,Enlarge,SMF (DO-219AB),28,227,0.1,4.4,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF30A,Enlarge,SMF (DO-219AB),30,207,0.1,4.1,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF30A,Enlarge,SMF (DO-219AB),30,207,0.1,4.1,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF33A,Enlarge,SMF (DO-219AB),33,198,0.1,3.8,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF33A,Enlarge,SMF (DO-219AB),33,198,0.1,3.8,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF36A,Enlarge,SMF (DO-219AB),36,178,0.1,3.4,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF36A,Enlarge,SMF (DO-219AB),36,178,0.1,3.4,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF40A,Enlarge,SMF (DO-219AB),40,172,0.1,3.1,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF40A,Enlarge,SMF (DO-219AB),40,172,0.1,3.1,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF43A,Enlarge,SMF (DO-219AB),43,165,0.1,2.9,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF43A,Enlarge,SMF (DO-219AB),43,165,0.1,2.9,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF45A,Enlarge,SMF (DO-219AB),45,162,0.1,2.8,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF45A,Enlarge,SMF (DO-219AB),45,162,0.1,2.8,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF48A,Enlarge,SMF (DO-219AB),48,161,0.1,2.6,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF48A,Enlarge,SMF (DO-219AB),48,161,0.1,2.6,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF51A,Enlarge,SMF (DO-219AB),51,151,0.1,2.4,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF51A,Enlarge,SMF (DO-219AB),51,151,0.1,2.4,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF54A,Enlarge,SMF (DO-219AB),54,148,0.1,2.25,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF54A,Enlarge,SMF (DO-219AB),54,148,0.1,2.25,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF58A,Enlarge,SMF (DO-219AB),58,144,0.1,2.1,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF58A,Enlarge,SMF (DO-219AB),58,144,0.1,2.1,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF5V0A,Enlarge,SMF (DO-219AB),5,1120,5,21.7,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF5V0A,Enlarge,SMF (DO-219AB),5,1120,5,21.7,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF6V0A,Enlarge,SMF (DO-219AB),6,1063,26,19.4,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF6V0A,Enlarge,SMF (DO-219AB),6,1063,26,19.4,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF6V5A,Enlarge,SMF (DO-219AB),6.5,938,20,17.9,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF6V5A,Enlarge,SMF (DO-219AB),6.5,938,20,17.9,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF7V0A,Enlarge,SMF (DO-219AB),7,843,3,16.7,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF7V0A,Enlarge,SMF (DO-219AB),7,843,3,16.7,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF7V5A,Enlarge,SMF (DO-219AB),7.5,773,0.1,15.5,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF7V5A,Enlarge,SMF (DO-219AB),7.5,773,0.1,15.5,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF8V0A,Enlarge,SMF (DO-219AB),8,706,0.1,14.7,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF8V0A,Enlarge,SMF (DO-219AB),8,706,0.1,14.7,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF8V5A,Enlarge,SMF (DO-219AB),8.5,674,0.1,13.9,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF8V5A,Enlarge,SMF (DO-219AB),8.5,674,0.1,13.9,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+SMF9V0A,Enlarge,SMF (DO-219AB),9,640,0.1,13.5,1000,1,± 30,175,Yes,image/diodes/esd-protection/85881.png
+SMF9V0A,Enlarge,SMF (DO-219AB),9,640,0.1,13.5,1000,1,± 30,175,Yes,image/diodes/esd-protection/86330.png
+VBUS03B1-SD0,Enlarge,CLP0603-2L,3.3,0.29,0.05,2.5,45,1,± 16,150,No,image/diodes/esd-protection/85908.png
+VBUS03N1-DD1,Enlarge,DFN1006-2B,3.3,0.36,0.1,4,90,1,± 16,150,Yes,image/diodes/esd-protection/86204.png
+VBUS03N1-HD1,Enlarge,DFN1006-2A,3.3,0.7,0.1,4,60,1,± 16,150,Yes,image/diodes/esd-protection/86205.png
+VBUS052BD-HTF,Enlarge,LLP75-4L,5,1.5,0.1,3,45,2,± 15,125,No,image/diodes/esd-protection/81788.png
+VBUS052CD-FAH,Enlarge,LLP1713-7L,5,0.8,0.1,3.5,63,2,± 15,125,No,image/diodes/esd-protection/81881.png
+VBUS053AZ-HAF,Enlarge,LLP75-7L,5.5,0.7,0.085,3,36,3,± 15,125,No,image/diodes/esd-protection/81845.png
+VBUS053CZ-HAF,Enlarge,LLP75-7L,5.5,0.7,0.02,3,54,3,± 15,125,No,image/diodes/esd-protection/85200.png
+VBUS054B-HSF,Enlarge,LLP75-6L,5,0.8,0.1,3,45,4,± 15,125,No,image/diodes/esd-protection/81624.png
+VBUS054DD-HF4,Enlarge,LLP1010-5L,5,0.8,0.1,3,57,4,± 15,125,No,image/diodes/esd-protection/81928.png
+VBUS05B1-SD0,Enlarge,CLP0603-2L,5.5,0.29,0.05,2.5,45,1,± 16,150,No,image/diodes/esd-protection/85899.png
+VBUS05L1-DD1,Enlarge,LLP1006-2M,5.5,0.33,0.05,2,34,1,± 15,125,No,image/diodes/esd-protection/81188.png
+VBUS05M1-02V,Enlarge,SOD-523,5.5,0.7,0.1,4.5,70,1,± 18,150,Yes,image/diodes/esd-protection/86127.png
+VBUS05M2-HT5,Enlarge,DFN1110-3A,5.5,0.37,0.1,3.4,60,2,± 20,150,Yes,image/diodes/esd-protection/86166.png
+VBUS05N1-DD1,Enlarge,DFN1006-2B,5.5,0.36,0.1,4,90,1,± 16,150,Yes,image/diodes/esd-protection/86202.png
+VBUS05N1-HD1,Enlarge,DFN1006-2A,5.5,0.7,0.1,4,60,1,± 16,150,Yes,image/diodes/esd-protection/86201.png
+VBUS54CV-HSF,Enlarge,LLP75-6L,5.5,1.2,0.1,11,242,4,± 30,125,No,image/diodes/esd-protection/84145.png
+VBUS54DD-HS4,Enlarge,LLP1010-6M,5.5,0.8,0.1,3,57,4,± 15,125,No,image/diodes/esd-protection/83384.png
+VCAN16A2-03G,Enlarge,SOT-323,16,15.5,0.05,5,140,2,± 30,175,Yes,image/diodes/esd-protection/86168.png
+VCAN16A2-03S,Enlarge,SOT-23,16,16.7,0.05,5,145,2,± 30,150,Yes,image/diodes/esd-protection/86206.png
+VCAN18A2-03S,Enlarge,SOT-23,18,14.7,0.05,3.6,120,2,± 30,150,Yes,image/diodes/esd-protection/86310.png
+VCAN24A2-HT5,Enlarge,DFN1110-3A,24,7.8,0.05,2.5,100,2,± 30,150,Yes,image/diodes/esd-protection/86309.png
+VCAN26A2-03G,Enlarge,SOT-323,26.5,10,0.05,3,150,2,± 30,175,Yes,image/diodes/esd-protection/85894.png
+VCAN26A2-03S,Enlarge,SOT-23,26.5,10,0.05,3,150,2,± 30,150,Yes,image/diodes/esd-protection/86324.png
+VCAN26C2-03G,Enlarge,SOT-323,26.5,7.6,0.05,2.5,110,2,±30,175,Yes,image/diodes/esd-protection/86183.png
+VCAN33A2-03G,Enlarge,SOT-323,33,8.4,0.05,2.5,140,2,± 30,175,Yes,image/diodes/esd-protection/86152.png
+VCAN33A2-03S,Enlarge,SOT-23,33,8.7,0.05,2.7,150,2,± 30,150,Yes,image/diodes/esd-protection/86323.png
+VCAN33A2-HT5,Enlarge,DFN1110-3A,33,6,0.05,1.6,82,2,± 20,150,Yes,image/diodes/esd-protection/86544.png
+VCAN33C2-03G,Enlarge,SOT-323,33,6,0.05,2,120,2,± 30,175,Yes,image/diodes/esd-protection/86311.png
+VCAN36A2-03G,Enlarge,SOT-323,36,8,0.05,2.4,150,2,± 30,175,Yes,image/diodes/esd-protection/86164.png
+VCAN36A2-03S,Enlarge,SOT-23,36,8,0.05,2.4,150,2,± 30,150,Yes,image/diodes/esd-protection/86207.png
+VCAN36A2-HT5,Enlarge,DFN1110-3A,36,5.6,0.05,1.6,92,2,± 20,150,Yes,image/diodes/esd-protection/86320.png
+VCAN36C2-03G,Enlarge,SOT-323,36,5.5,0.05,1.8,120,2,± 27,175,Yes,image/diodes/esd-protection/86312.png
+VCUT03B1-DD1,Enlarge,LLP1006-2M,3.5,12.5,0.1,3.5,40,1,± 18,125,No,image/diodes/esd-protection/81148.png
+VCUT03G1-SD0,Enlarge,CLP0603-2L,3.3,13,0.1,6,78,1,± 30,150,Yes,image/diodes/esd-protection/86315.png
+VCUT0505B-HD1,Enlarge,LLP1006-2L,5,18,0.1,3.5,56,1,± 20,125,No,image/diodes/esd-protection/81852.png
+VCUT05B1-DD1,Enlarge,LLP1006-2M,5.5,10,0.1,3,38,1,± 30,145,No,image/diodes/esd-protection/81149.png
+VCUT05G1-SD0,Enlarge,CLP0603-2L,5.5,13,0.1,6,78,1,± 30,150,Yes,image/diodes/esd-protection/86190.png
+VCUT0714A-HD1,Enlarge,LLP1006-2L,14,8,0.1,5,63,1,± 25,125,No,image/diodes/esd-protection/81801.png
+VCUT0714A02V,Enlarge,SOD-523,14,8,0.1,4.6,70,1,± 25,150,Yes,image/diodes/esd-protection/86128.png
+VCUT0714BHD1,Enlarge,DFN1006-2A,14,8,0.1,3.6,50,1,± 25,150,Yes,image/diodes/esd-protection/86177.png
+VCUT07B1-HD1,Enlarge,LLP1006-2L,7,14,0.1,4,60,1,± 30,125,No,image/diodes/esd-protection/84137.png
+VCUT10G1-SD0,Enlarge,CLP0603-2L,10,7.7,0.05,4,72,1,± 24,150,Yes,image/diodes/esd-protection/86316.png
+VCUT15G1-SD0,Enlarge,CLP0603-2L,15,5.5,0.05,2.5,65,1,± 15,150,Yes,image/diodes/esd-protection/86317.png
+VESD01A2-03G-G3,Enlarge,SOT-323,1,192,100,11,70,2,30,150,Yes,image/diodes/esd-protection/86150.png
+VESD01C1-02V,Enlarge,SOD-523,1,192,100,11,70,1,30,150,Yes,image/diodes/esd-protection/86130.png
+VESD01C1-HD1,Enlarge,DFN1006-2A,1,192,100,11,100,1,30,150,Yes,image/diodes/esd-protection/86185.png
+VESD03A1B-HD1,Enlarge,LLP1006-2L,3.3,25,0.5,3.5,31,1,± 30,125,No,image/diodes/esd-protection/81851.png
+VESD03A1C-HD1,Enlarge,LLP1006-2L,3.3,78,1,9.5,95,1,± 30,125,No,image/diodes/esd-protection/81797.png
+VESD03A2-03G-G3,Enlarge,SOT-323,1,192,100,11,70,2,30,150,Yes,image/diodes/esd-protection/86150.png
+VESD03C1-02V,Enlarge,SOD-523,3,112,20,11.6,100,1,30,150,Yes,image/diodes/esd-protection/86130.png
+VESD03C1-HD1,Enlarge,DFN1006-2A,3,112,80,11.6,100,1,30,150,Yes,image/diodes/esd-protection/86185.png
+VESD05A1-02V (-G3-,Enlarge,SOD-523,5,130,1,16,192,1,± 30,150,Yes,image/diodes/esd-protection/86129.png
+VESD05A1A-HD1,Enlarge,LLP1006-2L,5,130,1,16,192,1,± 30,125,No,image/diodes/esd-protection/81800.png
+VESD05A1B-HD1,Enlarge,LLP1006-2L,5,19,0.1,3,33,1,± 30,125,No,image/diodes/esd-protection/81796.png
+VESD05A1C-HD1,Enlarge,LLP1006-2L,5,63,0.2,8,80,1,± 30,125,No,image/diodes/esd-protection/81798.png
+VESD05A2-03G-G3,Enlarge,SOT-323,1,192,100,11,70,2,30,150,Yes,image/diodes/esd-protection/86150.png
+VESD05A5A-HSF,Enlarge,LLP75-6L,5,13,0.1,2.5,33,5,± 15,125,No,image/diodes/esd-protection/81655.png
+VESD05A6-HAF,Enlarge,LLP75-7L,5,40,1,5,60,6,± 30,125,No,image/diodes/esd-protection/81311.png
+VESD05A6A-HAF,Enlarge,LLP75-7L,5,13,0.1,2.5,33,6,± 15,125,No,image/diodes/esd-protection/81880.png
+VESD05A8A-HNH,Enlarge,LLP1713-9L,5,30,1,5,65,8,± 25,125,No,image/diodes/esd-protection/81629.png
+VESD05B1-02V,Enlarge,SOD-523,5,19,0.1,3.5,40,1,± 30,150,Yes,image/diodes/esd-protection/86124.png
+VESD05C1-02V,Enlarge,SOD-523,5,67,0.1,8.7,100,1,30,150,Yes,image/diodes/esd-protection/86130.png
+VESD05C1-HD1,Enlarge,DFN1006-2A,5,67,0.1,8.7,100,1,30,150,Yes,image/diodes/esd-protection/86185.png
+VESD08A2-03G-G3,Enlarge,SOT-323,1,192,100,11,70,2,30,150,Yes,image/diodes/esd-protection/86150.png
+VESD08C1-02V,Enlarge,SOD-523,8,47,0.1,6.6,100,1,30,150,Yes,image/diodes/esd-protection/86130.png
+VESD08C1-HD1,Enlarge,DFN1006-2A,8,47,0.1,6.6,100,1,30,150,Yes,image/diodes/esd-protection/86185.png
+VESD12A2-03G-G3,Enlarge,SOT-323,1,192,100,11,70,2,30,150,Yes,image/diodes/esd-protection/86150.png
+VESD12C1-02V,Enlarge,SOD-523,12,33,0.1,4.4,100,1,30,150,Yes,image/diodes/esd-protection/86130.png
+VESD12C1-HD1,Enlarge,DFN1006-2A,12,33,0.1,4.4,100,1,30,150,Yes,image/diodes/esd-protection/86185.png
+VESD16A2-03G-G3,Enlarge,SOT-323,1,192,100,11,70,2,30,150,Yes,image/diodes/esd-protection/86150.png
+VESD16C1-02V,Enlarge,SOD-523,16,27,0.1,3.6,100,1,30,150,Yes,image/diodes/esd-protection/86130.png
+VESD16C1-HD1,Enlarge,DFN1006-2A,16,27,0.1,3.6,100,1,30,150,Yes,image/diodes/esd-protection/86185.png
+VESD24E1-HD1,Enlarge,DFN1006-2A,24,28,0.05,4,175,1,30,150,Yes,image/diodes/esd-protection/86221.png
+VESD26A2-03G-G3,Enlarge,SOT-323,1,192,100,11,70,2,30,150,Yes,image/diodes/esd-protection/86150.png
+VESD26C1-02V,Enlarge,SOD-523,26,17.5,0.1,2.1,100,1,20,150,Yes,image/diodes/esd-protection/86130.png
+VESD26C1-HD1,Enlarge,DFN1006-2A,26,17.5,0.1,2.1,100,1,20,150,Yes,image/diodes/esd-protection/86185.png
+VESD33A2-03G-G3,Enlarge,SOT-323,1,192,100,11,70,2,30,150,Yes,image/diodes/esd-protection/86150.png
+VESD33C1-02V,Enlarge,SOD-523,33,15,0.1,1.6,100,1,15,150,Yes,image/diodes/esd-protection/86130.png
+VESD33C1-HD1,Enlarge,DFN1006-2A,33,15,0.1,1.6,100,1,15,150,Yes,image/diodes/esd-protection/86185.png
+VETH100A1DD1,Enlarge,DFN1006-2B,24,1.7,0.1,0,0,1,15,150,Yes,image/diodes/esd-protection/86195.png
+VETH100A203S,Enlarge,SOT-23,24,1.75,0.1,0,0,2,15,150,Yes,image/diodes/esd-protection/86319.png
+VLIN1616-02G,Enlarge,SOD-323,16,18,0.05,6,200,1,± 30,150,Yes,image/diodes/esd-protection/85924.png
+VLIN1616-DD1,Enlarge,DFN1006-2B,16,21,0.05,5,160,1,30,150,Yes,image/diodes/esd-protection/86218.png
+VLIN1626-02G,Enlarge,SOD-323,16,15.5,0.05,6,200,1,± 30,150,Yes,image/diodes/esd-protection/85902.png
+VLIN1626-DD1,Enlarge,DFN1006-2B,16,16,0.05,5,160,1,30,150,Yes,image/diodes/esd-protection/86554.png
+VLIN2626-02G,Enlarge,SOD-323,26.5,13.5,0.05,4,200,1,± 30,150,Yes,image/diodes/esd-protection/85915.png
+VLIN2626-DD1,Enlarge,DFN1006-2B,26,13.7,0.05,3.9,175,1,30,150,Yes,image/diodes/esd-protection/86555.png
+VLIN26A1-03G,Enlarge,SOT-323,26.5,10,0.05,3,150,1,± 30,175,Yes,image/diodes/esd-protection/85895.png
+VLIN3333-02G,Enlarge,SOD-323,33,11,0.05,3.5,200,1,± 30,150,Yes,image/diodes/esd-protection/86169.png
+VMMBZ16C1DD1,Enlarge,DFN1006-2B,14,14.5,0.01,4,108,1,30,150,Yes,image/diodes/esd-protection/86193.png
+VMMBZ16C1HD1,Enlarge,DFN1006-2A,14,29,0.01,4,108,1,30,150,Yes,image/diodes/esd-protection/86194.png
+VMMBZ33C1DD1,Enlarge,DFN1006-2B,28,8,0.01,1.7,100,1,15,150,Yes,image/diodes/esd-protection/86193.png
+VMMBZ33C1HD1,Enlarge,DFN1006-2A,28,16.1,0.01,1.7,100,1,15,150,Yes,image/diodes/esd-protection/86194.png

@@ -1,0 +1,48 @@
+*  Model for Vishay  ESD Protection Diode
+*			
+*  VLIN1616-02G
+*
+*  86210SPICE_Vishay_VLIN1616-02G.txt
+*
+*  TNOM=27GRD, RS without heating
+*   
+*  Vishay Semiconductor GmbH
+*  Georg Birglechner, February 2022
+*
+*                                   			
+*  Copyright:                            
+*  Vishay Intertechnology, Inc. 
+*   
+***************************
+*	KatD1------
+*	KatD2----  |
+*                | |
+.SUBCKT VLIN1616 1 2
+*
+D1 4 1 DFWD
+RL1 1 4 1.5E12
+D2 3 4 DBK
+VBR1 1 3 18.3
+D3 4 2 DFWD
+RL2 2 4 1.5E12
+D4 5 4 DBK
+VBR2 2 5 18.3
+*
+.MODEL DFWD D
++IS= 6.50E-16
++N= 1.02
++ISR= 1.00E-12
++NR= 2.00E+00
++RS= 1E-02
++IKF= 2.00E-01
++CJO= 3.61E-11
++M= 3.67E-01
++VJ= 7.72E-01
++TT= 0
+*
+.MODEL DBK D
++IS= 1e-14
++N= 0.4
++RS= 1.1
+*
+.ENDS VLIN1616

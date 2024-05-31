@@ -1,0 +1,50 @@
+*********************************************
+*  Model for Vishay ESD Diode
+*	 
+*  VCAN33A2-03S
+*
+*  86416SPICE_Vishay_VCAN33A2-03S.txt						
+*
+*  model represents not the physical design 
+*
+*  model is valid for 25°C 	 				
+*
+*  no use for high current simulation		
+*
+*  Copyright: GB ,  Okt. 2023							
+*
+*  Vishay Intertechnology, Inc. 			
+*
+*********************************************
+*
+*	
+.SUBCKT VCAN33A2-03S 1 2 3
+*	
+Dano1 a 3 Diode
+Dano2 b 3 Diode
+Dkat1 a 1 Diode
+Dkat2 b 2 Diode
+Rano1 3 a 6.3E10
+Rano2 3 b 6.3E10
+Rkat1 1 a 6.3E10
+Rkat2 2 b 6.3E10
+*	
+.MODEL Diode D 
++IS= 8.6e-16 
++N= 1.04 
++ISR= 5.5e-12
++NR= 2.2
++RS= 0.04
++IKF= 0.2 
++CJO= 1.69603679952336e-11 
++M= 0.333292152597692 
++VJ= 0.598958022053835 
++BV= 37.5 
++IBV= 0.0001 
++NBV= 1 
++IBVL= 8e-10 
++NBVL= 20 
++TT= 0
+
+*	
+.ENDS VCAN33A2-03S

@@ -1,0 +1,233 @@
+Series▲▼,Product Image,IT(AV)(A)▲▼,TC(°C)▲▼,IT(RMS)(A)▲▼,VDRM/VRRM(V)▲▼,ITSMat 50 Hz(A)▲▼,ITSMat 60 Hz(A)▲▼,VTMat ITM(V at A)▲▼,TJ(°C)▲▼,dV/dt(V/µs)▲▼,Package▲▼,Circuit Configuration▲▼,Image path
+VS-100TPS12L-M3,Enlarge,100,103,157,1200,935,,,-40 to +150,,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/97221.png
+VS-100TPS12LHM3,Enlarge,100,103,157,1200,935,,,-40 to +150,,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/97247.png
+VS-10RIA Series,Enlarge,10,85,25,1000,225,240,1.75 at 32,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93689.png
+VS-10RIA Series,Enlarge,10,85,25,800,225,240,1.75 at 32,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93689.png
+VS-10RIA Series,Enlarge,10,85,25,600,225,240,1.75 at 32,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93689.png
+VS-10RIA Series,Enlarge,10,85,25,400,225,240,1.75 at 32,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93689.png
+VS-10RIA Series,Enlarge,10,85,25,200,225,240,1.75 at 32,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93689.png
+VS-10RIA Series,Enlarge,10,85,25,100,225,240,1.75 at 32,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93689.png
+VS-10RIA Series,Enlarge,10,85,25,1200,225,240,1.75 at 32,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93689.png
+VS-10TTS08-M3,Enlarge,6.5,112,10,800,110,,1.15 at 6.5,-40 to 125,150,TO-220AB 3L,Single SCR,image/thyristors/phase-control-discrete/96285.png
+VS-10TTS08S-M3 Series,Enlarge,6.5,112,10,800,110,,1.15 at 6.5,-40 to +125,150,D2PAK (TO-263AB),Single SCR,image/thyristors/phase-control-discrete/96410.png
+"VS-110RKI...PbF, VS-111RKI...PbF Series",Enlarge,110,90,172,1200,2080,2180,1.57 at 350,-40 to +140,500,TO-94 (TO-209AC),Single SCR,image/thyristors/phase-control-discrete/94379.png
+"VS-110RKI...PbF, VS-111RKI...PbF Series",Enlarge,110,90,172,800,2080,2180,1.57 at 350,-40 to +140,500,TO-94 (TO-209AC),Single SCR,image/thyristors/phase-control-discrete/94379.png
+"VS-110RKI...PbF, VS-111RKI...PbF Series",Enlarge,110,90,172,400,2080,2180,1.57 at 350,-40 to +140,500,TO-94 (TO-209AC),Single SCR,image/thyristors/phase-control-discrete/94379.png
+VS-12TTS08-M3,Enlarge,8,108,12.5,800,110,,1.2 at 8,-40 to 125,150,TO-220AB 3L,Single SCR,image/thyristors/phase-control-discrete/96286.png
+VS-12TTS08HM3,Enlarge,8,108,12.5,800,110,,1.2 at 8,-40 to +125,150,TO-220AB,Single SCR,image/thyristors/phase-control-discrete/96538.png
+VS-12TTS08S-M3 Series,Enlarge,8,108,12.5,800,110,,1.2 at 8,-40 to +125,150,D2PAK (TO-263AB),Single SCR,image/thyristors/phase-control-discrete/96411.png
+VS-12TTS08SLHM3,Enlarge,8,108,12.5,800,110,,1.2 at 8,-40 to +125,150,D2PAK (TO-263AB),Single SCR,image/thyristors/phase-control-discrete/96121.png
+VS-16RIA Series,Enlarge,16,85,35,1000,340,360,1.75 at 50,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93695.png
+VS-16RIA Series,Enlarge,16,85,35,800,340,360,1.75 at 50,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93695.png
+VS-16RIA Series,Enlarge,16,85,35,600,340,360,1.75 at 50,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93695.png
+VS-16RIA Series,Enlarge,16,85,35,400,340,360,1.75 at 50,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93695.png
+VS-16RIA Series,Enlarge,16,85,35,200,340,360,1.75 at 50,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93695.png
+VS-16RIA Series,Enlarge,16,85,35,100,340,360,1.75 at 50,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93695.png
+VS-16RIA Series,Enlarge,16,85,35,1200,340,360,1.75 at 50,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93695.png
+"VS-16TTS08-M3, VS-16TTS12-M3",Enlarge,10,98,16,800,200,,1.4 at 10,-40 to 125,500,TO-220AB 3L,Single SCR,image/thyristors/phase-control-discrete/96287.png
+"VS-16TTS08-M3, VS-16TTS12-M3",Enlarge,10,98,16,1200,200,,1.4 at 10,-40 to 125,500,TO-220AB 3L,Single SCR,image/thyristors/phase-control-discrete/96287.png
+"VS-16TTS08FP-M3, VS-16TTS12FP-M3",Enlarge,10,70,16,800,200,,1.4 at 10,-40 to 125,500,3L TO-220 FullPAK,Single SCR,image/thyristors/phase-control-discrete/96299.png
+"VS-16TTS08FP-M3, VS-16TTS12FP-M3",Enlarge,10,70,16,1200,200,,1.4 at 10,-40 to 125,500,3L TO-220 FullPAK,Single SCR,image/thyristors/phase-control-discrete/96299.png
+"VS-16TTS08S-M3, VS-16TTS12S-M3 Series",Enlarge,10,98,16,800,200,,1.4 at 10,-40 to 125,500,D2PAK (TO-263AB),Single SCR,image/thyristors/phase-control-discrete/96412.png
+"VS-16TTS08S-M3, VS-16TTS12S-M3 Series",Enlarge,10,98,16,1200,200,,1.4 at 10,-40 to 125,500,D2PAK (TO-263AB),Single SCR,image/thyristors/phase-control-discrete/96412.png
+VS-16TTS16S-M3 Series,Enlarge,10,93,16,1600,200,,1.4 at 10,-40 to +125,500,D2PAK (TO-263AB),Single SCR,image/thyristors/phase-control-discrete/96413.png
+"VS-180RKI...PbF, VS-181RKI...PbF Series",Enlarge,180,80,285,1000,3800,4000,1.35 at 570,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/94382.png
+"VS-180RKI...PbF, VS-181RKI...PbF Series",Enlarge,180,80,285,800,3800,4000,1.35 at 570,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/94382.png
+"VS-180RKI...PbF, VS-181RKI...PbF Series",Enlarge,180,80,285,400,3800,4000,1.35 at 570,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/94382.png
+VS-22RIA Series,Enlarge,22,85,35,1000,400,420,1.70 at 70,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93700.png
+VS-22RIA Series,Enlarge,22,85,35,800,400,420,1.70 at 70,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93700.png
+VS-22RIA Series,Enlarge,22,85,35,600,400,420,1.70 at 70,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93700.png
+VS-22RIA Series,Enlarge,22,85,35,400,400,420,1.70 at 70,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93700.png
+VS-22RIA Series,Enlarge,22,85,35,200,400,420,1.70 at 70,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93700.png
+VS-22RIA Series,Enlarge,22,85,35,100,400,420,1.70 at 70,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93700.png
+VS-22RIA Series,Enlarge,22,85,35,1200,400,420,1.70 at 70,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93700.png
+VS-25RIA Series,Enlarge,25,85,40,100,420,440,1.70 at 79,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93701.png
+VS-25RIA Series,Enlarge,25,85,40,200,420,440,1.70 at 79,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93701.png
+VS-25RIA Series,Enlarge,25,85,40,400,420,440,1.70 at 79,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93701.png
+VS-25RIA Series,Enlarge,25,85,40,600,420,440,1.70 at 79,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93701.png
+VS-25RIA Series,Enlarge,25,85,40,800,420,440,1.70 at 79,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93701.png
+VS-25RIA Series,Enlarge,25,85,40,1000,420,440,1.70 at 79,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93701.png
+VS-25RIA Series,Enlarge,25,85,40,1200,420,440,1.70 at 79,-65 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93701.png
+"VS-25TTS08-M3, VS-25TTS12-M3",Enlarge,16,93,25,800,320,,1.25 at 16,-40 to 125,500,TO-220AB 3L,Single SCR,image/thyristors/phase-control-discrete/96288.png
+"VS-25TTS08-M3, VS-25TTS12-M3",Enlarge,16,93,25,1200,320,,1.25 at 16,-40 to 125,500,TO-220AB 3L,Single SCR,image/thyristors/phase-control-discrete/96288.png
+"VS-25TTS08FP-M3, VS-25TTS12FP-M3",Enlarge,16,51,25,800,350,,1.25 at 16,-40 to 125,500,3L TO-220 FullPAK,Single SCR,image/thyristors/phase-control-discrete/96300.png
+"VS-25TTS08FP-M3, VS-25TTS12FP-M3",Enlarge,16,51,25,1200,350,,1.25 at 16,-40 to 125,500,3L TO-220 FullPAK,Single SCR,image/thyristors/phase-control-discrete/96300.png
+"VS-25TTS08S-M3, VS-25TTS12S-M3 Series",Enlarge,16,93,25,800,350,,1.25 at 16,-40 to +125,500,D2PAK (TO-263AB),Single SCR,image/thyristors/phase-control-discrete/96414.png
+"VS-25TTS08S-M3, VS-25TTS12S-M3 Series",Enlarge,16,93,25,1200,350,,1.25 at 16,-40 to +125,500,D2PAK (TO-263AB),Single SCR,image/thyristors/phase-control-discrete/96414.png
+VS-25TTS12HM3,Enlarge,16,,25,1200,320,,,-40 to +125,500,TO-220AB,Single SCR,image/thyristors/phase-control-discrete/96530.png
+VS-25TTS12S2L-M3,Enlarge,16,93,25,1200,350,,1.25 at 16,-40 to +125,500,D2PAK 2L (TO-263AB 2L),Single SCR,image/thyristors/phase-control-discrete/96981.png
+VS-25TTS12S2LHM3,Enlarge,16,93,25,1200,350,,1.25 at 16,-40 to +125,500,D2PAK 2L (TO-263AB 2L),Single SCR,image/thyristors/phase-control-discrete/96840.png
+VS-25TTS12SLHM3,Enlarge,16,93,25,1200,350,,1.25 at 16,-40 to +125,500,D2PAK (TO-263AB),Single SCR,image/thyristors/phase-control-discrete/96123.png
+VS-25TTS16S-M3 Series,Enlarge,16,93,25,1600,350,,1.25 at 16,-40 to +125,500,D2PAK (TO-263AB),Single SCR,image/thyristors/phase-control-discrete/96415.png
+VS-25TTS16S2L-M3,Enlarge,16,93,25,1600,350,,1.25 at 16,-40 to +125,500,D2PAK 2L (TO-263AB 2L),Single SCR,image/thyristors/phase-control-discrete/96980.png
+VS-25TTS16S2LHM3,Enlarge,16,93,25,1600,350,,1.25 at 16,-40 to +125,500,D2PAK 2L (TO-263AB 2L),Single SCR,image/thyristors/phase-control-discrete/96891.png
+VS-25TTS16SLHM3,Enlarge,16,93,25,1600,350,,1.25 at 16,-40 to +125,500,D2PAK (TO-263AB),Single SCR,image/thyristors/phase-control-discrete/96488.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,800,145,150,2 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,700,145,150,2 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,600,145,150,2 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,500,145,150,2 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,400,145,150,2 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,300,145,150,2 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,250,145,150,2 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,200,145,150,2 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,150,145,150,2 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,100,145,150,2 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,50,145,150,2 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,25,145,150,2 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,25,145,150,2.3 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,50,145,150,2.3 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,100,145,150,2.3 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,150,145,150,2.3 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,200,145,150,2.3 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,250,145,150,2.3 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,300,145,150,2.3 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,400,145,150,2.3 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,500,145,150,2.3 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,600,145,150,2.3 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,700,145,150,2.3 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,16,65,25,800,145,150,2.3 at 16,-40 to +125,,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,22,40,35,600,285,300,2 at 22,-40 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,22,40,35,700,285,300,2 at 22,-40 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,22,40,35,800,285,300,2 at 22,-40 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,22,40,35,1000,285,300,2 at 22,-40 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,22,40,35,1200,285,300,2 at 22,-40 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,22,40,35,600,285,300,2.3 at 22,-40 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,22,40,35,700,285,300,2.3 at 22,-40 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,22,40,35,800,285,300,2.3 at 22,-40 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,22,40,35,1000,285,300,2.3 at 22,-40 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+"VS-2N681, VS-2N5205 Series",Enlarge,22,40,35,1200,285,300,2.3 at 22,-40 to +125,100,TO-48 (TO-208AA),Single SCR,image/thyristors/phase-control-discrete/93706.png
+VS-30TPS..-M3 Series,Enlarge,20,95,30,800,300,,1.3 at 20,-40 to +125,500,TO-247AC 3L,Single SCR,image/thyristors/phase-control-discrete/94386.png
+VS-30TPS..-M3 Series,Enlarge,20,95,30,1200,300,,1.3 at 20,-40 to +125,500,TO-247AC 3L,Single SCR,image/thyristors/phase-control-discrete/94386.png
+VS-30TPS12L-M3,Enlarge,20,95,30,1200,300,,1.3 at 20,-40 to +125,500,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/95991.png
+VS-30TPS12LHM3,Enlarge,20,95,30,1200,300,,1.3 at 20,-40 to +125,500,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/96126.png
+VS-30TPS16-M3,Enlarge,20,95,30,1600,300,,1.3 at 20,-40 to +125,500,TO-247AC 3L,Single SCR,image/thyristors/phase-control-discrete/94387.png
+VS-30TPS16L-M3,Enlarge,20,95,30,1600,300,,1.3 at 20,-40 to +125,500,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/95992.png
+VS-30TPS16LHM3,Enlarge,20,95,30,1600,300,,1.3 at 20,-40 to +125,500,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/96491.png
+VS-40TPS...-M3 Series,Enlarge,35,79,55,800,600,,1.85 at 110,-40 to +125,1000,TO-247AC 3L,Single SCR,image/thyristors/phase-control-discrete/94388.png
+VS-40TPS...-M3 Series,Enlarge,35,79,55,1200,600,,1.85 at 110,-40 to +125,1000,TO-247AC 3L,Single SCR,image/thyristors/phase-control-discrete/94388.png
+VS-40TPS12ALHM3,Enlarge,35,79,55,1200,600,,1.85 at 110,-40 to +125,500,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/96604.png
+"VS-40TPS12L-M3, VS-40TPS12AL-M3",Enlarge,35,79,55,1200,600,,1.85 at 110,-40 to +125,1000,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/95993.png
+VS-40TPS12LHM3,Enlarge,35,104,55,1200,600,,1.85 at 110,-40 to +150,1000,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/95925.png
+VS-40TPS16-M3,Enlarge,35,79,55,1600,500,,1.85 at 110,-40 to +125,1000,TO-247AC 3L,Single SCR,image/thyristors/phase-control-discrete/94389.png
+VS-40TPS16L-M3,Enlarge,35,79,55,1600,500,,1.92 at 110,-40 to +125,1000,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/95994.png
+VS-40TPS16LHM3,Enlarge,35,79,55,1600,500,,1.92 at 110,-40 to +125,1000,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/96134.png
+VS-40TTS12-M3,Enlarge,25,93,40,1200,350,,1.6 at 80,-40 to 140,500,TO-220AB 3L,Single SCR,image/thyristors/phase-control-discrete/96289.png
+VS-40TTS12HM3,Enlarge,25,93,40,1200,350,,1.6 at 80,-40 to +140,500,TO-220AB,Single SCR,image/thyristors/phase-control-discrete/96127.png
+VS-50RIA Series,Enlarge,50,94,80,200,1430,1490,1.60 at 157,-40 to +125,200,TO-65 (TO-208AC),Single SCR,image/thyristors/phase-control-discrete/93711.png
+VS-50RIA Series,Enlarge,50,94,80,100,1430,1490,1.60 at 157,-40 to +125,200,TO-65 (TO-208AC),Single SCR,image/thyristors/phase-control-discrete/93711.png
+VS-50RIA Series,Enlarge,50,94,80,400,1430,1490,1.60 at 157,-40 to +125,200,TO-65 (TO-208AC),Single SCR,image/thyristors/phase-control-discrete/93711.png
+VS-50RIA Series,Enlarge,50,94,80,600,1430,1490,1.60 at 157,-40 to +125,200,TO-65 (TO-208AC),Single SCR,image/thyristors/phase-control-discrete/93711.png
+VS-50RIA Series,Enlarge,50,94,80,800,1430,1490,1.60 at 157,-40 to +125,200,TO-65 (TO-208AC),Single SCR,image/thyristors/phase-control-discrete/93711.png
+VS-50RIA Series,Enlarge,50,94,80,1000,1430,1490,1.60 at 157,-40 to +125,200,TO-65 (TO-208AC),Single SCR,image/thyristors/phase-control-discrete/93711.png
+VS-50RIA Series,Enlarge,50,94,80,1200,1430,1490,1.60 at 157,-40 to +125,200,TO-65 (TO-208AC),Single SCR,image/thyristors/phase-control-discrete/93711.png
+VS-50TPS12AL-M3,Enlarge,50,112,79,1200,630,,,-40 to +150,500,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/96593.png
+VS-50TPS12L-M3,Enlarge,50,112,79,1200,630,,,-40 to +150,1000,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/95867.png
+VS-50TPS12LHM3,Enlarge,50,112,79,1200,630,,,150,,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/96108.png
+"VS-70TPS12-M3, VS-70TPS16-M3 High Voltage Series",Enlarge,70,109,75,1200,930,,1.4 at 100,-40 to 150,500,Super TO-247,Single SCR,image/thyristors/phase-control-discrete/97191.png
+"VS-70TPS12-M3, VS-70TPS16-M3 High Voltage Series",Enlarge,70,109,75,1600,930,,1.4 at 100,-40 to 150,500,Super TO-247,Single SCR,image/thyristors/phase-control-discrete/97191.png
+"VS-80RIA...PbF, VS-81RIA...PbF, VS-82RIA...PbF Series",Enlarge,80,85,125,1200,1900,1990,1.60 at 250,-40 to +125,500,TO-94 (TO-209AC),Single SCR,image/thyristors/phase-control-discrete/94392.png
+"VS-80RIA...PbF, VS-81RIA...PbF, VS-82RIA...PbF Series",Enlarge,80,85,125,800,1900,1990,1.60 at 250,-40 to +125,500,TO-94 (TO-209AC),Single SCR,image/thyristors/phase-control-discrete/94392.png
+"VS-80RIA...PbF, VS-81RIA...PbF, VS-82RIA...PbF Series",Enlarge,80,85,125,400,1900,1990,1.60 at 250,-40 to +125,500,TO-94 (TO-209AC),Single SCR,image/thyristors/phase-control-discrete/94392.png
+VS-80TPS16L-M3,Enlarge,80,113,126,1600,1000,,,-40 to +150,,TO-247AD 3L,Single SCR,image/thyristors/phase-control-discrete/96072.png
+VS-ST1000C..K Series,Enlarge,1473,55,2913,2200,20,21.2,1.80 at 3000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/93714.png
+VS-ST1000C..K Series,Enlarge,1473,55,2913,2000,20,21.2,1.80 at 3000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/93714.png
+VS-ST1000C..K Series,Enlarge,1473,55,2913,1800,20,21.2,1.80 at 3000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/93714.png
+VS-ST1000C..K Series,Enlarge,1473,55,2913,1600,20,21.2,1.80 at 3000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/93714.png
+VS-ST1000C..K Series,Enlarge,1473,55,2913,1400,20,21.2,1.80 at 3000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/93714.png
+VS-ST1000C..K Series,Enlarge,1473,55,2913,1200,20,21.2,1.80 at 3000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/93714.png
+VS-ST1000C..K Series,Enlarge,1473,55,2913,2400,20,21.2,1.80 at 3000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/93714.png
+VS-ST110SPbF Series,Enlarge,110,90,175,1600,2700,2830,1.52 at 350,-40 to +125,500,TO-94 (TO-209AC),Single SCR,image/thyristors/phase-control-discrete/94393.png
+VS-ST110SPbF Series,Enlarge,110,90,175,1200,2700,2830,1.52 at 350,-40 to +125,500,TO-94 (TO-209AC),Single SCR,image/thyristors/phase-control-discrete/94393.png
+VS-ST110SPbF Series,Enlarge,110,90,175,800,2700,2830,1.52 at 350,-40 to +125,500,TO-94 (TO-209AC),Single SCR,image/thyristors/phase-control-discrete/94393.png
+VS-ST110SPbF Series,Enlarge,110,90,175,400,2700,2830,1.52 at 350,-40 to +125,500,TO-94 (TO-209AC),Single SCR,image/thyristors/phase-control-discrete/94393.png
+VS-ST1200C..K Series,Enlarge,1650,55,3080,1800,30500,32000,1.73 at 4000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/94394.png
+VS-ST1200C..K Series,Enlarge,1650,55,3080,1600,30500,32000,1.73 at 4000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/94394.png
+VS-ST1200C..K Series,Enlarge,1650,55,3080,1400,30500,32000,1.73 at 4000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/94394.png
+VS-ST1200C..K Series,Enlarge,1650,55,3080,1200,30500,32000,1.73 at 4000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/94394.png
+VS-ST1200C..K Series,Enlarge,1650,55,3080,2000,30500,32000,1.73 at 4000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/94394.png
+VS-ST1230C..K Series,Enlarge,1745,55,3200,1600,33500,35100,1.62 at 4000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/94395.png
+VS-ST1230C..K Series,Enlarge,1745,55,3200,1400,33500,35100,1.62 at 4000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/94395.png
+VS-ST1230C..K Series,Enlarge,1745,55,3200,1200,33500,35100,1.62 at 4000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/94395.png
+VS-ST1230C..K Series,Enlarge,1745,55,3200,800,33500,35100,1.62 at 4000,-40 to +125,500,K-PUK (A-24),Single SCR,image/thyristors/phase-control-discrete/94395.png
+VS-ST180C Series,Enlarge,350,55,660,1800,5000,5230,1.96 at 750,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94396.png
+VS-ST180C Series,Enlarge,350,55,660,1600,5000,5230,1.96 at 750,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94396.png
+VS-ST180C Series,Enlarge,350,55,660,1200,5000,5230,1.96 at 750,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94396.png
+VS-ST180C Series,Enlarge,350,55,660,800,5000,5230,1.96 at 750,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94396.png
+VS-ST180C Series,Enlarge,350,55,660,400,5000,5230,1.96 at 750,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94396.png
+VS-ST180C Series,Enlarge,350,55,660,2000,5000,5230,1.96 at 750,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94396.png
+VS-ST180S...VPbF Series,Enlarge,200,85,314,1200,5000,5230,1.75 at 570,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/96112.png
+VS-ST180S...VPbF Series,Enlarge,200,85,314,800,5000,5230,1.75 at 570,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/96112.png
+VS-ST180S...VPbF Series,Enlarge,200,85,314,400,5000,5230,1.75 at 570,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/96112.png
+VS-ST180SPbF Series,Enlarge,200,85,314,2000,5000,5230,1.75 at 570,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/94397.png
+VS-ST180SPbF Series,Enlarge,200,85,314,1600,5000,5230,1.75 at 570,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/94397.png
+VS-ST230C Series,Enlarge,410,55,780,1800,5700,5970,1.69 at 880,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94398.png
+VS-ST230C Series,Enlarge,410,55,780,1600,5700,5970,1.69 at 880,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94398.png
+VS-ST230C Series,Enlarge,410,55,780,1400,5700,5970,1.69 at 880,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94398.png
+VS-ST230C Series,Enlarge,410,55,780,1200,5700,5970,1.69 at 880,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94398.png
+VS-ST230C Series,Enlarge,410,55,780,800,5700,5970,1.69 at 880,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94398.png
+VS-ST230C Series,Enlarge,410,55,780,400,5700,5970,1.69 at 880,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94398.png
+VS-ST230C Series,Enlarge,410,55,780,2000,5700,5970,1.69 at 880,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94398.png
+VS-ST230S...VPbF Series,Enlarge,230,85,360,400,5700,5970,1.55 at 720,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/96113.png
+VS-ST230S...VPbF Series,Enlarge,230,85,360,800,5700,5970,1.55 at 720,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/96113.png
+VS-ST230S...VPbF Series,Enlarge,230,85,360,1200,5700,5970,1.55 at 720,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/96113.png
+VS-ST230SPbF Series,Enlarge,230,85,360,1600,5700,5970,1.55 at 720,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/94399.png
+VS-ST230SPbF Series,Enlarge,230,85,360,1400,5700,5970,1.55 at 720,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/94399.png
+VS-ST280C Series,Enlarge,500,55,960,600,7850,8220,1.36 at 1050,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94400.png
+VS-ST280C Series,Enlarge,500,55,960,400,7850,8220,1.36 at 1050,-40 to +125,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94400.png
+VS-ST280CH Series,Enlarge,,180,,400,,,1.35 at 1000,-40 to +150,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94401.png
+VS-ST280CH Series,Enlarge,,180,,600,,,1.35 at 1000,-40 to +150,500,A-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94401.png
+VS-ST280S Series,Enlarge,280,85,440,600,7850,8220,1.28 at 880,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/94402.png
+VS-ST280S Series,Enlarge,280,85,440,400,7850,8220,1.28 at 880,-40 to +125,500,TO-93 (TO-209AB),Single SCR,image/thyristors/phase-control-discrete/94402.png
+VS-ST300C Series,Enlarge,650,55,1290,1800,8000,8380,2.18 at 1635,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94403.png
+VS-ST300C Series,Enlarge,650,55,1290,1600,8000,8380,2.18 at 1635,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94403.png
+VS-ST300C Series,Enlarge,650,55,1290,1200,8000,8380,2.18 at 1635,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94403.png
+VS-ST300C Series,Enlarge,650,55,1290,800,8000,8380,2.18 at 1635,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94403.png
+VS-ST300C Series,Enlarge,650,55,1290,400,8000,8380,2.18 at 1635,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94403.png
+VS-ST300C Series,Enlarge,650,55,1290,2000,8000,8380,2.18 at 1635,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94403.png
+VS-ST300CL Series,Enlarge,560,55,1115,1800,8000,8380,2.18 at 1635,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94405.png
+VS-ST300CL Series,Enlarge,560,55,1115,1600,8000,8380,2.18 at 1635,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94405.png
+VS-ST300CL Series,Enlarge,560,55,1115,1200,8000,8380,2.18 at 1635,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94405.png
+VS-ST300CL Series,Enlarge,560,55,1115,800,8000,8380,2.18 at 1635,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94405.png
+VS-ST300CL Series,Enlarge,560,55,1115,400,8000,8380,2.18 at 1635,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94405.png
+VS-ST300CL Series,Enlarge,560,55,1115,2000,8000,8380,2.18 at 1635,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94405.png
+VS-ST300SPbF Series,Enlarge,300,75,470,1800,8000,8380,1.66 at 940,-40 to +125,500,TO-118 (TO-209AE),Single SCR,image/thyristors/phase-control-discrete/94406.png
+VS-ST300SPbF Series,Enlarge,300,75,470,1600,8000,8380,1.66 at 940,-40 to +125,500,TO-118 (TO-209AE),Single SCR,image/thyristors/phase-control-discrete/94406.png
+VS-ST300SPbF Series,Enlarge,300,75,470,1200,8000,8380,1.66 at 940,-40 to +125,500,TO-118 (TO-209AE),Single SCR,image/thyristors/phase-control-discrete/94406.png
+VS-ST300SPbF Series,Enlarge,300,75,470,800,8000,8380,1.66 at 940,-40 to +125,500,TO-118 (TO-209AE),Single SCR,image/thyristors/phase-control-discrete/94406.png
+VS-ST300SPbF Series,Enlarge,300,75,470,400,8000,8380,1.66 at 940,-40 to +125,500,TO-118 (TO-209AE),Single SCR,image/thyristors/phase-control-discrete/94406.png
+VS-ST300SPbF Series,Enlarge,300,75,470,2000,8000,8380,1.66 at 940,-40 to +125,500,TO-118 (TO-209AE),Single SCR,image/thyristors/phase-control-discrete/94406.png
+VS-ST330C Series,Enlarge,720,55,1420,1400,9000,9420,1.96 at 1810,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94407.png
+VS-ST330C Series,Enlarge,720,55,1420,1200,9000,9420,1.96 at 1810,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94407.png
+VS-ST330C Series,Enlarge,720,55,1420,800,9000,9420,1.96 at 1810,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94407.png
+VS-ST330C Series,Enlarge,720,55,1420,400,9000,9420,1.96 at 1810,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94407.png
+VS-ST330C Series,Enlarge,720,55,1420,1600,9000,9420,1.96 at 1810,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94407.png
+VS-ST330CL Series,Enlarge,650,55,1230,1400,9000,9420,1.90 at 1730,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94408.png
+VS-ST330CL Series,Enlarge,650,55,1230,1200,9000,9420,1.90 at 1730,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94408.png
+VS-ST330CL Series,Enlarge,650,55,1230,800,9000,9420,1.90 at 1730,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94408.png
+VS-ST330CL Series,Enlarge,650,55,1230,400,9000,9420,1.90 at 1730,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94408.png
+VS-ST330CL Series,Enlarge,650,55,1230,1600,9000,9420,1.90 at 1730,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94408.png
+VS-ST330SPbF Series,Enlarge,330,75,520,1600,9000,9420,1.52 at 1000,-40 to +125,500,TO-118 (TO-209AE),Single SCR,image/thyristors/phase-control-discrete/94409.png
+VS-ST330SPbF Series,Enlarge,330,75,520,1400,9000,9420,1.52 at 1000,-40 to +125,500,TO-118 (TO-209AE),Single SCR,image/thyristors/phase-control-discrete/94409.png
+VS-ST330SPbF Series,Enlarge,330,75,520,1200,9000,9420,1.52 at 1000,-40 to +125,500,TO-118 (TO-209AE),Single SCR,image/thyristors/phase-control-discrete/94409.png
+VS-ST330SPbF Series,Enlarge,330,75,520,800,9000,9420,1.52 at 1000,-40 to +125,500,TO-118 (TO-209AE),Single SCR,image/thyristors/phase-control-discrete/94409.png
+VS-ST330SPbF Series,Enlarge,330,75,520,400,9000,9420,1.52 at 1000,-40 to +125,500,TO-118 (TO-209AE),Single SCR,image/thyristors/phase-control-discrete/94409.png
+VS-ST330SPbF Series,Enlarge,330,75,520,2000,9000,9420,1.52 at 1000,-40 to +125,500,TO-118 (TO-209AE),Single SCR,image/thyristors/phase-control-discrete/94409.png
+VS-ST380C Series,Enlarge,960,55,1900,600,15000,15700,1.60 at 3000,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94410.png
+VS-ST380C Series,Enlarge,960,55,1900,400,15000,15700,1.60 at 3000,-40 to +125,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94410.png
+VS-ST380CH Series,Enlarge,960,80,2220,600,12500,13000,1.58 at 2900,-40 to +150,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94411.png
+VS-ST380CH Series,Enlarge,960,80,2220,400,12500,13000,1.58 at 2900,-40 to +150,500,E-PUK (TO-200AB),Single SCR,image/thyristors/phase-control-discrete/94411.png
+VS-ST650C..L Series,Enlarge,790,55,1557,2400,10100,10700,2.07 at 1700,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/93738.png
+VS-ST650C..L Series,Enlarge,790,55,1557,2200,10100,10700,2.07 at 1700,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/93738.png
+VS-ST650C..L Series,Enlarge,790,55,1557,2000,10100,10700,2.07 at 1700,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/93738.png
+VS-ST700CL Series,Enlarge,910,55,1857,2000,15700,16400,1.80 at 2000,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94413.png
+VS-ST700CL Series,Enlarge,910,55,1857,1800,15700,16400,1.80 at 2000,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94413.png
+VS-ST700CL Series,Enlarge,910,55,1857,1600,15700,16400,1.80 at 2000,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94413.png
+VS-ST700CL Series,Enlarge,910,55,1857,1200,15700,16400,1.80 at 2000,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94413.png
+VS-ST730CL Series,Enlarge,990,55,2000,1800,17800,18700,1.62 at 2000,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94414.png
+VS-ST730CL Series,Enlarge,990,55,2000,1600,17800,18700,1.62 at 2000,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94414.png
+VS-ST730CL Series,Enlarge,990,55,2000,1400,17800,18700,1.62 at 2000,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94414.png
+VS-ST730CL Series,Enlarge,990,55,2000,1200,17800,18700,1.62 at 2000,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94414.png
+VS-ST730CL Series,Enlarge,990,55,2000,800,17800,18700,1.62 at 2000,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94414.png
+VS-ST730CL Series,Enlarge,990,55,2000,2000,17800,18700,1.62 at 2000,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94414.png
+VS-ST780CL Series,Enlarge,1350,55,2700,400,24400,25600,1.31 at 3600,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94415.png
+VS-ST780CL Series,Enlarge,1350,55,2700,600,24400,25600,1.31 at 3600,-40 to +125,500,B-PUK (TO-200AC),Single SCR,image/thyristors/phase-control-discrete/94415.png
