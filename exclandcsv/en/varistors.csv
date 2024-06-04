@@ -1,0 +1,11 @@
+Series▲▼(all)MLV0402E3MLV0603E3MLV0805E3MLV1206E3MLV1210E3MLV1812E3MLV2220E3VDRH SeriesVDRS SeriesVDRUS Series;Product Image;Description▲▼(all)SMD 0402 Multilayer VaristorSMD 0603 Multilayer VaristorSMD 0805 Multilayer VaristorSMD 1206 Multilayer VaristorSMD 1210 Multilayer VaristorSMD 1812 Multilayer VaristorSMD 2220 Multilayer VaristorVDR Metal Oxide Varistors High SurgeVDR Metal Oxide Varistors StandardVDR Metal Oxide Varistors Ultra Surge High Operating Temperature 125 °C;AC Operating Voltage Min.(VRMS)▲▼(all)41114115;AC Operating Voltage Max.(VRMS)▲▼(all)142530354560680;DC Operating Voltage Min.(VDC)▲▼(all)5.61418150;DC Operating Voltage Max.(VDC)▲▼(all)183038456585895;INRP8/20 µsMax.(Ap)▲▼(all)10 00013 000203010020040080012006500;Energy 10/1000 µsMax.(J)▲▼(all)0.050.10.31.12.24.212496620720;Operating Temperature Min.(°C)▲▼(all)-40-55;Operating Temperature Max.(°C)▲▼(all)85125;Image path
+MLV0402E3;Enlarge;SMD 0402 Multilayer Varistor;4;14;5.6;18;20;0.05;-55;125;image/varistors/29107.png
+MLV0603E3;Enlarge;SMD 0603 Multilayer Varistor;4;25;5.6;30;30;0.1;-55;125;image/varistors/29108.png
+MLV0805E3;Enlarge;SMD 0805 Multilayer Varistor;4;30;5.6;38;100;0.3;-55;125;image/varistors/29109.png
+MLV1206E3;Enlarge;SMD 1206 Multilayer Varistor;4;45;5.6;65;200;1.1;-55;85;image/varistors/29126.png
+MLV1210E3;Enlarge;SMD 1210 Multilayer Varistor;4;35;5.6;45;400;2.2;-55;85;image/varistors/29127.png
+MLV1812E3;Enlarge;SMD 1812 Multilayer Varistor;14;30;18;38;800;4.2;-55;85;image/varistors/29128.png
+MLV2220E3;Enlarge;SMD 2220 Multilayer Varistor;4;60;5.6;85;1200;12;-55;85;image/varistors/29129.png
+VDRH Series;Enlarge;VDR Metal Oxide Varistors High Surge;11;680;14;895;10 000;620;-40;125;image/varistors/29082.png
+VDRS Series;Enlarge;VDR Metal Oxide Varistors Standard;14;680;18;895;6500;496;-40;85;image/varistors/29081.png
+VDRUS Series;Enlarge;VDR Metal Oxide Varistors Ultra Surge High Operating Temperature 125 °C;115;680;150;895;13 000;720;-40;125;image/varistors/29185.png

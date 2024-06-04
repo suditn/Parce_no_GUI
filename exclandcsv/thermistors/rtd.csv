@@ -1,0 +1,6 @@
+Series▲▼(all)PTS ATPTS ATAUPTS SeriesTFPTTFPTL;Product Image;Description▲▼(all)Radial Leaded PTC - Nickel Thin Film Linear ThermistorsSMD PTC - Nickel Thin Film Linear ThermistorsTemperature Dependent Platinum Thin Film Chip Resistor (RTD);Resistance at Tref.(min.)(Ω)▲▼(all)100;Resistance at Tref.(max.)(Ω)▲▼(all)5K10K1000;Tref.(°C)▲▼(all)025;Tolerance at Tref.(min.)(°C)▲▼(all)0.3;Tolerance at Tref.(min.)(%)▲▼(all)0.51;Typical TCR(ppm/°C)▲▼(all)38504110;Operating Temperature(min.)(°C)▲▼(all)-55;Operating Temperature(max.)(°C)▲▼(all)150155175;Image path
+TFPTL;Enlarge;Radial Leaded PTC - Nickel Thin Film Linear Thermistors;100;5K;25;;1;4110;-55;150;image/thermistors/rtd/33027.png
+PTS Series;Enlarge;Temperature Dependent Platinum Thin Film Chip Resistor (RTD);100;1000;0;0.3;;3850;-55;155;image/thermistors/rtd/28762.png
+PTS AT;Enlarge;Temperature Dependent Platinum Thin Film Chip Resistor (RTD);100;1000;0;0.3;;3850;-55;175;image/thermistors/rtd/28899.png
+PTS ATAU;Enlarge;Temperature Dependent Platinum Thin Film Chip Resistor (RTD);100;1000;0;0.3;;3850;-55;175;image/thermistors/rtd/28947.png
+TFPT;Enlarge;SMD PTC - Nickel Thin Film Linear Thermistors;100;10K;25;;0.5;4110;;;image/thermistors/rtd/33017.png
